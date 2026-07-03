@@ -1,0 +1,4617 @@
+{
+  "table": "SupportGemFamily",
+  "key": "Id",
+  "columns": [
+    "Text"
+  ],
+  "entries": [
+    {
+      "id": "Brutality",
+      "index": 0,
+      "columns": {
+        "Text": [
+          {
+            "en": "Brutality",
+            "zh": "野性残暴"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Ignite",
+      "index": 1,
+      "columns": {
+        "Text": [
+          {
+            "en": "Ignite",
+            "zh": "点燃"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FirePenetration",
+      "index": 2,
+      "columns": {
+        "Text": [
+          {
+            "en": "Fire Penetration",
+            "zh": "火焰穿透"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SearingFlame",
+      "index": 3,
+      "columns": {
+        "Text": [
+          {
+            "en": "Searing Flame",
+            "zh": "焚躯烈焰"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ProlongedDuration",
+      "index": 4,
+      "columns": {
+        "Text": [
+          {
+            "en": "Prolonged Duration",
+            "zh": "持续时间延长"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CompressedDuration",
+      "index": 5,
+      "columns": {
+        "Text": [
+          {
+            "en": "Compressed Duration",
+            "zh": "持续时间压缩"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Unbreakable",
+      "index": 6,
+      "columns": {
+        "Text": [
+          {
+            "en": "Unbreakable",
+            "zh": "不屈不破"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Bleed",
+      "index": 7,
+      "columns": {
+        "Text": [
+          {
+            "en": "Bleed",
+            "zh": "流血"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Knockback",
+      "index": 8,
+      "columns": {
+        "Text": [
+          {
+            "en": "Knockback",
+            "zh": "击退"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Stun",
+      "index": 9,
+      "columns": {
+        "Text": [
+          {
+            "en": "Stun",
+            "zh": "晕眩"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Ruthless",
+      "index": 10,
+      "columns": {
+        "Text": [
+          {
+            "en": "Ruthless",
+            "zh": "无情"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Rage",
+      "index": 11,
+      "columns": {
+        "Text": [
+          {
+            "en": "Rage",
+            "zh": "狂怒"
+          }
+        ]
+      }
+    },
+    {
+      "id": "JaggedGround",
+      "index": 12,
+      "columns": {
+        "Text": [
+          {
+            "en": "Jagged Ground",
+            "zh": "崎岖之地"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ExploitWeakness",
+      "index": 13,
+      "columns": {
+        "Text": [
+          {
+            "en": "Exploit Weakness",
+            "zh": "开发要害"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EnragedWarcry",
+      "index": 14,
+      "columns": {
+        "Text": [
+          {
+            "en": "Enraged Warcry",
+            "zh": "燃怒战吼"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FistOfWar",
+      "index": 15,
+      "columns": {
+        "Text": [
+          {
+            "en": "Fist of War",
+            "zh": "战争铁拳"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ImpactShockwave",
+      "index": 16,
+      "columns": {
+        "Text": [
+          {
+            "en": "Impact Shockwave",
+            "zh": "冲击震波"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Devastate",
+      "index": 17,
+      "columns": {
+        "Text": [
+          {
+            "en": "Devastate",
+            "zh": "摧残"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Lifetap",
+      "index": 18,
+      "columns": {
+        "Text": [
+          {
+            "en": "Lifetap",
+            "zh": "赤炼"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Behead",
+      "index": 19,
+      "columns": {
+        "Text": [
+          {
+            "en": "Behead",
+            "zh": "斩首"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Execute",
+      "index": 20,
+      "columns": {
+        "Text": [
+          {
+            "en": "Execute",
+            "zh": "处决"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Shock",
+      "index": 21,
+      "columns": {
+        "Text": [
+          {
+            "en": "Shock",
+            "zh": "感电"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LightningPenetration",
+      "index": 22,
+      "columns": {
+        "Text": [
+          {
+            "en": "Lightning Penetration",
+            "zh": "闪电穿透"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Overcharge",
+      "index": 23,
+      "columns": {
+        "Text": [
+          {
+            "en": "Overcharge",
+            "zh": "过载"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ProjectileSpeed",
+      "index": 24,
+      "columns": {
+        "Text": [
+          {
+            "en": "Projectile Speed",
+            "zh": "投射物速度"
+          }
+        ]
+      }
+    },
+    {
+      "id": "WindWave",
+      "index": 25,
+      "columns": {
+        "Text": [
+          {
+            "en": "Wind Wave",
+            "zh": "劲风波"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Poison",
+      "index": 26,
+      "columns": {
+        "Text": [
+          {
+            "en": "Poison",
+            "zh": "烈毒"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Maim",
+      "index": 27,
+      "columns": {
+        "Text": [
+          {
+            "en": "Maim",
+            "zh": "瘫痪"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Blind",
+      "index": 28,
+      "columns": {
+        "Text": [
+          {
+            "en": "Blind",
+            "zh": "致盲"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AdditionalProjectiles",
+      "index": 29,
+      "columns": {
+        "Text": [
+          {
+            "en": "Additional Projectiles",
+            "zh": "额外投射物连锁"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Pierce",
+      "index": 30,
+      "columns": {
+        "Text": [
+          {
+            "en": "Pierce",
+            "zh": "穿透"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Chain",
+      "index": 31,
+      "columns": {
+        "Text": [
+          {
+            "en": "Chain",
+            "zh": "连锁"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SecondWind",
+      "index": 32,
+      "columns": {
+        "Text": [
+          {
+            "en": "Second Wind",
+            "zh": "助力之风"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PerpetualCharge",
+      "index": 33,
+      "columns": {
+        "Text": [
+          {
+            "en": "Perpetual Charge",
+            "zh": "永续充能"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BurstingPlague",
+      "index": 34,
+      "columns": {
+        "Text": [
+          {
+            "en": "Bursting Plague",
+            "zh": "迸发之疫"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Corrosion",
+      "index": 35,
+      "columns": {
+        "Text": [
+          {
+            "en": "Corrosion",
+            "zh": "腐蚀"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Electrocute",
+      "index": 36,
+      "columns": {
+        "Text": [
+          {
+            "en": "Electrocute",
+            "zh": "触电"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Overabundance",
+      "index": 37,
+      "columns": {
+        "Text": [
+          {
+            "en": "Overabundance",
+            "zh": "冗余"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Lockdown",
+      "index": 38,
+      "columns": {
+        "Text": [
+          {
+            "en": "Lockdown",
+            "zh": "封锁"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Pin",
+      "index": 39,
+      "columns": {
+        "Text": [
+          {
+            "en": "Pin",
+            "zh": "定身"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Mobility",
+      "index": 40,
+      "columns": {
+        "Text": [
+          {
+            "en": "Mobility",
+            "zh": "机动"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Freeze",
+      "index": 41,
+      "columns": {
+        "Text": [
+          {
+            "en": "Freeze",
+            "zh": "冻结"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ColdPenetration",
+      "index": 42,
+      "columns": {
+        "Text": [
+          {
+            "en": "Cold Penetration",
+            "zh": "冰霜穿透"
+          }
+        ]
+      }
+    },
+    {
+      "id": "WitheringTouch",
+      "index": 43,
+      "columns": {
+        "Text": [
+          {
+            "en": "Withering Touch",
+            "zh": "凋零之触"
+          }
+        ]
+      }
+    },
+    {
+      "id": "IncreasedAreaOfEffect",
+      "index": 44,
+      "columns": {
+        "Text": [
+          {
+            "en": "Increased Area of Effect",
+            "zh": "效果区域扩大"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ConcentratedEffect",
+      "index": 45,
+      "columns": {
+        "Text": [
+          {
+            "en": "Concentrated Area",
+            "zh": "范围集中"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EnergyBarrier",
+      "index": 46,
+      "columns": {
+        "Text": [
+          {
+            "en": "Energy Barrier",
+            "zh": "能量屏障"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Wildfire",
+      "index": 47,
+      "columns": {
+        "Text": [
+          {
+            "en": "Wildfire",
+            "zh": "野火"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FrostNexus",
+      "index": 48,
+      "columns": {
+        "Text": [
+          {
+            "en": "Frost Nexus",
+            "zh": "封冻枢纽"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ShockConduction",
+      "index": 49,
+      "columns": {
+        "Text": [
+          {
+            "en": "Shock Conduction",
+            "zh": "感电传导"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SpellEcho",
+      "index": 50,
+      "columns": {
+        "Text": [
+          {
+            "en": "Spell Echo",
+            "zh": "施法回响"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Seal",
+      "index": 51,
+      "columns": {
+        "Text": [
+          {
+            "en": "Seal",
+            "zh": "封印"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FieryDeath",
+      "index": 52,
+      "columns": {
+        "Text": [
+          {
+            "en": "Fiery Death",
+            "zh": "炽灭"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FrozenVortex",
+      "index": 53,
+      "columns": {
+        "Text": [
+          {
+            "en": "Frozen Vortex",
+            "zh": "冰封漩涡"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ShockSiphon",
+      "index": 54,
+      "columns": {
+        "Text": [
+          {
+            "en": "Shock Siphon",
+            "zh": "感电虹吸"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FrostFire",
+      "index": 55,
+      "columns": {
+        "Text": [
+          {
+            "en": "Frostfire",
+            "zh": "霜火"
+          }
+        ]
+      }
+    },
+    {
+      "id": "StormFire",
+      "index": 56,
+      "columns": {
+        "Text": [
+          {
+            "en": "Stormfire",
+            "zh": "风暴之炎"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BitingFrost",
+      "index": 57,
+      "columns": {
+        "Text": [
+          {
+            "en": "Biting Frost",
+            "zh": "刺骨寒意"
+          }
+        ]
+      }
+    },
+    {
+      "id": "InexorableCritical",
+      "index": 58,
+      "columns": {
+        "Text": [
+          {
+            "en": "Inexorable Critical",
+            "zh": "命定绝杀"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Fortress",
+      "index": 59,
+      "columns": {
+        "Text": [
+          {
+            "en": "Fortress",
+            "zh": "上古堡垒"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Ambush",
+      "index": 60,
+      "columns": {
+        "Text": [
+          {
+            "en": "Ambush",
+            "zh": "伏击"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ElementalDischarge",
+      "index": 61,
+      "columns": {
+        "Text": [
+          {
+            "en": "Elemental Discharge",
+            "zh": "元素解放"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ManaFlare",
+      "index": 62,
+      "columns": {
+        "Text": [
+          {
+            "en": "Mana Flare",
+            "zh": "魔力耀斑"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Hourglass",
+      "index": 63,
+      "columns": {
+        "Text": [
+          {
+            "en": "Hourglass",
+            "zh": "时之沙漏"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Bounty",
+      "index": 64,
+      "columns": {
+        "Text": [
+          {
+            "en": "Bounty",
+            "zh": "丰饶"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LifeLeech",
+      "index": 65,
+      "columns": {
+        "Text": [
+          {
+            "en": "Life Leech",
+            "zh": "生命偷取"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HeavySwing",
+      "index": 66,
+      "columns": {
+        "Text": [
+          {
+            "en": "Heavy Swing",
+            "zh": "沉重挥舞"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Bloodlust",
+      "index": 67,
+      "columns": {
+        "Text": [
+          {
+            "en": "Bloodlust",
+            "zh": "血怒"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MeatShield",
+      "index": 68,
+      "columns": {
+        "Text": [
+          {
+            "en": "Meat Shield",
+            "zh": "肉盾"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BreakEndurance",
+      "index": 69,
+      "columns": {
+        "Text": [
+          {
+            "en": "Break Endurance",
+            "zh": "崩解耐力"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Fork",
+      "index": 70,
+      "columns": {
+        "Text": [
+          {
+            "en": "Fork",
+            "zh": "分叉"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HexBloom",
+      "index": 71,
+      "columns": {
+        "Text": [
+          {
+            "en": "Hex Bloom",
+            "zh": "魔蛊绽放"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ManaLeech",
+      "index": 72,
+      "columns": {
+        "Text": [
+          {
+            "en": "Mana Leech",
+            "zh": "魔力偷取"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ElementalFocus",
+      "index": 73,
+      "columns": {
+        "Text": [
+          {
+            "en": "Elemental Focus",
+            "zh": "元素集中"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ElementalArmy",
+      "index": 74,
+      "columns": {
+        "Text": [
+          {
+            "en": "Elemental Army",
+            "zh": "元素大军"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MinionInstability",
+      "index": 75,
+      "columns": {
+        "Text": [
+          {
+            "en": "Minion Instability",
+            "zh": "复仇之灵"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EternalFlame",
+      "index": 76,
+      "columns": {
+        "Text": [
+          {
+            "en": "Eternal Flame",
+            "zh": "长明烈焰"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LastingShock",
+      "index": 77,
+      "columns": {
+        "Text": [
+          {
+            "en": "Lasting Shock",
+            "zh": "持久感电"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DeepFreeze",
+      "index": 78,
+      "columns": {
+        "Text": [
+          {
+            "en": "Deep Freeze",
+            "zh": "深度冻结"
+          }
+        ]
+      }
+    },
+    {
+      "id": "InfernalLegion",
+      "index": 79,
+      "columns": {
+        "Text": [
+          {
+            "en": "Infernal Legion",
+            "zh": "炎军"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FeedingFrenzy",
+      "index": 80,
+      "columns": {
+        "Text": [
+          {
+            "en": "Feeding Frenzy",
+            "zh": "狂噬"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ArcaneSurge",
+      "index": 81,
+      "columns": {
+        "Text": [
+          {
+            "en": "Arcane Surge",
+            "zh": "秘术增强"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CorpseConservation",
+      "index": 82,
+      "columns": {
+        "Text": [
+          {
+            "en": "Corpse Conservation",
+            "zh": "灵柩留存"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Gorge",
+      "index": 83,
+      "columns": {
+        "Text": [
+          {
+            "en": "Gorge",
+            "zh": "狼吞虎咽"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HeightenedCurse",
+      "index": 84,
+      "columns": {
+        "Text": [
+          {
+            "en": "Heightened Curse",
+            "zh": "强效诅咒"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CreepingChill",
+      "index": 85,
+      "columns": {
+        "Text": [
+          {
+            "en": "Creeping Chill",
+            "zh": "蔓延霜寒"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FireAttunement",
+      "index": 86,
+      "columns": {
+        "Text": [
+          {
+            "en": "Fire Attunement",
+            "zh": "火焰协调"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ColdAttunement",
+      "index": 87,
+      "columns": {
+        "Text": [
+          {
+            "en": "Cold Attunement",
+            "zh": "冰霜协调"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LightningAttunement",
+      "index": 88,
+      "columns": {
+        "Text": [
+          {
+            "en": "Lightning Attunement",
+            "zh": "闪电协调"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ChaosAttunement",
+      "index": 89,
+      "columns": {
+        "Text": [
+          {
+            "en": "Chaos Attunement",
+            "zh": "混沌协调"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Efficiency",
+      "index": 90,
+      "columns": {
+        "Text": [
+          {
+            "en": "Efficiency",
+            "zh": "效能"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LifeDrain",
+      "index": 91,
+      "columns": {
+        "Text": [
+          {
+            "en": "Life Drain",
+            "zh": "生命榨取"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SoulDrain",
+      "index": 92,
+      "columns": {
+        "Text": [
+          {
+            "en": "Soul Drain",
+            "zh": "魂魔榨取"
+          }
+        ]
+      }
+    },
+    {
+      "id": "RapidAttacks",
+      "index": 93,
+      "columns": {
+        "Text": [
+          {
+            "en": "Rapid Attacks",
+            "zh": "快速攻击"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HeightenedAccuracy",
+      "index": 94,
+      "columns": {
+        "Text": [
+          {
+            "en": "Heightened Accuracy",
+            "zh": "精准增强"
+          }
+        ]
+      }
+    },
+    {
+      "id": "RapidCasting",
+      "index": 95,
+      "columns": {
+        "Text": [
+          {
+            "en": "Rapid Casting",
+            "zh": "快速施法"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DecayingHex",
+      "index": 96,
+      "columns": {
+        "Text": [
+          {
+            "en": "Decaying Hex",
+            "zh": "衰颓魔蛊"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FocussedCurse",
+      "index": 97,
+      "columns": {
+        "Text": [
+          {
+            "en": "Focused Curse",
+            "zh": "聚焦诅咒"
+          }
+        ]
+      }
+    },
+    {
+      "id": "RitualisticCurse",
+      "index": 98,
+      "columns": {
+        "Text": [
+          {
+            "en": "Ritualistic Curse",
+            "zh": "仪祭诅咒"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MinionPact",
+      "index": 99,
+      "columns": {
+        "Text": [
+          {
+            "en": "Minion Pact",
+            "zh": "召唤契约"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LastGasp",
+      "index": 100,
+      "columns": {
+        "Text": [
+          {
+            "en": "Last Gasp",
+            "zh": "亡命之息"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ControlledDestruction",
+      "index": 101,
+      "columns": {
+        "Text": [
+          {
+            "en": "Controlled Destruction",
+            "zh": "精准破坏"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ImpendingDoom",
+      "index": 102,
+      "columns": {
+        "Text": [
+          {
+            "en": "Impending Doom",
+            "zh": "末日将至"
+          }
+        ]
+      }
+    },
+    {
+      "id": "IceBite",
+      "index": 103,
+      "columns": {
+        "Text": [
+          {
+            "en": "Ice Bite",
+            "zh": "霜咬"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Supercritical",
+      "index": 104,
+      "columns": {
+        "Text": [
+          {
+            "en": "Supercritical",
+            "zh": "特化暴击"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Innervate",
+      "index": 105,
+      "columns": {
+        "Text": [
+          {
+            "en": "Innervate",
+            "zh": "闪电支配"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Immolate",
+      "index": 106,
+      "columns": {
+        "Text": [
+          {
+            "en": "Immolate",
+            "zh": "献祭"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ChargeProfusion",
+      "index": 107,
+      "columns": {
+        "Text": [
+          {
+            "en": "Charge Profusion",
+            "zh": "能量球激增"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EscalatingPoison",
+      "index": 108,
+      "columns": {
+        "Text": [
+          {
+            "en": "Escalating Poison",
+            "zh": "毒性加剧"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Premeditation",
+      "index": 109,
+      "columns": {
+        "Text": [
+          {
+            "en": "Premeditation",
+            "zh": "先见之明"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MurderousIntent",
+      "index": 110,
+      "columns": {
+        "Text": [
+          {
+            "en": "Murderous Intent",
+            "zh": "坚韧磨砺"
+          }
+        ]
+      }
+    },
+    {
+      "id": "RagingCry",
+      "index": 111,
+      "columns": {
+        "Text": [
+          {
+            "en": "Raging Cry",
+            "zh": "愤怒战吼"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ArmourDemolisher",
+      "index": 112,
+      "columns": {
+        "Text": [
+          {
+            "en": "Armour Demolisher",
+            "zh": "护甲破坏者"
+          }
+        ]
+      }
+    },
+    {
+      "id": "RageForged",
+      "index": 113,
+      "columns": {
+        "Text": [
+          {
+            "en": "Rageforged",
+            "zh": "怒火锤锻"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Momentum",
+      "index": 114,
+      "columns": {
+        "Text": [
+          {
+            "en": "Momentum",
+            "zh": "动量"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ArmourExplosion",
+      "index": 115,
+      "columns": {
+        "Text": [
+          {
+            "en": "Armour Explosion",
+            "zh": "护甲爆破"
+          }
+        ]
+      }
+    },
+    {
+      "id": "StompingGround",
+      "index": 116,
+      "columns": {
+        "Text": [
+          {
+            "en": "Stomping Ground",
+            "zh": "震撼大地"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Crescendo",
+      "index": 117,
+      "columns": {
+        "Text": [
+          {
+            "en": "Crescendo",
+            "zh": "渐入佳境"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FireExposure",
+      "index": 118,
+      "columns": {
+        "Text": [
+          {
+            "en": "Fire Exposure",
+            "zh": "火焰曝露"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LightningExposure",
+      "index": 119,
+      "columns": {
+        "Text": [
+          {
+            "en": "Lightning Exposure",
+            "zh": "闪电曝露"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ColdExposure",
+      "index": 120,
+      "columns": {
+        "Text": [
+          {
+            "en": "Cold Exposure",
+            "zh": "冰霜曝露"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DeadlyPoison",
+      "index": 121,
+      "columns": {
+        "Text": [
+          {
+            "en": "Deadly Poison",
+            "zh": "致命毒素"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DeepCuts",
+      "index": 122,
+      "columns": {
+        "Text": [
+          {
+            "en": "Deep Cuts",
+            "zh": "凌迟"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CorruptingCry",
+      "index": 123,
+      "columns": {
+        "Text": [
+          {
+            "en": "Corrupting Cry",
+            "zh": "腐化战吼"
+          }
+        ]
+      }
+    },
+    {
+      "id": "WindowOfOpportunity",
+      "index": 124,
+      "columns": {
+        "Text": [
+          {
+            "en": "Window of Opportunity",
+            "zh": "大好时机"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CloseCombat",
+      "index": 125,
+      "columns": {
+        "Text": [
+          {
+            "en": "Close Combat",
+            "zh": "近战"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Mastery",
+      "index": 126,
+      "columns": {
+        "Text": [
+          {
+            "en": "Mastery",
+            "zh": "专精"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ComboFinisher",
+      "index": 127,
+      "columns": {
+        "Text": [
+          {
+            "en": "Combo Finisher",
+            "zh": "连击终结"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AilithLineage",
+      "index": 128,
+      "columns": {
+        "Text": [
+          {
+            "en": "Ailith's Chimes",
+            "zh": "艾利丝钟琴"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Encumberance",
+      "index": 129,
+      "columns": {
+        "Text": [
+          {
+            "en": "Encumbrance",
+            "zh": "累赘"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Precision",
+      "index": 130,
+      "columns": {
+        "Text": [
+          {
+            "en": "Precision",
+            "zh": "精准"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Clarity",
+      "index": 131,
+      "columns": {
+        "Text": [
+          {
+            "en": "Clarity",
+            "zh": "清晰"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Vitality",
+      "index": 132,
+      "columns": {
+        "Text": [
+          {
+            "en": "Vitality",
+            "zh": "活力"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Herbalism",
+      "index": 133,
+      "columns": {
+        "Text": [
+          {
+            "en": "Herbalism",
+            "zh": "药草学"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Cannibalism",
+      "index": 134,
+      "columns": {
+        "Text": [
+          {
+            "en": "Cannibalism",
+            "zh": "吞灵"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Fusilade",
+      "index": 135,
+      "columns": {
+        "Text": [
+          {
+            "en": "Fusillade",
+            "zh": "连环飞矢"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SwiftAffliction",
+      "index": 136,
+      "columns": {
+        "Text": [
+          {
+            "en": "Swift Affliction",
+            "zh": "极速腐化"
+          }
+        ]
+      }
+    },
+    {
+      "id": "IntenseAgony",
+      "index": 137,
+      "columns": {
+        "Text": [
+          {
+            "en": "Intense Agony",
+            "zh": "剧烈痛苦"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DrainAilments",
+      "index": 138,
+      "columns": {
+        "Text": [
+          {
+            "en": "Drain Ailments",
+            "zh": "异常状态吸收"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ChaoticFreeze",
+      "index": 139,
+      "columns": {
+        "Text": [
+          {
+            "en": "Chaotic Freeze",
+            "zh": "混沌冻结"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Hinder",
+      "index": 140,
+      "columns": {
+        "Text": [
+          {
+            "en": "Hinder",
+            "zh": "缓速"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Soulbreaker",
+      "index": 141,
+      "columns": {
+        "Text": [
+          {
+            "en": "Soulbreaker",
+            "zh": "破魂者"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Rupture",
+      "index": 142,
+      "columns": {
+        "Text": [
+          {
+            "en": "Rupture",
+            "zh": "破裂之境"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CullingStrike",
+      "index": 143,
+      "columns": {
+        "Text": [
+          {
+            "en": "Culling Strike",
+            "zh": "终结"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SpellCascade",
+      "index": 144,
+      "columns": {
+        "Text": [
+          {
+            "en": "Spell Cascade",
+            "zh": "多重范围施法"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ArmourBreak",
+      "index": 145,
+      "columns": {
+        "Text": [
+          {
+            "en": "Armour Break",
+            "zh": "护甲破损"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Longshot",
+      "index": 146,
+      "columns": {
+        "Text": [
+          {
+            "en": "Longshot",
+            "zh": "远射"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Discombobulate",
+      "index": 147,
+      "columns": {
+        "Text": [
+          {
+            "en": "Discombobulate",
+            "zh": "方寸大乱"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BreakPosture",
+      "index": 148,
+      "columns": {
+        "Text": [
+          {
+            "en": "Break Posture",
+            "zh": "摧垮架势"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DazingCry",
+      "index": 149,
+      "columns": {
+        "Text": [
+          {
+            "en": "Dazing Cry",
+            "zh": "恍神咆哮"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CursedGround",
+      "index": 150,
+      "columns": {
+        "Text": [
+          {
+            "en": "Cursed Ground",
+            "zh": "诅咒之地"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Zerphi",
+      "index": 151,
+      "columns": {
+        "Text": [
+          {
+            "en": "Zerphi's Legacy",
+            "zh": "泽佛伊的遗产"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Helbrym",
+      "index": 152,
+      "columns": {
+        "Text": [
+          {
+            "en": "Helbrym's Hide",
+            "zh": "赫尔布林的隐瞒"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ElementalArmament",
+      "index": 153,
+      "columns": {
+        "Text": [
+          {
+            "en": "Elemental Armament",
+            "zh": "元素军械"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CooldownRecovery",
+      "index": 154,
+      "columns": {
+        "Text": [
+          {
+            "en": "Cooldown Recovery",
+            "zh": "冷却回复"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Font",
+      "index": 155,
+      "columns": {
+        "Text": [
+          {
+            "en": "Font",
+            "zh": "源泉"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HolyDescent",
+      "index": 156,
+      "columns": {
+        "Text": [
+          {
+            "en": "Holy Descent",
+            "zh": "神圣降临"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BurningInscription",
+      "index": 157,
+      "columns": {
+        "Text": [
+          {
+            "en": "Burning Inscription",
+            "zh": "燃烧铭文"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DoubleBarrel",
+      "index": 158,
+      "columns": {
+        "Text": [
+          {
+            "en": "Double Barrel",
+            "zh": "双管齐下"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AutoReload",
+      "index": 159,
+      "columns": {
+        "Text": [
+          {
+            "en": "Auto Reload",
+            "zh": "自动装填"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AmmoConservation",
+      "index": 160,
+      "columns": {
+        "Text": [
+          {
+            "en": "Ammo Conservation",
+            "zh": "节省弹药"
+          }
+        ]
+      }
+    },
+    {
+      "id": "NimbleReload",
+      "index": 161,
+      "columns": {
+        "Text": [
+          {
+            "en": "Nimble Reload",
+            "zh": "敏捷装填"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FreshClip",
+      "index": 162,
+      "columns": {
+        "Text": [
+          {
+            "en": "Fresh Clip",
+            "zh": "新装箭匣"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SacrificialLamb",
+      "index": 163,
+      "columns": {
+        "Text": [
+          {
+            "en": "Sacrificial Lamb",
+            "zh": "替罪羔羊"
+          }
+        ]
+      }
+    },
+    {
+      "id": "IronWill",
+      "index": 164,
+      "columns": {
+        "Text": [
+          {
+            "en": "Iron Will",
+            "zh": "钢铁意志"
+          }
+        ]
+      }
+    },
+    {
+      "id": "IronGrip",
+      "index": 165,
+      "columns": {
+        "Text": [
+          {
+            "en": "Iron Grip",
+            "zh": "钢铁之握"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Fissures",
+      "index": 166,
+      "columns": {
+        "Text": [
+          {
+            "en": "Fissures",
+            "zh": "裂缝"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Aftershock",
+      "index": 167,
+      "columns": {
+        "Text": [
+          {
+            "en": "Aftershock",
+            "zh": "余震"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LastingGround",
+      "index": 168,
+      "columns": {
+        "Text": [
+          {
+            "en": "Lasting Ground",
+            "zh": "持续地面"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Ricochet",
+      "index": 169,
+      "columns": {
+        "Text": [
+          {
+            "en": "Ricochet",
+            "zh": "弹射"
+          }
+        ]
+      }
+    },
+    {
+      "id": "UrgentTotems",
+      "index": 170,
+      "columns": {
+        "Text": [
+          {
+            "en": "Urgent Totems",
+            "zh": "紧急图腾"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LongFuse",
+      "index": 171,
+      "columns": {
+        "Text": [
+          {
+            "en": "Long Fuse",
+            "zh": "加长引线"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Payload",
+      "index": 172,
+      "columns": {
+        "Text": [
+          {
+            "en": "Payload",
+            "zh": "子母弹"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PotentExposure",
+      "index": 173,
+      "columns": {
+        "Text": [
+          {
+            "en": "Potent Exposure",
+            "zh": "强力曝露"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ReinforcedTotems",
+      "index": 174,
+      "columns": {
+        "Text": [
+          {
+            "en": "Reinforced Totems",
+            "zh": "增强图腾"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ConsideredCasting",
+      "index": 175,
+      "columns": {
+        "Text": [
+          {
+            "en": "Considered Casting",
+            "zh": "审慎施法"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Icicle",
+      "index": 176,
+      "columns": {
+        "Text": [
+          {
+            "en": "Icicle",
+            "zh": "冰刺"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Glacier",
+      "index": 177,
+      "columns": {
+        "Text": [
+          {
+            "en": "Glacier",
+            "zh": "冰川"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Heft",
+      "index": 178,
+      "columns": {
+        "Text": [
+          {
+            "en": "Heft",
+            "zh": "势大力沉"
+          }
+        ]
+      }
+    },
+    {
+      "id": "RisingTempest",
+      "index": 179,
+      "columns": {
+        "Text": [
+          {
+            "en": "Rising Tempest",
+            "zh": "风暴骤起"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Extraction",
+      "index": 180,
+      "columns": {
+        "Text": [
+          {
+            "en": "Extraction",
+            "zh": "萃取"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AstralProjection",
+      "index": 181,
+      "columns": {
+        "Text": [
+          {
+            "en": "Astral Projection",
+            "zh": "星界投射"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PracticedCombo",
+      "index": 182,
+      "columns": {
+        "Text": [
+          {
+            "en": "Practiced Combo",
+            "zh": "娴熟连击"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Leverage",
+      "index": 183,
+      "columns": {
+        "Text": [
+          {
+            "en": "Leverage",
+            "zh": "乘虚而入"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Culmination",
+      "index": 184,
+      "columns": {
+        "Text": [
+          {
+            "en": "Culmination",
+            "zh": "登峰造极"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Potential",
+      "index": 185,
+      "columns": {
+        "Text": [
+          {
+            "en": "Potential",
+            "zh": "潜能"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GrantsCooldown",
+      "index": 186,
+      "columns": {
+        "Text": [
+          {
+            "en": "Grants Cooldown",
+            "zh": "获得冷却"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EnergyRetention",
+      "index": 187,
+      "columns": {
+        "Text": [
+          {
+            "en": "Energy Retention",
+            "zh": "能量保存"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Ferocity",
+      "index": 188,
+      "columns": {
+        "Text": [
+          {
+            "en": "Ferocity",
+            "zh": "狂暴"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SacrificalOffering",
+      "index": 189,
+      "columns": {
+        "Text": [
+          {
+            "en": "Sacrificial Offering",
+            "zh": "牺牲供奉"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DanseMacabre",
+      "index": 190,
+      "columns": {
+        "Text": [
+          {
+            "en": "Danse Macabre",
+            "zh": "死亡之舞"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EnergyCapacitor",
+      "index": 191,
+      "columns": {
+        "Text": [
+          {
+            "en": "Energy Capacitor",
+            "zh": "能量电容"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BoundlessEnergy",
+      "index": 192,
+      "columns": {
+        "Text": [
+          {
+            "en": "Boundless Energy",
+            "zh": "无边能量"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HarmonicRemnants",
+      "index": 193,
+      "columns": {
+        "Text": [
+          {
+            "en": "Harmonic Remnants",
+            "zh": "和谐残迹"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Fluke",
+      "index": 194,
+      "columns": {
+        "Text": [
+          {
+            "en": "Fluke",
+            "zh": "运势"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Zenith",
+      "index": 195,
+      "columns": {
+        "Text": [
+          {
+            "en": "Zenith",
+            "zh": "天顶"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Bidding",
+      "index": 196,
+      "columns": {
+        "Text": [
+          {
+            "en": "Bidding",
+            "zh": "奉命"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Flow",
+      "index": 197,
+      "columns": {
+        "Text": [
+          {
+            "en": "Flow",
+            "zh": "波流"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Commandment",
+      "index": 198,
+      "columns": {
+        "Text": [
+          {
+            "en": "Commandment",
+            "zh": "调遣"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AdhesiveGrenades",
+      "index": 199,
+      "columns": {
+        "Text": [
+          {
+            "en": "Adhesive Grenades",
+            "zh": "胶粘榴弹"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Retaliate",
+      "index": 200,
+      "columns": {
+        "Text": [
+          {
+            "en": "Retaliate",
+            "zh": "反击"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Tremors",
+      "index": 201,
+      "columns": {
+        "Text": [
+          {
+            "en": "Tremors",
+            "zh": "地震"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Salvo",
+      "index": 202,
+      "columns": {
+        "Text": [
+          {
+            "en": "Salvo",
+            "zh": "齐射"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Cadence",
+      "index": 203,
+      "columns": {
+        "Text": [
+          {
+            "en": "Cadence",
+            "zh": "节律"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Volt",
+      "index": 204,
+      "columns": {
+        "Text": [
+          {
+            "en": "Volt",
+            "zh": "电伏积聚"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BoneShrapnel",
+      "index": 205,
+      "columns": {
+        "Text": [
+          {
+            "en": "Bone Shrapnel",
+            "zh": "钙质碎片"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Alignment",
+      "index": 206,
+      "columns": {
+        "Text": [
+          {
+            "en": "Alignment",
+            "zh": "相性"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Derange",
+      "index": 207,
+      "columns": {
+        "Text": [
+          {
+            "en": "Derange",
+            "zh": "错乱"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ChargedShots",
+      "index": 208,
+      "columns": {
+        "Text": [
+          {
+            "en": "Charged Shots",
+            "zh": "充能射击"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Profanity",
+      "index": 209,
+      "columns": {
+        "Text": [
+          {
+            "en": "Profanity",
+            "zh": "不敬"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Burgeon",
+      "index": 210,
+      "columns": {
+        "Text": [
+          {
+            "en": "Burgeon",
+            "zh": "迅猛增幅"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Steadfast",
+      "index": 211,
+      "columns": {
+        "Text": [
+          {
+            "en": "Steadfast",
+            "zh": "坚韧不拔"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Flamepierce",
+      "index": 212,
+      "columns": {
+        "Text": [
+          {
+            "en": "Flamepierce",
+            "zh": "烈焰穿刺"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Freezefork",
+      "index": 213,
+      "columns": {
+        "Text": [
+          {
+            "en": "Freezefork",
+            "zh": "冻结分叉"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Stormchain",
+      "index": 214,
+      "columns": {
+        "Text": [
+          {
+            "en": "Stormchain",
+            "zh": "风暴连锁"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Verglas",
+      "index": 215,
+      "columns": {
+        "Text": [
+          {
+            "en": "Verglas",
+            "zh": "雨淞"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Embitter",
+      "index": 216,
+      "columns": {
+        "Text": [
+          {
+            "en": "Embitter",
+            "zh": "苦寒之意"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Battershout",
+      "index": 217,
+      "columns": {
+        "Text": [
+          {
+            "en": "Battershout",
+            "zh": "震撼战吼"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Nadir",
+      "index": 218,
+      "columns": {
+        "Text": [
+          {
+            "en": "Nadir",
+            "zh": "天底"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PinpointCritical",
+      "index": 219,
+      "columns": {
+        "Text": [
+          {
+            "en": "Pinpoint Critical",
+            "zh": "精准暴击"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EncroachingGround",
+      "index": 220,
+      "columns": {
+        "Text": [
+          {
+            "en": "Encroaching Ground",
+            "zh": "侵蚀地面"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AbidingHex",
+      "index": 221,
+      "columns": {
+        "Text": [
+          {
+            "en": "Abiding Hex",
+            "zh": "恒远魔蛊"
+          }
+        ]
+      }
+    },
+    {
+      "id": "RustedSpikes",
+      "index": 222,
+      "columns": {
+        "Text": [
+          {
+            "en": "Rusted Spikes",
+            "zh": "锈蚀尖刺"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CrazedMinions",
+      "index": 223,
+      "columns": {
+        "Text": [
+          {
+            "en": "Crazed Minions",
+            "zh": "癫狂召唤生物"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SpectralVolley",
+      "index": 224,
+      "columns": {
+        "Text": [
+          {
+            "en": "Spectral Volley",
+            "zh": "灵体齐射"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Rally",
+      "index": 225,
+      "columns": {
+        "Text": [
+          {
+            "en": "Rally",
+            "zh": "奋威"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Hoarfrost",
+      "index": 226,
+      "columns": {
+        "Text": [
+          {
+            "en": "Hoarfrost",
+            "zh": "白霜"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Deathmarch",
+      "index": 227,
+      "columns": {
+        "Text": [
+          {
+            "en": "Deathmarch",
+            "zh": "终末行军"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Acrimony",
+      "index": 228,
+      "columns": {
+        "Text": [
+          {
+            "en": "Acrimony",
+            "zh": "尖刻"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Concoct",
+      "index": 229,
+      "columns": {
+        "Text": [
+          {
+            "en": "Concoct",
+            "zh": "调和术"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Ambrosia",
+      "index": 230,
+      "columns": {
+        "Text": [
+          {
+            "en": "Ambrosia",
+            "zh": "仙馔"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PersistentGround",
+      "index": 231,
+      "columns": {
+        "Text": [
+          {
+            "en": "Persistent Ground",
+            "zh": "持久地面"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SelflessRemnants",
+      "index": 232,
+      "columns": {
+        "Text": [
+          {
+            "en": "Selfless Remnants",
+            "zh": "无我残片"
+          }
+        ]
+      }
+    },
+    {
+      "id": "RemnantPower",
+      "index": 233,
+      "columns": {
+        "Text": [
+          {
+            "en": "Remnant Potency",
+            "zh": "残片效能"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Reverberate",
+      "index": 234,
+      "columns": {
+        "Text": [
+          {
+            "en": "Reverberate",
+            "zh": "回荡"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Clash",
+      "index": 235,
+      "columns": {
+        "Text": [
+          {
+            "en": "Clash",
+            "zh": "形势逆转"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Malady",
+      "index": 236,
+      "columns": {
+        "Text": [
+          {
+            "en": "Malady",
+            "zh": "错乱病症"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Dazzle",
+      "index": 237,
+      "columns": {
+        "Text": [
+          {
+            "en": "Dazzle",
+            "zh": "眩目"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Syzygy",
+      "index": 238,
+      "columns": {
+        "Text": [
+          {
+            "en": "Syzygy",
+            "zh": "朔望"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Unyielding",
+      "index": 239,
+      "columns": {
+        "Text": [
+          {
+            "en": "Unyielding",
+            "zh": "不屈"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Desperation",
+      "index": 240,
+      "columns": {
+        "Text": [
+          {
+            "en": "Desperation",
+            "zh": "孤注一掷"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Overextend",
+      "index": 241,
+      "columns": {
+        "Text": [
+          {
+            "en": "Overextend",
+            "zh": "竭力痛击"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Excoriate",
+      "index": 242,
+      "columns": {
+        "Text": [
+          {
+            "en": "Excoriate",
+            "zh": "严厉申斥"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Unbending",
+      "index": 243,
+      "columns": {
+        "Text": [
+          {
+            "en": "Unbending",
+            "zh": "不屈之心"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Retreat",
+      "index": 244,
+      "columns": {
+        "Text": [
+          {
+            "en": "Retreat",
+            "zh": "暂避锋芒"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Pursuit",
+      "index": 245,
+      "columns": {
+        "Text": [
+          {
+            "en": "Pursuit",
+            "zh": "迫近追逐"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Commiserate",
+      "index": 246,
+      "columns": {
+        "Text": [
+          {
+            "en": "Commiserate",
+            "zh": "以己度人"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Blindside",
+      "index": 247,
+      "columns": {
+        "Text": [
+          {
+            "en": "Blindside",
+            "zh": "盲点"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HitAndRun",
+      "index": 248,
+      "columns": {
+        "Text": [
+          {
+            "en": "Hit and Run",
+            "zh": "连打带跑"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CracklingBarrier",
+      "index": 249,
+      "columns": {
+        "Text": [
+          {
+            "en": "Crackling Barrier",
+            "zh": "霹雳屏障"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Defy",
+      "index": 250,
+      "columns": {
+        "Text": [
+          {
+            "en": "Defy",
+            "zh": "顽抗"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Volatility",
+      "index": 251,
+      "columns": {
+        "Text": [
+          {
+            "en": "Volatility",
+            "zh": "无常"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Muster",
+      "index": 252,
+      "columns": {
+        "Text": [
+          {
+            "en": "Muster",
+            "zh": "海纳百川"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HulkingMinions",
+      "index": 253,
+      "columns": {
+        "Text": [
+          {
+            "en": "Hulking Minions",
+            "zh": "魁梧仆从"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Caltrops",
+      "index": 254,
+      "columns": {
+        "Text": [
+          {
+            "en": "Caltrops",
+            "zh": "铁蒺藜"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Haemocrystals",
+      "index": 255,
+      "columns": {
+        "Text": [
+          {
+            "en": "Haemocrystals",
+            "zh": "赤炼水晶"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Spar",
+      "index": 256,
+      "columns": {
+        "Text": [
+          {
+            "en": "Spar",
+            "zh": "角力"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Dauntless",
+      "index": 257,
+      "columns": {
+        "Text": [
+          {
+            "en": "Dauntless",
+            "zh": "不动如山"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Magnetism",
+      "index": 258,
+      "columns": {
+        "Text": [
+          {
+            "en": "Magnetism",
+            "zh": "磁性吸引"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AncestralCall",
+      "index": 259,
+      "columns": {
+        "Text": [
+          {
+            "en": "Ancestral Call",
+            "zh": "先祖召唤"
+          }
+        ]
+      }
+    },
+    {
+      "id": "QuillBurst",
+      "index": 260,
+      "columns": {
+        "Text": [
+          {
+            "en": "Quill Burst",
+            "zh": "棘刺爆发"
+          }
+        ]
+      }
+    },
+    {
+      "id": "UnsteadyTempo",
+      "index": 261,
+      "columns": {
+        "Text": [
+          {
+            "en": "Unsteady Tempo",
+            "zh": "失衡节奏"
+          }
+        ]
+      }
+    },
+    {
+      "id": "TitanicArrows",
+      "index": 262,
+      "columns": {
+        "Text": [
+          {
+            "en": "Titanic Arrows",
+            "zh": "泰坦箭矢"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DeadlyHeralds",
+      "index": 263,
+      "columns": {
+        "Text": [
+          {
+            "en": "Deadly Heralds",
+            "zh": "致命之捷"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EssenceHarvest",
+      "index": 264,
+      "columns": {
+        "Text": [
+          {
+            "en": "Essence Harvest",
+            "zh": "收割精华"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ShockingLeap",
+      "index": 265,
+      "columns": {
+        "Text": [
+          {
+            "en": "Shocking Leap",
+            "zh": "电震跃击"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Barbs",
+      "index": 266,
+      "columns": {
+        "Text": [
+          {
+            "en": "Barbs",
+            "zh": "荆棘倒刺"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Rime",
+      "index": 267,
+      "columns": {
+        "Text": [
+          {
+            "en": "Rime",
+            "zh": "雾凇"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ArmsLength",
+      "index": 268,
+      "columns": {
+        "Text": [
+          {
+            "en": "Arms' Length",
+            "zh": "一臂之隔"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Thornskin",
+      "index": 269,
+      "columns": {
+        "Text": [
+          {
+            "en": "Thornskin",
+            "zh": "荆棘皮肤"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Mysticism",
+      "index": 270,
+      "columns": {
+        "Text": [
+          {
+            "en": "Mysticism",
+            "zh": "灵秘"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Direstrike",
+      "index": 271,
+      "columns": {
+        "Text": [
+          {
+            "en": "Direstrike",
+            "zh": "蛮勇打击"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Upwellling",
+      "index": 272,
+      "columns": {
+        "Text": [
+          {
+            "en": "Upwellling",
+            "zh": "升流"
+          }
+        ]
+      }
+    },
+    {
+      "id": "WarmBlooded",
+      "index": 273,
+      "columns": {
+        "Text": [
+          {
+            "en": "Warm Blooded",
+            "zh": "温热血脉"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CoolHeaded",
+      "index": 274,
+      "columns": {
+        "Text": [
+          {
+            "en": "Cool Headed",
+            "zh": "冷静头脑"
+          }
+        ]
+      }
+    },
+    {
+      "id": "StrongHearted",
+      "index": 275,
+      "columns": {
+        "Text": [
+          {
+            "en": "Strong Hearted",
+            "zh": "强健心灵"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Refraction",
+      "index": 276,
+      "columns": {
+        "Text": [
+          {
+            "en": "Refraction",
+            "zh": "折射"
+          }
+        ]
+      }
+    },
+    {
+      "id": "TotemicControl",
+      "index": 277,
+      "columns": {
+        "Text": [
+          {
+            "en": "Totemic Control",
+            "zh": "图腾掌控"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Untouchable",
+      "index": 278,
+      "columns": {
+        "Text": [
+          {
+            "en": "Untouchable",
+            "zh": "不可触及"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Unabating",
+      "index": 279,
+      "columns": {
+        "Text": [
+          {
+            "en": "Unabating",
+            "zh": "不倦防护"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Timerot",
+      "index": 280,
+      "columns": {
+        "Text": [
+          {
+            "en": "Timerot",
+            "zh": "时光腐朽"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PunchThrough",
+      "index": 281,
+      "columns": {
+        "Text": [
+          {
+            "en": "Punch Through",
+            "zh": "击穿"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Rip",
+      "index": 282,
+      "columns": {
+        "Text": [
+          {
+            "en": "Rip",
+            "zh": "撕裂"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Tear",
+      "index": 283,
+      "columns": {
+        "Text": [
+          {
+            "en": "Tear",
+            "zh": "撕扯"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Brink",
+      "index": 284,
+      "columns": {
+        "Text": [
+          {
+            "en": "Brink",
+            "zh": "崩溃边缘"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Tireless",
+      "index": 285,
+      "columns": {
+        "Text": [
+          {
+            "en": "Tireless",
+            "zh": "冷酷"
+          }
+        ]
+      }
+    },
+    {
+      "id": "VolcanicEruption",
+      "index": 286,
+      "columns": {
+        "Text": [
+          {
+            "en": "Volcanic Eruption",
+            "zh": "熔火喷发"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FirstBlood",
+      "index": 287,
+      "columns": {
+        "Text": [
+          {
+            "en": "First Blood",
+            "zh": "第一滴血"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Retort",
+      "index": 288,
+      "columns": {
+        "Text": [
+          {
+            "en": "Retort",
+            "zh": "回击"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Hobble",
+      "index": 289,
+      "columns": {
+        "Text": [
+          {
+            "en": "Hobble",
+            "zh": "跛行"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Twofold",
+      "index": 290,
+      "columns": {
+        "Text": [
+          {
+            "en": "Twofold",
+            "zh": "好事成双"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Incision",
+      "index": 291,
+      "columns": {
+        "Text": [
+          {
+            "en": "Incision",
+            "zh": "创口"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Catharsis",
+      "index": 292,
+      "columns": {
+        "Text": [
+          {
+            "en": "Catharsis",
+            "zh": "泄除"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DelayedGratification",
+      "index": 293,
+      "columns": {
+        "Text": [
+          {
+            "en": "Delayed Gratification",
+            "zh": "延迟满足"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Loyalty",
+      "index": 294,
+      "columns": {
+        "Text": [
+          {
+            "en": "Loyalty",
+            "zh": "忠诚"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Rearm",
+      "index": 295,
+      "columns": {
+        "Text": [
+          {
+            "en": "Rearm",
+            "zh": "重新武装"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DelayedReaction",
+      "index": 296,
+      "columns": {
+        "Text": [
+          {
+            "en": "Delayed Reaction",
+            "zh": "延迟激活"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SpectralPalm",
+      "index": 297,
+      "columns": {
+        "Text": [
+          {
+            "en": "Spectral Palm",
+            "zh": "幽魂掌击"
+          }
+        ]
+      }
+    },
+    {
+      "id": "VolatilePower",
+      "index": 298,
+      "columns": {
+        "Text": [
+          {
+            "en": "Volatile Power",
+            "zh": "无常之力"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Gambleshot",
+      "index": 299,
+      "columns": {
+        "Text": [
+          {
+            "en": "Gambleshot",
+            "zh": "投机射击"
+          }
+        ]
+      }
+    },
+    {
+      "id": "UnerringPower",
+      "index": 300,
+      "columns": {
+        "Text": [
+          {
+            "en": "Unerring Power",
+            "zh": "精准之力"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Impale",
+      "index": 301,
+      "columns": {
+        "Text": [
+          {
+            "en": "Impale",
+            "zh": "穿刺"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Perfection",
+      "index": 302,
+      "columns": {
+        "Text": [
+          {
+            "en": "Perfection",
+            "zh": "完美"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Deliberation",
+      "index": 303,
+      "columns": {
+        "Text": [
+          {
+            "en": "Deliberation",
+            "zh": "从容不迫"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SeeRed",
+      "index": 304,
+      "columns": {
+        "Text": [
+          {
+            "en": "See Red",
+            "zh": "赤红鼓动"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ShortFuse",
+      "index": 305,
+      "columns": {
+        "Text": [
+          {
+            "en": "Short Fuse",
+            "zh": "短暂引信"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Undermine",
+      "index": 306,
+      "columns": {
+        "Text": [
+          {
+            "en": "Undermine",
+            "zh": "暗中破坏"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Outmaneuver",
+      "index": 307,
+      "columns": {
+        "Text": [
+          {
+            "en": "Outmaneuver",
+            "zh": "智取"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MarkForDeath",
+      "index": 308,
+      "columns": {
+        "Text": [
+          {
+            "en": "Mark for Death",
+            "zh": "死亡印记"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Tumult",
+      "index": 309,
+      "columns": {
+        "Text": [
+          {
+            "en": "Tumult",
+            "zh": "动乱"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Admixture",
+      "index": 310,
+      "columns": {
+        "Text": [
+          {
+            "en": "Admixture",
+            "zh": "混合物"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Stoicism",
+      "index": 311,
+      "columns": {
+        "Text": [
+          {
+            "en": "Stoicism",
+            "zh": "坚忍"
+          }
+        ]
+      }
+    },
+    {
+      "id": "RelentlessRage",
+      "index": 312,
+      "columns": {
+        "Text": [
+          {
+            "en": "Relentless Rage",
+            "zh": "无尽怒火"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Brambleslam",
+      "index": 313,
+      "columns": {
+        "Text": [
+          {
+            "en": "Brambleslam",
+            "zh": "遍地荆棘"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Inhibitor",
+      "index": 314,
+      "columns": {
+        "Text": [
+          {
+            "en": "Inhibitor",
+            "zh": "抑制器"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GroundingShocks",
+      "index": 315,
+      "columns": {
+        "Text": [
+          {
+            "en": "Static Shocks",
+            "zh": "静电脉冲"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HardyTotems",
+      "index": 316,
+      "columns": {
+        "Text": [
+          {
+            "en": "Hardy Totems",
+            "zh": "坚韧图腾"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LivingLightning",
+      "index": 317,
+      "columns": {
+        "Text": [
+          {
+            "en": "Living Lightning",
+            "zh": "活体闪电"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FrozenSpite",
+      "index": 321,
+      "columns": {
+        "Text": [
+          {
+            "en": "Frozen Spite",
+            "zh": "冰冻怨恨"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ShockingRift",
+      "index": 322,
+      "columns": {
+        "Text": [
+          {
+            "en": "Electromagnetism",
+            "zh": "电磁力场"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Mercy",
+      "index": 323,
+      "columns": {
+        "Text": [
+          {
+            "en": "Dominus' Grasp",
+            "zh": "神主之握"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FlamePillar",
+      "index": 324,
+      "columns": {
+        "Text": [
+          {
+            "en": "Flame Pillar",
+            "zh": "烈焰之柱"
+          }
+        ]
+      }
+    },
+    {
+      "id": "StreamlinedRounds",
+      "index": 325,
+      "columns": {
+        "Text": [
+          {
+            "en": "Streamlined Rounds",
+            "zh": "流线弹药"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PerfectedEndurance",
+      "index": 326,
+      "columns": {
+        "Text": [
+          {
+            "en": "Perfected Endurance",
+            "zh": "完美耐力"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EnduringImpact",
+      "index": 327,
+      "columns": {
+        "Text": [
+          {
+            "en": "Enduring Impact",
+            "zh": "持续冲击"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Crater",
+      "index": 328,
+      "columns": {
+        "Text": [
+          {
+            "en": "Crater",
+            "zh": "陨坑"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Vanguard",
+      "index": 329,
+      "columns": {
+        "Text": [
+          {
+            "en": "Vanguard",
+            "zh": "先锋"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CrystallineShards",
+      "index": 330,
+      "columns": {
+        "Text": [
+          {
+            "en": "Crystalline Shards",
+            "zh": "水晶碎片"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SkitteringStone",
+      "index": 331,
+      "columns": {
+        "Text": [
+          {
+            "en": "Skittering Stone",
+            "zh": "飞掠石"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DiallasDesire",
+      "index": 332,
+      "columns": {
+        "Text": [
+          {
+            "en": "Dialla's Desire",
+            "zh": "达拉的渴望"
+          }
+        ]
+      }
+    },
+    {
+      "id": "KalisasCrescendo",
+      "index": 333,
+      "columns": {
+        "Text": [
+          {
+            "en": "Kalisa's Crescendo",
+            "zh": "卡莉莎的强音"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Durability",
+      "index": 334,
+      "columns": {
+        "Text": [
+          {
+            "en": "Durability",
+            "zh": "耐久度"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BreachLineage",
+      "index": 335,
+      "columns": {
+        "Text": [
+          {
+            "en": "Breachlord",
+            "zh": "裂隙之主"
+          }
+        ]
+      }
+    },
+    {
+      "id": "StyrnsMountain",
+      "index": 336,
+      "columns": {
+        "Text": [
+          {
+            "en": "Styrn's Mountain",
+            "zh": "斯泰恩的山岳"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ArbitersReach",
+      "index": 337,
+      "columns": {
+        "Text": [
+          {
+            "en": "Arbiter's Reach",
+            "zh": "执政官之握"
+          }
+        ]
+      }
+    },
+    {
+      "id": "VruunsWarhorn",
+      "index": 338,
+      "columns": {
+        "Text": [
+          {
+            "en": "Vruun's Aftermath",
+            "zh": "弗伦的余波"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HerDeclaration",
+      "index": 339,
+      "columns": {
+        "Text": [
+          {
+            "en": "Her Declaration",
+            "zh": "她的宣言"
+          }
+        ]
+      }
+    },
+    {
+      "id": "RakiataLineage",
+      "index": 340,
+      "columns": {
+        "Text": [
+          {
+            "en": "Rakiata's Flow",
+            "zh": "拉其塔之流"
+          }
+        ]
+      }
+    },
+    {
+      "id": "RigwaldLineage",
+      "index": 341,
+      "columns": {
+        "Text": [
+          {
+            "en": "Rigwald's Ferocity",
+            "zh": "瑞佛的凶猛"
+          }
+        ]
+      }
+    },
+    {
+      "id": "UhtredChalice",
+      "index": 342,
+      "columns": {
+        "Text": [
+          {
+            "en": "Uhtred's Rite",
+            "zh": "乌崔德仪式"
+          }
+        ]
+      }
+    },
+    {
+      "id": "UhtredLineage",
+      "index": 343,
+      "columns": {
+        "Text": [
+          {
+            "en": "Uhtred of Kalguur",
+            "zh": "君锋城的乌崔德"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DaressoLineage",
+      "index": 344,
+      "columns": {
+        "Text": [
+          {
+            "en": "Daresso's Passion",
+            "zh": "德瑞索的热情"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AtziriAllureLineage",
+      "index": 345,
+      "columns": {
+        "Text": [
+          {
+            "en": "Atziri's Allure",
+            "zh": "阿兹里的魅惑"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AtziriCallLineage",
+      "index": 346,
+      "columns": {
+        "Text": [
+          {
+            "en": "Atziri's Call",
+            "zh": "阿兹里的呼唤"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AtziriCommunionLineage",
+      "index": 347,
+      "columns": {
+        "Text": [
+          {
+            "en": "Atziri's Communion",
+            "zh": "阿兹里的圣礼"
+          }
+        ]
+      }
+    },
+    {
+      "id": "TacatiLineage",
+      "index": 348,
+      "columns": {
+        "Text": [
+          {
+            "en": "Tacati's Ire",
+            "zh": "塔卡提之怒"
+          }
+        ]
+      }
+    },
+    {
+      "id": "KurgalLineage",
+      "index": 349,
+      "columns": {
+        "Text": [
+          {
+            "en": "Blackblood",
+            "zh": "黑血"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AbyssalLineageTwo",
+      "index": 350,
+      "columns": {
+        "Text": [
+          {
+            "en": "Kulemak's Dominion",
+            "zh": "库勒马克的统治"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AmanamusTithe",
+      "index": 351,
+      "columns": {
+        "Text": [
+          {
+            "en": "Amanamu's Tithe",
+            "zh": "阿曼娜姆的奉纳"
+          }
+        ]
+      }
+    },
+    {
+      "id": "VarashtasBlessing",
+      "index": 352,
+      "columns": {
+        "Text": [
+          {
+            "en": "Varashta's Blessing",
+            "zh": "瓦拉煞的祝福"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ArbiterLineage",
+      "index": 353,
+      "columns": {
+        "Text": [
+          {
+            "en": "Arbiter's Ignition",
+            "zh": "仲裁官的点燃"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ArakaaliLineage",
+      "index": 354,
+      "columns": {
+        "Text": [
+          {
+            "en": "Arakaali's Lust",
+            "zh": "阿拉卡力的欲望"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DreamersKnell",
+      "index": 355,
+      "columns": {
+        "Text": [
+          {
+            "en": "Dreamers' Knell",
+            "zh": "幻梦者的丧钟"
+          }
+        ]
+      }
+    },
+    {
+      "id": "TasaliosRhythm",
+      "index": 356,
+      "columns": {
+        "Text": [
+          {
+            "en": "Tasalio's Rhythm",
+            "zh": "塔萨里奥的律动"
+          }
+        ]
+      }
+    },
+    {
+      "id": "XibaquasRending",
+      "index": 357,
+      "columns": {
+        "Text": [
+          {
+            "en": "Xibaqua's Rending",
+            "zh": "夏巴夸亚的撕裂"
+          }
+        ]
+      }
+    },
+    {
+      "id": "KhatalsRejuvenation",
+      "index": 358,
+      "columns": {
+        "Text": [
+          {
+            "en": "Khatal's Rejuvenation",
+            "zh": "卡哈塔的复苏"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FanTheFlames",
+      "index": 361,
+      "columns": {
+        "Text": [
+          {
+            "en": "Fan The Flames",
+            "zh": "煽风点火"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EchoingCry",
+      "index": 362,
+      "columns": {
+        "Text": [
+          {
+            "en": "Echoing Cry",
+            "zh": "回荡战嚎"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AcceleratedGrowth",
+      "index": 363,
+      "columns": {
+        "Text": [
+          {
+            "en": "Accelerated Growth",
+            "zh": "迅猛绽放"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MarkOfSiphoning",
+      "index": 364,
+      "columns": {
+        "Text": [
+          {
+            "en": "Mark of Siphoning",
+            "zh": "虹吸印记"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ThrillOfTheKill",
+      "index": 365,
+      "columns": {
+        "Text": [
+          {
+            "en": "Thrill of the Kill",
+            "zh": "杀戮快感"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ExposingCry",
+      "index": 366,
+      "columns": {
+        "Text": [
+          {
+            "en": "Exposing Cry",
+            "zh": "洞悉战嚎"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PoisonSpores",
+      "index": 367,
+      "columns": {
+        "Text": [
+          {
+            "en": "Poison Spores",
+            "zh": "毒孢迸溅"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GarukhansResolve",
+      "index": 368,
+      "columns": {
+        "Text": [
+          {
+            "en": "Garukhan's Resolve",
+            "zh": "格鲁坎的决心"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DeadlyResolve",
+      "index": 369,
+      "columns": {
+        "Text": [
+          {
+            "en": "Deadly Resolve",
+            "zh": "致命决心"
+          }
+        ]
+      }
+    },
+    {
+      "id": "OpeningMove",
+      "index": 370,
+      "columns": {
+        "Text": [
+          {
+            "en": "Opening Move",
+            "zh": "起手式"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DeadlyCurrent",
+      "index": 371,
+      "columns": {
+        "Text": [
+          {
+            "en": "Coursing Current",
+            "zh": "奔雷疾走"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EmpoweredSparks",
+      "index": 372,
+      "columns": {
+        "Text": [
+          {
+            "en": "Empowered Sparks",
+            "zh": "强化火花"
+          }
+        ]
+      }
+    },
+    {
+      "id": "RendingApex",
+      "index": 373,
+      "columns": {
+        "Text": [
+          {
+            "en": "Rending Apex",
+            "zh": "撕裂巅峰"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PracticalMagic",
+      "index": 374,
+      "columns": {
+        "Text": [
+          {
+            "en": "Practical Magic",
+            "zh": "实用魔法"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MovingStorms",
+      "index": 375,
+      "columns": {
+        "Text": [
+          {
+            "en": "Advancing Storm",
+            "zh": "风暴行军"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BlazingCritical",
+      "index": 376,
+      "columns": {
+        "Text": [
+          {
+            "en": "Blazing Critical",
+            "zh": "炽烈绝杀"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ConcussiveSpells",
+      "index": 377,
+      "columns": {
+        "Text": [
+          {
+            "en": "Concussive Spells",
+            "zh": "冲击法术"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EternalMark",
+      "index": 378,
+      "columns": {
+        "Text": [
+          {
+            "en": "Eternal Mark",
+            "zh": "永恒印记"
+          }
+        ]
+      }
+    },
+    {
+      "id": "NovaProjectiles",
+      "index": 379,
+      "columns": {
+        "Text": [
+          {
+            "en": "Nova Projectiles",
+            "zh": "新星投射物"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ChargedMark",
+      "index": 380,
+      "columns": {
+        "Text": [
+          {
+            "en": "Charged Mark",
+            "zh": "充能印记"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MinionMeleeSplash",
+      "index": 381,
+      "columns": {
+        "Text": [
+          {
+            "en": "Minion Area of Effect",
+            "zh": "召唤生物效果范围"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ConcussiveRunes",
+      "index": 382,
+      "columns": {
+        "Text": [
+          {
+            "en": "Concussive Runes",
+            "zh": "震荡符文"
+          }
+        ]
+      }
+    },
+    {
+      "id": "RunicInfusion",
+      "index": 383,
+      "columns": {
+        "Text": [
+          {
+            "en": "Runic Infusion",
+            "zh": "符文灌注"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Prototype",
+      "index": 384,
+      "columns": {
+        "Text": [
+          {
+            "en": "Prototype",
+            "zh": "原型"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SeraphsHeart",
+      "index": 385,
+      "columns": {
+        "Text": [
+          {
+            "en": "Seraph's Heart",
+            "zh": "炽天使之心"
+          }
+        ]
+      }
+    },
+    {
+      "id": "RunicExtraction",
+      "index": 386,
+      "columns": {
+        "Text": [
+          {
+            "en": "Runic Extraction",
+            "zh": "符文提取"
+          }
+        ]
+      }
+    },
+    {
+      "id": "OlrothsConviction",
+      "index": 387,
+      "columns": {
+        "Text": [
+          {
+            "en": "Olroth's Conviction",
+            "zh": "欧罗什的信念"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HealingRunes",
+      "index": 388,
+      "columns": {
+        "Text": [
+          {
+            "en": "Healing Runes",
+            "zh": "治疗符文"
+          }
+        ]
+      }
+    }
+  ]
+}

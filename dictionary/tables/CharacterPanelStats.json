@@ -1,0 +1,3645 @@
+{
+  "table": "CharacterPanelStats",
+  "key": "Id",
+  "columns": [
+    "Text"
+  ],
+  "entries": [
+    {
+      "id": "LifeTop",
+      "index": 0,
+      "columns": {
+        "Text": [
+          {
+            "en": "Life",
+            "zh": "生命"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LifeUnreservedTop",
+      "index": 1,
+      "columns": {
+        "Text": [
+          {
+            "en": "Unreserved Life",
+            "zh": "未保留生命"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LifeRecoveryTop",
+      "index": 2,
+      "columns": {
+        "Text": [
+          {
+            "en": "Recovery per Second",
+            "zh": "每秒回复"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ManaTop",
+      "index": 3,
+      "columns": {
+        "Text": [
+          {
+            "en": "Mana",
+            "zh": "魔力"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ManaUnreservedTop",
+      "index": 4,
+      "columns": {
+        "Text": [
+          {
+            "en": "Unreserved Mana",
+            "zh": "未保留魔力"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ManaRecoveryTop",
+      "index": 5,
+      "columns": {
+        "Text": [
+          {
+            "en": "Recovery per Second",
+            "zh": "每秒回复"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EnergyShieldTop",
+      "index": 6,
+      "columns": {
+        "Text": [
+          {
+            "en": "Energy Shield",
+            "zh": "能量护盾"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EnergyShieldRecoveryTop",
+      "index": 7,
+      "columns": {
+        "Text": [
+          {
+            "en": "Recovery per Second",
+            "zh": "每秒回复"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EnergyShieldRechargeTop",
+      "index": 8,
+      "columns": {
+        "Text": [
+          {
+            "en": "Recharge per Second",
+            "zh": "每秒充能"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EnergyShieldRechargeDelayTop",
+      "index": 9,
+      "columns": {
+        "Text": [
+          {
+            "en": "Recharge Delay",
+            "zh": "充能延迟"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SpiritTop",
+      "index": 10,
+      "columns": {
+        "Text": [
+          {
+            "en": "Spirit",
+            "zh": "精魂"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ArmourEstimatedPhysDamageReductionTopBig",
+      "index": 11,
+      "columns": {
+        "Text": [
+          {
+            "en": "Armour",
+            "zh": "护甲"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ArmourTop",
+      "index": 12,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Armour]",
+            "zh": "[Armour|护甲]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ArmourVsPhysTop",
+      "index": 13,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Armour] applying to [Physical] Damage",
+            "zh": "[Armour|护甲]作用于[Physical|物理]伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ArmourAdditionalPhysReductionTop",
+      "index": 14,
+      "columns": {
+        "Text": [
+          {
+            "en": "Additional [Physical] Damage Reduction",
+            "zh": "额外[Physical|物理]伤害减免"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EstimatePhysReductionTop",
+      "index": 15,
+      "columns": {
+        "Text": [
+          {
+            "en": "Estimated [Physical] Damage Reduction",
+            "zh": "预期[Physical|物理]伤害减免"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EstimatePhysReductionRangeTop",
+      "index": 16,
+      "columns": {
+        "Text": [
+          {
+            "en": "Estimated [Physical] Damage Reduction",
+            "zh": "预期[Physical|物理]伤害减免"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EstimatePhysReductionVsHitsTop",
+      "index": 17,
+      "columns": {
+        "Text": [
+          {
+            "en": "Estimated [Physical] Damage Reduction against [HitDamage|Hits]",
+            "zh": "对[HitDamage|击中]的预期[Physical|物理]伤害减免"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EstimatePhysReductionVsHitsRangeTop",
+      "index": 18,
+      "columns": {
+        "Text": [
+          {
+            "en": "Estimated [Physical] Damage Reduction against [HitDamage|Hits]",
+            "zh": "对[HitDamage|击中]的预期[Physical|物理]伤害减免"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ArmourVsElementalTop",
+      "index": 19,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Armour] applying to [ElementalDamage|Elemental] Damage",
+            "zh": "[Armour|护甲]作用于[ElementalDamage|元素]伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EstimateElementalReductionVsHitsTop",
+      "index": 20,
+      "columns": {
+        "Text": [
+          {
+            "en": "Estimated [ElementalDamage|Elemental] Damage reduction against [HitDamage|Hits]",
+            "zh": "对[HitDamage|击中]的预期[ElementalDamage|元素]伤害减免"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EstimateElementalReductionVsHitsRangeTop",
+      "index": 21,
+      "columns": {
+        "Text": [
+          {
+            "en": "Estimated [ElementalDamage|Elemental] Damage reduction against [HitDamage|Hits]",
+            "zh": "对[HitDamage|击中]的预期[ElementalDamage|元素]伤害减免"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ArmourVsFireTop",
+      "index": 22,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Armour] applying to [Fire] Damage",
+            "zh": "[Armour|护甲]作用于[Fire|火焰]伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EstimateFireReductionVsHitsTop",
+      "index": 23,
+      "columns": {
+        "Text": [
+          {
+            "en": "Estimated [Fire] Damage Reduction against [HitDamage|Hits]",
+            "zh": "对[HitDamage|击中]的预期[Fire|火焰]伤害减免"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EstimateFireReductionVsHitsRangeTop",
+      "index": 24,
+      "columns": {
+        "Text": [
+          {
+            "en": "Estimated [Fire] Damage Reduction against [HitDamage|Hits]",
+            "zh": "对[HitDamage|击中]的预期[Fire|火焰]伤害减免"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ArmourVsColdTop",
+      "index": 25,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Armour] applying to [Cold] Damage",
+            "zh": "[Armour|护甲]作用于[Cold|冰霜]伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EstimateColdReductionVsHitsTop",
+      "index": 26,
+      "columns": {
+        "Text": [
+          {
+            "en": "Estimated [Cold] Damage Reduction against [HitDamage|Hits]",
+            "zh": "对[HitDamage|击中]的预期[Cold|冰霜]伤害减免"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EstimateColdReductionVsHitsRangeTop",
+      "index": 27,
+      "columns": {
+        "Text": [
+          {
+            "en": "Estimated [Cold] Damage Reduction against [HitDamage|Hits]",
+            "zh": "对[HitDamage|击中]的预期[Cold|冰霜]伤害减免"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ArmourVsLightningTop",
+      "index": 28,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Armour] applying to [Lightning] Damage",
+            "zh": "[Armour|护甲]作用于[Lightning|闪电]伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EstimateLightningReductionVsHitsTop",
+      "index": 29,
+      "columns": {
+        "Text": [
+          {
+            "en": "Estimated [Lightning] Damage Reduction against [HitDamage|Hits]",
+            "zh": "对[HitDamage|击中]的预期[Lightning|闪电]伤害减免"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EstimateLightningReductionVsHitsRangeTop",
+      "index": 30,
+      "columns": {
+        "Text": [
+          {
+            "en": "Estimated [Lightning] Damage Reduction against [HitDamage|Hits]",
+            "zh": "对[HitDamage|击中]的预期[Lightning|闪电]伤害减免"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ArmourVsChaosTop",
+      "index": 31,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Armour] applying to [Chaos] Damage",
+            "zh": "[Armour|护甲]作用于[Chaos|混沌]伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EstimateChaosReductionVsHitsTop",
+      "index": 32,
+      "columns": {
+        "Text": [
+          {
+            "en": "Estimated [Chaos] Damage Reduction against [HitDamage|Hits]",
+            "zh": "对[HitDamage|击中]的预期[Chaos|混沌]伤害减免"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EvasionRatingTopPopup",
+      "index": 33,
+      "columns": {
+        "Text": [
+          {
+            "en": "Evasion Rating",
+            "zh": "闪避值"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EvadeChanceTop",
+      "index": 34,
+      "columns": {
+        "Text": [
+          {
+            "en": "Evasion",
+            "zh": "闪避"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EvadeChanceTopPopup",
+      "index": 35,
+      "columns": {
+        "Text": [
+          {
+            "en": "Estimated Evasion Chance",
+            "zh": "预期闪避几率"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EvadeChanceEffectiveTopPopup",
+      "index": 36,
+      "columns": {
+        "Text": [
+          {
+            "en": "Estimated [EffectiveChance|Effective chance] to [Evasion|Evade]",
+            "zh": "预期[EffectiveChance|实际][Evasion|闪避]几率"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BlockChanceTop",
+      "index": 37,
+      "columns": {
+        "Text": [
+          {
+            "en": "Block",
+            "zh": "格挡"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BlockChanceTopPopup",
+      "index": 38,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Block] Chance",
+            "zh": "[Block|格挡]几率"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BlockChanceEffectiveTopPopup",
+      "index": 39,
+      "columns": {
+        "Text": [
+          {
+            "en": "[EffectiveChance|Effective] chance to [Block] [HitDamage|Damage]",
+            "zh": "[EffectiveChance|实际][Block|格挡][HitDamage|伤害]几率"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BlockChanceVsProjectilesTop",
+      "index": 40,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Block] Chance against [Projectile|Projectiles]",
+            "zh": "对[Projectile|投射物]的[Block|格挡]几率"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BlockChanceVsProjectilesEffectiveTop",
+      "index": 41,
+      "columns": {
+        "Text": [
+          {
+            "en": "[EffectiveChance|Effective Chance] to [Block] [Projectile] [HitDamage|Damage]",
+            "zh": "[EffectiveChance|实际][Block|格挡][Projectile|投射物][HitDamage|伤害]几率"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MaxBlockChanceTop",
+      "index": 42,
+      "columns": {
+        "Text": [
+          {
+            "en": "Maximum [Block] Chance",
+            "zh": "最大[Block|格挡]几率"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LifeStats",
+      "index": 43,
+      "columns": {
+        "Text": [
+          {
+            "en": "Maximum Life",
+            "zh": "生命上限"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LifeUnreserved",
+      "index": 44,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Reservation|Unreserved] maximum Life",
+            "zh": "[Reservation|未保留]生命上限"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LifeRecovery",
+      "index": 45,
+      "columns": {
+        "Text": [
+          {
+            "en": "Total Life Recovery per second",
+            "zh": "每秒生命总回复量"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LifeRecoveryRegen",
+      "index": 46,
+      "columns": {
+        "Text": [
+          {
+            "en": "Life Recovery per second from Regeneration",
+            "zh": "来自再生的每秒生命回复"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LifeRecoveryRecharge",
+      "index": 47,
+      "columns": {
+        "Text": [
+          {
+            "en": "Life Recovery per second from [LifeRecharge|Recharge]",
+            "zh": "来自[LifeRecharge|充能]的每秒生命回复"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LifeRecoveryFlasks",
+      "index": 48,
+      "columns": {
+        "Text": [
+          {
+            "en": "Life Recovery per second from [Flask|Flasks]",
+            "zh": "来自[Flask|药剂]的每秒生命回复"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LifeRecoveryLeech",
+      "index": 49,
+      "columns": {
+        "Text": [
+          {
+            "en": "Life Recovery per second from [Leech]",
+            "zh": "来自[Leech|偷取]的每秒生命回复"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LifeRecoveryOther",
+      "index": 50,
+      "columns": {
+        "Text": [
+          {
+            "en": "Life Recovery per second from other sources",
+            "zh": "其他来源的每秒生命回复"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LifeRecoup",
+      "index": 51,
+      "columns": {
+        "Text": [
+          {
+            "en": "Damage taken [Recoup|Recouped] as Life",
+            "zh": "受到的伤害[Recoup|吸纳]为生命"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ManaStats",
+      "index": 53,
+      "columns": {
+        "Text": [
+          {
+            "en": "Mana",
+            "zh": "魔力"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ManaUnreserved",
+      "index": 54,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Reservation|Unreserved] Mana",
+            "zh": "[Reservation|未保留]魔力"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ManaRecovery",
+      "index": 55,
+      "columns": {
+        "Text": [
+          {
+            "en": "Total Mana Recovery per second",
+            "zh": "每秒魔力总回复量"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ManaRecoveryRegen",
+      "index": 56,
+      "columns": {
+        "Text": [
+          {
+            "en": "Mana Recovery per second from Regeneration",
+            "zh": "来自再生的每秒魔力回复"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ManaRecoveryFlasks",
+      "index": 57,
+      "columns": {
+        "Text": [
+          {
+            "en": "Mana Recovery per second from [Flask|Flasks]",
+            "zh": "来自[Flask|药剂]的每秒魔力回复"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ManaRecoveryLeech",
+      "index": 58,
+      "columns": {
+        "Text": [
+          {
+            "en": "Mana Recovery per second from [ManaLeech|Leech]",
+            "zh": "来自[ManaLeech|偷取]的每秒魔力回复"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ManaRecoveryOther",
+      "index": 59,
+      "columns": {
+        "Text": [
+          {
+            "en": "Mana Recovery per second from other sources",
+            "zh": "其他来源的每秒魔力回复"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ManaRecoup",
+      "index": 60,
+      "columns": {
+        "Text": [
+          {
+            "en": "Damage taken [Recoup|Recouped] as Mana",
+            "zh": "受到的伤害[Recoup|吸纳]为魔力"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EnergyShieldStats",
+      "index": 61,
+      "columns": {
+        "Text": [
+          {
+            "en": "Maximum [EnergyShield|Energy Shield]",
+            "zh": "[EnergyShield|能量护盾]上限"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EnergyShieldRecharge",
+      "index": 62,
+      "columns": {
+        "Text": [
+          {
+            "en": "[EnergyShield|Energy Shield] [ESRecharge|Recharge] per Second",
+            "zh": "每秒[EnergyShield|能量护盾][ESRecharge|充能]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EnergyShieldDelay",
+      "index": 63,
+      "columns": {
+        "Text": [
+          {
+            "en": "[EnergyShield|Energy Shield] [ESRecharge|Recharge] delay",
+            "zh": "[EnergyShield|能量护盾][ESRecharge|充能]延迟"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EnergyShieldRecovery",
+      "index": 64,
+      "columns": {
+        "Text": [
+          {
+            "en": "Total [EnergyShield|Energy Shield] Recovery per second",
+            "zh": "每秒[EnergyShield|能量护盾]总回复量"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EnergyShieldRecoveryRegen",
+      "index": 65,
+      "columns": {
+        "Text": [
+          {
+            "en": "[EnergyShield|Energy Shield] Recovery per second from Regeneration",
+            "zh": "来自再生的每秒[EnergyShield|能量护盾]回复"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EnergyShieldRecoveryRecharge",
+      "index": 66,
+      "columns": {
+        "Text": [
+          {
+            "en": "[EnergyShield|Energy Shield] Recovery per second from [ESRecharge|Recharge]",
+            "zh": "来自[ESRecharge|充能]的每秒[EnergyShield|能量护盾]回复"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EnergyShieldRecoveryFlasks",
+      "index": 67,
+      "columns": {
+        "Text": [
+          {
+            "en": "[EnergyShield|Energy Shield] Recovery per second from [Flask|Flasks]",
+            "zh": "来自[Flask|药剂]的每秒[EnergyShield|能量护盾]回复"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EnergyShieldRecoveryLeech",
+      "index": 68,
+      "columns": {
+        "Text": [
+          {
+            "en": "[EnergyShield|Energy Shield] Recovery per second from [EnergyShieldLeech|Leech]",
+            "zh": "来自[EnergyShieldLeech|偷取]的每秒[EnergyShield|能量护盾]回复"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ItemEnergyShield",
+      "index": 69,
+      "columns": {
+        "Text": [
+          {
+            "en": "[ItemEnergyShield|Item Energy Shield]",
+            "zh": "[ItemEnergyShield|物品能量护盾]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ArmourStats",
+      "index": 70,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Armour]",
+            "zh": "[Armour|护甲]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ArmourVsPhys",
+      "index": 71,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Armour] applying to [Physical] Damage",
+            "zh": "[Armour|护甲]作用于[Physical|物理]伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ArmourAdditionalPhysReduction",
+      "index": 72,
+      "columns": {
+        "Text": [
+          {
+            "en": "Additional [Physical] Damage Reduction",
+            "zh": "额外[Physical|物理]伤害减免"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EstimatePhysReduction",
+      "index": 73,
+      "columns": {
+        "Text": [
+          {
+            "en": "Estimated [Physical] Damage Reduction",
+            "zh": "预期[Physical|物理]伤害减免"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EstimatePhysReductionRange",
+      "index": 74,
+      "columns": {
+        "Text": [
+          {
+            "en": "Estimated [Physical] Damage Reduction",
+            "zh": "预期[Physical|物理]伤害减免"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EstimatePhysReductionVsHits",
+      "index": 75,
+      "columns": {
+        "Text": [
+          {
+            "en": "Estimated [Physical] Damage Reduction against [HitDamage|Hits]",
+            "zh": "对[HitDamage|击中]的预期[Physical|物理]伤害减免"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EstimatePhysReductionVsHitsRange",
+      "index": 76,
+      "columns": {
+        "Text": [
+          {
+            "en": "Estimated [Physical] Damage Reduction against [HitDamage|Hits]",
+            "zh": "对[HitDamage|击中]的预期[Physical|物理]伤害减免"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ArmourVsElemental",
+      "index": 77,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Armour] applying to [ElementalDamage|Elemental] Damage",
+            "zh": "[Armour|护甲]作用于[ElementalDamage|元素]伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EstimateElementalReductionVsHits",
+      "index": 78,
+      "columns": {
+        "Text": [
+          {
+            "en": "Estimated [ElementalDamage|Elemental] Damage reduction against [HitDamage|Hits]",
+            "zh": "对[HitDamage|击中]的预期[ElementalDamage|元素]伤害减免"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EstimateElementalReductionVsHitsRange",
+      "index": 79,
+      "columns": {
+        "Text": [
+          {
+            "en": "Estimated [ElementalDamage|Elemental] Damage reduction against [HitDamage|Hits]",
+            "zh": "对[HitDamage|击中]的预期[ElementalDamage|元素]伤害减免"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ArmourVsFire",
+      "index": 80,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Armour] applying to [Fire] Damage",
+            "zh": "[Armour|护甲]作用于[Fire|火焰]伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EstimateFireReductionVsHits",
+      "index": 81,
+      "columns": {
+        "Text": [
+          {
+            "en": "Estimated [Fire] Damage Reduction against [HitDamage|Hits]",
+            "zh": "对[HitDamage|击中]的预期[Fire|火焰]伤害减免"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EstimateFireReductionVsHitsRange",
+      "index": 82,
+      "columns": {
+        "Text": [
+          {
+            "en": "Estimated [Fire] Damage Reduction against [HitDamage|Hits]",
+            "zh": "对[HitDamage|击中]的预期[Fire|火焰]伤害减免"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ArmourVsCold",
+      "index": 83,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Armour] applying to [Cold] Damage",
+            "zh": "[Armour|护甲]作用于[Cold|冰霜]伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EstimateColdReductionVsHits",
+      "index": 84,
+      "columns": {
+        "Text": [
+          {
+            "en": "Estimated [Cold] Damage Reduction against [HitDamage|Hits]",
+            "zh": "对[HitDamage|击中]的预期[Cold|冰霜]伤害减免"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EstimateColdReductionVsHitsRange",
+      "index": 85,
+      "columns": {
+        "Text": [
+          {
+            "en": "Estimated [Cold] Damage Reduction against [HitDamage|Hits]",
+            "zh": "对[HitDamage|击中]的预期[Cold|冰霜]伤害减免"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ArmourVsLightning",
+      "index": 86,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Armour] applying to [Lightning] Damage",
+            "zh": "[Armour|护甲]作用于[Lightning|闪电]伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EstimateLightningReductionVsHits",
+      "index": 87,
+      "columns": {
+        "Text": [
+          {
+            "en": "Estimated [Lightning] Damage Reduction against [HitDamage|Hits]",
+            "zh": "对[HitDamage|击中]的预期[Lightning|闪电]伤害减免"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EstimateLightningReductionVsHitsRange",
+      "index": 88,
+      "columns": {
+        "Text": [
+          {
+            "en": "Estimated [Lightning] Damage Reduction against [HitDamage|Hits]",
+            "zh": "对[HitDamage|击中]的预期[Lightning|闪电]伤害减免"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ArmourVsChaos",
+      "index": 89,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Armour] applying to [Chaos] Damage",
+            "zh": "[Armour|护甲]作用于[Chaos|混沌]伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EstimateChaosReductionVsHits",
+      "index": 90,
+      "columns": {
+        "Text": [
+          {
+            "en": "Estimated [Chaos] Damage Reduction against [HitDamage|Hits]",
+            "zh": "对[HitDamage|击中]的预期[Chaos|混沌]伤害减免"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ItemArmour",
+      "index": 91,
+      "columns": {
+        "Text": [
+          {
+            "en": "[ItemArmour|Item Armour]",
+            "zh": "[ItemArmour|物品护甲]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EvasionRating",
+      "index": 92,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Evasion] Rating",
+            "zh": "[Evasion|闪避]值"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EvadeChance",
+      "index": 93,
+      "columns": {
+        "Text": [
+          {
+            "en": "Estimated chance to [Evasion|Evade]",
+            "zh": "预期[Evasion|闪避]几率"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EvadeChanceEffective",
+      "index": 94,
+      "columns": {
+        "Text": [
+          {
+            "en": "Estimated [EffectiveChance|Effective] chance to [Evasion|Evade]",
+            "zh": "预期[EffectiveChance|实际][Evasion|闪避]几率"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ItemEvasion",
+      "index": 95,
+      "columns": {
+        "Text": [
+          {
+            "en": "[ItemEvasion|Item Evasion]",
+            "zh": "[ItemEvasion|物品闪避]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DeflectionRating",
+      "index": 96,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Deflect|Deflection] Rating",
+            "zh": "[Deflect|偏转]值"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DeflectChance",
+      "index": 97,
+      "columns": {
+        "Text": [
+          {
+            "en": "Estimated chance to [Deflect]",
+            "zh": "预期[Deflect|偏转]几率"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DeflectChanceEstimate",
+      "index": 98,
+      "columns": {
+        "Text": [
+          {
+            "en": "Estimated [EffectiveChance|Effective] chance to [Deflect]",
+            "zh": "预期[EffectiveChance|实际][Deflect|偏转]几率"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DeflectedDamage",
+      "index": 99,
+      "columns": {
+        "Text": [
+          {
+            "en": "Damage Prevented by [Deflect|Deflection]",
+            "zh": "[Deflect|偏转]防止的伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Ward",
+      "index": 100,
+      "columns": {
+        "Text": [
+          {
+            "en": "Maximum [Ward|Runic Ward]",
+            "zh": "最大[Ward|符文结界]值"
+          }
+        ]
+      }
+    },
+    {
+      "id": "WardRecovery",
+      "index": 101,
+      "columns": {
+        "Text": [
+          {
+            "en": "Total [Ward|Runic Ward] Recovery per second",
+            "zh": "[Ward|符文结界]每秒回复总量"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BlockChance",
+      "index": 102,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Block] Chance",
+            "zh": "[Block|格挡]几率"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BlockChanceEffective",
+      "index": 103,
+      "columns": {
+        "Text": [
+          {
+            "en": "[EffectiveChance|Effective Chance] to [Block] [HitDamage|Damage]",
+            "zh": "[EffectiveChance|实际][Block|格挡][HitDamage|伤害]几率"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BlockChanceVsProjectiles",
+      "index": 104,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Block] Chance against [Projectile|Projectiles]",
+            "zh": "对[Projectile|投射物]的[Block|格挡]几率"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BlockChanceVsProjectilesEffective",
+      "index": 105,
+      "columns": {
+        "Text": [
+          {
+            "en": "[EffectiveChance|Effective Chance] to [Block] [Projectile] [HitDamage|Damage]",
+            "zh": "[EffectiveChance|实际][Block|格挡][Projectile|投射物][HitDamage|伤害]几率"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BlockRec",
+      "index": 106,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Block] Recovery modifier",
+            "zh": "[Block|格挡]回复修正"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ChaosResistAgainstDegen",
+      "index": 111,
+      "columns": {
+        "Text": [
+          {
+            "en": "Chaos Resistance against Damage over time",
+            "zh": "对持续混沌伤害抗性"
+          }
+        ]
+      }
+    },
+    {
+      "id": "StunRec",
+      "index": 121,
+      "columns": {
+        "Text": [
+          {
+            "en": "[StunRecovery|Stun Recovery] modifier",
+            "zh": "[StunRecovery|晕眩回复]修正"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AilmentThreshold",
+      "index": 122,
+      "columns": {
+        "Text": [
+          {
+            "en": "[AilmentThreshold|Elemental Ailment Threshold]",
+            "zh": "[AilmentThreshold|元素异常状态阈值]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BleedingDurationRed",
+      "index": 125,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Bleeding] duration on self",
+            "zh": "受到[Bleeding|流血]时间"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SelfIgniteDuration",
+      "index": 128,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Ignite] duration on self",
+            "zh": "受到[Ignite|点燃]时间"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ChillDurationRed",
+      "index": 131,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Chill] duration on self",
+            "zh": "受到[Chill|冰缓]时间"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SelfFreezeDuration",
+      "index": 134,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Freeze] duration on self",
+            "zh": "受到[Freeze|冻结]时间"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SelfShockDuration",
+      "index": 137,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Shock] duration on self",
+            "zh": "受到[Shock|感电]时间"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PoisonDurationRed",
+      "index": 140,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Poison] duration on self",
+            "zh": "受到[Poison|中毒]时间"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MaximumRage",
+      "index": 141,
+      "columns": {
+        "Text": [
+          {
+            "en": "Maximum [Rage]",
+            "zh": "最大[Rage|怒火]值"
+          }
+        ]
+      }
+    },
+    {
+      "id": "RageLossDelay",
+      "index": 142,
+      "columns": {
+        "Text": [
+          {
+            "en": "Inherent [Rage] loss delay",
+            "zh": "固有[Rage|怒火]流失延迟"
+          }
+        ]
+      }
+    },
+    {
+      "id": "RageLossRate",
+      "index": 143,
+      "columns": {
+        "Text": [
+          {
+            "en": "Inherent [Rage] loss per second",
+            "zh": "固有[Rage|怒火]每秒流失"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PhysicalTakenAsFire",
+      "index": 156,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Physical] damage from [HitDamage|Hits] taken as [Fire]",
+            "zh": "受到的[HitDamage|击中][Physical|物理]伤害视作[Fire|火焰]伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PhysicalTakenAsCold",
+      "index": 157,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Physical] damage from [HitDamage|Hits] taken as [Cold]",
+            "zh": "受到的[HitDamage|击中][Physical|物理]伤害视作[Cold|冰霜]伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PhysicalTakenAsLightning",
+      "index": 158,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Physical] damage from [HitDamage|Hits] taken as [Lightning]",
+            "zh": "受到的[HitDamage|击中][Physical|物理]伤害视作[Lightning|闪电]伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PhysicalTakenAsChaos",
+      "index": 159,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Physical] damage from [HitDamage|Hits] taken as [Chaos]",
+            "zh": "受到的[HitDamage|击中][Physical|物理]伤害视作[Chaos|混沌]伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PhysicalTakenAsRandomElement",
+      "index": 160,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Physical] damage from [HitDamage|Hits] taken as damage of a Random Element",
+            "zh": "受到的[HitDamage|击中][Physical|物理]伤害视作随机元素伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FireTakenAsPhysical",
+      "index": 161,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Fire] damage from [HitDamage|Hits] taken as [Physical]",
+            "zh": "受到的[HitDamage|击中][Fire|火焰]伤害视作[Physical|物理]伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FireTakenAsCold",
+      "index": 162,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Fire] damage from [HitDamage|Hits] taken as [Cold]",
+            "zh": "受到的[HitDamage|击中][Fire|火焰]伤害视作[Cold|冰霜]伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FireTakenAsLightning",
+      "index": 163,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Fire] damage from [HitDamage|Hits] taken as [Lightning]",
+            "zh": "受到的[HitDamage|击中][Fire|火焰]伤害视作[Lightning|闪电]伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FireTakenAsChaos",
+      "index": 164,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Fire] damage from [HitDamage|Hits] taken as [Chaos]",
+            "zh": "受到的[HitDamage|击中][Fire|火焰]伤害视作[Chaos|混沌]伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ColdTakenAsFire",
+      "index": 165,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Cold] damage from [HitDamage|Hits] taken as [Fire]",
+            "zh": "受到的[HitDamage|击中][Cold|冰霜]伤害视作[Fire|火焰]伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ColdTakenAsLightning",
+      "index": 166,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Cold] damage from [HitDamage|Hits] taken as [Lightning]",
+            "zh": "受到的[HitDamage|击中][Cold|冰霜]伤害视作[Lightning|闪电]伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ColdTakenAsChaos",
+      "index": 167,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Cold] damage from [HitDamage|Hits] taken as [Chaos]",
+            "zh": "受到的[HitDamage|击中][Cold|冰霜]伤害视作[Chaos|混沌]伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LightningTakenAsFire",
+      "index": 168,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Lightning] damage from [HitDamage|Hits] taken as [Fire]",
+            "zh": "受到的[HitDamage|击中][Lightning|闪电]伤害视作[Fire|火焰]伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LightningTakenAsCold",
+      "index": 169,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Lightning] damage from [HitDamage|Hits] taken as [Cold]",
+            "zh": "受到的[HitDamage|击中][Lightning|闪电]伤害视作[Cold|冰霜]伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LightningTakenAsChaos",
+      "index": 170,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Lightning] damage from [HitDamage|Hits] taken as [Chaos]",
+            "zh": "受到的[HitDamage|击中][Lightning|闪电]伤害视作[Chaos|混沌]伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DamageTaken",
+      "index": 171,
+      "columns": {
+        "Text": [
+          {
+            "en": "Damage taken modifier",
+            "zh": "受到伤害修正"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DamageTakenFinal",
+      "index": 172,
+      "columns": {
+        "Text": [
+          {
+            "en": "Damage taken modifier",
+            "zh": "受到伤害修正"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DamageTakenWhenHit",
+      "index": 173,
+      "columns": {
+        "Text": [
+          {
+            "en": "Damage taken when [HitDamage|Hit] modifier",
+            "zh": "受到[HitDamage|击中]伤害修正"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DamageTakenWhenHitFinal",
+      "index": 174,
+      "columns": {
+        "Text": [
+          {
+            "en": "Damage taken when [HitDamage|Hit] modifier",
+            "zh": "受到[HitDamage|击中]伤害修正"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DamageTakenOverTime",
+      "index": 175,
+      "columns": {
+        "Text": [
+          {
+            "en": "Damage taken over time modifier",
+            "zh": "受到持续伤害修正"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DamageTakenOverTimeFinal",
+      "index": 176,
+      "columns": {
+        "Text": [
+          {
+            "en": "Damage taken over time modifier",
+            "zh": "受到持续伤害修正"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PhysicalDamageTaken",
+      "index": 177,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Physical] damage taken modifier",
+            "zh": "受到[Physical|物理]伤害修正"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PhysicalDamageTakenFinal",
+      "index": 178,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Physical] damage taken modifier",
+            "zh": "受到[Physical|物理]伤害修正"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PhysicalDamageTakenWhenHit",
+      "index": 179,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Physical] damage taken when [HitDamage|Hit] modifier",
+            "zh": "受到[HitDamage|击中][Physical|物理]伤害修正"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PhysicalDamageTakenWhenHitFinal",
+      "index": 180,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Physical] damage taken when [HitDamage|Hit] modifier",
+            "zh": "受到[HitDamage|击中][Physical|物理]伤害修正"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PhysicalDamageTakenOverTime",
+      "index": 181,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Physical] damage taken over time modifier",
+            "zh": "受到持续[Physical|物理]伤害修正"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PhysicalDamageTakenOverTimeFinal",
+      "index": 182,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Physical] damage taken over time modifier",
+            "zh": "受到持续[Physical|物理]伤害修正"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FireDamageTaken",
+      "index": 183,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Fire] damage taken modifier",
+            "zh": "受到[Fire|火焰]伤害修正"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FireDamageTakenFinal",
+      "index": 184,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Fire] damage taken modifier",
+            "zh": "受到[Fire|火焰]伤害修正"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FireDamageTakenWhenHit",
+      "index": 185,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Fire] damage taken when [HitDamage|Hit] modifier",
+            "zh": "受到[HitDamage|击中][Fire|火焰]伤害修正"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FireDamageTakenWhenHitFinal",
+      "index": 186,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Fire] damage taken when [HitDamage|Hit] modifier",
+            "zh": "受到[HitDamage|击中][Fire|火焰]伤害修正"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FireDamageTakenOverTime",
+      "index": 187,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Fire] damage taken over time modifier",
+            "zh": "受到持续[Fire|火焰]伤害修正"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FireDamageTakenOverTimeFinal",
+      "index": 188,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Fire] damage taken over time modifier",
+            "zh": "受到持续[Fire|火焰]伤害修正"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ColdDamageTaken",
+      "index": 189,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Cold] damage taken modifier",
+            "zh": "受到[Cold|冰霜]伤害修正"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ColdDamageTakenFinal",
+      "index": 190,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Cold] damage taken modifier",
+            "zh": "受到[Cold|冰霜]伤害修正"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ColdDamageTakenWhenHit",
+      "index": 191,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Cold] damage taken when [HitDamage|Hit] modifier",
+            "zh": "受到[HitDamage|击中][Cold|冰霜]伤害修正"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ColdDamageTakenWhenHitFinal",
+      "index": 192,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Cold] damage taken when [HitDamage|Hit] modifier",
+            "zh": "受到[HitDamage|击中][Cold|冰霜]伤害修正"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ColdDamageTakenOverTime",
+      "index": 193,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Cold] damage taken over time modifier",
+            "zh": "受到持续[Cold|冰霜]伤害修正"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ColdDamageTakenOverTimeFinal",
+      "index": 194,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Cold] damage taken over time modifier",
+            "zh": "受到持续[Cold|冰霜]伤害修正"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LightningDamageTaken",
+      "index": 195,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Lightning] damage taken modifier",
+            "zh": "受到[Lightning|闪电]伤害修正"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LightningDamageTakenFinal",
+      "index": 196,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Lightning] damage taken modifier",
+            "zh": "受到[Lightning|闪电]伤害修正"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LightningDamageTakenWhenHit",
+      "index": 197,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Lightning] damage taken when [HitDamage|Hit] modifier",
+            "zh": "受到[HitDamage|击中][Lightning|闪电]伤害修正"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LightningDamageTakenWhenHitFinal",
+      "index": 198,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Lightning] damage taken when [HitDamage|Hit] modifier",
+            "zh": "受到[HitDamage|击中][Lightning|闪电]伤害修正"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LightningDamageTakenOverTime",
+      "index": 199,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Lightning] damage taken over time modifier",
+            "zh": "受到持续[Lightning|闪电]伤害修正"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LightningDamageTakenOverTimeFinal",
+      "index": 200,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Lightning] damage taken over time modifier",
+            "zh": "受到持续[Lightning|闪电]伤害修正"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ChaosDamageTaken",
+      "index": 201,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Chaos] damage taken modifier",
+            "zh": "受到[Chaos|混沌]伤害修正"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ChaosDamageTakenFinal",
+      "index": 202,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Chaos] damage taken modifier",
+            "zh": "受到[Chaos|混沌]伤害修正"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ChaosDamageTakenWhenHit",
+      "index": 203,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Chaos] damage taken when [HitDamage|Hit] modifier",
+            "zh": "受到[HitDamage|击中][Chaos|混沌]伤害修正"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ChaosDamageTakenWhenHitFinal",
+      "index": 204,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Chaos] damage taken when [HitDamage|Hit] modifier",
+            "zh": "受到[HitDamage|击中][Chaos|混沌]伤害修正"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ChaosDamageTakenOverTime",
+      "index": 205,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Chaos] damage taken over time modifier",
+            "zh": "受到持续[Chaos|混沌]伤害修正"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ChaosDamageTakenOverTimeFinal",
+      "index": 206,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Chaos] damage taken over time modifier",
+            "zh": "受到持续[Chaos|混沌]伤害修正"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DamageTakenReflected",
+      "index": 207,
+      "columns": {
+        "Text": [
+          {
+            "en": "Additional Reflected damage taken modifier",
+            "zh": "受到额外反射伤害修正"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CannotTakeReflectedPhysicalDamage",
+      "index": 208,
+      "columns": {
+        "Text": [
+          {
+            "en": "Cannot take Reflected [Physical] damage",
+            "zh": "不会受到反射[Physical|物理]伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PhysicalDamageTakenReflected",
+      "index": 209,
+      "columns": {
+        "Text": [
+          {
+            "en": "Additional Reflected [Physical] damage taken modifier",
+            "zh": "受到额外反射[Physical|物理]伤害修正"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CannotTakeReflectedElementalDamage",
+      "index": 210,
+      "columns": {
+        "Text": [
+          {
+            "en": "Cannot take Reflected [ElementalDamage|Elemental] damage",
+            "zh": "不会受到反射[ElementalDamage|元素]伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FireDamageTakenReflected",
+      "index": 211,
+      "columns": {
+        "Text": [
+          {
+            "en": "Additional Reflected [Fire] damage taken modifier",
+            "zh": "受到额外反射[Fire|火焰]伤害修正"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ColdDamageTakenReflected",
+      "index": 212,
+      "columns": {
+        "Text": [
+          {
+            "en": "Additional Reflected [Cold] damage taken modifier",
+            "zh": "受到额外反射[Cold|冰霜]伤害修正"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LightningDamageTakenReflected",
+      "index": 213,
+      "columns": {
+        "Text": [
+          {
+            "en": "Additional Reflected [Lightning] damage taken modifier",
+            "zh": "受到额外反射[Lightning|闪电]伤害修正"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ChaosDamageTakenReflected",
+      "index": 214,
+      "columns": {
+        "Text": [
+          {
+            "en": "Additional Reflected [Chaos] damage taken modifier",
+            "zh": "受到额外反射[Chaos|混沌]伤害修正"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SpellDamageTaken",
+      "index": 215,
+      "columns": {
+        "Text": [
+          {
+            "en": "Additional [Spell] damage taken modifier",
+            "zh": "受到额外[Spell|法术]伤害修正"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AreaDamageTakenFromHits",
+      "index": 216,
+      "columns": {
+        "Text": [
+          {
+            "en": "Additional Area damage taken when [HitDamage|Hit] modifier",
+            "zh": "受到[HitDamage|击中]范围伤害修正"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MeleeDamageTaken",
+      "index": 217,
+      "columns": {
+        "Text": [
+          {
+            "en": "Additional damage taken from [Melee] [Attack|Attacks] modifier",
+            "zh": "受到[Melee|近战][Attack|攻击]伤害修正"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ProjectileDamageTaken",
+      "index": 218,
+      "columns": {
+        "Text": [
+          {
+            "en": "Additional damage taken from [Projectile|Projectiles] modifier",
+            "zh": "受到[Projectile|投射物]伤害修正"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AttackProjectileDamageTaken",
+      "index": 219,
+      "columns": {
+        "Text": [
+          {
+            "en": "Additional damage taken from [Projectile] [Attack|Attacks] modifier",
+            "zh": "受到[Projectile|投射物][Attack|攻击]伤害修正"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DamageRemovedFromManaBeforeLife",
+      "index": 220,
+      "columns": {
+        "Text": [
+          {
+            "en": "Damage taken from Mana before Life",
+            "zh": "优先从魔力扣除的伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PhysicalDamageRemovedFromManaBeforeLife",
+      "index": 221,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Physical] damage taken from Mana before Life",
+            "zh": "优先从魔力扣除的[Physical|物理]伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FireDamageRemovedFromManaBeforeLife",
+      "index": 222,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Fire] damage taken from Mana before Life",
+            "zh": "优先从魔力扣除的[Fire|火焰]伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ColdDamageRemovedFromManaBeforeLife",
+      "index": 223,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Cold] damage taken from Mana before Life",
+            "zh": "优先从魔力扣除的[Cold|冰霜]伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LightningDamageRemovedFromManaBeforeLife",
+      "index": 224,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Lightning] damage taken from Mana before Life",
+            "zh": "优先从魔力扣除的[Lightning|闪电]伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ChaosDamageRemovedFromManaBeforeLife",
+      "index": 225,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Chaos] damage taken from Mana before Life",
+            "zh": "优先从魔力扣除的[Chaos|混沌]伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PhysicalDamageBypassesEnergyShield",
+      "index": 226,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Physical] damage bypasses [EnergyShield|Energy Shield]",
+            "zh": "穿透[EnergyShield|能量护盾]的[Physical|物理]伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FireDamageBypassesEnergyShield",
+      "index": 227,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Fire] damage bypasses [EnergyShield|Energy Shield]",
+            "zh": "穿透[EnergyShield|能量护盾]的[Fire|火焰]伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ColdDamageBypassesEnergyShield",
+      "index": 228,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Cold] damage bypasses [EnergyShield|Energy Shield]",
+            "zh": "穿透[EnergyShield|能量护盾]的[Cold|冰霜]伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LightningDamageBypassesEnergyShield",
+      "index": 229,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Lightning] damage bypasses [EnergyShield|Energy Shield]",
+            "zh": "穿透[EnergyShield|能量护盾]的[Lightning|闪电]伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ChaosDamageDamagesEnergyShield",
+      "index": 230,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Chaos] damage bypasses [EnergyShield|Energy Shield]",
+            "zh": "穿透[EnergyShield|能量护盾]的[Chaos|混沌]伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FlaskDuration",
+      "index": 231,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Flask] duration modifier",
+            "zh": "[Flask|药剂]持续时间修正"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FlaskRate",
+      "index": 232,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Flask] Recovery rate modifier",
+            "zh": "[Flask|药剂]回复速度修正"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FlaskLifeAmount",
+      "index": 233,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Flask] Life amount modifier",
+            "zh": "[Flask|药剂]生命回复量修正"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FlaskLifeSpeed",
+      "index": 234,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Flask] Life Recovery rate modifier",
+            "zh": "[Flask|药剂]生命回复速度修正"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FlaskManaAmount",
+      "index": 235,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Flask] Mana amount modifier",
+            "zh": "[Flask|药剂]魔力回复量修正"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FlaskManaSpeed",
+      "index": 236,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Flask] Mana Recovery rate modifier",
+            "zh": "[Flask|药剂]魔力回复速度修正"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FlaskChargesUsed",
+      "index": 237,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Flask] Charges used modifier",
+            "zh": "[Flask|药剂]充能使用数修正"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FlaskChargesGained",
+      "index": 238,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Flask] Charges gained modifier",
+            "zh": "[Flask|药剂]充能获取率修正"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FlaskChargesPerSecond",
+      "index": 239,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Flask] Charges gained per second",
+            "zh": "每秒[Flask|药剂]充能获取"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CharmDuration",
+      "index": 240,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Charm] duration modifier",
+            "zh": "[Charm|咒符]持续时间修正"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CharmChargesUsed",
+      "index": 241,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Charm] Charges used modifier",
+            "zh": "[Charm|咒符]充能使用数修正"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CharmChargesGained",
+      "index": 242,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Charm] Charges gained modifier",
+            "zh": "[Charm|咒符]充能获取率修正"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CharmChargesPerSecond",
+      "index": 243,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Charm] Charges gained per second",
+            "zh": "每秒[Charm|咒符]充能获取"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MaxPowerCharges",
+      "index": 244,
+      "columns": {
+        "Text": [
+          {
+            "en": "Maximum [Charges|Power Charges]",
+            "zh": "[Charges|暴击球]最大数量"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MaxFrenzyCharges",
+      "index": 245,
+      "columns": {
+        "Text": [
+          {
+            "en": "Maximum [Charges|Frenzy Charges]",
+            "zh": "[Charges|狂怒球]最大数量"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MaxEnduranceCharges",
+      "index": 246,
+      "columns": {
+        "Text": [
+          {
+            "en": "Maximum [Charges|Endurance Charges]",
+            "zh": "[Charges|耐力球]最大数量"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MaxFireInfusions",
+      "index": 247,
+      "columns": {
+        "Text": [
+          {
+            "en": "Maximum [ElementalInfusion|Fire Infusions]",
+            "zh": "[ElementalInfusion|火焰灌注]最大数量"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MaxColdInfusions",
+      "index": 248,
+      "columns": {
+        "Text": [
+          {
+            "en": "Maximum [ElementalInfusion|Cold Infusions]",
+            "zh": "[ElementalInfusion|冰霜灌注]最大数量"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MaxLightningInfusions",
+      "index": 249,
+      "columns": {
+        "Text": [
+          {
+            "en": "Maximum [ElementalInfusion|Lightning Infusions]",
+            "zh": "[ElementalInfusion|闪电灌注]最大数量"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Presence",
+      "index": 250,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Presence] range",
+            "zh": "[Presence|在场]范围"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MoveSpeed",
+      "index": 251,
+      "columns": {
+        "Text": [
+          {
+            "en": "Movement speed modifier",
+            "zh": "移动速度修正"
+          }
+        ]
+      }
+    },
+    {
+      "id": "WeaponSwapDuration",
+      "index": 252,
+      "columns": {
+        "Text": [
+          {
+            "en": "Weapon Swap Time",
+            "zh": "武器切换时间"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EnemyCritReduce",
+      "index": 253,
+      "columns": {
+        "Text": [
+          {
+            "en": "Enemy [CriticalDamageBonus|Critical Damage Bonus]",
+            "zh": "敌人[CriticalDamageBonus|暴击伤害加成]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Experience",
+      "index": 254,
+      "columns": {
+        "Text": [
+          {
+            "en": "Experience gain modifier",
+            "zh": "获得经验修正"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ExplodeOnLowLifeDamage",
+      "index": 255,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Fire] damage from Life for [LowLife|Low Life] explosion",
+            "zh": "[LowLife|低血]爆炸由生命造成的[Fire|火焰]伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DPSComparison",
+      "index": 257,
+      "columns": {
+        "Text": [
+          {
+            "en": "Damage per second",
+            "zh": "每秒伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SupportFeralInvocationEnergy",
+      "index": 328,
+      "columns": {
+        "Text": [
+          {
+            "en": "Feral Invocation [Energy] used when [Trigger|Triggered]",
+            "zh": "[Trigger|触发]时使用野性召唤[Energy|能量]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "WarcryEchoCount",
+      "index": 337,
+      "columns": {
+        "Text": [
+          {
+            "en": "Echo count",
+            "zh": "回声次数"
+          }
+        ]
+      }
+    },
+    {
+      "id": "WarcryEchoDelay",
+      "index": 338,
+      "columns": {
+        "Text": [
+          {
+            "en": "Echo delay",
+            "zh": "回声延迟"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AlignFateDelay",
+      "index": 340,
+      "columns": {
+        "Text": [
+          {
+            "en": "Delay between fates",
+            "zh": "命运同调间隔延迟"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MH_ShockMagnitude",
+      "index": 410,
+      "columns": {
+        "Text": [
+          {
+            "en": "Main Hand [Shock] [BuffMagnitude|Magnitude]",
+            "zh": "主手[Shock|感电][BuffMagnitude|强度]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MH_ShockDuration",
+      "index": 411,
+      "columns": {
+        "Text": [
+          {
+            "en": "Main Hand [Shock] duration",
+            "zh": "主手[Shock|感电]持续时间"
+          }
+        ]
+      }
+    },
+    {
+      "id": "OH_ShockMagnitude",
+      "index": 413,
+      "columns": {
+        "Text": [
+          {
+            "en": "Off Hand [Shock] [BuffMagnitude|Magnitude]",
+            "zh": "副手[Shock|感电][BuffMagnitude|强度]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "OH_ShockDuration",
+      "index": 414,
+      "columns": {
+        "Text": [
+          {
+            "en": "Off Hand [Shock] duration",
+            "zh": "副手[Shock|感电]持续时间"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MH_ChillDuration",
+      "index": 422,
+      "columns": {
+        "Text": [
+          {
+            "en": "Main Hand [Chill] duration",
+            "zh": "主手[Chill|冰缓]持续时间"
+          }
+        ]
+      }
+    },
+    {
+      "id": "OH_ChillDuration",
+      "index": 424,
+      "columns": {
+        "Text": [
+          {
+            "en": "Off Hand [Chill] duration",
+            "zh": "副手[Chill|冰缓]持续时间"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MH_LifeLeech",
+      "index": 469,
+      "columns": {
+        "Text": [
+          {
+            "en": "Main Hand Life Leech from Physical Damage",
+            "zh": "主手物理伤害生命偷取"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MH_LifeLeech_Fire",
+      "index": 470,
+      "columns": {
+        "Text": [
+          {
+            "en": "Main Hand Life Leech from Fire Damage",
+            "zh": "主手火焰伤害生命偷取"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MH_LifeLeech_Lightning",
+      "index": 471,
+      "columns": {
+        "Text": [
+          {
+            "en": "Main Hand Life Leech from Lightning Damage",
+            "zh": "主手闪电伤害生命偷取"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MH_LifeLeech_Cold",
+      "index": 472,
+      "columns": {
+        "Text": [
+          {
+            "en": "Main Hand Life Leech from Cold Damage",
+            "zh": "主手冰霜伤害生命偷取"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MH_LifeLeech_Chaos",
+      "index": 473,
+      "columns": {
+        "Text": [
+          {
+            "en": "Main Hand Life Leech from Chaos Damage",
+            "zh": "主手混沌伤害生命偷取"
+          }
+        ]
+      }
+    },
+    {
+      "id": "OH_LifeLeech",
+      "index": 474,
+      "columns": {
+        "Text": [
+          {
+            "en": "Off Hand Life Leech from Physical Damage",
+            "zh": "副手物理伤害生命偷取"
+          }
+        ]
+      }
+    },
+    {
+      "id": "OH_LifeLeech_Fire",
+      "index": 475,
+      "columns": {
+        "Text": [
+          {
+            "en": "Off Hand Life Leech from Fire Damage",
+            "zh": "副手火焰伤害生命偷取"
+          }
+        ]
+      }
+    },
+    {
+      "id": "OH_LifeLeech_Lightning",
+      "index": 476,
+      "columns": {
+        "Text": [
+          {
+            "en": "Off Hand Life Leech from Lightning Damage",
+            "zh": "副手闪电伤害生命偷取"
+          }
+        ]
+      }
+    },
+    {
+      "id": "OH_LifeLeech_Cold",
+      "index": 477,
+      "columns": {
+        "Text": [
+          {
+            "en": "Off Hand Life Leech from Cold Damage",
+            "zh": "副手冰霜伤害生命偷取"
+          }
+        ]
+      }
+    },
+    {
+      "id": "OH_LifeLeech_Chaos",
+      "index": 478,
+      "columns": {
+        "Text": [
+          {
+            "en": "Off Hand Life Leech from Chaos Damage",
+            "zh": "副手混沌伤害生命偷取"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MH_ManaLeech",
+      "index": 479,
+      "columns": {
+        "Text": [
+          {
+            "en": "Main Hand Mana Leech from Physical Damage",
+            "zh": "主手物理伤害魔力偷取"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MH_ManaLeech_Fire",
+      "index": 480,
+      "columns": {
+        "Text": [
+          {
+            "en": "Main Hand Mana Leech from Fire Damage",
+            "zh": "主手火焰伤害魔力偷取"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MH_ManaLeech_Lightning",
+      "index": 481,
+      "columns": {
+        "Text": [
+          {
+            "en": "Main Hand Mana Leech from Lightning Damage",
+            "zh": "主手闪电伤害魔力偷取"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MH_ManaLeech_Cold",
+      "index": 482,
+      "columns": {
+        "Text": [
+          {
+            "en": "Main Hand Mana Leech from Cold Damage",
+            "zh": "主手冰霜伤害魔力偷取"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MH_ManaLeech_Chaos",
+      "index": 483,
+      "columns": {
+        "Text": [
+          {
+            "en": "Main Hand Mana Leech from Chaos Damage",
+            "zh": "主手混沌伤害魔力偷取"
+          }
+        ]
+      }
+    },
+    {
+      "id": "OH_ManaLeech",
+      "index": 484,
+      "columns": {
+        "Text": [
+          {
+            "en": "Off Hand Mana Leech from Physical Damage",
+            "zh": "副手物理伤害魔力偷取"
+          }
+        ]
+      }
+    },
+    {
+      "id": "OH_ManaLeech_Fire",
+      "index": 485,
+      "columns": {
+        "Text": [
+          {
+            "en": "Off Hand Mana Leech from Fire Damage",
+            "zh": "副手火焰伤害魔力偷取"
+          }
+        ]
+      }
+    },
+    {
+      "id": "OH_ManaLeech_Lightning",
+      "index": 486,
+      "columns": {
+        "Text": [
+          {
+            "en": "Off Hand Mana Leech from Lightning Damage",
+            "zh": "副手闪电伤害魔力偷取"
+          }
+        ]
+      }
+    },
+    {
+      "id": "OH_ManaLeech_Cold",
+      "index": 487,
+      "columns": {
+        "Text": [
+          {
+            "en": "Off Hand Mana Leech from Cold Damage",
+            "zh": "副手冰霜伤害魔力偷取"
+          }
+        ]
+      }
+    },
+    {
+      "id": "OH_ManaLeech_Chaos",
+      "index": 488,
+      "columns": {
+        "Text": [
+          {
+            "en": "Off Hand Mana Leech from Chaos Damage",
+            "zh": "副手混沌伤害魔力偷取"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MH_ESLeech",
+      "index": 489,
+      "columns": {
+        "Text": [
+          {
+            "en": "Main Hand Energy Shield Leech from Physical Damage",
+            "zh": "主手物理伤害能量护盾偷取"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MH_ESLeech_Fire",
+      "index": 490,
+      "columns": {
+        "Text": [
+          {
+            "en": "Main Hand Energy Shield Leech from Fire Damage",
+            "zh": "主手火焰伤害能量护盾偷取"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MH_ESLeech_Lightning",
+      "index": 491,
+      "columns": {
+        "Text": [
+          {
+            "en": "Main Hand Energy Shield Leech from Lightning Damage",
+            "zh": "主手闪电伤害能量护盾偷取"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MH_ESLeech_Cold",
+      "index": 492,
+      "columns": {
+        "Text": [
+          {
+            "en": "Main Hand Energy Shield Leech from Cold Damage",
+            "zh": "主手冰霜伤害能量护盾偷取"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MH_ESLeech_Chaos",
+      "index": 493,
+      "columns": {
+        "Text": [
+          {
+            "en": "Main Hand Energy Shield Leech from Chaos Damage",
+            "zh": "主手混沌伤害能量护盾偷取"
+          }
+        ]
+      }
+    },
+    {
+      "id": "OH_ESLeech",
+      "index": 494,
+      "columns": {
+        "Text": [
+          {
+            "en": "Off Hand Energy Shield Leech from Physical Damage",
+            "zh": "副手物理伤害能量护盾偷取"
+          }
+        ]
+      }
+    },
+    {
+      "id": "OH_ESLeech_Fire",
+      "index": 495,
+      "columns": {
+        "Text": [
+          {
+            "en": "Off Hand Energy Shield Leech from Fire Damage",
+            "zh": "副手火焰伤害能量护盾偷取"
+          }
+        ]
+      }
+    },
+    {
+      "id": "OH_ESLeech_Lightning",
+      "index": 496,
+      "columns": {
+        "Text": [
+          {
+            "en": "Off Hand Energy Shield Leech from Lightning Damage",
+            "zh": "副手闪电伤害能量护盾偷取"
+          }
+        ]
+      }
+    },
+    {
+      "id": "OH_ESLeech_Chaos",
+      "index": 497,
+      "columns": {
+        "Text": [
+          {
+            "en": "Off Hand Energy Shield Leech from Cold Damage",
+            "zh": "副手冰霜伤害能量护盾偷取"
+          }
+        ]
+      }
+    },
+    {
+      "id": "OH_ESLeech_Cold",
+      "index": 498,
+      "columns": {
+        "Text": [
+          {
+            "en": "Off Hand Energy Shield Leech from Chaos Damage",
+            "zh": "副手混沌伤害能量护盾偷取"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MH_Blind",
+      "index": 503,
+      "columns": {
+        "Text": [
+          {
+            "en": "Main Hand chance to [Blind]",
+            "zh": "主手[Blind|致盲]率"
+          }
+        ]
+      }
+    },
+    {
+      "id": "OH_Blind",
+      "index": 508,
+      "columns": {
+        "Text": [
+          {
+            "en": "Off Hand chance to [Blind]",
+            "zh": "副手[Blind|致盲]率"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MH_Maim",
+      "index": 509,
+      "columns": {
+        "Text": [
+          {
+            "en": "Main Hand chance to [Maim]",
+            "zh": "主手[Maim|瘫痪]率"
+          }
+        ]
+      }
+    },
+    {
+      "id": "OH_Maim",
+      "index": 510,
+      "columns": {
+        "Text": [
+          {
+            "en": "Off Hand chance to [Maim]",
+            "zh": "副手[Maim|瘫痪]率"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Blind",
+      "index": 524,
+      "columns": {
+        "Text": [
+          {
+            "en": "Chance to Blind",
+            "zh": "致盲几率"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AttackStunDuration",
+      "index": 525,
+      "columns": {
+        "Text": [
+          {
+            "en": "Stun Duration modifier",
+            "zh": "晕眩时间修正"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SpellStunDuration",
+      "index": 526,
+      "columns": {
+        "Text": [
+          {
+            "en": "Stun Duration modifier",
+            "zh": "晕眩时间修正"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MH_ChanceToImpale",
+      "index": 566,
+      "columns": {
+        "Text": [
+          {
+            "en": "Chance to [Impale] with Main Hand hits",
+            "zh": "主手击中[Impale|穿刺]几率"
+          }
+        ]
+      }
+    },
+    {
+      "id": "OH_ChanceToImpale",
+      "index": 567,
+      "columns": {
+        "Text": [
+          {
+            "en": "Chance to [Impale] with Off Hand hits",
+            "zh": "副手击中[Impale|穿刺]几率"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Spell_ChanceToImpale",
+      "index": 568,
+      "columns": {
+        "Text": [
+          {
+            "en": "Chance to [Impale]",
+            "zh": "[Impale|穿刺]几率"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Secondary_ChanceToImpale",
+      "index": 569,
+      "columns": {
+        "Text": [
+          {
+            "en": "Chance to [Impale]",
+            "zh": "[Impale|穿刺]几率"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ImapleWithCold",
+      "index": 570,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Impale] [BuffMagnitude|Magnitude] also based on [Cold] [HitDamage|Damage]",
+            "zh": "[Impale|穿刺][BuffMagnitude|强度]也取决于[Cold|冰霜][HitDamage|伤害]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BuffDuration",
+      "index": 571,
+      "columns": {
+        "Text": [
+          {
+            "en": "Buff Duration modifier",
+            "zh": "增益状态持续时间修正"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MarkEffect",
+      "index": 573,
+      "columns": {
+        "Text": [
+          {
+            "en": "Mark Effect modifier",
+            "zh": "印记效果修正"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MH_LifeOnHit",
+      "index": 576,
+      "columns": {
+        "Text": [
+          {
+            "en": "Life gained on Main Hand Hit",
+            "zh": "主手击中回复生命"
+          }
+        ]
+      }
+    },
+    {
+      "id": "OH_LifeOnHit",
+      "index": 577,
+      "columns": {
+        "Text": [
+          {
+            "en": "Life gained on Off Hand Hit",
+            "zh": "副手击中回复生命"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LifeOnSpellHit",
+      "index": 578,
+      "columns": {
+        "Text": [
+          {
+            "en": "Life gained on Hit",
+            "zh": "击中回复生命"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MH_ManaOnHit",
+      "index": 579,
+      "columns": {
+        "Text": [
+          {
+            "en": "Mana gained on Main Hand Hit",
+            "zh": "主手击中回复魔力"
+          }
+        ]
+      }
+    },
+    {
+      "id": "OH_ManaOnHit",
+      "index": 580,
+      "columns": {
+        "Text": [
+          {
+            "en": "Mana gained on Off Hand Hit",
+            "zh": "副手击中回复魔力"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ManaOnSpellHit",
+      "index": 581,
+      "columns": {
+        "Text": [
+          {
+            "en": "Mana gained on Hit",
+            "zh": "击中回复魔力"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ESOnSpellHit",
+      "index": 582,
+      "columns": {
+        "Text": [
+          {
+            "en": "Energy Shield gained on Hit",
+            "zh": "击中回复能量护盾"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ESOnHit",
+      "index": 583,
+      "columns": {
+        "Text": [
+          {
+            "en": "Energy Shield gained on Hit",
+            "zh": "击中回复能量护盾"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LifeOnKill",
+      "index": 585,
+      "columns": {
+        "Text": [
+          {
+            "en": "Life gained on Kill",
+            "zh": "击败回复生命"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ManaOnKill",
+      "index": 586,
+      "columns": {
+        "Text": [
+          {
+            "en": "Mana gained on Kill",
+            "zh": "击败回复魔力"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ESonKill",
+      "index": 587,
+      "columns": {
+        "Text": [
+          {
+            "en": "Energy Shield gained on Kill",
+            "zh": "击败回复能量护盾"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MinionDamage",
+      "index": 590,
+      "columns": {
+        "Text": [
+          {
+            "en": "Minion Damage modifier",
+            "zh": "召唤生物伤害修正"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MinionLife",
+      "index": 591,
+      "columns": {
+        "Text": [
+          {
+            "en": "Minion Life modifier",
+            "zh": "召唤生物生命修正"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MinionMana",
+      "index": 592,
+      "columns": {
+        "Text": [
+          {
+            "en": "Minion Mana modifier",
+            "zh": "召唤生物魔力修正"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MinionEnergyShield",
+      "index": 593,
+      "columns": {
+        "Text": [
+          {
+            "en": "Minion Energy Shield modifier",
+            "zh": "召唤生物能量护盾修正"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ProjectileSpeed",
+      "index": 594,
+      "columns": {
+        "Text": [
+          {
+            "en": "Projectile Speed modifier",
+            "zh": "投射物速度修正"
+          }
+        ]
+      }
+    },
+    {
+      "id": "IIQ",
+      "index": 595,
+      "columns": {
+        "Text": [
+          {
+            "en": "Increased Quantity of items dropped by slain monsters",
+            "zh": "增加击败怪物后的物品掉落数量"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FishingRange",
+      "index": 603,
+      "columns": {
+        "Text": [
+          {
+            "en": "Fishing Range modifier",
+            "zh": "钓鱼距离修正"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FishingLineStrength",
+      "index": 604,
+      "columns": {
+        "Text": [
+          {
+            "en": "Fishing Line Strength modifier",
+            "zh": "鱼线强度修正"
+          }
+        ]
+      }
+    },
+    {
+      "id": "IFQ",
+      "index": 605,
+      "columns": {
+        "Text": [
+          {
+            "en": "Quantity of Fish caught",
+            "zh": "渔获数量增加"
+          }
+        ]
+      }
+    },
+    {
+      "id": "IFR",
+      "index": 606,
+      "columns": {
+        "Text": [
+          {
+            "en": "Rarity of Fish caught",
+            "zh": "渔获稀有度增加"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FishingPoolConsumption",
+      "index": 607,
+      "columns": {
+        "Text": [
+          {
+            "en": "Fishing Pool Consumption modifier",
+            "zh": "鱼池消耗加成词缀"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ExoticFish",
+      "index": 608,
+      "columns": {
+        "Text": [
+          {
+            "en": "Can catch Exotic Fish",
+            "zh": "可以钓到外来鱼"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CorruptedFish",
+      "index": 609,
+      "columns": {
+        "Text": [
+          {
+            "en": "Can catch Corrupted Fish",
+            "zh": "可以钓到被腐化的鱼"
+          }
+        ]
+      }
+    },
+    {
+      "id": "OverchargeShockReflect",
+      "index": 957,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Shock|Shocks] caused are reflected to you",
+            "zh": "造成的[Shock|感电]反射给你"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ElementalDamageRecoupedAsLife",
+      "index": 1038,
+      "columns": {
+        "Text": [
+          {
+            "en": "[ElementalDamage|Elemental] damage taken [Recoup|Recouped] as Life",
+            "zh": "承受的[ElementalDamage|元素]伤害[Recoup|吸纳]为生命"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PhysicalDamageRecoupedAsLife",
+      "index": 1039,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Physical] damage taken [Recoup|Recouped] as Life",
+            "zh": "承受的[Physical|物理]伤害[Recoup|吸纳]为生命"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BranchingFissureNum",
+      "index": 1065,
+      "columns": {
+        "Text": [
+          {
+            "en": "Number of branches per Fissure",
+            "zh": "每道裂缝分支数量"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BranchingFissureDamage",
+      "index": 1066,
+      "columns": {
+        "Text": [
+          {
+            "en": "Branched Fissure damage",
+            "zh": "分支裂缝伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BranchingFissureArea",
+      "index": 1067,
+      "columns": {
+        "Text": [
+          {
+            "en": "Branched Fissure area of effect",
+            "zh": "分支裂缝效果范围"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,360 @@
+{
+  "table": "Expedition2Recipes",
+  "key": "_index",
+  "columns": [
+    "Id",
+    "Description",
+    "__col10",
+    "__col11"
+  ],
+  "entries": [
+    {
+      "id": null,
+      "index": 0,
+      "columns": {
+        "Description": [
+          {
+            "en": "Krillson's Bay Key",
+            "zh": "克里尔森海湾钥匙"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 3,
+      "columns": {
+        "Description": [
+          {
+            "en": "Uncut Skill Gem",
+            "zh": "未切割的技能宝石"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 4,
+      "columns": {
+        "Description": [
+          {
+            "en": "Uncut Support Gem",
+            "zh": "未切割的辅助宝石"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 44,
+      "columns": {
+        "Description": [
+          {
+            "en": "Uncut Spirit Gem",
+            "zh": "未切割的精魂宝石"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 67,
+      "columns": {
+        "Description": [
+          {
+            "en": "[Rarity|Unique] Body Armour",
+            "zh": "[Rarity|传奇]护甲"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 68,
+      "columns": {
+        "Description": [
+          {
+            "en": "[Rarity|Unique] Boots",
+            "zh": "[Rarity|传奇]靴子"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 69,
+      "columns": {
+        "Description": [
+          {
+            "en": "[Rarity|Unique] Gloves",
+            "zh": "[Rarity|传奇]手套"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 70,
+      "columns": {
+        "Description": [
+          {
+            "en": "[Rarity|Unique] Helmet",
+            "zh": "[Rarity|传奇]头盔"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 110,
+      "columns": {
+        "Description": [
+          {
+            "en": "Verisium Pile",
+            "zh": "维金矿堆"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 125,
+      "columns": {
+        "Description": [
+          {
+            "en": "[Rarity|Unique] Bow",
+            "zh": "[Rarity|传奇]弓"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 126,
+      "columns": {
+        "Description": [
+          {
+            "en": "[Rarity|Unique] Crossbow",
+            "zh": "[Rarity|传奇]战弩"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 127,
+      "columns": {
+        "Description": [
+          {
+            "en": "[Rarity|Unique] Focus",
+            "zh": "[Rarity|传奇]法器"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 128,
+      "columns": {
+        "Description": [
+          {
+            "en": "[Rarity|Unique] One Hand Mace",
+            "zh": "[Rarity|传奇]单手锤"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 129,
+      "columns": {
+        "Description": [
+          {
+            "en": "[Rarity|Unique] Quarterstaff",
+            "zh": "[Rarity|传奇]节杖"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 130,
+      "columns": {
+        "Description": [
+          {
+            "en": "[Rarity|Unique] Quiver",
+            "zh": "[Rarity|传奇]箭袋"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 131,
+      "columns": {
+        "Description": [
+          {
+            "en": "[Rarity|Unique] Sceptre",
+            "zh": "[Rarity|传奇]权杖"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 132,
+      "columns": {
+        "Description": [
+          {
+            "en": "[Rarity|Unique] Shield",
+            "zh": "[Rarity|传奇]盾牌"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 133,
+      "columns": {
+        "Description": [
+          {
+            "en": "[Rarity|Unique] Spear",
+            "zh": "[Rarity|传奇]战矛"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 134,
+      "columns": {
+        "Description": [
+          {
+            "en": "[Rarity|Unique] Staff",
+            "zh": "[Rarity|传奇]长杖"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 135,
+      "columns": {
+        "Description": [
+          {
+            "en": "[Rarity|Unique] Talisman",
+            "zh": "[Rarity|传奇]魔符"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 136,
+      "columns": {
+        "Description": [
+          {
+            "en": "[Rarity|Unique] Two Hand Mace",
+            "zh": "[Rarity|传奇]双手锤"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 137,
+      "columns": {
+        "Description": [
+          {
+            "en": "[Rarity|Unique] Wand",
+            "zh": "[Rarity|传奇]法杖"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 152,
+      "columns": {
+        "Description": [
+          {
+            "en": "[Rarity|Unique] Jewellery",
+            "zh": "[Rarity|传奇]首饰"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 179,
+      "columns": {
+        "Description": [
+          {
+            "en": "[Rarity|Unique] Amulet",
+            "zh": "[Rarity|传奇]项链"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 180,
+      "columns": {
+        "Description": [
+          {
+            "en": "[Rarity|Unique] Belt",
+            "zh": "[Rarity|传奇]腰带"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 181,
+      "columns": {
+        "Description": [
+          {
+            "en": "[Rarity|Unique] Ring",
+            "zh": "[Rarity|传奇]戒指"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 188,
+      "columns": {
+        "Description": [
+          {
+            "en": "5x Random Currency",
+            "zh": "5x 随机通货"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 208,
+      "columns": {
+        "Description": [
+          {
+            "en": "Rare [Rarity|Unique] Item",
+            "zh": "稀有[Rarity|传奇]物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 291,
+      "columns": {
+        "Description": [
+          {
+            "en": "Very Rare [Rarity|Unique] item",
+            "zh": "罕见[Rarity|传奇]物品"
+          }
+        ]
+      }
+    }
+  ]
+}

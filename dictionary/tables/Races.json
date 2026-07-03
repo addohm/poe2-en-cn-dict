@@ -1,0 +1,22 @@
+{
+  "table": "Races",
+  "key": "Id",
+  "columns": [
+    "__col2",
+    "__col3"
+  ],
+  "entries": [
+    {
+      "id": "PathOfEndurance",
+      "index": 2,
+      "columns": {
+        "__col2": [
+          {
+            "en": "Path of Endurance",
+            "zh": "求生之路"
+          }
+        ]
+      }
+    }
+  ]
+}

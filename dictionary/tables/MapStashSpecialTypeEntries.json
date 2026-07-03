@@ -1,0 +1,156 @@
+{
+  "table": "MapStashSpecialTypeEntries",
+  "key": "_index",
+  "columns": [
+    "Id",
+    "Name",
+    "DDSFile",
+    "DDSFileNew"
+  ],
+  "entries": [
+    {
+      "id": null,
+      "index": 0,
+      "columns": {
+        "Name": [
+          {
+            "en": "Baran, The Crusader",
+            "zh": "圣战者巴兰"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 1,
+      "columns": {
+        "Name": [
+          {
+            "en": "Veritania, The Redeemer",
+            "zh": "救赎者维利塔妮娅"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 2,
+      "columns": {
+        "Name": [
+          {
+            "en": "Al-Hezmin, The Hunter",
+            "zh": "猎人阿尔赫兹敏"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 3,
+      "columns": {
+        "Name": [
+          {
+            "en": "Drox, The Warlord",
+            "zh": "督军狄洛克斯"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 4,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Enslaver",
+            "zh": "裂界守卫：奴役"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 5,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Eradicator",
+            "zh": "裂界守卫：寂灭"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 6,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Constrictor",
+            "zh": "裂界守卫：约束"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 7,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Purifier",
+            "zh": "裂界守卫：净世"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 8,
+      "columns": {
+        "Name": [
+          {
+            "en": "Pit of the Chimera",
+            "zh": "奇美拉之坑"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 9,
+      "columns": {
+        "Name": [
+          {
+            "en": "Lair of the Hydra",
+            "zh": "九头蛇之巢"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 10,
+      "columns": {
+        "Name": [
+          {
+            "en": "Forge of the Phoenix",
+            "zh": "不死鸟锻台"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 11,
+      "columns": {
+        "Name": [
+          {
+            "en": "Maze of the Minotaur",
+            "zh": "牛头人迷宫"
+          }
+        ]
+      }
+    }
+  ]
+}

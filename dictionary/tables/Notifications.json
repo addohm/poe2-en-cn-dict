@@ -1,0 +1,520 @@
+{
+  "table": "Notifications",
+  "key": "Id",
+  "columns": [
+    "Message",
+    "__col4"
+  ],
+  "entries": [
+    {
+      "id": "FriendRequest",
+      "index": 0,
+      "columns": {
+        "Message": [
+          {
+            "en": "Friend Request",
+            "zh": "好友申请"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FriendNowOnline",
+      "index": 1,
+      "columns": {
+        "Message": [
+          {
+            "en": "Friend Now Online",
+            "zh": "好友上线"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FriendNowOffline",
+      "index": 2,
+      "columns": {
+        "Message": [
+          {
+            "en": "Friend Now Offline",
+            "zh": "好友下线"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FriendAreaChanged",
+      "index": 3,
+      "columns": {
+        "Message": [
+          {
+            "en": "Friend Area Changed",
+            "zh": "好友区域变化"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FriendLevelChanged",
+      "index": 4,
+      "columns": {
+        "Message": [
+          {
+            "en": "Friend Level Changed",
+            "zh": "好友等级变化"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FriendStatusMessageChanged",
+      "index": 5,
+      "columns": {
+        "Message": [
+          {
+            "en": "Friend Status Changed",
+            "zh": "好友状态变化"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PartyInvite",
+      "index": 6,
+      "columns": {
+        "Message": [
+          {
+            "en": "Party Invite",
+            "zh": "邀请加入队伍"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PartyJoined",
+      "index": 7,
+      "columns": {
+        "Message": [
+          {
+            "en": "Party Joined",
+            "zh": "已经加入队伍"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PartyLeft",
+      "index": 8,
+      "columns": {
+        "Message": [
+          {
+            "en": "Party Left",
+            "zh": "已经离开队伍"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PartyMemberInvited",
+      "index": 9,
+      "columns": {
+        "Message": [
+          {
+            "en": "Party Member Invited",
+            "zh": "已邀请队伍成员"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PartyMemberJoined",
+      "index": 10,
+      "columns": {
+        "Message": [
+          {
+            "en": "Party Member Joined",
+            "zh": "队伍成员加入"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PartyMemberLeft",
+      "index": 11,
+      "columns": {
+        "Message": [
+          {
+            "en": "Party Member Left",
+            "zh": "队伍成员离开"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PartyMemberPromotedToLeader",
+      "index": 12,
+      "columns": {
+        "Message": [
+          {
+            "en": "Party Member Promoted",
+            "zh": "队伍成员提升"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PartyMemberNowOnline",
+      "index": 13,
+      "columns": {
+        "Message": [
+          {
+            "en": "Party Member Now Online",
+            "zh": "队伍成员目前在线"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PartyMemberNowOffline",
+      "index": 14,
+      "columns": {
+        "Message": [
+          {
+            "en": "Party Member Now Offline",
+            "zh": "队伍成员目前离线"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GuildInvite",
+      "index": 15,
+      "columns": {
+        "Message": [
+          {
+            "en": "Guild Invite",
+            "zh": "邀请加入公会"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GuildJoined",
+      "index": 16,
+      "columns": {
+        "Message": [
+          {
+            "en": "Guild Joined",
+            "zh": "已加入公会"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GuildLeft",
+      "index": 17,
+      "columns": {
+        "Message": [
+          {
+            "en": "Guild Left",
+            "zh": "已离开公会"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GuildRankChanged",
+      "index": 18,
+      "columns": {
+        "Message": [
+          {
+            "en": "Guild Rank Changed",
+            "zh": "公会阶级变更"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GuildMemberInvited",
+      "index": 19,
+      "columns": {
+        "Message": [
+          {
+            "en": "Guild Member Invited",
+            "zh": "已邀请公会成员"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GuildMemberJoined",
+      "index": 20,
+      "columns": {
+        "Message": [
+          {
+            "en": "Guild Member Joined",
+            "zh": "已加入公会成员"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GuildMemberLeft",
+      "index": 21,
+      "columns": {
+        "Message": [
+          {
+            "en": "Guild Member Left",
+            "zh": "已离开公会成员"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GuildMemberRankChanged",
+      "index": 22,
+      "columns": {
+        "Message": [
+          {
+            "en": "Guild Member Rank Changed",
+            "zh": "已变更阶级公会成员"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GiftReceived",
+      "index": 23,
+      "columns": {
+        "Message": [
+          {
+            "en": "Gift Received",
+            "zh": "收到礼物"
+          }
+        ]
+      }
+    },
+    {
+      "id": "TradeRequest",
+      "index": 24,
+      "columns": {
+        "Message": [
+          {
+            "en": "Trade Request",
+            "zh": "交易要求"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AchievementComplete",
+      "index": 25,
+      "columns": {
+        "Message": [
+          {
+            "en": "Achievement Complete",
+            "zh": "成就达成"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AchievementItemComplete",
+      "index": 26,
+      "columns": {
+        "Message": [
+          {
+            "en": "Achievement Item Complete",
+            "zh": "部分成就达成"
+          }
+        ],
+        "__col4": [
+          {
+            "en": "Displays notification when part of an achievement is completed",
+            "zh": "当成就被部分完成时将显示该提示"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AchievementItemFailed",
+      "index": 27,
+      "columns": {
+        "Message": [
+          {
+            "en": "Tracked Achievement Item Failed",
+            "zh": "追踪成就项失败"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LeagueEvent",
+      "index": 28,
+      "columns": {
+        "Message": [
+          {
+            "en": "League Event",
+            "zh": "活动专属区"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MarketNotifications",
+      "index": 29,
+      "columns": {
+        "Message": [
+          {
+            "en": "Market Notifications",
+            "zh": "市集提示"
+          }
+        ],
+        "__col4": [
+          {
+            "en": "Displays notification when you receive offers, when they are accepted or when they are rejected.",
+            "zh": "当你收到竞标时,竞标被接受或拒绝时显示提示."
+          }
+        ]
+      }
+    },
+    {
+      "id": "BestiaryRecipeNotification",
+      "index": 30,
+      "columns": {
+        "Message": [
+          {
+            "en": "Bestiary Recipe",
+            "zh": "魔物献祭配方"
+          }
+        ]
+      }
+    },
+    {
+      "id": "RewardNotifications",
+      "index": 31,
+      "columns": {
+        "Message": [
+          {
+            "en": "Reward Notifications",
+            "zh": "奖励通告"
+          }
+        ],
+        "__col4": [
+          {
+            "en": "Displays challenge reward notifications.",
+            "zh": "显示挑战奖励通告。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LeagueInGame",
+      "index": 32,
+      "columns": {
+        "Message": [
+          {
+            "en": "Harvest In-game Notifications",
+            "zh": "古灵庄园游戏通告"
+          }
+        ],
+        "__col4": [
+          {
+            "en": "Displays Harvest related in-game notifications",
+            "zh": "显示古灵庄园相关的游戏通告"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ConsoleServerMessages",
+      "index": 33,
+      "columns": {
+        "Message": [
+          {
+            "en": "Server Messages",
+            "zh": "服务器信息"
+          }
+        ],
+        "__col4": [
+          {
+            "en": "Show server messages as popups as well as in the chatbox",
+            "zh": "在聊天框中以弹出方式显示服务器信息"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ConsolePlayerLevelUp",
+      "index": 34,
+      "columns": {
+        "Message": [
+          {
+            "en": "Level Up",
+            "zh": "升级"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MobilePushFriendInvites",
+      "index": 35,
+      "columns": {
+        "Message": [
+          {
+            "en": "Recieve Offline Friend Requests",
+            "zh": "收到离线好友申请"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MobilePushPartyInvites",
+      "index": 36,
+      "columns": {
+        "Message": [
+          {
+            "en": "Recieve Offline Party Invites",
+            "zh": "收到离线队伍邀请"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MobilePushGuildInvites",
+      "index": 37,
+      "columns": {
+        "Message": [
+          {
+            "en": "Recieve Offline Guild Invites",
+            "zh": "收到离线公会邀请"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MobilePushTradeRequests",
+      "index": 38,
+      "columns": {
+        "Message": [
+          {
+            "en": "Recieve Offline Trade Requests",
+            "zh": "收到离线交易申请"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MobilePushEventUpdates",
+      "index": 39,
+      "columns": {
+        "Message": [
+          {
+            "en": "Recieve Offline Event Updates",
+            "zh": "收到离线活动更新"
+          }
+        ]
+      }
+    }
+  ]
+}

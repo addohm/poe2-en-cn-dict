@@ -1,0 +1,50 @@
+{
+  "table": "AtlasPrimordialAltarChoiceTypes",
+  "key": "_index",
+  "columns": [
+    "Id",
+    "TopIconEater",
+    "BottomIconEater",
+    "TopIconExarch",
+    "BottomIconExarch",
+    "Text"
+  ],
+  "entries": [
+    {
+      "id": null,
+      "index": 0,
+      "columns": {
+        "Text": [
+          {
+            "en": "Player gains:",
+            "zh": "玩家获得："
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 1,
+      "columns": {
+        "Text": [
+          {
+            "en": "Eldritch Minions gain:",
+            "zh": "古灵召唤生物获得："
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 2,
+      "columns": {
+        "Text": [
+          {
+            "en": "Map boss gains:",
+            "zh": "地图首领获得："
+          }
+        ]
+      }
+    }
+  ]
+}

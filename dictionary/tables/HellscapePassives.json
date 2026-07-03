@@ -1,0 +1,191 @@
+{
+  "table": "HellscapePassives",
+  "key": "Id",
+  "columns": [
+    "Name",
+    "Icon",
+    "IconMaxed"
+  ],
+  "entries": [
+    {
+      "id": "JewellerySpeed",
+      "index": 0,
+      "columns": {
+        "Name": [
+          {
+            "en": "Chaotic Adornment",
+            "zh": "混沌宝饰"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ArmourSpeed",
+      "index": 1,
+      "columns": {
+        "Name": [
+          {
+            "en": "Twisted Metal",
+            "zh": "扭曲之金"
+          }
+        ]
+      }
+    },
+    {
+      "id": "WeaponSpeed",
+      "index": 2,
+      "columns": {
+        "Name": [
+          {
+            "en": "Murderous Desecration",
+            "zh": "凶煞邪符"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MapSpeed",
+      "index": 3,
+      "columns": {
+        "Name": [
+          {
+            "en": "Fervent Dreams",
+            "zh": "狂热之梦"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MicrowaveSlotNonMap1",
+      "index": 4,
+      "columns": {
+        "Name": [
+          {
+            "en": "Alternate History",
+            "zh": "平行历史"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MicrowaveSlotNonMap2",
+      "index": 5,
+      "columns": {
+        "Name": [
+          {
+            "en": "Crushed Organs",
+            "zh": "肝胆俱裂"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MicrowaveSlotMap",
+      "index": 6,
+      "columns": {
+        "Name": [
+          {
+            "en": "Restless Nightmares",
+            "zh": "不息梦魇"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AddSocketNumber",
+      "index": 7,
+      "columns": {
+        "Name": [
+          {
+            "en": "Trypophobia",
+            "zh": "密集恐惧"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AddSocketLink",
+      "index": 8,
+      "columns": {
+        "Name": [
+          {
+            "en": "Stitched Wounds",
+            "zh": "创伤缝合"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HellscapingSpeedPerHellscapeTierOnMap",
+      "index": 9,
+      "columns": {
+        "Name": [
+          {
+            "en": "Warped Sluice",
+            "zh": "炼化奔流"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AddExplicitModifier",
+      "index": 10,
+      "columns": {
+        "Name": [
+          {
+            "en": "Golden Blood",
+            "zh": "金色之血"
+          }
+        ]
+      }
+    },
+    {
+      "id": "UpgradeExplicitModifier",
+      "index": 11,
+      "columns": {
+        "Name": [
+          {
+            "en": "Intensifying Emulsion",
+            "zh": "腐浊凝聚"
+          }
+        ]
+      }
+    },
+    {
+      "id": "IncreasedUpsideTier",
+      "index": 12,
+      "columns": {
+        "Name": [
+          {
+            "en": "Anomalous Aura",
+            "zh": "诡异光环"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ReducedDownsideTier",
+      "index": 13,
+      "columns": {
+        "Name": [
+          {
+            "en": "Stabilising Energy",
+            "zh": "稳定能源"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AdditionalUpside",
+      "index": 14,
+      "columns": {
+        "Name": [
+          {
+            "en": "Strange Forces",
+            "zh": "奇异之力"
+          }
+        ]
+      }
+    }
+  ]
+}

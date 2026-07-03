@@ -1,0 +1,229 @@
+{
+  "table": "BestiaryGroups",
+  "key": "Id",
+  "columns": [
+    "Description",
+    "Illustration",
+    "Name",
+    "Icon",
+    "IconSmall"
+  ],
+  "entries": [
+    {
+      "id": "Felines",
+      "index": 0,
+      "columns": {
+        "Description": [
+          {
+            "en": "\"Man-eaters. Predators. Cast aside the childish notion of embracing these beautiful beasts, for they are mighty and violent. They will tear into shreds all who approach them without respect.\"",
+            "zh": "\"可怕的捕食者。抛弃那些幼稚的想要拥抱这些美丽野兽的想法，因为它们是强大和暴力的生物，它们会撕碎所有接近它们的人，没有一丝仁慈。\""
+          }
+        ],
+        "Name": [
+          {
+            "en": "Felines",
+            "zh": "猫"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Primates",
+      "index": 1,
+      "columns": {
+        "Description": [
+          {
+            "en": "\"There is an intelligence behind the eyes of these primates, a sentience that draws you in. But there is no empathy there. No kindness. Only hatred and anger, a lust to maim and kill.\"",
+            "zh": "\"在这些灵长类动物的眼睛后面，有一种智慧，能吸引你。但这里没有同情心，没有仁慈，只有仇恨和愤怒，一种对残害和杀戮的欲望。\""
+          }
+        ],
+        "Name": [
+          {
+            "en": "Primates",
+            "zh": "灵长"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Canines",
+      "index": 2,
+      "columns": {
+        "Description": [
+          {
+            "en": "\"Pity the man who finds himself hunted. There is no place he can hide, nowhere he can run to, for a maddened barking will follow, and the canine will always sniff him out.\"",
+            "zh": "\"可怜那个发现自己被追捕的人，他无处可躲，无处可逃，无处不在的犬吠声如影随形。这个世界没有猎犬嗅不出的踪迹。\""
+          }
+        ],
+        "Name": [
+          {
+            "en": "Canines",
+            "zh": "犬"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Ursa",
+      "index": 3,
+      "columns": {
+        "Description": [
+          {
+            "en": "\"Shaggy mounds of muscle and hair, not just man-eaters, but eaters of man-eaters. The Ursae venture out from their dens, lumbering through wooded land, grizzly and starving for hot blood and sweet flesh.\"",
+            "zh": "\"外表是蓬松的毛发和慵懒的肌肉，但它们不止捕猎猎物，更捕猎猎手。熊从洞穴中爬出，在树林里笨拙地行走，渴望着热血与甜肉。\""
+          }
+        ],
+        "Name": [
+          {
+            "en": "Ursae",
+            "zh": "熊"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Large Mammals",
+      "index": 4,
+      "columns": {
+        "Description": [
+          {
+            "en": "\"The abominations have no right to exist. When a man sees them, his spirit shakes, and the air around him pops and cracks, as if the universe itself is angry within this unnatural presence.\"",
+            "zh": "\"这些令人憎恶的东西本不该存在。每个人看到他们的时候，灵魂就会颤抖，周围的空气也会破裂，就好像世界本身在这种超自然的存在中感到愤怒一样。\""
+          }
+        ],
+        "Name": [
+          {
+            "en": "Unnaturals",
+            "zh": "超自然"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Avians",
+      "index": 5,
+      "columns": {
+        "Description": [
+          {
+            "en": "\"The ancients looked upon them and thought them gods, for only the gods could ascend to such lofty heights. Such is the gift of the avian lineage, but be not fooled, for though their plumage is bright and their song bedazzling, their talons harbor lethal, gratuitous power.\"",
+            "zh": "\"远古的人们看着它们，认为它们是神，因为只有神才能在如此的高空飞翔。这是鸟类传承的礼物，但不要被蒙骗，虽然它们的羽毛光亮，虽然他们的歌声嘹亮，但它们的利爪却有着致命的、无形的力量。\""
+          }
+        ],
+        "Name": [
+          {
+            "en": "Avians",
+            "zh": "鸟"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Reptiles",
+      "index": 6,
+      "columns": {
+        "Description": [
+          {
+            "en": "\"Once, their ancestors ruled this world. But dethroned by the arrogance of man, their cold blood boils over and their forked tongues flick in and out, tasting the air. They will take their pound of flesh, and bring misery upon any who try to stop them.\"",
+            "zh": "\"曾经，他们的祖先统治着这个世界。但是，由于人类的打扰，他们冰冷的血液沸腾了，他们的叉舌头不时地在空中飞来飞去，寻找过往的猎物，给那些打扰它们的生物带来苦难。\""
+          }
+        ],
+        "Name": [
+          {
+            "en": "Reptiles",
+            "zh": "爬行"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Insects",
+      "index": 7,
+      "columns": {
+        "Description": [
+          {
+            "en": "\"Wandering proboscises and clicking mandibles, the swarming masses birthed from darkness destined to forever plague the known world. They bring poverty and painful poisons, those who devour the harvest.\"",
+            "zh": "\"带着各种奇怪的造型，这些聚集在黑暗中的家伙注定要永远折磨这个已知的世界。他们带来贫穷和痛苦的毒药，吞噬试图收割它们的人。\""
+          }
+        ],
+        "Name": [
+          {
+            "en": "Insects",
+            "zh": "昆虫"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Arachnids",
+      "index": 8,
+      "columns": {
+        "Description": [
+          {
+            "en": "\" 'Little gods of death' they are called by those who fear and know them intimately. The arachnid makes its nest inside the blanched skulls of dead men, waiting in darkness to poison the world.\"",
+            "zh": "\"不起眼的死神，是它们留给世人的称谓。蜘蛛在各个阴暗角落里筑巢，在黑暗中等待猎物的降临。\""
+          }
+        ],
+        "Name": [
+          {
+            "en": "Arachnids",
+            "zh": "蜘蛛"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Cephalopod",
+      "index": 9,
+      "columns": {
+        "Description": [
+          {
+            "en": "\"Nightmares sprung forth from the tentacular void. An eldritch hatred emanates from various appendages, and the suctioning grip of their callous embrace will pull a man further into unholy depths.\"",
+            "zh": "\"噩梦的触手从虚空中探出来，散发出无尽的爱与恨意。他们无情的拥抱和吸吮，把一切生灵拉进不洁的深渊。\""
+          }
+        ],
+        "Name": [
+          {
+            "en": "Cephalopods",
+            "zh": "软体"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Crustaceans",
+      "index": 10,
+      "columns": {
+        "Description": [
+          {
+            "en": "\"Some say the crustacean is born from the souls of dead men, those warriors who fought and fell, for the crab is formed with its armour intact: its sword becomes its pincers and its shield becomes its skin.\"",
+            "zh": "\"有人说这种甲壳动物是由死去的人的灵魂所生，来自那些战斗后倒下的战士。因为它们的盔甲是完整的，它们的剑变成了钳子，它的盾就变成了它的坚硬的皮肤。\""
+          }
+        ],
+        "Name": [
+          {
+            "en": "Crustaceans",
+            "zh": "甲壳"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Amphibians",
+      "index": 11,
+      "columns": {
+        "Description": [
+          {
+            "en": "\"A creature of mud and swamp, the amphibian is a foul smelling thing. Beware his uncanny talent to breathe both above and below, for with this trick, he will lure his prey and let it sink into the deathly grip of a murky mire.\"",
+            "zh": "\"这些栖息于泥巴和沼泽中的生物，散发出恶臭的同时又具有不可思议的才能，在水上和水下都能呼吸生存。因为有了这个技巧，它会引诱猎物，让它陷入黑暗的泥沼中。\""
+          }
+        ],
+        "Name": [
+          {
+            "en": "Amphibians",
+            "zh": "两栖"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,278 @@
+{
+  "table": "PantheonPanelLayout",
+  "key": "Id",
+  "columns": [
+    "CoverImage",
+    "GodName2",
+    "SelectionImage",
+    "GodName3",
+    "GodName4",
+    "GodName1"
+  ],
+  "entries": [
+    {
+      "id": "TheBrineKing",
+      "index": 0,
+      "columns": {
+        "GodName2": [
+          {
+            "en": "Puruna, the Challenger",
+            "zh": "挑战者普鲁纳"
+          }
+        ],
+        "GodName3": [
+          {
+            "en": "Captain Tanner Lightfoot",
+            "zh": "幽足坦纳尔队长"
+          }
+        ],
+        "GodName4": [
+          {
+            "en": "Pirate Treasure",
+            "zh": "海盗宝藏守护者"
+          }
+        ],
+        "GodName1": [
+          {
+            "en": "Soul of the Brine King",
+            "zh": "惊海之王 索亚格斯之魂"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Arakaali",
+      "index": 1,
+      "columns": {
+        "GodName2": [
+          {
+            "en": "Maligaro the Mutilator",
+            "zh": "切断者马雷格罗"
+          }
+        ],
+        "GodName3": [
+          {
+            "en": "Hybrid Widow",
+            "zh": "黑寡妇"
+          }
+        ],
+        "GodName4": [
+          {
+            "en": "Queen of the Great Tangle",
+            "zh": "丛林皇蛛"
+          }
+        ],
+        "GodName1": [
+          {
+            "en": "Soul of Arakaali",
+            "zh": "暗影女皇 阿拉卡力之魂"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Solaris",
+      "index": 2,
+      "columns": {
+        "GodName2": [
+          {
+            "en": "a Redblade Warlord",
+            "zh": "一名红刃霸主"
+          }
+        ],
+        "GodName3": [
+          {
+            "en": "The Infernal King",
+            "zh": "狱炎之王"
+          }
+        ],
+        "GodName4": [
+          {
+            "en": "Jorus, Sky's Edge",
+            "zh": "空之边际乔瑞斯"
+          }
+        ],
+        "GodName1": [
+          {
+            "en": "Soul of Solaris",
+            "zh": "日耀女神之魂"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Lunaris",
+      "index": 3,
+      "columns": {
+        "GodName2": [
+          {
+            "en": "Sebbert, Crescent's Point",
+            "zh": "新月之纪瑟伯特"
+          }
+        ],
+        "GodName3": [
+          {
+            "en": "Khor, Sister of Shadows",
+            "zh": "暗影姐妹科尔"
+          }
+        ],
+        "GodName4": [
+          {
+            "en": "Captain Clayborne, The Accursed",
+            "zh": "被诅咒的克莱奔船长"
+          }
+        ],
+        "GodName1": [
+          {
+            "en": "Soul of Lunaris",
+            "zh": "月影女神之魂"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Abberath",
+      "index": 6,
+      "columns": {
+        "GodName2": [
+          {
+            "en": "Megaera",
+            "zh": "炎灵密卡拉"
+          }
+        ],
+        "GodName1": [
+          {
+            "en": "Soul of Abberath",
+            "zh": "割裂者 艾贝拉斯之魂"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Gruthkul",
+      "index": 8,
+      "columns": {
+        "GodName2": [
+          {
+            "en": "Erebix, Light's Bane",
+            "zh": "光明克星阿尔碧斯"
+          }
+        ],
+        "GodName1": [
+          {
+            "en": "Soul of Gruthkul",
+            "zh": "绝望之母 格鲁丝克之魂"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Yugul",
+      "index": 9,
+      "columns": {
+        "GodName2": [
+          {
+            "en": "Varhesh, Shimmering Aberration",
+            "zh": "微光巨侍法赫西"
+          }
+        ],
+        "GodName1": [
+          {
+            "en": "Soul of Yugul",
+            "zh": "恐惧之源 尤格尔之魂"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Shakari",
+      "index": 10,
+      "columns": {
+        "GodName2": [
+          {
+            "en": "Terror of the Infinite Drifts",
+            "zh": "漂泊畏灵"
+          }
+        ],
+        "GodName1": [
+          {
+            "en": "Soul of Shakari",
+            "zh": "沙之女神 沙卡丽之魂"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Tukohama",
+      "index": 11,
+      "columns": {
+        "GodName2": [
+          {
+            "en": "Tahsin, Warmaker",
+            "zh": "起乱者塔辛"
+          }
+        ],
+        "GodName1": [
+          {
+            "en": "Soul of Tukohama",
+            "zh": "战争之父 图克哈玛之魂"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Ralakesh",
+      "index": 13,
+      "columns": {
+        "GodName2": [
+          {
+            "en": "Drek, Apex Hunter",
+            "zh": "权利猎人德里克"
+          }
+        ],
+        "GodName1": [
+          {
+            "en": "Soul of Ralakesh",
+            "zh": "万面之主 拉克斯之魂"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Garukhan",
+      "index": 14,
+      "columns": {
+        "GodName2": [
+          {
+            "en": "Stalker of the Endless Dunes",
+            "zh": "无边沙丘潜行者"
+          }
+        ],
+        "GodName1": [
+          {
+            "en": "Soul of Garukhan",
+            "zh": "风暴女神 格鲁坎之魂"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Ryslatha",
+      "index": 15,
+      "columns": {
+        "GodName2": [
+          {
+            "en": "Gorulis, Will-Thief",
+            "zh": "传奇神盗罗格斯"
+          }
+        ],
+        "GodName1": [
+          {
+            "en": "Soul of Ryslatha",
+            "zh": "傀儡女王 瑞斯拉萨之魂"
+          }
+        ]
+      }
+    }
+  ]
+}

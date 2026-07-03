@@ -1,0 +1,47 @@
+{
+  "table": "BattlePasses",
+  "key": "Id",
+  "columns": [
+    "International_BK2File",
+    "China_BK2File",
+    "__col6"
+  ],
+  "entries": [
+    {
+      "id": "BattlePassOne",
+      "index": 0,
+      "columns": {
+        "International_BK2File": [
+          {
+            "en": "http://web.poecdn.com/public/videos/BattlePass/BattlePassOne_EN.bk2",
+            "zh": "http://web.poecdn.com/public/videos/BattlePass/BattlePassOne_CN.bk2"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BattlePassTwo",
+      "index": 1,
+      "columns": {
+        "International_BK2File": [
+          {
+            "en": "http://web.poecdn.com/public/videos/BattlePass/BattlePassTwo_EN.bk2",
+            "zh": "http://web.poecdn.com/public/videos/BattlePass/BattlePassTwo_CN.bk2"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BattlePassFive",
+      "index": 4,
+      "columns": {
+        "International_BK2File": [
+          {
+            "en": "http://web.poecdn.com/public/videos/BattlePass/BattlePassFive_EN.bk2",
+            "zh": "http://web.poecdn.com/public/videos/BattlePass/BattlePassFive_CN.bk2"
+          }
+        ]
+      }
+    }
+  ]
+}

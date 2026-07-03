@@ -1,0 +1,732 @@
+{
+  "table": "BYOCrafting",
+  "key": "Id",
+  "columns": [
+    "Description",
+    "Action",
+    "DescriptionRuthless",
+    "ActionRuthless"
+  ],
+  "entries": [
+    {
+      "id": "LabDefenceAisling1",
+      "index": 0,
+      "columns": {
+        "Description": [
+          {
+            "en": "Add a Veiled Mod to a Rare item",
+            "zh": "将一个加密词缀附加至一个稀有物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LabDefenceAisling2",
+      "index": 1,
+      "columns": {
+        "Description": [
+          {
+            "en": "Add a Veiled Mod to a Rare item, with a low chance of adding a second Veiled Mod",
+            "zh": "将一个加密词缀附加至一个稀有物品，有很低的几率附加另一个加密词缀"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LabDefenceAisling3",
+      "index": 2,
+      "columns": {
+        "Description": [
+          {
+            "en": "Add a Veiled Modifier to a Rare item, with a chance of adding a second Veiled Modifier",
+            "zh": "给稀有物品增添加密词缀，有一定几率再添加一个加密词缀"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LabDefenceAisling4",
+      "index": 3,
+      "columns": {
+        "Description": [
+          {
+            "en": "Replace a random Modifier on a Rare item with a Veiled Modifier",
+            "zh": "将稀有物品的随机一条词缀替换为加密词缀"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LabDefenceGravicius1",
+      "index": 4,
+      "columns": {
+        "Description": [
+          {
+            "en": "Swap a Divination Card with a new random one",
+            "zh": "将一张命运卡随机切换成全新的另一张"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LabDefenceGravicius2",
+      "index": 5,
+      "columns": {
+        "Description": [
+          {
+            "en": "Swap a Divination Card with a new random one",
+            "zh": "将一张命运卡随机切换成全新的另一张"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LabDefenceGravicius3",
+      "index": 6,
+      "columns": {
+        "Description": [
+          {
+            "en": "Swap a Divination Card with a new random one",
+            "zh": "将一张命运卡随机切换成全新的另一张"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LabDefenceGravicius4",
+      "index": 7,
+      "columns": {
+        "Description": [
+          {
+            "en": "Swap a Divination Card with a new random one",
+            "zh": "将一张命运卡随机切换成全新的另一张"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AssassinHillock1",
+      "index": 8,
+      "columns": {
+        "Description": [
+          {
+            "en": "Modify a Map's quality to 25%",
+            "zh": "将一张地图的品质改为 25%"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AssassinHillock2",
+      "index": 9,
+      "columns": {
+        "Description": [
+          {
+            "en": "Modify a Map's quality to 30%",
+            "zh": "将一张地图的品质改为 30%"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AssassinHillock3",
+      "index": 10,
+      "columns": {
+        "Description": [
+          {
+            "en": "Modify a Map's quality to 35%",
+            "zh": "将一张地图的品质改为 35%"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AssassinHillock4",
+      "index": 11,
+      "columns": {
+        "Description": [
+          {
+            "en": "Modify a Map's quality to 35%",
+            "zh": "将一张地图的品质改为 35%"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BaseDefenceHillock1",
+      "index": 12,
+      "columns": {
+        "Description": [
+          {
+            "en": "Modify an Armour Piece's quality to 24%",
+            "zh": "将一件护甲的品质改为 24%"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BaseDefenceHillock2",
+      "index": 13,
+      "columns": {
+        "Description": [
+          {
+            "en": "Modify an Armour Piece's quality to 26%",
+            "zh": "将一件护甲的品质改为 26%"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BaseDefenceHillock3",
+      "index": 14,
+      "columns": {
+        "Description": [
+          {
+            "en": "Modify an Armour Piece's quality to 28%",
+            "zh": "将一件护甲的品质改为 28%"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BaseDefenceHillock4",
+      "index": 15,
+      "columns": {
+        "Description": [
+          {
+            "en": "Modify an Armour Piece's quality to 30%",
+            "zh": "将一件护甲的品质改为 30%"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CartEscortHillock1",
+      "index": 16,
+      "columns": {
+        "Description": [
+          {
+            "en": "Modify a Weapon's quality to 24%",
+            "zh": "将一件武器的品质改为 24%"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CartEscortHillock2",
+      "index": 17,
+      "columns": {
+        "Description": [
+          {
+            "en": "Modify a Weapon's quality to 26%",
+            "zh": "将一件武器的品质改为 26%"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CartEscortHillock3",
+      "index": 18,
+      "columns": {
+        "Description": [
+          {
+            "en": "Modify a Weapon's quality to 28%",
+            "zh": "将一件武器的品质改为 28%"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CartEscortHillock4",
+      "index": 19,
+      "columns": {
+        "Description": [
+          {
+            "en": "Modify a Weapon's quality to 30%",
+            "zh": "将一件武器的品质改为 30%"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LabDefenceHillock1",
+      "index": 20,
+      "columns": {
+        "Description": [
+          {
+            "en": "Modify a Flask's quality to 22%",
+            "zh": "将一个药剂的品质改为 22%"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LabDefenceHillock2",
+      "index": 21,
+      "columns": {
+        "Description": [
+          {
+            "en": "Modify a Flask's quality to 24%",
+            "zh": "将一个药剂的品质改为 24%"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LabDefenceHillock3",
+      "index": 22,
+      "columns": {
+        "Description": [
+          {
+            "en": "Modify a Flask's quality to 26%",
+            "zh": "将一个药剂的品质改为 26%"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LabDefenceHillock4",
+      "index": 23,
+      "columns": {
+        "Description": [
+          {
+            "en": "Modify a Flask's quality to 28%",
+            "zh": "将一个药剂的品质改为 28%"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LabDefenceLeo1",
+      "index": 24,
+      "columns": {
+        "DescriptionRuthless": [
+          {
+            "en": "Modify a Flask's quality to 22%",
+            "zh": "将一个药剂的品质改为 22%"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LabDefenceLeo2",
+      "index": 25,
+      "columns": {
+        "DescriptionRuthless": [
+          {
+            "en": "Modify a Flask's quality to 24%",
+            "zh": "将一个药剂的品质改为 24%"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LabDefenceLeo3",
+      "index": 26,
+      "columns": {
+        "DescriptionRuthless": [
+          {
+            "en": "Modify a Flask's quality to 26%",
+            "zh": "将一个药剂的品质改为 26%"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LabDefenceLeo4",
+      "index": 27,
+      "columns": {
+        "DescriptionRuthless": [
+          {
+            "en": "Modify a Flask's quality to 28%",
+            "zh": "将一个药剂的品质改为 28%"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LabDefenceJorgin1",
+      "index": 28,
+      "columns": {
+        "Description": [
+          {
+            "en": "Transform a non-unique Amulet into a Tier 1 Talisman",
+            "zh": "将一个非传奇项链转化为一个 1 阶魔符"
+          }
+        ],
+        "DescriptionRuthless": [
+          {
+            "en": "Transform a non-unique Amulet into a Tier 1 Talisman",
+            "zh": "将一个非传奇项链转化为一个 1 阶魔符"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LabDefenceJorgin2",
+      "index": 29,
+      "columns": {
+        "Description": [
+          {
+            "en": "Transform a non-unique Amulet into a Tier 2 Talisman",
+            "zh": "将一个非传奇项链转化为一个 2 阶魔符"
+          }
+        ],
+        "DescriptionRuthless": [
+          {
+            "en": "Transform a non-unique Amulet into a Tier 2 Talisman",
+            "zh": "将一个非传奇项链转化为一个 2 阶魔符"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LabDefenceJorgin3",
+      "index": 30,
+      "columns": {
+        "Description": [
+          {
+            "en": "Transform a non-unique Amulet into a Tier 3 Talisman",
+            "zh": "将一个非传奇项链转化为一个 3 阶魔符"
+          }
+        ],
+        "DescriptionRuthless": [
+          {
+            "en": "Transform a non-unique Amulet into a Tier 3 Talisman",
+            "zh": "将一个非传奇项链转化为一个 3 阶魔符"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LabDefenceJorgin4",
+      "index": 31,
+      "columns": {
+        "Description": [
+          {
+            "en": "Transform a non-unique Amulet into a Tier 3 Talisman",
+            "zh": "将一个非传奇项链转化为一个 3 阶魔符"
+          }
+        ],
+        "DescriptionRuthless": [
+          {
+            "en": "Transform a non-unique Amulet into a Tier 3 Talisman",
+            "zh": "将一个非传奇项链转化为一个 4 阶魔符"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LabDefenceTora1",
+      "index": 32,
+      "columns": {
+        "Description": [
+          {
+            "en": "Add 20m experience to a Gem",
+            "zh": "为一个宝石添加 20m 经验"
+          }
+        ],
+        "DescriptionRuthless": [
+          {
+            "en": "Add 10m experience to a Gem",
+            "zh": "为一个宝石添加 10m 经验"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LabDefenceTora2",
+      "index": 33,
+      "columns": {
+        "Description": [
+          {
+            "en": "Add 70m experience to a Gem",
+            "zh": "为一个宝石添加 70m 经验"
+          }
+        ],
+        "DescriptionRuthless": [
+          {
+            "en": "Add 35m experience to a Gem",
+            "zh": "为一个宝石添加 35m 经验"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LabDefenceTora3",
+      "index": 34,
+      "columns": {
+        "Description": [
+          {
+            "en": "Add 200m experience to a Gem",
+            "zh": "为一个宝石添加 200m 经验"
+          }
+        ],
+        "DescriptionRuthless": [
+          {
+            "en": "Add 70m experience to a Gem",
+            "zh": "为一个宝石添加 70m 经验"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LabDefenceTora4",
+      "index": 35,
+      "columns": {
+        "Description": [
+          {
+            "en": "Add 200m experience to a Gem",
+            "zh": "为一个宝石添加 200m 经验"
+          }
+        ],
+        "DescriptionRuthless": [
+          {
+            "en": "Add 150m experience to a Gem",
+            "zh": "为一个宝石添加 150m 经验"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LabDefenceVorici1",
+      "index": 36,
+      "columns": {
+        "Description": [
+          {
+            "en": "Modify an item to have 1 White Socket",
+            "zh": "更改一个物品，使其拥有 1 个白色插槽"
+          }
+        ],
+        "DescriptionRuthless": [
+          {
+            "en": "Reforge the links between sockets on an item 10 times, using the outcome with the greatest number of linked sockets",
+            "zh": "重铸物品上插槽间的连接 10 次，最终取连接插槽数最多的那次结果"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LabDefenceVorici2",
+      "index": 37,
+      "columns": {
+        "Description": [
+          {
+            "en": "Modify an item to have 1-2 White Sockets",
+            "zh": "更改一个物品，使其拥有 1-2 个白色插槽"
+          }
+        ],
+        "DescriptionRuthless": [
+          {
+            "en": "Reforge the links between sockets on an item 15 times, using the outcome with the greatest number of linked sockets",
+            "zh": "重铸物品上插槽间的连接 15 次，最终取连接插槽数最多的那次结果"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LabDefenceVorici3",
+      "index": 38,
+      "columns": {
+        "Description": [
+          {
+            "en": "Modify an item to have 1-3 White Sockets",
+            "zh": "更改一个物品，使其拥有 1-3 个白色插槽"
+          }
+        ],
+        "DescriptionRuthless": [
+          {
+            "en": "Reforge the links between sockets on an item 20 times, using the outcome with the greatest number of linked sockets",
+            "zh": "重铸物品上插槽间的连接 20 次，最终取连接插槽数最多的那次结果"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LabDefenceVorici4",
+      "index": 39,
+      "columns": {
+        "Description": [
+          {
+            "en": "Modify an item to have 1-6 White Sockets",
+            "zh": "更改一个物品，使其拥有 1-6 个白色插槽"
+          }
+        ],
+        "DescriptionRuthless": [
+          {
+            "en": "Reforge the links between sockets on an item 30 times, using the outcome with the greatest number of linked sockets",
+            "zh": "重铸物品上插槽间的连接 30 次，最终取连接插槽数最多的那次结果"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CartEscortVorici1",
+      "index": 40,
+      "columns": {
+        "Description": [
+          {
+            "en": "Reforge the colours of sockets on an item 50 times, using the outcome with the greatest number of less-common socket colours",
+            "zh": "重铸物品上的插槽颜色 50 次，最终取不常见的插槽颜色最多的那次结果"
+          }
+        ],
+        "DescriptionRuthless": [
+          {
+            "en": "Reforge the colours of sockets on an item 10 times, using the outcome with the greatest number of less-common socket colours",
+            "zh": "重铸物品上的插槽颜色 10 次，最终取不常见的插槽颜色最多的那次结果"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CartEscortVorici2",
+      "index": 41,
+      "columns": {
+        "Description": [
+          {
+            "en": "Reforge the number of sockets on an item 50 times, using the outcome with the greatest number of sockets",
+            "zh": "重铸物品上的插槽数 50 次，最终取插槽数最多的那次结果"
+          }
+        ],
+        "DescriptionRuthless": [
+          {
+            "en": "Reforge the colours of sockets on an item 20 times, using the outcome with the greatest number of less-common socket colours",
+            "zh": "重铸物品上的插槽颜色 20 次，最终取不常见的插槽颜色最多的那次结果"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CartEscortVorici3",
+      "index": 42,
+      "columns": {
+        "Description": [
+          {
+            "en": "Reforge the links between sockets on an item 50 times, using the outcome with the greatest number of linked sockets",
+            "zh": "重铸物品上插槽间的连接 50 次，最终取连接插槽数最多的那次结果"
+          }
+        ],
+        "DescriptionRuthless": [
+          {
+            "en": "Reforge the colours of sockets on an item 30 times, using the outcome with the greatest number of less-common socket colours",
+            "zh": "重铸物品上的插槽颜色 30 次，最终取不常见的插槽颜色最多的那次结果"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CartEscortVorici4",
+      "index": 43,
+      "columns": {
+        "Description": [
+          {
+            "en": "Reforge the links between sockets on an item 50 times, using the outcome with the greatest number of linked sockets",
+            "zh": "重铸物品上插槽间的连接 50 次，最终取连接插槽数最多的那次结果"
+          }
+        ],
+        "DescriptionRuthless": [
+          {
+            "en": "Reforge the colours of sockets on an item 40 times, using the outcome with the greatest number of less-common socket colours",
+            "zh": "重铸物品上的插槽颜色 40 次，最终取不常见的插槽颜色最多的那次结果"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BaseDefenceVorici1",
+      "index": 44,
+      "columns": {
+        "DescriptionRuthless": [
+          {
+            "en": "Reforge the number of sockets on an item 10 times, using the outcome with the greatest number of sockets",
+            "zh": "重铸物品上的插槽数 10 次，最终取插槽数最多的那次结果"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BaseDefenceVorici2",
+      "index": 45,
+      "columns": {
+        "DescriptionRuthless": [
+          {
+            "en": "Reforge the number of sockets on an item 20 times, using the outcome with the greatest number of sockets",
+            "zh": "重铸物品上的插槽数 20 次，最终取插槽数最多的那次结果"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BaseDefenceVorici3",
+      "index": 46,
+      "columns": {
+        "DescriptionRuthless": [
+          {
+            "en": "Reforge the number of sockets on an item 30 times, using the outcome with the greatest number of sockets",
+            "zh": "重铸物品上的插槽数 30 次，最终取插槽数最多的那次结果"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BaseDefenceVorici4",
+      "index": 47,
+      "columns": {
+        "DescriptionRuthless": [
+          {
+            "en": "Reforge the number of sockets on an item 40 times, using the outcome with the greatest number of sockets",
+            "zh": "重铸物品上的插槽数 40 次，最终取插槽数最多的那次结果"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LabDefenceRin1",
+      "index": 48,
+      "columns": {
+        "DescriptionRuthless": [
+          {
+            "en": "Modify a Map's quality to 22%",
+            "zh": "将一张地图的品质改为 22%"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LabDefenceRin2",
+      "index": 49,
+      "columns": {
+        "DescriptionRuthless": [
+          {
+            "en": "Modify a Map's quality to 24%",
+            "zh": "将一张地图的品质改为 24%"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LabDefenceRin3",
+      "index": 50,
+      "columns": {
+        "DescriptionRuthless": [
+          {
+            "en": "Modify a Map's quality to 26%",
+            "zh": "将一张地图的品质改为 26%"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LabDefenceRin4",
+      "index": 51,
+      "columns": {
+        "DescriptionRuthless": [
+          {
+            "en": "Modify a Map's quality to 28%",
+            "zh": "将一张地图的品质改为 28%"
+          }
+        ]
+      }
+    }
+  ]
+}

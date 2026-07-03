@@ -1,0 +1,610 @@
+{
+  "table": "CraftingBenchOptions",
+  "key": "Id",
+  "columns": [
+    "__col1",
+    "__col3"
+  ],
+  "entries": [
+    {
+      "id": "ConvertResistsToFire",
+      "index": 0,
+      "columns": {
+        "__col1": [
+          {
+            "en": "[DNT] ConvertResistsToFire",
+            "zh": "转化抗性为火焰抗性"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ConvertResistsToCold",
+      "index": 1,
+      "columns": {
+        "__col1": [
+          {
+            "en": "[DNT] ConvertResistsToCold",
+            "zh": "转化抗性为冰霜抗性"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ConvertResistsToLightning",
+      "index": 2,
+      "columns": {
+        "__col1": [
+          {
+            "en": "[DNT] ConvertResistsToLightning",
+            "zh": "转化抗性为闪电抗性"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ConvertResistsToChaos",
+      "index": 3,
+      "columns": {
+        "__col1": [
+          {
+            "en": "[DNT] ConvertResistsToChaos",
+            "zh": "转化抗性为混沌抗性"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SetInherentSkillLevel1",
+      "index": 4,
+      "columns": {
+        "__col1": [
+          {
+            "en": "[DNT] SetInherentSkillLevel1",
+            "zh": "将固有技能等级设为 1"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SetInherentSkillLevel2",
+      "index": 5,
+      "columns": {
+        "__col1": [
+          {
+            "en": "[DNT] SetInherentSkillLevel2",
+            "zh": "将固有技能等级设为 2"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SetInherentSkillLevel3",
+      "index": 6,
+      "columns": {
+        "__col1": [
+          {
+            "en": "[DNT] SetInherentSkillLevel3",
+            "zh": "将固有技能等级设为 3"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SetInherentSkillLevel4",
+      "index": 7,
+      "columns": {
+        "__col1": [
+          {
+            "en": "[DNT] SetInherentSkillLevel4",
+            "zh": "将固有技能等级设为 4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SetInherentSkillLevel5",
+      "index": 8,
+      "columns": {
+        "__col1": [
+          {
+            "en": "[DNT] SetInherentSkillLevel5",
+            "zh": "将固有技能等级设为 5"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SetInherentSkillLevel6",
+      "index": 9,
+      "columns": {
+        "__col1": [
+          {
+            "en": "[DNT] SetInherentSkillLevel6",
+            "zh": "将固有技能等级设为 6"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SetInherentSkillLevel7",
+      "index": 10,
+      "columns": {
+        "__col1": [
+          {
+            "en": "[DNT] SetInherentSkillLevel7",
+            "zh": "将固有技能等级设为 7"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SetInherentSkillLevel8",
+      "index": 11,
+      "columns": {
+        "__col1": [
+          {
+            "en": "[DNT] SetInherentSkillLevel8",
+            "zh": "将固有技能等级设为 8"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SetInherentSkillLevel9",
+      "index": 12,
+      "columns": {
+        "__col1": [
+          {
+            "en": "[DNT] SetInherentSkillLevel9",
+            "zh": "将固有技能等级设为 9"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SetInherentSkillLevel10",
+      "index": 13,
+      "columns": {
+        "__col1": [
+          {
+            "en": "[DNT] SetInherentSkillLevel10",
+            "zh": "将固有技能等级设为 10"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SetInherentSkillLevel11",
+      "index": 14,
+      "columns": {
+        "__col1": [
+          {
+            "en": "[DNT] SetInherentSkillLevel11",
+            "zh": "将固有技能等级设为 11"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SetInherentSkillLevel12",
+      "index": 15,
+      "columns": {
+        "__col1": [
+          {
+            "en": "[DNT] SetInherentSkillLevel12",
+            "zh": "将固有技能等级设为 12"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SetInherentSkillLevel13",
+      "index": 16,
+      "columns": {
+        "__col1": [
+          {
+            "en": "[DNT] SetInherentSkillLevel13",
+            "zh": "将固有技能等级设为 13"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SetInherentSkillLevel14",
+      "index": 17,
+      "columns": {
+        "__col1": [
+          {
+            "en": "[DNT] SetInherentSkillLevel14",
+            "zh": "将固有技能等级设为 14"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SetInherentSkillLevel15",
+      "index": 18,
+      "columns": {
+        "__col1": [
+          {
+            "en": "[DNT] SetInherentSkillLevel15",
+            "zh": "将固有技能等级设为 15"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SetInherentSkillLevel16",
+      "index": 19,
+      "columns": {
+        "__col1": [
+          {
+            "en": "[DNT] SetInherentSkillLevel16",
+            "zh": "将固有技能等级设为 16"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SetInherentSkillLevel17",
+      "index": 20,
+      "columns": {
+        "__col1": [
+          {
+            "en": "[DNT] SetInherentSkillLevel17",
+            "zh": "将固有技能等级设为 17"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SetInherentSkillLevel18",
+      "index": 21,
+      "columns": {
+        "__col1": [
+          {
+            "en": "[DNT] SetInherentSkillLevel18",
+            "zh": "将固有技能等级设为 18"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SetInherentSkillLevel19",
+      "index": 22,
+      "columns": {
+        "__col1": [
+          {
+            "en": "[DNT] SetInherentSkillLevel19",
+            "zh": "将固有技能等级设为 19"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SetInherentSkillLevel20",
+      "index": 23,
+      "columns": {
+        "__col1": [
+          {
+            "en": "[DNT] SetInherentSkillLevel20",
+            "zh": "将固有技能等级设为 20"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SetGemLevel1",
+      "index": 24,
+      "columns": {
+        "__col1": [
+          {
+            "en": "[DNT] SetGemLevel1",
+            "zh": "将珠宝等级设为 1"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SetGemLevel2",
+      "index": 25,
+      "columns": {
+        "__col1": [
+          {
+            "en": "[DNT] SetGemLevel2",
+            "zh": "将珠宝等级设为 2"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SetGemLevel3",
+      "index": 26,
+      "columns": {
+        "__col1": [
+          {
+            "en": "[DNT] SetGemLevel3",
+            "zh": "将珠宝等级设为 3"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SetGemLevel4",
+      "index": 27,
+      "columns": {
+        "__col1": [
+          {
+            "en": "[DNT] SetGemLevel4",
+            "zh": "将珠宝等级设为 4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SetGemLevel5",
+      "index": 28,
+      "columns": {
+        "__col1": [
+          {
+            "en": "[DNT] SetGemLevel5",
+            "zh": "将珠宝等级设为 5"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SetGemLevel6",
+      "index": 29,
+      "columns": {
+        "__col1": [
+          {
+            "en": "[DNT] SetGemLevel6",
+            "zh": "将珠宝等级设为 6"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SetGemLevel7",
+      "index": 30,
+      "columns": {
+        "__col1": [
+          {
+            "en": "[DNT] SetGemLevel7",
+            "zh": "将珠宝等级设为 7"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SetGemLevel8",
+      "index": 31,
+      "columns": {
+        "__col1": [
+          {
+            "en": "[DNT] SetGemLevel8",
+            "zh": "将珠宝等级设为 8"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SetGemLevel9",
+      "index": 32,
+      "columns": {
+        "__col1": [
+          {
+            "en": "[DNT] SetGemLevel9",
+            "zh": "将珠宝等级设为 9"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SetGemLevel10",
+      "index": 33,
+      "columns": {
+        "__col1": [
+          {
+            "en": "[DNT] SetGemLevel10",
+            "zh": "将珠宝等级设为 10"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SetGemLevel11",
+      "index": 34,
+      "columns": {
+        "__col1": [
+          {
+            "en": "[DNT] SetGemLevel11",
+            "zh": "将珠宝等级设为 11"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SetGemLevel12",
+      "index": 35,
+      "columns": {
+        "__col1": [
+          {
+            "en": "[DNT] SetGemLevel12",
+            "zh": "将珠宝等级设为 12"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SetGemLevel13",
+      "index": 36,
+      "columns": {
+        "__col1": [
+          {
+            "en": "[DNT] SetGemLevel13",
+            "zh": "将珠宝等级设为 13"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SetGemLevel14",
+      "index": 37,
+      "columns": {
+        "__col1": [
+          {
+            "en": "[DNT] SetGemLevel14",
+            "zh": "将珠宝等级设为 14"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SetGemLevel15",
+      "index": 38,
+      "columns": {
+        "__col1": [
+          {
+            "en": "[DNT] SetGemLevel15",
+            "zh": "将珠宝等级设为 15"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SetGemLevel16",
+      "index": 39,
+      "columns": {
+        "__col1": [
+          {
+            "en": "[DNT] SetGemLevel16",
+            "zh": "将珠宝等级设为 16"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SetGemLevel17",
+      "index": 40,
+      "columns": {
+        "__col1": [
+          {
+            "en": "[DNT] SetGemLevel17",
+            "zh": "将珠宝等级设为 17"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SetGemLevel18",
+      "index": 41,
+      "columns": {
+        "__col1": [
+          {
+            "en": "[DNT] SetGemLevel18",
+            "zh": "将珠宝等级设为 18"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SetGemLevel19",
+      "index": 42,
+      "columns": {
+        "__col1": [
+          {
+            "en": "[DNT] SetGemLevel19",
+            "zh": "将珠宝等级设为 19"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SetGemLevel20",
+      "index": 43,
+      "columns": {
+        "__col1": [
+          {
+            "en": "[DNT] SetGemLevel20",
+            "zh": "将珠宝等级设为 20"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HelmetCursedMarkedEnemies1",
+      "index": 79,
+      "columns": {
+        "__col1": [
+          {
+            "en": "[DNT] Coming Soon",
+            "zh": "敬请期待"
+          }
+        ]
+      }
+    },
+    {
+      "id": "RingWardEfficiency1",
+      "index": 80,
+      "columns": {
+        "__col1": [
+          {
+            "en": "[DNT] Coming Soon",
+            "zh": "敬请期待"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BeltRunicWardOnCharmUse1",
+      "index": 81,
+      "columns": {
+        "__col1": [
+          {
+            "en": "[DNT] Coming Soon",
+            "zh": "敬请期待"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2HCasterWeaponDamageAsExtraColdWhileNotFullWard1",
+      "index": 82,
+      "columns": {
+        "__col1": [
+          {
+            "en": "[DNT] Coming Soon",
+            "zh": "敬请期待"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1HCasterWeaponDamageAsExtraColdWhileNotFullWard1",
+      "index": 83,
+      "columns": {
+        "__col1": [
+          {
+            "en": "[DNT] Coming Soon",
+            "zh": "敬请期待"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ShieldBucklerWardGainOnBlock1",
+      "index": 84,
+      "columns": {
+        "__col1": [
+          {
+            "en": "[DNT] Coming Soon",
+            "zh": "敬请期待"
+          }
+        ]
+      }
+    }
+  ]
+}

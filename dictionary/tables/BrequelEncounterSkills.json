@@ -1,0 +1,202 @@
+{
+  "table": "BrequelEncounterSkills",
+  "key": "Id",
+  "columns": [
+    "Description",
+    "Art"
+  ],
+  "entries": [
+    {
+      "id": "Metadata/Monsters/Breach/ChayulaSkills/ChayulaFirestormDaemon",
+      "index": 0,
+      "columns": {
+        "Description": [
+          {
+            "en": "Bombard the Hiveborn",
+            "zh": "轰炸裂隙虫群"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Metadata/Monsters/Breach/ChayulaSkills/ChayulaFlameWallDaemon",
+      "index": 1,
+      "columns": {
+        "Description": [
+          {
+            "en": "Conjure a wall of the Dreamer's Flame",
+            "zh": "召唤一道幻梦者火焰之墙"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Metadata/Monsters/Breach/ChayulaSkills/ChayulaFreezePulseDaemon",
+      "index": 2,
+      "columns": {
+        "Description": [
+          {
+            "en": "Freeze and Hinder the Hiveborn",
+            "zh": "使裂隙虫群冻结并缓速"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Metadata/Monsters/Breach/ChayulaSkills/ChayulaAilithHealDaemon",
+      "index": 3,
+      "columns": {
+        "Description": [
+          {
+            "en": "Heal Ailith",
+            "zh": "治疗艾利丝"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Metadata/Monsters/Breach/ChayulaSkills/ChayulaAilithShieldDaemon",
+      "index": 4,
+      "columns": {
+        "Description": [
+          {
+            "en": "Grant Ailith a Shield",
+            "zh": "为艾利丝提供护盾"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Metadata/Monsters/Breach/ChayulaSkills/ChayulaEnhancedFlameAuraDaemon",
+      "index": 5,
+      "columns": {
+        "Description": [
+          {
+            "en": "Gain an Enhanced Flame",
+            "zh": "获得强化火焰"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Metadata/Monsters/Breach/ChayulaSkills/ChayulaWallDestructionDaemon",
+      "index": 6,
+      "columns": {
+        "Description": [
+          {
+            "en": "Destroy the Hive walls around Ailith\r\n<italic>{(this skill is removed at wave 4)}",
+            "zh": "摧毁艾利丝周围的裂隙巢穴之墙\r\n<italic>{(该技能将于第 4 波后移除)}"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Metadata/Monsters/Breach/ChayulaSkills/ChayulaMagicPackSpawnDaemon",
+      "index": 7,
+      "columns": {
+        "Description": [
+          {
+            "en": "Spawns Magic Monsters",
+            "zh": "生成魔法怪物"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Metadata/Monsters/Breach/ChayulaSkills/ChayulaTulAndEshSpawnDaemon",
+      "index": 8,
+      "columns": {
+        "Description": [
+          {
+            "en": "Spawns It That Was Tul and It That Was Esh",
+            "zh": "生成曾为托沃之物与曾为艾许之物"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Metadata/Monsters/Breach/ChayulaSkills/ChayulaMonsterPotencyBuffDaemon",
+      "index": 9,
+      "columns": {
+        "Description": [
+          {
+            "en": "Increase Monster Potency",
+            "zh": "提高怪物效能"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Metadata/Monsters/Breach/ChayulaSkills/ChayulaMonsterUpgradeDaemon",
+      "index": 10,
+      "columns": {
+        "Description": [
+          {
+            "en": "Creates a zone that upgrades Monster Rarity",
+            "zh": "创造一个区域，提升怪物的稀有度"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Metadata/Monsters/Breach/ChayulaSkills/ChayulaAdditionalRarePackDaemon",
+      "index": 11,
+      "columns": {
+        "Description": [
+          {
+            "en": "Spawns an additional Pack with a Rare Monster at the start of each wave",
+            "zh": "每波开始时额外生成 1 群带有稀有怪物的群怪"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Metadata/Monsters/Breach/ChayulaSkills/ChayulaAdditionalMagicPacksDaemon",
+      "index": 12,
+      "columns": {
+        "Description": [
+          {
+            "en": "Spawns 2 additional Packs of Magic Monsters at the start of each wave",
+            "zh": "每波开始时额外生成 2 群魔法怪物"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Metadata/Monsters/Breach/ChayulaSkills/ChayulaAdditionalRareModDaemon",
+      "index": 13,
+      "columns": {
+        "Description": [
+          {
+            "en": "Creates a zone that adds a Modifier to Rare Monsters",
+            "zh": "创造一个区域，为稀有怪物添加一条词缀。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Metadata/Monsters/Breach/ChayulaSkills/ChayulaSacrificeForRarityDaemon",
+      "index": 14,
+      "columns": {
+        "Description": [
+          {
+            "en": "Sacrifice half of Ailith's Life to gain Rarity",
+            "zh": "牺牲艾利丝一半的生命值，以提升物品稀有度。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Metadata/Monsters/Breach/ChayulaSkills/ChayulaSacrificeForPowerDaemon",
+      "index": 15,
+      "columns": {
+        "Description": [
+          {
+            "en": "Sacrifice half of Ailith's Life to gain Damage and Damage Immunity",
+            "zh": "牺牲艾利丝一半的生命值，以获得伤害加成与伤害免疫。"
+          }
+        ]
+      }
+    }
+  ]
+}

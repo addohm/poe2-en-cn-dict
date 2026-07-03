@@ -1,0 +1,52 @@
+{
+  "table": "AtlasPrimordialBossOptions",
+  "key": "_index",
+  "columns": [
+    "DefaultIcon",
+    "HoverIcon",
+    "HighlightIcon",
+    "EmptyIcon",
+    "ProgressTracker",
+    "ProgressTrackerFill",
+    "Name",
+    "MapDeviceTrackerFill"
+  ],
+  "entries": [
+    {
+      "id": null,
+      "index": 0,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Eater of Worlds",
+            "zh": "灭界者"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 1,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Maven",
+            "zh": "贤主"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 2,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Searing Exarch",
+            "zh": "焚界者"
+          }
+        ]
+      }
+    }
+  ]
+}

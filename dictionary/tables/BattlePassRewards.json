@@ -1,0 +1,192 @@
+{
+  "table": "BattlePassRewards",
+  "key": "_index",
+  "columns": [
+    "Id",
+    "RewardDescription",
+    "__col9",
+    "RewardTitle"
+  ],
+  "entries": [
+    {
+      "id": null,
+      "index": 29,
+      "columns": {
+        "RewardDescription": [
+          {
+            "en": "Receive a random prize with a Sin or Innocence theme! It'll appear inside your MTX stash, waiting to be unwrapped.",
+            "zh": "收到了一个罪与纯净神秘宝箱！快去打开充满惊喜的宝箱吧！"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 31,
+      "columns": {
+        "RewardDescription": [
+          {
+            "en": "Receive a random prize with a Polaris theme! It'll appear inside your MTX stash, waiting to be unwrapped.",
+            "zh": "收到了一个阴阳双生神秘宝箱！快去打开充满惊喜的宝箱吧！"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 33,
+      "columns": {
+        "RewardDescription": [
+          {
+            "en": "Receive a random prize with a Twilight theme! It'll appear inside your MTX stash, waiting to be unwrapped.",
+            "zh": "收到了一个夜幕余晖神秘宝箱！快去打开充满惊喜的宝箱吧！"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 36,
+      "columns": {
+        "RewardDescription": [
+          {
+            "en": "Receive a random prize with a Warlord theme! It'll appear inside your MTX stash, waiting to be unwrapped.",
+            "zh": "收到了一个暗影督军神秘宝箱！快去打开充满惊喜的宝箱吧！"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 39,
+      "columns": {
+        "RewardDescription": [
+          {
+            "en": "Receive a random prize with a Harmony theme! It'll appear inside your MTX stash, waiting to be unwrapped.",
+            "zh": "收到了一个灾祸之源神秘宝箱！快去打开充满惊喜的宝箱吧！"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 42,
+      "columns": {
+        "RewardDescription": [
+          {
+            "en": "Receive a random prize with an Apocalypse theme! It'll appear inside your MTX stash, waiting to be unwrapped.",
+            "zh": "收到了一个天启神秘宝箱！快去打开充满惊喜的宝箱吧！"
+          }
+        ],
+        "RewardTitle": [
+          {
+            "en": "Apocalypse Mystery Box",
+            "zh": "天启神秘宝箱"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 43,
+      "columns": {
+        "RewardTitle": [
+          {
+            "en": "Igneous Emperor Boots",
+            "zh": "脚部外观：火岩帝王"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 44,
+      "columns": {
+        "RewardDescription": [
+          {
+            "en": "Receive a random prize with a Glimmerwood theme! It'll appear inside your MTX stash, waiting to be unwrapped.",
+            "zh": "收到了一个烁光森林神秘宝箱！快去打开充满惊喜的宝箱吧！"
+          }
+        ],
+        "RewardTitle": [
+          {
+            "en": "Glimmerwood Mystery Box",
+            "zh": "烁光木心神秘宝箱"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 45,
+      "columns": {
+        "RewardTitle": [
+          {
+            "en": "Igneous Emperor Gloves",
+            "zh": "手部外观：火岩帝王"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 46,
+      "columns": {
+        "RewardDescription": [
+          {
+            "en": "Receive a random prize with a Thaumaturgy theme! It'll appear inside your MTX stash, waiting to be unwrapped.",
+            "zh": "收到了一个奇术兵厂神秘宝箱！快去打开充满惊喜的宝箱吧！"
+          }
+        ],
+        "RewardTitle": [
+          {
+            "en": "Thaumaturgy Mystery Box",
+            "zh": "奇术兵厂神秘宝箱"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 47,
+      "columns": {
+        "RewardTitle": [
+          {
+            "en": "Igneous Emperor Body Armour",
+            "zh": "身体外观：火岩帝王"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 48,
+      "columns": {
+        "RewardDescription": [
+          {
+            "en": "Receive a random prize with a Midnight theme! It'll appear inside your MTX stash, waiting to be unwrapped.",
+            "zh": "收到了一个午夜惊魂神秘宝箱！快去打开充满惊喜的宝箱吧！"
+          }
+        ],
+        "RewardTitle": [
+          {
+            "en": "Midnight Pact Mystery Box",
+            "zh": "午夜惊魂神秘宝箱"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 49,
+      "columns": {
+        "RewardTitle": [
+          {
+            "en": "Igneous Emperor Helmet",
+            "zh": "头部外观：火岩帝王"
+          }
+        ]
+      }
+    }
+  ]
+}

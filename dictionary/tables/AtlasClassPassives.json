@@ -1,0 +1,661 @@
+{
+  "table": "AtlasClassPassives",
+  "key": "_index",
+  "columns": [
+    "Id",
+    "KeystoneArt",
+    "KeystoneArtActive",
+    "Name",
+    "FlavourText"
+  ],
+  "entries": [
+    {
+      "id": null,
+      "index": 0,
+      "columns": {
+        "Name": [
+          {
+            "en": "Trove Seekers",
+            "zh": "宝藏寻猎者"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "The Order hunts and secures artefacts\r\ntoo powerful for the world to handle.",
+            "zh": "巨灵教追猎并收容那些过于强大、\r\n世间无法掌控的神器。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 1,
+      "columns": {
+        "Name": [
+          {
+            "en": "In The Wrong Hands",
+            "zh": "落入错手"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "...there is no telling what damage\r\ncould be wrought by such relics.",
+            "zh": "……无从知晓这等遗物\r\n会造成何等灾祸。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 2,
+      "columns": {
+        "Name": [
+          {
+            "en": "Unexpected Missions",
+            "zh": "意外使命"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "We go where our duty demands.",
+            "zh": "职责所在，使命必达。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 3,
+      "columns": {
+        "Name": [
+          {
+            "en": "Unforeseen Threats",
+            "zh": "未卜之患"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "We must remain vigilant.",
+            "zh": "我们必须保持警惕。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 4,
+      "columns": {
+        "Name": [
+          {
+            "en": "Mysterious Gifts",
+            "zh": "神秘馈赠"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "I have no answers for you.\r\nSome things... simply exist.",
+            "zh": "我无法给你答案。\r\n有些东西……只是存在着。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 5,
+      "columns": {
+        "Name": [
+          {
+            "en": "Eastern Knowledge",
+            "zh": "东方学识"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "The Order has had Kalguuran\r\nmembers... at times.",
+            "zh": "教团中，有过卡古兰人……\r\n曾经。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 6,
+      "columns": {
+        "Name": [
+          {
+            "en": "Partial Translations",
+            "zh": "残篇译解"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "We have spent centuries deciphering\r\nPrecursor writings. We know... a little.",
+            "zh": "我们耗费数个世纪破译先驱者的文字。\r\n所知……不过皮毛。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 7,
+      "columns": {
+        "Name": [
+          {
+            "en": "Stolen Relics",
+            "zh": "失窃圣物"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "Twenty years ago, the Order lost\r\nmuch. We will recover it.",
+            "zh": "二十年前，教团失去了太多。\r\n我们会夺回来。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 8,
+      "columns": {
+        "Name": [
+          {
+            "en": "Long Days",
+            "zh": "悠长岁月"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "We do not have the benefit of rest.\r\nOur task is never complete.",
+            "zh": "我们无法享受休息。\r\n我们的任务永无止境。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 9,
+      "columns": {
+        "Name": [
+          {
+            "en": "Keen Appraisal",
+            "zh": "敏锐鉴识"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "As a seeker of powerful artefacts,\r\nI know how to spot master works.",
+            "zh": "作为强大神器的追寻者，\r\n我懂得如何识别大师之作。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 10,
+      "columns": {
+        "Name": [
+          {
+            "en": "Untold Histories",
+            "zh": "未闻史册"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "We are keepers of a world lost\r\nto the marches of time.",
+            "zh": "我们是失落于时间洪流，\r\n世界的守护者。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 11,
+      "columns": {
+        "Name": [
+          {
+            "en": "Ancient Activations",
+            "zh": "远古启动"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "There is a great mystery all around us.\r\nBe careful what you disturb.",
+            "zh": "我们周围有一个巨大的谜团。\r\n当心你惊动的东西。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 12,
+      "columns": {
+        "Name": [
+          {
+            "en": "Stitch the Flesh",
+            "zh": "缝合血肉"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "Did you think I would let a simple thing\r\nlike dying interfere with our work?",
+            "zh": "你以为我会让死亡这等小事\r\n来妨碍我们的工作？"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 13,
+      "columns": {
+        "Name": [
+          {
+            "en": "Refined Formula",
+            "zh": "精炼配方"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "Let's make this a little more... efficient.",
+            "zh": "让我们把这变得更……高效一些。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 14,
+      "columns": {
+        "Name": [
+          {
+            "en": "Evolutionary Pressure",
+            "zh": "进化压力"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "The leylines can affect more than just\r\nthe terrain... curious...",
+            "zh": "地脉能影响的远不止地形……\r\n有意思……"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 15,
+      "columns": {
+        "Name": [
+          {
+            "en": "Improved Calibration",
+            "zh": "改良校准"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "The more we work with these leylines,\r\nthe more I feel I... understand them...",
+            "zh": "我们对这些地脉研究得越深，\r\n我就越发觉得自己……理解了它们……"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 16,
+      "columns": {
+        "Name": [
+          {
+            "en": "Disengaged Safeties",
+            "zh": "解除保险"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "Our long-term survival no longer matters.\r\nWe are already dead men walking.",
+            "zh": "我们的长期生存已无关紧要。\r\n我们已经是行尸走肉。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 17,
+      "columns": {
+        "Name": [
+          {
+            "en": "Careful Procurement",
+            "zh": "谨慎采购"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "We will need quite a few resources if\r\nwe are to succeed. I will teach you.",
+            "zh": "若要成功，我们需要大量资源。\r\n我来教你。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 18,
+      "columns": {
+        "Name": [
+          {
+            "en": "Volatile Connection",
+            "zh": "易爆链路"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "I need more data on a new process.\r\nPlease, do what you do best.",
+            "zh": "我需要更多新流程的数据。\r\n去吧，做你最擅长的事。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 19,
+      "columns": {
+        "Name": [
+          {
+            "en": "Mechanical Guardians",
+            "zh": "机械守卫"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "Their creators are long since dust,\r\nbut their duty remains.",
+            "zh": "它们的创造者早已化为尘土，\r\n但它们的职责犹存。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 20,
+      "columns": {
+        "Name": [
+          {
+            "en": "Hidden Patterns",
+            "zh": "暗藏规律"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "It's all connected. The Grand Project...\r\nI can almost see its intent...",
+            "zh": "一切皆有联系。那个宏大工程……\r\n我几乎能窥见它的意图……"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 21,
+      "columns": {
+        "Name": [
+          {
+            "en": "Dam the River",
+            "zh": "截断江河"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "There's some sort of energy flow\r\nunderneath reality. Could it be...?",
+            "zh": "现实之下存在着某种能量流。\r\n难道……"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 22,
+      "columns": {
+        "Name": [
+          {
+            "en": "Remnants of Greatness",
+            "zh": "伟大遗迹"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "They are drawn to the power of the\r\nGrand Project. They know not why.",
+            "zh": "它们被宏大工程的力量所吸引。它们不知为何。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 23,
+      "columns": {
+        "Name": [
+          {
+            "en": "Head of the Snake",
+            "zh": "斩首蛇头"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "We need a smarter strategy.\r\nWe must aim for the top.",
+            "zh": "我们需要更明智的策略。\r\n我们必须瞄准顶峰。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 24,
+      "columns": {
+        "Name": [
+          {
+            "en": "Breeding Season",
+            "zh": "繁殖季节"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "What's gotten into this lot, I wonder?",
+            "zh": "我怀疑，这帮家伙是怎么了？"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 25,
+      "columns": {
+        "Name": [
+          {
+            "en": "Mighty Prey",
+            "zh": "强横猎物"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "Some days you're the spear,\r\nsome days you're the boar!",
+            "zh": "有时你是那长矛，\r\n有时你是那野猪！"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 26,
+      "columns": {
+        "Name": [
+          {
+            "en": "Scarred Lands",
+            "zh": "伤痕大地"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "Something terrible\r\nhappened here long ago.",
+            "zh": "很久以前，\r\n这里发生过可怕的事情。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 27,
+      "columns": {
+        "Name": [
+          {
+            "en": "Dangerous Game",
+            "zh": "危险游戏"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "They're not gonna make it easy.",
+            "zh": "他们不会让我们轻易得逞。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 28,
+      "columns": {
+        "Name": [
+          {
+            "en": "Soul Eaters",
+            "zh": "噬魂者"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "Some days, the hunt is\r\nthankless and brutal.",
+            "zh": "有些时候，狩猎是费力不讨好的，\r\n是残酷的。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 29,
+      "columns": {
+        "Name": [
+          {
+            "en": "Will of the Draíocht",
+            "zh": "德莱契之意志"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "Sometimes, they hold out for bigger prey.\r\nI ken there's a reason.",
+            "zh": "有时候，它们会等待更大的猎物。\r\n我知道，其中必有缘由。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 30,
+      "columns": {
+        "Name": [
+          {
+            "en": "Call of the Spirits",
+            "zh": "万灵召唤"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "All you've got do is listen, aye,\r\nand they'll guide you on.",
+            "zh": "你只需倾听，对，\r\n他们便会指引你前行。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 31,
+      "columns": {
+        "Name": [
+          {
+            "en": "Ancient Inscriptions",
+            "zh": "远古铭文"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "Got no idea what they say,\r\nbut they seem to fit together.",
+            "zh": "完全搞不懂上面写的是什么，\r\n但它们似乎能结合到一起。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 32,
+      "columns": {
+        "Name": [
+          {
+            "en": "Lethal Adaptation",
+            "zh": "致命适应"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "Something's changin' 'em.\r\nBe ready to get bloody.",
+            "zh": "有什么东西正在改变它们。\r\n准备好浴血奋战吧。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 33,
+      "columns": {
+        "Name": [
+          {
+            "en": "Patient Battue",
+            "zh": "耐心驱猎"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "I'll make some noise and holler. Let's\r\nsee if I can drive them your way!",
+            "zh": "我会制造声响，大声吆喝。\r\n看我能不能把他们赶向你那边！"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 34,
+      "columns": {
+        "Name": [
+          {
+            "en": "Gutting and Skinning",
+            "zh": "开膛破肚"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "Use every part of what you kill.\r\nTo do otherwise is disrespectful.",
+            "zh": "利用你所杀之物的每一部分。\r\n否则便是大不敬。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 35,
+      "columns": {
+        "Name": [
+          {
+            "en": "Claimed Territories",
+            "zh": "占据之地"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "You really wanna challenge their claim?\r\nAlright then... let's see how this goes.",
+            "zh": "你真想挑战他们的宣称？好吧……\r\n那就拭目以待吧。"
+          }
+        ]
+      }
+    }
+  ]
+}

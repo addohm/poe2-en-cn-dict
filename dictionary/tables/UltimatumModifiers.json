@@ -1,0 +1,930 @@
+{
+  "table": "UltimatumModifiers",
+  "key": "Id",
+  "columns": [
+    "Name",
+    "Icon",
+    "__col10",
+    "Description"
+  ],
+  "entries": [
+    {
+      "id": "PlayerDebuffRecoveryReduction1",
+      "index": 0,
+      "columns": {
+        "Name": [
+          {
+            "en": "Reduced Recovery",
+            "zh": "回复降低"
+          }
+        ],
+        "Description": [
+          {
+            "en": "40% reduced Life, Mana, and [EnergyShield|Energy Shield] Recovery Rate",
+            "zh": "生命、魔力、[EnergyShield|能量护盾]回复速度降低 40%"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PlayerDebuffRecoveryReduction2",
+      "index": 1,
+      "columns": {
+        "Name": [
+          {
+            "en": "Reduced Recovery II",
+            "zh": "回复降低之二"
+          }
+        ],
+        "Description": [
+          {
+            "en": "75% reduced Life, Mana, and [EnergyShield|Energy Shield] Recovery Rate",
+            "zh": "生命、魔力、[EnergyShield|能量护盾]回复速度降低 75%"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PlayerDebuffAreaAndProjectileSpeed",
+      "index": 2,
+      "columns": {
+        "Name": [
+          {
+            "en": "Lessened Reach",
+            "zh": "触及降低"
+          }
+        ],
+        "Description": [
+          {
+            "en": "50% less Area of Effect and [Projectile] Speed",
+            "zh": "效果区域和[Projectile|投射物]速度总降 50%"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PlayerDebuffBuffsExpireFasterDebuffsExpireSlower",
+      "index": 3,
+      "columns": {
+        "Name": [
+          {
+            "en": "Time Paradox",
+            "zh": "时空悖论"
+          }
+        ],
+        "Description": [
+          {
+            "en": "[Buff|Buffs] expire three times faster and [Debuff|Debuffs] expire three times slower",
+            "zh": "[Buff|增益状态]的消减速度加快三倍，[Debuff|减益状态]的消减速度减慢三倍"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PlayerDebuffDefences1",
+      "index": 4,
+      "columns": {
+        "Name": [
+          {
+            "en": "Damaged Defences",
+            "zh": "防御洞穿"
+          }
+        ],
+        "Description": [
+          {
+            "en": "40% less [Armour], [Evasion] and [EnergyShield|Energy Shield]",
+            "zh": "[Armour|护甲], [Evasion|闪避]和[EnergyShield|能量护盾]总降 40%"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PlayerDebuffDefences2",
+      "index": 5,
+      "columns": {
+        "Name": [
+          {
+            "en": "Damaged Defences II",
+            "zh": "防御洞穿之二"
+          }
+        ],
+        "Description": [
+          {
+            "en": "75% less [Armour], [Evasion] and [EnergyShield|Energy Shield]",
+            "zh": "[Armour|护甲], [Evasion|闪避]和[EnergyShield|能量护盾]总降 75%"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PlayerDebuffResistances1",
+      "index": 6,
+      "columns": {
+        "Name": [
+          {
+            "en": "Reduced Resistances",
+            "zh": "抗性降低"
+          }
+        ],
+        "Description": [
+          {
+            "en": "-15% to Elemental [Resistances] and -10% to [MaximumResistances|Maximum Elemental Resistances]",
+            "zh": "-15% 元素[Resistances|抗性]，- 10% [MaximumResistances|元素抗性上限]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PlayerDebuffResistances2",
+      "index": 7,
+      "columns": {
+        "Name": [
+          {
+            "en": "Reduced Resistances II",
+            "zh": "抗性降低之二"
+          }
+        ],
+        "Description": [
+          {
+            "en": "-30% to Elemental [Resistances] and -20% to [MaximumResistances|Maximum Elemental Resistances]",
+            "zh": "-30% 元素[Resistances|抗性]，- 20% [MaximumResistances|元素抗性上限]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MonsterNoFlaskCharges",
+      "index": 8,
+      "columns": {
+        "Name": [
+          {
+            "en": "Drought",
+            "zh": "干旱"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Monsters grant no [Flask] and [Charm] Charges on death",
+            "zh": "怪物被击败时不提供[Flask|药剂]和[Charm|咒符]充能"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PlayerDebuffIncreasingVulnerability",
+      "index": 9,
+      "columns": {
+        "Name": [
+          {
+            "en": "Escalating Damage Taken",
+            "zh": "承受伤害递增"
+          }
+        ],
+        "Description": [
+          {
+            "en": "In each encounter room, damage taken will slowly increase by 1% per second, up to 50%",
+            "zh": "在每一个遭遇战房间中，受到的伤害每秒提高 1%，最多 50%"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MonsterBuffAcceleratingSpeed",
+      "index": 10,
+      "columns": {
+        "Name": [
+          {
+            "en": "Monster Speed",
+            "zh": "怪物速度"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Monsters gain 20% increased [SkillSpeed|Skill Speed]",
+            "zh": "怪物的[SkillSpeed|技能速度]提高 20%"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MonsterBuffChaosDamage1",
+      "index": 11,
+      "columns": {
+        "Name": [
+          {
+            "en": "Chaotic Monsters",
+            "zh": "混沌怪物"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Monsters [Gain|gain] 20% of damage added as extra [Chaos] damage",
+            "zh": "怪物[Gain|获得]相当于 20% 伤害的额外[Chaos|混沌]伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MonsterBuffChaosDamage2",
+      "index": 12,
+      "columns": {
+        "Name": [
+          {
+            "en": "Chaotic Monsters II",
+            "zh": "混沌怪物之二"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Monsters [Gain|gain] 50% of damage added as extra [Chaos] damage",
+            "zh": "怪物[Gain|获得]相当于 50% 伤害的额外[Chaos|混沌]伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MonsterBuffCriticalStrikes1",
+      "index": 13,
+      "columns": {
+        "Name": [
+          {
+            "en": "Deadly Monsters",
+            "zh": "极危怪物"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Monsters have 300% increased [Critical] Hit Chance",
+            "zh": "怪物的[Critical|暴击]几率提高 300%"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MonsterBuffCriticalStrikes2",
+      "index": 14,
+      "columns": {
+        "Name": [
+          {
+            "en": "Deadly Monsters II",
+            "zh": "极危怪物 II"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Monsters always deal [Critical] Hits",
+            "zh": "怪物必定[Critical|暴击]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MonsterBuffPoisonAndBleed",
+      "index": 15,
+      "columns": {
+        "Name": [
+          {
+            "en": "Toxic Monsters",
+            "zh": "剧毒怪物"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Monster [HitDamage|Hits] always inflict [Bleeding] and [Poison]",
+            "zh": "怪物的[HitDamage|击中]必定造成[Bleeding|流血]和[Poison|中毒]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MonsterBuffResistances",
+      "index": 16,
+      "columns": {
+        "Name": [
+          {
+            "en": "Resistant Monsters",
+            "zh": "抗性怪物"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Monsters have +40% to all [Resistances]",
+            "zh": "怪物的所有[Resistances|抗性] +40%"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MonsterBuffCannotBeSlowed",
+      "index": 17,
+      "columns": {
+        "Name": [
+          {
+            "en": "Unstoppable Monsters",
+            "zh": "难挡怪物"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Monsters cannot be [Slow|Slowed] or [Stun|Stunned]",
+            "zh": "怪物无法被[Slow|减速]或[Stun|晕眩]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MonsterBuffEnergyShield",
+      "index": 18,
+      "columns": {
+        "Name": [
+          {
+            "en": "Shielding Monsters",
+            "zh": "庇护怪物"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Monsters are protected by [EnergyShield|Energy Shield]",
+            "zh": "怪物受到[EnergyShield|能量护盾]保护"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MonsterBuffVinesOnHit",
+      "index": 19,
+      "columns": {
+        "Name": [
+          {
+            "en": "Entangling Monsters",
+            "zh": "纠缠怪物"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Monsters inflict [GraspingVines|Grasping Vines] on [HitDamage|Hit]",
+            "zh": "怪物[HitDamage|击中]时施加[GraspingVines|缓速藤蔓]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MonsterBuffEnragedBosses",
+      "index": 20,
+      "columns": {
+        "Name": [
+          {
+            "en": "Enraged Bosses",
+            "zh": "狂怒首领"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Bosses deal more damage and take less damage",
+            "zh": "首领造成的伤害提高，受到的伤害降低"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MonsterBuffRareMonsterMods",
+      "index": 21,
+      "columns": {
+        "Name": [
+          {
+            "en": "Lethal Rare Monsters",
+            "zh": "致命稀有怪物"
+          }
+        ],
+        "Description": [
+          {
+            "en": "[Rarity|Rare] Monsters have an additional [MonsterModifiers|Modifier]\n30% increased Rare Monsters",
+            "zh": "[Rarity|稀有]怪物额外具有一个[MonsterModifiers|词缀]\n稀有怪物数量提高 30%"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PlayerDebuffRandomProjectileDirection",
+      "index": 22,
+      "columns": {
+        "Name": [
+          {
+            "en": "Random Projectiles",
+            "zh": "随机投射物"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Your [Projectile|Projectiles] fly in random directions\r\nMonsters fire additional [Projectile|Projectiles]",
+            "zh": "你的[Projectile|投射物]朝随机方向飞行\r\n怪物发射额外[Projectile|投射物]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PlayerDebuffUltimatumDealNoDamageFor2SecondEvery8Seconds",
+      "index": 23,
+      "columns": {
+        "Name": [
+          {
+            "en": "Occasional Impotence",
+            "zh": "偶发脆弱"
+          }
+        ],
+        "Description": [
+          {
+            "en": "You and your [Minion|Minions] deal no damage for 2 seconds every 8 seconds",
+            "zh": "每隔 8 秒，你和你的[Minion|召唤生物]就有 2 秒不能造成伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MonsterVolatileOnDeath",
+      "index": 24,
+      "columns": {
+        "Name": [
+          {
+            "en": "Volatile Fiends",
+            "zh": "无常邪魔"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Monsters release deadly [Volatiles] on death. [Rarity|Rare] monsters leave larger ones",
+            "zh": "怪物被击败时释放致命的[Volatiles|无常]。[Rarity|稀有]怪物产生的无常范围更大"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BindingChainsDaemon1",
+      "index": 25,
+      "columns": {
+        "Name": [
+          {
+            "en": "Heart Tethers",
+            "zh": "止步缚索"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Bloody hearts appear that apply tethers, [Slow|Slowing] you. Breaking the tether will [Stun] you",
+            "zh": "出现赤红核心并产生缚索，使你[Slow|减速]。打破缚索会使你[Stun|晕眩]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BindingChainsDaemon2",
+      "index": 26,
+      "columns": {
+        "Name": [
+          {
+            "en": "Heart Tethers II",
+            "zh": "止步缚索之二"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Bloody hearts appear that apply tethers, [Slow|Slowing] you. Breaking the tether will [Stun] you and cause you to become vulnerable to damage for a duration",
+            "zh": "出现赤红核心并产生缚索，使你[Slow|减速]。打破缚索会使你[Stun|晕眩]，并且在短时间内更容易受到伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LightningRuneDaemon1",
+      "index": 27,
+      "columns": {
+        "Name": [
+          {
+            "en": "Stormcaller Runes",
+            "zh": "风暴符纹"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Runes will appear that will call deadly [Lightning] storms if you remain in them",
+            "zh": "出现一片符纹，你站在其中会遭到它唤来的[Lightning|闪电]风暴袭击"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LightningRuneDaemon2",
+      "index": 28,
+      "columns": {
+        "Name": [
+          {
+            "en": "Stormcaller Runes II",
+            "zh": "风暴符纹之二"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Large runes will appear that will call deadly [Lightning] storms if you remain in them",
+            "zh": "出现一大片符纹，你站在其中会遭到它唤来的[Lightning|闪电]风暴袭击"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LightningRuneDaemon3",
+      "index": 29,
+      "columns": {
+        "Name": [
+          {
+            "en": "Stormcaller Runes III",
+            "zh": "风暴符纹之三"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Many large runes will appear that will call deadly [Lightning] storms if you remain in them",
+            "zh": "出现大量符纹，你站在其中会遭到它唤来的[Lightning|闪电]风暴袭击"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ExpandingDonutsDaemon1",
+      "index": 30,
+      "columns": {
+        "Name": [
+          {
+            "en": "Impending Doom",
+            "zh": "末日将至"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Rings of Doom appear on the ground which grow over time, exploding for [Physical] damage once they reach a maximum area",
+            "zh": "地面上会出现末日之环，并且不断扩大，达到最大范围时爆炸，造成[Physical|物理]伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ExpandingDonutsDaemon2",
+      "index": 31,
+      "columns": {
+        "Name": [
+          {
+            "en": "Impending Doom II",
+            "zh": "末日将至之二"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Rings and circles of Doom appear on the ground which grow over time, exploding for [Physical] damage once they reach a maximum area",
+            "zh": "地面上会出现末日之环与末日之圈，并且不断扩大，达到最大范围时爆炸，造成[Physical|物理]伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BloodOrbsDaemon1",
+      "index": 32,
+      "columns": {
+        "Name": [
+          {
+            "en": "Blood Globules",
+            "zh": "追踪液球"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Globules of blood manifest nearby, tracking you. When above you they will fall, dealing [Physical] damage",
+            "zh": "赤红之球在附近凝结并追踪你，到达你上方时将会落下，造成[Physical|物理]伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BloodOrbsDaemon2",
+      "index": 33,
+      "columns": {
+        "Name": [
+          {
+            "en": "Blood Globules II",
+            "zh": "追踪液球之二"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Globules of blood manifest nearby, tracking you. When above you they will fall, dealing [Physical] damage and creating damaging blood ground",
+            "zh": "赤红之球在附近凝结并追踪你，到达你上方时将会落下，造成[Physical|物理]伤害，并产生伤害性的地面效果"
+          }
+        ]
+      }
+    },
+    {
+      "id": "OmnitectDaemon1",
+      "index": 34,
+      "columns": {
+        "Name": [
+          {
+            "en": "Vaal Omnitect",
+            "zh": "瓦尔妖塔"
+          }
+        ],
+        "Description": [
+          {
+            "en": "An ancient Vaal machination will deploy attacks against nearby intruders",
+            "zh": "一台古老的瓦尔机械体将对附近的入侵者发起攻击"
+          }
+        ]
+      }
+    },
+    {
+      "id": "OmnitectDaemon2",
+      "index": 35,
+      "columns": {
+        "Name": [
+          {
+            "en": "Vaal Omnitect II",
+            "zh": "瓦尔妖塔之二"
+          }
+        ],
+        "Description": [
+          {
+            "en": "An ancient Vaal machination will deploy an array of attacks against nearby intruders",
+            "zh": "一台古老的瓦尔机械体将对附近的入侵者发起一连串攻击"
+          }
+        ]
+      }
+    },
+    {
+      "id": "OmnitectDaemon3",
+      "index": 36,
+      "columns": {
+        "Name": [
+          {
+            "en": "Vaal Omnitect III",
+            "zh": "瓦尔妖塔之三"
+          }
+        ],
+        "Description": [
+          {
+            "en": "An ancient Vaal machination will deploy a powerful array of attacks against nearby intruders",
+            "zh": "一台古老的瓦尔机械体将对附近的入侵者发起一连串强力攻击"
+          }
+        ]
+      }
+    },
+    {
+      "id": "RotatingPyramidDaemon1",
+      "index": 37,
+      "columns": {
+        "Name": [
+          {
+            "en": "Pyramid Beams",
+            "zh": "金字塔光束"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Pyramid objects appear, projecting four rotating lasers that inflict [CorruptedBlood|Corrupted Blood] on Hit",
+            "zh": "出现金字塔状的物体，射出四道不断旋转的激光，击中时施加[CorruptedBlood|腐化之血]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "RotatingPyramidDaemon2",
+      "index": 38,
+      "columns": {
+        "Name": [
+          {
+            "en": "Pyramid Beams II",
+            "zh": "金字塔光束之二"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Pyramid objects appear, projecting four fast rotating lasers that inflict [CorruptedBlood|Corrupted Blood] on Hit",
+            "zh": "出现金字塔状的物体，射出四道不断快速旋转的激光，击中时施加[CorruptedBlood|腐化之血]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PetrificationStatues1",
+      "index": 39,
+      "columns": {
+        "Name": [
+          {
+            "en": "Petrification Statues",
+            "zh": "石化雕像"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Challenge area contains several statues that [Petrify] you if you stand within their gaze for a duration",
+            "zh": "挑战区域含有多个雕像，在雕像的凝视范围内停留一段时间，就会令你陷入[Petrify|石化]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PetrificationStatues2",
+      "index": 40,
+      "columns": {
+        "Name": [
+          {
+            "en": "Petrification Statues II",
+            "zh": "石化雕像之二"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Challenge area contains several statues that [Petrify] you for a long duration if you stand within their gaze for a short duration",
+            "zh": "挑战区域含有多个雕像，在雕像的凝视范围内停留一小段时间，就会令你陷入长时间的[Petrify|石化]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BloodFog1",
+      "index": 41,
+      "columns": {
+        "Name": [
+          {
+            "en": "Blood Mist",
+            "zh": "浓雾弥漫"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Challenge area is enshrouded by a blood mist which makes monsters within it immune to damage",
+            "zh": "挑战区域笼罩在浓雾之中，使其中的怪物免疫伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": "StalkingShade1",
+      "index": 42,
+      "columns": {
+        "Name": [
+          {
+            "en": "Stalking Shade",
+            "zh": "如影随形"
+          }
+        ],
+        "Description": [
+          {
+            "en": "An invulnerable shade stalks you, inflicting Ruin with its [Melee] hits\r\nFail the Trials on reaching 7 Ruin",
+            "zh": "一个无敌的阴影尾随你，用[Melee|近战]击中给你施加摧灭效果\r\n积累 7 层摧灭后试炼失败"
+          }
+        ]
+      }
+    },
+    {
+      "id": "StalkingShade2",
+      "index": 43,
+      "columns": {
+        "Name": [
+          {
+            "en": "Stalking Shade II",
+            "zh": "如影随形之二"
+          }
+        ],
+        "Description": [
+          {
+            "en": "An invulnerable shade stalks you, gaining speed and inflicting Ruin with [Melee] and [Projectile] hits\r\nFail the Trials on reaching 7 Ruin",
+            "zh": "一个无敌的阴影快速尾随你，用[Melee|近战]和[Projectile|投射物]击中给你施加摧灭效果\r\n积累 7 层摧灭后试炼失败"
+          }
+        ]
+      }
+    },
+    {
+      "id": "StalkingShade3",
+      "index": 44,
+      "columns": {
+        "Name": [
+          {
+            "en": "Stalking Shade III",
+            "zh": "如影随形之三"
+          }
+        ],
+        "Description": [
+          {
+            "en": "An invulnerable shade stalks you, gaining further speed and inflicting Ruin with powerful [Melee] and [Projectile] hits\r\nFail the Trials on reaching 7 Ruin",
+            "zh": "一个无敌的阴影以更快的速度尾随你，用强力[Melee|近战]和[Projectile|投射物]击中给你施加摧灭效果\r\n积累 7 层摧灭后试炼失败"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FireTurrets1",
+      "index": 45,
+      "columns": {
+        "Name": [
+          {
+            "en": "Burning Turrets",
+            "zh": "燃烧炮台"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Challenge area contains turrets that will periodically fire [Fire] [Projectile|Projectiles] ahead",
+            "zh": "挑战区域含有炮台，会周期性地向前方发射[Fire|火焰][Projectile|投射物]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FireTurrets2",
+      "index": 46,
+      "columns": {
+        "Name": [
+          {
+            "en": "Burning Turrets II",
+            "zh": "燃烧炮台之二"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Challenge area contains turrets that will periodically fire barrages of [Fire] [Projectile|Projectiles] ahead",
+            "zh": "挑战区域含有炮台，会周期性地向前方发射一串[Fire|火焰][Projectile|投射物]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LightningTurrets1",
+      "index": 47,
+      "columns": {
+        "Name": [
+          {
+            "en": "Shocking Turrets",
+            "zh": "感电炮台"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Challenge area contains turrets that will periodically fire [Lightning] [Projectile|Projectiles] ahead",
+            "zh": "挑战区域含有炮台，会周期性地向前方发射[Lightning|闪电][Projectile|投射物]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LightningTurrets2",
+      "index": 48,
+      "columns": {
+        "Name": [
+          {
+            "en": "Shocking Turrets II",
+            "zh": "感电炮台之二"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Challenge area contains turrets that will periodically fire a wave of [Lightning] [Projectile|Projectiles] ahead",
+            "zh": "挑战区域含有炮台，会周期性地向前方发射一波[Lightning|闪电][Projectile|投射物]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SpikedGround1",
+      "index": 49,
+      "columns": {
+        "Name": [
+          {
+            "en": "Temple Traps",
+            "zh": "神殿陷阱"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Challenge area contains spikes that deal [Physical] damage to those who step on them",
+            "zh": "挑战区域含有尖刺，对踏上尖刺的目标造成[Physical|物理]伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SpikedGround2",
+      "index": 50,
+      "columns": {
+        "Name": [
+          {
+            "en": "Temple Traps II",
+            "zh": "神殿陷阱之二"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Challenge area contains many spikes that deal [Physical] damage to those who step on them",
+            "zh": "挑战区域含有许多尖刺，对踏上尖刺的目标造成[Physical|物理]伤害"
+          }
+        ]
+      }
+    }
+  ]
+}

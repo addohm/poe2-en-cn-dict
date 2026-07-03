@@ -1,0 +1,97 @@
+{
+  "table": "WindowCursors",
+  "key": "_index",
+  "columns": [
+    "Id",
+    "CursorDefault",
+    "CursorClick",
+    "CursorHover",
+    "Description"
+  ],
+  "entries": [
+    {
+      "id": null,
+      "index": 0,
+      "columns": {
+        "Description": [
+          {
+            "en": "Regular",
+            "zh": "常规"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 1,
+      "columns": {
+        "Description": [
+          {
+            "en": "High-contrast",
+            "zh": "高对比度"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 7,
+      "columns": {
+        "Description": [
+          {
+            "en": "Green",
+            "zh": "绿色"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 8,
+      "columns": {
+        "Description": [
+          {
+            "en": "Green (Inverted)",
+            "zh": "绿色（反转）"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 9,
+      "columns": {
+        "Description": [
+          {
+            "en": "High-contrast (Inverted)",
+            "zh": "高对比度（反转）"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 10,
+      "columns": {
+        "Description": [
+          {
+            "en": "Pink",
+            "zh": "粉色"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 11,
+      "columns": {
+        "Description": [
+          {
+            "en": "Pink (Inverted)",
+            "zh": "粉色（反转）"
+          }
+        ]
+      }
+    }
+  ]
+}

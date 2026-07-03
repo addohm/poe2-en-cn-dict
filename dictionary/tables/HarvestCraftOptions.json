@@ -1,0 +1,1254 @@
+{
+  "table": "HarvestCraftOptions",
+  "key": "Id",
+  "columns": [
+    "Text",
+    "Command",
+    "Parameters",
+    "Description"
+  ],
+  "entries": [
+    {
+      "id": "ReforgeFire",
+      "index": 0,
+      "columns": {
+        "Text": [
+          {
+            "en": "<white>{Reforge} a Rare item with random modifiers, including a <craftingfire>{Fire} modifier",
+            "zh": "<white>{重铸}一件带随机词缀的稀有物品，其中包括一个<craftingfire>{火焰}词缀"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Reforge a Rare item with random modifiers, including a Fire modifier",
+            "zh": "重铸一件带随机词缀的稀有物品，其中包括一个火焰词缀"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ReforgeCold",
+      "index": 1,
+      "columns": {
+        "Text": [
+          {
+            "en": "<white>{Reforge} a Rare item with random modifiers, including a <craftingcold>{Cold} modifier",
+            "zh": "<white>{重铸}一件带随机词缀的稀有物品，其中包括一个<craftingcold>{冰霜}词缀"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Reforge a Rare item with random modifiers, including a Cold modifier",
+            "zh": "重铸一件带随机词缀的稀有物品，其中包括一个冰霜词缀"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ReforgeLightning",
+      "index": 2,
+      "columns": {
+        "Text": [
+          {
+            "en": "<white>{Reforge} a Rare item with random modifiers, including a <craftinglightning>{Lightning} modifier",
+            "zh": "<white>{重铸}一件带随机词缀的稀有物品，其中包括一个<craftinglightning>{闪电}词缀"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Reforge a Rare item with random modifiers, including a Lightning modifier",
+            "zh": "重铸一件带随机词缀的稀有物品，其中包括一个闪电词缀"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ReforgePhysical",
+      "index": 3,
+      "columns": {
+        "Text": [
+          {
+            "en": "<white>{Reforge} a Rare item with random modifiers, including a <craftingphysical>{Physical} modifier",
+            "zh": "<white>{重铸}一件带随机词缀的稀有物品，其中包括一个<craftingphysical>{物理}词缀"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Reforge a Rare item with random modifiers, including a Physical modifier",
+            "zh": "重铸一件带随机词缀的稀有物品，其中包括一个物理词缀"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ReforgeLife",
+      "index": 4,
+      "columns": {
+        "Text": [
+          {
+            "en": "<white>{Reforge} a Rare item with random modifiers, including a <craftinglife>{Life} modifier",
+            "zh": "<white>{重铸}一件带随机词缀的稀有物品，其中包括一个<craftinglife>{生命}词缀"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Reforge a Rare item with random modifiers, including a Life modifier",
+            "zh": "重铸一件带随机词缀的稀有物品，其中包括一个生命词缀"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ReforgeDefences",
+      "index": 5,
+      "columns": {
+        "Text": [
+          {
+            "en": "<white>{Reforge} a Rare item with random modifiers, including a <craftingdefences>{Defence} modifier",
+            "zh": "<white>{重铸}一件带随机词缀的稀有物品，其中包括一个<craftingdefences>{防御}词缀"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Reforge a Rare item with random modifiers, including a Defence modifier",
+            "zh": "重铸一件带随机词缀的稀有物品，其中包括一个防御词缀"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ReforgeChaos",
+      "index": 6,
+      "columns": {
+        "Text": [
+          {
+            "en": "<white>{Reforge} a Rare item with random modifiers, including a <craftingchaos>{Chaos} modifier",
+            "zh": "<white>{重铸}一件带随机词缀的稀有物品，其中包括一个<craftingchaos>{混沌}词缀"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Reforge a Rare item with random modifiers, including a Chaos modifier",
+            "zh": "重铸一件带随机词缀的稀有物品，其中包括一个混沌词缀"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ReforgeAttack",
+      "index": 7,
+      "columns": {
+        "Text": [
+          {
+            "en": "<white>{Reforge} a Rare item with random modifiers, including an <craftingattack>{Attack} modifier",
+            "zh": "<white>{重铸}一件带随机词缀的稀有物品，其中包括一个<craftingattack>{攻击}词缀"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Reforge a Rare item with random modifiers, including an Attack modifier",
+            "zh": "重铸一件带随机词缀的稀有物品，其中包括一个攻击词缀"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ReforgeSpell",
+      "index": 8,
+      "columns": {
+        "Text": [
+          {
+            "en": "<white>{Reforge} a Rare item with random modifiers, including a <craftingcaster>{Caster} modifier",
+            "zh": "<white>{重铸}一件带随机词缀的稀有物品，其中包括一个<craftingcaster>{施法}词缀"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Reforge a Rare item with random modifiers, including a Caster modifier",
+            "zh": "重铸一件带随机词缀的稀有物品，其中包括一个施法词缀"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ReforgeSpeed",
+      "index": 9,
+      "columns": {
+        "Text": [
+          {
+            "en": "<white>{Reforge} a Rare item with random modifiers, including a <craftingspeed>{Speed} modifier",
+            "zh": "<white>{重铸}一件带随机词缀的稀有物品，其中包括一个<craftingspeed>{速度}词缀"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Reforge a Rare item with random modifiers, including a Speed modifier",
+            "zh": "重铸一件带随机词缀的稀有物品，其中包括一个速度词缀"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ReforgeCritical",
+      "index": 10,
+      "columns": {
+        "Text": [
+          {
+            "en": "<white>{Reforge} a Rare item with random modifiers, including a <craftingcrit>{Critical} modifier",
+            "zh": "<white>{重铸}一件带随机词缀的稀有物品，其中包括一个<craftingcrit>{暴击}词缀"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Reforge a Rare item with random modifiers, including a Critical modifier",
+            "zh": "重铸一件带随机词缀的稀有物品，其中包括一个暴击词缀"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ReforgeMoreLikely",
+      "index": 11,
+      "columns": {
+        "Text": [
+          {
+            "en": "<white>{Reforge} a <white>{Rare} item, being <white>{more likely} to receive the same modifier types",
+            "zh": "<white>{重铸}一件<white>{稀有}物品，大概率<white>{会}得到相同词缀类型"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Reforge a Rare item, being more likely to receive the same modifier types",
+            "zh": "重铸稀有物品，更有可能获得相同的词缀类型。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ReforgeLessLikely",
+      "index": 12,
+      "columns": {
+        "Text": [
+          {
+            "en": "<white>{Reforge} a <white>{Rare} item, being <white>{less likely} to receive the same modifier types",
+            "zh": "<white>{重铸}一件<white>{稀有}物品，大概率<white>{不会}得到相同词缀类型"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Reforge a Rare item, being less likely to receive the same modifier types",
+            "zh": "重铸稀有物品，不太可能得到相同的词缀类型。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "RerollCorruptedMap",
+      "index": 13,
+      "columns": {
+        "Text": [
+          {
+            "en": "<white>{Sacrifice} a Rare <white>{Corrupted Map}. Create a new Corrupted Map of the same tier and rarity.",
+            "zh": "<white>{献祭}一张稀有<white>{腐化的地图}，生成一张相同位阶和稀有度的新腐化的地图。"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Sacrifice a Rare Corrupted Map. Create a new Corrupted Map of the same tier and rarity.",
+            "zh": "献祭一张稀有腐化的地图，生成一张相同位阶和稀有度的新腐化的地图。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "RerollFossils",
+      "index": 14,
+      "columns": {
+        "Text": [
+          {
+            "en": "<white>{Change} a stack of <white>{Fossils} into a different type of Fossil. The new Fossil type may have a smaller stack size. Cost is proportional to stack size.",
+            "zh": "将一堆<white>{化石}<white>{变为}另一种类型的化石。新的化石类型可能堆叠数量较小。消耗与堆叠数量成比例。"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Change a stack of Fossils into a different type of Fossil. The new Fossil type may have a smaller stack size. Cost is proportional to stack size.",
+            "zh": "把一堆化石变为另一种类型的化石。新的化石类型可能堆叠数量较小。消耗与堆叠数量成比例。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "RerollOils",
+      "index": 15,
+      "columns": {
+        "Text": [
+          {
+            "en": "<white>{Change} a stack of <white>{Oils} into a different colour of Oil. Cost is proportional to stack size.",
+            "zh": "将一堆<white>{圣油}<white>{变为}另一种颜色的圣油。消耗与堆叠数量成比例。"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Change a stack of Oils into a different colour of Oil. Cost is proportional to stack size.",
+            "zh": "将一堆圣油变为另一种颜色的圣油。消耗与堆叠数量成比例。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "RerollCatalysts",
+      "index": 16,
+      "columns": {
+        "Text": [
+          {
+            "en": "<white>{Change} a stack of <white>{Catalysts} into a different type of Catalyst. Cost is proportional to stack size.",
+            "zh": "将一堆<white>{催化剂}<white>{变为}另一种类型的催化剂。消耗与堆叠数量成比例。"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Change a stack of Catalysts into a different type of Catalyst. Cost is proportional to stack size.",
+            "zh": "将一堆催化剂变为另一种类型的催化剂。消耗与堆叠数量成比例。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "RerollEssences",
+      "index": 17,
+      "columns": {
+        "Text": [
+          {
+            "en": "<white>{Change} a stack of <white>{Essences} into a different type of the same tier. Cost is proportional to stack size.",
+            "zh": "将一堆<white>{精华}<white>{变为}另一种类型但位阶相同的精华。消耗与堆叠数量成比例。"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Change a stack of Essences into a different type of the same tier. Cost is proportional to stack size.",
+            "zh": "将一堆精华变为另一种类型但位阶相同的精华。消耗与堆叠数量成比例。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "RerollTimelessSplinters",
+      "index": 18,
+      "columns": {
+        "Text": [
+          {
+            "en": "<white>{Change} a stack of <white>{Timeless Splinters} or a <white>{Timeless Emblem} into Splinters or an Emblem of another type. Cost is proportional to stack size.",
+            "zh": "将一堆<white>{永恒碎片}或<white>{永恒印记}<white>{变为}另一种类型的碎片或印记。消耗与堆叠数量成比例。"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Change a stack of Timeless Splinters or a Timeless Emblem into Splinters or an Emblem of another type. Cost is proportional to stack size.",
+            "zh": "将一堆永恒碎片或永恒印记变为另一种类型的碎片或印记。消耗与堆叠数量成比例。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "RerollBreachSplinters",
+      "index": 19,
+      "columns": {
+        "Text": [
+          {
+            "en": "<white>{Change} a stack of <white>{Breach Splinters} or a normal or Flawless <white>{Breachstone} into Splinters or a Breachstone of another type. Cost is proportional to stack size.",
+            "zh": "将一堆<white>{裂隙碎片}或普通或无瑕<white>{裂隙石}<white>{变为}另一种类型的碎片或裂隙石。消耗与堆叠数量成比例。"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Change a stack of Breach Splinters or a normal or Flawless Breachstone into Splinters or a Breachstone of another type. Cost is proportional to stack size.",
+            "zh": "将一堆裂隙碎片或普通或无瑕裂隙石变为另一种类型的碎片或裂隙石。消耗与堆叠数量成比例。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "RerollScarabs",
+      "index": 20,
+      "columns": {
+        "Text": [
+          {
+            "en": "<white>{Change} a stack of <white>{Scarabs} to a different type of the same rarity. Cost is proportional to stack size.",
+            "zh": "将一堆<white>{圣甲虫}<white>{变为}另一种类型但稀有度相同的圣甲虫。消耗与堆叠数量成比例。"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Change a stack of Scarabs to a different type of the same rarity. Cost is proportional to stack size.",
+            "zh": "将一堆圣甲虫变为另一种类型但稀有度相同的圣甲虫。消耗与堆叠数量成比例。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "RerollDeliriumOrbs",
+      "index": 21,
+      "columns": {
+        "Text": [
+          {
+            "en": "<white>{Change} a stack of <white>{Delirium Orbs} into a different type of Delirium Orb. Cost is proportional to stack size.",
+            "zh": "将一堆<white>{雾魇宝珠}<white>{变为}另一种类型的雾魇宝珠。消耗与堆叠数量成比例。"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Change a stack of Delirium Orbs into a different type of Delirium Orb. Cost is proportional to stack size.",
+            "zh": "将一堆雾魇宝珠变为另一种类型的雾魇宝珠。消耗与堆叠数量成比例。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "RerollDivinationCards",
+      "index": 22,
+      "columns": {
+        "Text": [
+          {
+            "en": "<white>{Change} a <white>{Divination Card} into another random Divination Card",
+            "zh": "将一张<white> {命运卡}<white>{变为}另一张随机命运卡"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Change a Divination Card into another random Divination Card",
+            "zh": "将一个 命运卡变为另一个随机命运卡"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ChangeColdToFireResist",
+      "index": 23,
+      "columns": {
+        "Text": [
+          {
+            "en": "<white>{Change} a modifier that grants <craftingcold>{Cold} Resistance into a similar-tier modifier that grants <craftingfire>{Fire} Resistance",
+            "zh": "将一个提供<craftingcold>{冰霜}抗性的词缀<white>{变为}近似位阶，但提供<craftingfire>{火焰}抗性的词缀"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Change a modifier that grants Cold Resistance into a similar-tier modifier that grants Fire Resistance",
+            "zh": "将一个提供冰霜抗性的词缀变为近似位阶，但提供火焰抗性的词缀"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ChangeLightningToFireResist",
+      "index": 24,
+      "columns": {
+        "Text": [
+          {
+            "en": "<white>{Change} a modifier that grants <craftinglightning>{Lightning} Resistance into a similar-tier modifier that grants <craftingfire>{Fire} Resistance",
+            "zh": "将一个提供<craftinglightning>{闪电}抗性的词缀<white>{变为}近似位阶，但提供<craftingfire>{火焰}抗性的词缀"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Change a modifier that grants Lightning Resistance into a similar-tier modifier that grants Fire Resistance",
+            "zh": "将一个提供闪电抗性的词缀变为近似位阶，但提供火焰抗性的词缀"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ChangeFireToColdResist",
+      "index": 25,
+      "columns": {
+        "Text": [
+          {
+            "en": "<white>{Change} a modifier that grants <craftingfire>{Fire} Resistance into a similar-tier modifier that grants <craftingcold>{Cold} Resistance",
+            "zh": "将一个提供<craftingfire>{火焰}抗性的词缀<white>{变为}近似位阶，但提供<craftingcold>{冰霜}抗性的词缀"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Change a modifier that grants Fire Resistance into a similar-tier modifier that grants Cold Resistance",
+            "zh": "将一个提供火焰抗性的词缀变为近似位阶，但提供冰霜抗性的词缀"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ChangeLightningToColdResist",
+      "index": 26,
+      "columns": {
+        "Text": [
+          {
+            "en": "<white>{Change} a modifier that grants <craftinglightning>{Lightning} Resistance into a similar-tier modifier that grants <craftingcold>{Cold} Resistance",
+            "zh": "将一个提供<craftinglightning>{闪电}抗性的词缀<white>{变为}近似位阶，但提供<craftingcold>{冰霜}抗性的词缀"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Change a modifier that grants Lightning Resistance into a similar-tier modifier that grants Cold Resistance",
+            "zh": "将一个提供闪电抗性的词缀变为近似位阶，但提供冰霜抗性的词缀"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ChangeFireToLightningResist",
+      "index": 27,
+      "columns": {
+        "Text": [
+          {
+            "en": "<white>{Change} a modifier that grants <craftingfire>{Fire} Resistance into a similar-tier modifier that grants <craftinglightning>{Lightning} Resistance",
+            "zh": "将一个提供<craftingfire>{火焰}抗性的词缀<white>{变为}近似位阶，但提供<craftinglightning>{闪电}抗性的词缀"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Change a modifier that grants Fire Resistance into a similar-tier modifier that grants Lightning Resistance",
+            "zh": "将一个提供火焰抗性的词缀变为近似位阶，但提供闪电抗性的词缀"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ChangeColdToLightningResist",
+      "index": 28,
+      "columns": {
+        "Text": [
+          {
+            "en": "<white>{Change} a modifier that grants <craftingcold>{Cold} Resistance into a similar-tier modifier that grants <craftinglightning>{Lightning} Resistance",
+            "zh": "将一个提供<craftingcold>{冰霜}抗性的词缀<white>{变为}近似位阶，但提供<craftinglightning>{闪电}抗性的词缀"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Change a modifier that grants Cold Resistance into a similar-tier modifier that grants Lightning Resistance",
+            "zh": "将一个提供冰霜抗性的词缀变为近似位阶，但提供闪电抗性的词缀"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FlaskDurationEnchant",
+      "index": 29,
+      "columns": {
+        "Text": [
+          {
+            "en": "<white>{Enchant} a <white>{Flask} with a modifier that grants <enchanted>{increased Duration}. The magnitude of this effect decreases with each use",
+            "zh": "给<white>{药剂}<white>{附魔}一个可以<enchanted>{增加持续时间}的词缀。这种影响程度随着使用次数逐渐降低"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Enchant a Flask with a modifier that grants increased Duration. The magnitude of this effect decreases with each use",
+            "zh": "给药剂附魔一个可以增加持续时间的词缀。这种影响程度随着使用次数逐渐降低"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FlaskChargeEnchant",
+      "index": 30,
+      "columns": {
+        "Text": [
+          {
+            "en": "<white>{Enchant} a <white>{Flask} with a modifier that grants <enchanted>{increased Maximum Charges}. The magnitude of this effect decreases with each use",
+            "zh": "给<white>{药剂}<white>{附魔}一个可以<enchanted>{增加最大充能}的词缀。这种影响程度随着使用次数逐渐降低"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Enchant a Flask with a modifier that grants increased Maximum Charges. The magnitude of this effect decreases with each use",
+            "zh": "给药剂附魔一个可以增加最大充能的词缀。这种影响程度随着使用次数逐渐降低"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FlaskEffectEnchant",
+      "index": 31,
+      "columns": {
+        "Text": [
+          {
+            "en": "<white>{Enchant} a <white>{Flask} with a modifier that grants <enchanted>{increased Effect}. The magnitude of this effect decreases with each use",
+            "zh": "给<white>{药剂}<white>{附魔}一个可以<enchanted>{增加效果}的词缀。这种影响程度随着使用次数逐渐降低"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Enchant a Flask with a modifier that grants increased Effect. The magnitude of this effect decreases with each use",
+            "zh": "给药剂附魔一个可以增加效果的词缀。这种影响程度随着使用次数逐渐降低"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FlaskReducedEnchant",
+      "index": 32,
+      "columns": {
+        "Text": [
+          {
+            "en": "<white>{Enchant} a <white>{Flask} with a modifier that grants <enchanted>{reduced Charges used}. The magnitude of this effect decreases with each use",
+            "zh": "给<white>{药剂}<white>{附魔}一个可以<enchanted>{减少充能用量}的词缀。这种影响程度随着使用次数逐渐降低"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Enchant a Flask with a modifier that grants reduced Charges used. The magnitude of this effect decreases with each use",
+            "zh": "给药剂附魔一个可以减少充能用量的词缀。这种影响程度随着使用次数逐渐降低"
+          }
+        ]
+      }
+    },
+    {
+      "id": "RerollShaperFragment",
+      "index": 33,
+      "columns": {
+        "Text": [
+          {
+            "en": "<white>{Change} a stack of <white>{Shaper Fragments} into other random Shaper Fragments. Cost is proportional to stack size.",
+            "zh": "将一堆<white>{塑界者碎片}<white>{变为}其他随机的塑界者碎片。消耗与堆叠数量成比例。"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Change a Shaper Fragment into another random Shaper Fragment. Cost is proportional to stack size.",
+            "zh": "将一块塑界者碎片变为另一块随机的塑界者碎片。消耗与堆叠数量成比例。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "RerollElderFragment",
+      "index": 34,
+      "columns": {
+        "Text": [
+          {
+            "en": "<white>{Change} a stack of <white>{Elder Fragments} into other random Elder Fragments. Cost is proportional to stack size.",
+            "zh": "将一堆<white>{裂界者碎片}<white>{变为}其他随机的裂界者碎片。消耗与堆叠数量成比例。"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Change an Elder Fragment into another random Elder Fragment. Cost is proportional to stack size.",
+            "zh": "将一块裂界者碎片变为另一块随机的裂界者碎片。消耗与堆叠数量成比例。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "RerollConquerorFragment",
+      "index": 35,
+      "columns": {
+        "Text": [
+          {
+            "en": "<white>{Change} a stack of <white>{Conqueror Fragments} into other random Conqueror Fragments. Cost is proportional to stack size.",
+            "zh": "将一堆<white>{征服者碎片}<white>{变为}其他随机的征服者碎片。消耗与堆叠数量成比例。"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Change a Conqueror Fragment into another random Conqueror Fragment. Cost is proportional to stack size.",
+            "zh": "将一块征服者碎片变为另一块随机的征服者碎片。消耗与堆叠数量成比例。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "RerollAtziriFragment",
+      "index": 36,
+      "columns": {
+        "Text": [
+          {
+            "en": "<white>{Change} a stack of <white>{Sacrifice} or <white>{Mortal Fragments} into other random Fragments of that type. Cost is proportional to stack size.",
+            "zh": "将一堆<white>{祭品}或<white>{凡人碎片}<white>{变为}同一类型的其他随机碎片。消耗与堆叠数量成比例。"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Change a Sacrifice or Mortal Fragment into another random Fragment of that type. Cost is proportional to stack size.",
+            "zh": "将一件祭品或凡人碎片变为同一类型的其他随机碎片。消耗与堆叠数量成比例。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DivinationCardGamble",
+      "index": 37,
+      "columns": {
+        "Text": [
+          {
+            "en": "<white>{Sacrifice} up to half a stack of <white>{Divination Cards} to receive between 0 and twice that amount of the same Card",
+            "zh": "<white>{献祭}最多半叠<white>{命运卡}，获得相同命运卡的数量可能为0，也可能翻倍。"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Sacrifice up to half a stack of Divination Cards to receive between 0 and twice that amount of the same Card",
+            "zh": "献祭最多半叠命运卡，相同命运卡的数量可能为0，也可能翻倍"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MapNoSextantEnchant",
+      "index": 38,
+      "columns": {
+        "Text": [
+          {
+            "en": "<white>{Enchant} a non-Unique <white>{Map} with <enchanted>{Map has 50% chance to not consume Sextant Uses}",
+            "zh": "给非传奇<white>{地图}<white>{附魔}：<enchanted>{地图有50%几率不消耗六分仪使用次数}"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Enchant a non-Unique Map with Map has 50% chance to not consume Sextant Uses",
+            "zh": "给非传奇地图附魔地图有50%几率不消耗六分仪使用次数"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GemExperienceLens",
+      "index": 39,
+      "columns": {
+        "Text": [
+          {
+            "en": "<white>{Sacrifice} a <white>{Corrupted Gem} to gain 50% of the gem's total experience stored as a <white>{Facetor's Lens}",
+            "zh": "<white>{献祭}一颗<white>{腐化技能石}，获得其总存量经验的50%，该经验以<white>{费斯特的透镜}形式储存。"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Sacrifice a Corrupted Gem to gain 50% of the gem's total experience stored as a Facetor's Lens",
+            "zh": "献祭腐化技能石，获其总存量经验50%的费斯特的透镜"
+          }
+        ]
+      }
+    },
+    {
+      "id": "RerollInfluenceType",
+      "index": 40,
+      "columns": {
+        "Text": [
+          {
+            "en": "<white>{Randomise} the <white>{Influence} types on an Influenced Normal, Magic or Rare <white>{Item}, as well as <white>{reforging} the item with new random modifiers",
+            "zh": "<white>{随机化}受影响的普通物品、魔法物品或稀有物品的<white>{影响}类型，并使用新的随机词缀<white>{重铸}物品"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Randomise the Influence types on an Influenced Normal, Magic or Rare Item, as well as reforging the item with new random modifiers",
+            "zh": "随机化受影响的普通物品、魔法物品或稀有物品的影响类型，并使用新的随机词缀重铸物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LifeBodyEnchant",
+      "index": 41,
+      "columns": {
+        "Text": [
+          {
+            "en": "<white>{Enchant} a <white>{Body Armour}. Quality does not increase its Defences, grants <enchanted>{+1 Maximum Life per 2% quality}",
+            "zh": "<white>{附魔}一件<white>{护甲}。品质不会增加其防御，<enchanted>{品质每增加2%，最多增加1点生命}。"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Enchant a Body Armour. Quality does not increase its Defences, grants +1 Maximum Life per 2% quality",
+            "zh": "附魔一件护甲。质量不会增加其防御，质量每增加2%，最多增加1点生命。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ManaBodyEnchant",
+      "index": 42,
+      "columns": {
+        "Text": [
+          {
+            "en": "<white>{Enchant} a <white>{Body Armour}. Quality does not increase its Defences, grants <enchanted>{+1 Maximum Mana per 2% quality}",
+            "zh": "<white>{附魔}一件<white>{护甲}。品质不会增加其防御，<enchanted>{品质每增加2%，最多增加1点魔力}。"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Enchant a Body Armour. Quality does not increase its Defences, grants +1 Maximum Mana per 2% quality",
+            "zh": "附魔一件护甲。质量不会增加其防御，质量每增加2%，最多增加1点魔力。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "StrengthBodyEnchant",
+      "index": 43,
+      "columns": {
+        "Text": [
+          {
+            "en": "<white>{Enchant} a <white>{Body Armour}. Quality does not increase its Defences, grants <enchanted>{+1 Strength per 2% quality}",
+            "zh": "<white>{附魔}一件<white>{护甲}。品质不会增加其防御，<enchanted>{品质每增加2%，增加1点力量}。"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Enchant a Body Armour. Quality does not increase its Defences, grants +1 Strength per 2% quality",
+            "zh": "附魔一件护甲。质量不会增加其防御，质量每增加2%，增加1点力量。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DexterityBodyEnchant",
+      "index": 44,
+      "columns": {
+        "Text": [
+          {
+            "en": "<white>{Enchant} a <white>{Body Armour}. Quality does not increase its Defences, grants <enchanted>{+1 Dexterity per 2% quality}",
+            "zh": "<white>{附魔}一件<white>{护甲}。品质不会增加其防御，<enchanted>{品质每增加2%，增加1点敏捷}。"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Enchant a Body Armour. Quality does not increase its Defences, grants +1 Dexterity per 2% quality",
+            "zh": "附魔一件护甲。质量不会增加其防御，质量每增加2%，增加1点敏捷。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "IntelligenceBodyEnchant",
+      "index": 45,
+      "columns": {
+        "Text": [
+          {
+            "en": "<white>{Enchant} a <white>{Body Armour}. Quality does not increase its Defences, grants <enchanted>{+1 Intelligence per 2% quality}",
+            "zh": "<white>{附魔}一件<white>{护甲}。品质不会增加其防御，<enchanted>{品质每增加2%，增加1点智慧}。"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Enchant a Body Armour. Quality does not increase its Defences, grants +1 Intelligence per 2% quality",
+            "zh": "附魔一件护甲。质量不会增加其防御，质量每增加2%，增加1点智慧。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FireResistBodyEnchant",
+      "index": 46,
+      "columns": {
+        "Text": [
+          {
+            "en": "<white>{Enchant} a <white>{Body Armour}. Quality does not increase its Defences, grants <enchanted>{+1% to Fire Resistance per 2% quality}",
+            "zh": "<white>{附魔}一件<white>{护甲}。品质不会增加其防御，<enchanted>{品质每增加2%，增加1%火焰抗性}。"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Enchant a Body Armour. Quality does not increase its Defences, grants +1% to Fire Resistance per 2% quality",
+            "zh": "附魔一件护甲。质量不会增加其防御，质量每增加2%，增加1%火焰抗性。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ColdResistBodyEnchant",
+      "index": 47,
+      "columns": {
+        "Text": [
+          {
+            "en": "<white>{Enchant} a <white>{Body Armour}. Quality does not increase its Defences, grants <enchanted>{+1% to Cold Resistance per 2% quality}",
+            "zh": "<white>{附魔}一件<white>{护甲}。品质不会增加其防御，<enchanted>{品质每增加2%，增加1%冰霜抗性}。"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Enchant a Body Armour. Quality does not increase its Defences, grants +1% to Cold Resistance per 2% quality",
+            "zh": "附魔一件护甲。质量不会增加其防御，质量每增加2%，增加1%冰霜抗性。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LightningResistBodyEnchant",
+      "index": 48,
+      "columns": {
+        "Text": [
+          {
+            "en": "<white>{Enchant} a <white>{Body Armour}. Quality does not increase its Defences, grants <enchanted>{+1% to Lightning Resistance per 2% quality}",
+            "zh": "<white>{附魔}一件<white>{护甲}。品质不会增加其防御，<enchanted>{品质每增加2%，增加1%闪电抗性}。"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Enchant a Body Armour. Quality does not increase its Defences, grants +1% to Lightning Resistance per 2% quality",
+            "zh": "附魔一件护甲。质量不会增加其防御，质量每增加2%，增加1%闪电抗性。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "WeaponRangeEnchant",
+      "index": 49,
+      "columns": {
+        "Text": [
+          {
+            "en": "<white>{Enchant} a <white>{Melee Weapon}. Quality does not increase its Physical Damage, has <enchanted>{+1 Weapon Range per 10% Quality}",
+            "zh": "<white>{附魔}一件<white>{近战武器}。品质不会增加其物理伤害，<enchanted>{品质每增加10%，武器范围增加1点}"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Enchant a Melee Weapon. Quality does not increase its Physical Damage, has +1 Weapon Range per 10% Quality",
+            "zh": "附魔一件近战武器。质量不会增加其物理伤害，质量每增加10%，武器范围增加1点。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "WeaponAreaEnchant",
+      "index": 50,
+      "columns": {
+        "Text": [
+          {
+            "en": "<white>{Enchant} a <white>{Weapon}. Quality does not increase its Physical Damage, grants <enchanted>{1% increased Area of Effect per 4% Quality}",
+            "zh": "<white>{附魔}一件<white>{武器}。品质不会增加其物理伤害，<enchanted>{品质每增加4%，效果区域增加1%}"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Enchant a Weapon. Quality does not increase its Physical Damage, grants 1% increased Area of Effect per 4% Quality",
+            "zh": "给武器附魔。质量不会增加其物理伤害，质量每增加4%，效果区域增加1%"
+          }
+        ]
+      }
+    },
+    {
+      "id": "WeaponAccuracyEnchant",
+      "index": 51,
+      "columns": {
+        "Text": [
+          {
+            "en": "<white>{Enchant} a <white>{Weapon}. Quality does not increase its Physical Damage, grants <enchanted>{1% increased Accuracy per 2% Quality}",
+            "zh": "<white>{附魔}一件<white>{武器}。品质不会增加其物理伤害，<enchanted>{品质每增加2%，精度增加1%}"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Enchant a Weapon. Quality does not increase its Physical Damage, grants 1% increased Accuracy per 2% Quality",
+            "zh": "给武器附魔。质量不会增加其物理伤害，质量每增加2%，准确度增加1%"
+          }
+        ]
+      }
+    },
+    {
+      "id": "WeaponAttackSpeedEnchant",
+      "index": 52,
+      "columns": {
+        "Text": [
+          {
+            "en": "<white>{Enchant} a <white>{Weapon}. Quality does not increase its Physical Damage, has <enchanted>{1% increased Attack Speed per 8% Quality}",
+            "zh": "<white>{附魔}一件<white>{武器}。品质不会增加其物理伤害，<enchanted>{品质每增加8%，攻击速度增加1%}"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Enchant a Weapon. Quality does not increase its Physical Damage, has 1% increased Attack Speed per 8% Quality",
+            "zh": "给武器附魔。质量不会增加其物理伤害，质量每增加8%，攻击速度增加1%"
+          }
+        ]
+      }
+    },
+    {
+      "id": "WeaponCriticalEnchant",
+      "index": 53,
+      "columns": {
+        "Text": [
+          {
+            "en": "<white>{Enchant} a <white>{Weapon}. Quality does not increase its Physical Damage, has <enchanted>{1% increased Critical Strike Chance per 4% Quality}",
+            "zh": "<white>{附魔}一件<white>{武器}。品质不会增加其物理伤害，<enchanted>{品质每增加4%，暴击率增加1%}"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Enchant a Weapon. Quality does not increase its Physical Damage, has 1% increased Critical Strike Chance per 4% Quality",
+            "zh": "给武器附魔。质量不会增加其物理伤害，质量每增加4%，增加1%暴击率。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "WeaponElementalEnchant",
+      "index": 54,
+      "columns": {
+        "Text": [
+          {
+            "en": "<white>{Enchant} a <white>{Weapon}. Quality does not increase its Physical Damage, grants <enchanted>{1% increased Elemental Damage per 2% Quality}",
+            "zh": "<white>{附魔}一件<white>{武器}。品质不会增加其物理伤害，<enchanted>{品质每增加2%，元素伤害增加1%}"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Enchant a Weapon. Quality does not increase its Physical Damage, grants 1% increased Elemental Damage per 2% Quality",
+            "zh": "给武器附魔。质量不会增加其物理伤害，质量每增加2%，元素伤害增加1%。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ReforgeWhiteSocket",
+      "index": 55,
+      "columns": {
+        "Text": [
+          {
+            "en": "<white>{Reforge} the colour of a random <white>{socket} on an item, turning it <white>{White}",
+            "zh": "将物品上一个随机<white>{插槽}颜色<white>{重铸}为<white>{白色}"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Reforge the colour of a random socket on an item, turning it White",
+            "zh": "将物品上一个随机插槽颜色重铸为白色"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AugmentFire",
+      "index": 56,
+      "columns": {
+        "Text": [
+          {
+            "en": "<white>{Add} a new <craftingfire>{Fire} modifier and <white>{remove} another random modifier from a non-Influenced item",
+            "zh": "<white>{添加}一个新的<craftingfire>{火焰}词缀，并从不受影响的物品中<white>{去掉}另一个随机词缀"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Add a new Fire modifier and remove another random modifier from a non-Influenced item",
+            "zh": "添加一个新的火焰词缀，并从不受影响的物品中去掉另一个随机词缀"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AugmentCold",
+      "index": 57,
+      "columns": {
+        "Text": [
+          {
+            "en": "<white>{Add} a new <craftingcold>{Cold} modifier and <white>{remove} another random modifier from a non-Influenced item",
+            "zh": "<white>{添加}一个新的<craftingcold>{冰霜}词缀，并从不受影响的物品中<white>{去掉}另一个随机词缀"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Add a new Cold modifier and remove another random modifier from a non-Influenced item",
+            "zh": "添加一个新的冰霜词缀，并从不受影响的物品中去掉另一个随机词缀"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AugmentLightning",
+      "index": 58,
+      "columns": {
+        "Text": [
+          {
+            "en": "<white>{Add} a new <craftinglightning>{Lightning} modifier and <white>{remove} another random modifier from a non-Influenced item",
+            "zh": "<white>{添加}一个新的<craftinglightning>{闪电}词缀，并从不受影响的物品中<white>{去掉}另一个随机词缀"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Add a new Lightning modifier and remove another random modifier from a non-Influenced item",
+            "zh": "添加一个新的闪电词缀，并从不受影响的物品中去掉另一个随机词缀"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AugmentPhysical",
+      "index": 59,
+      "columns": {
+        "Text": [
+          {
+            "en": "<white>{Add} a new <craftingphysical>{Physical} modifier and <white>{remove} another random modifier from a non-Influenced item",
+            "zh": "<white>{添加}一个新的<craftingphysical>{物理}词缀，并从不受影响的物品中<white>{去掉}另一个随机词缀"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Add a new Physical modifier and remove another random modifier from a non-Influenced item",
+            "zh": "添加一个新的物理词缀，并从不受影响的物品中去掉另一个随机词缀"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AugmentLife",
+      "index": 60,
+      "columns": {
+        "Text": [
+          {
+            "en": "<white>{Add} a new <craftinglife>{Life} modifier and <white>{remove} another random modifier from a non-Influenced item",
+            "zh": "<white>{添加}一个新的<craftinglife>{生命}词缀，并从不受影响的物品中<white>{去掉}另一个随机词缀"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Add a new Life modifier and remove another random modifier from a non-Influenced item",
+            "zh": "添加一个新的生命词缀，并从不受影响的物品中去掉另一个随机词缀"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AugmentDefences",
+      "index": 61,
+      "columns": {
+        "Text": [
+          {
+            "en": "<white>{Add} a new <craftingdefences>{Defence} modifier and <white>{remove} another random modifier from a non-Influenced item",
+            "zh": "<white>{添加}一个新的<craftingdefences>{防御}词缀，并从不受影响的物品中<white>{去掉}另一个随机词缀"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Add a new Defence modifier and remove another random modifier from a non-Influenced item",
+            "zh": "添加一个新的防御词缀，并从不受影响的物品中去掉另一个随机词缀"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AugmentChaos",
+      "index": 62,
+      "columns": {
+        "Text": [
+          {
+            "en": "<white>{Add} a new <craftingchaos>{Chaos} modifier and <white>{remove} another random modifier from a non-Influenced item",
+            "zh": "<white>{添加}一个新的<craftingchaos>{混沌}词缀，并从不受影响的物品中<white>{去掉}另一个随机词缀"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Add a new Chaos modifier and remove another random modifier from a non-Influenced item",
+            "zh": "添加一个新的混沌词缀，并从不受影响的物品中去掉另一个随机词缀"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AugmentAttack",
+      "index": 63,
+      "columns": {
+        "Text": [
+          {
+            "en": "<white>{Add} a new <craftingattack>{Attack} modifier and <white>{remove} another random modifier from a non-Influenced item",
+            "zh": "<white>{添加}一个新的<craftingattack>{攻击}词缀，并从不受影响的物品中<white>{去掉}另一个随机词缀"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Add a new Attack modifier and remove another random modifier from a non-Influenced item",
+            "zh": "添加一个新的攻击词缀，并从不受影响的物品中去掉另一个随机词缀"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AugmentSpell",
+      "index": 64,
+      "columns": {
+        "Text": [
+          {
+            "en": "<white>{Add} a new <craftingcaster>{Caster} modifier and <white>{remove} another random modifier from a non-Influenced item",
+            "zh": "<white>{添加}一个新的<craftingcaster>{施法}词缀，并从不受影响的物品中<white>{去掉}另一个随机词缀"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Add a new Caster modifier and remove another random modifier from a non-Influenced item",
+            "zh": "添加一个新的施法词缀，并从不受影响的物品中去掉另一个随机词缀"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AugmentSpeed",
+      "index": 65,
+      "columns": {
+        "Text": [
+          {
+            "en": "<white>{Add} a new <craftingspeed>{Speed} modifier and <white>{remove} another random modifier from a non-Influenced item",
+            "zh": "<white>{添加}一个新的<craftingspeed>{速度}词缀，并从不受影响的物品中<white>{去掉}另一个随机词缀"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Add a new Speed modifier and remove another random modifier from a non-Influenced item",
+            "zh": "添加一个新的速度词缀，并从不受影响的物品中去掉另一个随机词缀"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AugmentCritical",
+      "index": 66,
+      "columns": {
+        "Text": [
+          {
+            "en": "<white>{Add} a new <craftingcrit>{Critical} modifier and <white>{remove} another random modifier from a non-Influenced item",
+            "zh": "<white>{添加}一个新的<craftingcrit>{暴击}词缀，并从不受影响的物品中<white>{去掉}另一个随机词缀"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Add a new Critical modifier and remove another random modifier from a non-Influenced item",
+            "zh": "添加一个新的暴击词缀，并从不受影响的物品中去掉另一个随机词缀"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BossSynthesis1",
+      "index": 67,
+      "columns": {
+        "Text": [
+          {
+            "en": "<white>{Synthesise} an item, giving random Synthesised implicits. Cannot be used on Unique, Influenced, Synthesised or Fractured items",
+            "zh": "<white>{合成}一件物品，赋予随机合成基底。对于传奇、受影响、合成或分裂物品不适用"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Synthesise an item, giving random Synthesised implicits. Cannot be used on Unique, Influenced, Synthesised or Fractured items",
+            "zh": "合成一件物品，赋予随机合成基底。对于传奇、受影响、合成或分裂物品不适用"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BossInfluence1",
+      "index": 68,
+      "columns": {
+        "Text": [
+          {
+            "en": "<white>{Reforge} an <white>{Influenced} Rare item with random modifiers, including a <white>{Influence} modifier",
+            "zh": "<white>{重铸}一件带随机词缀的<white>{受影响的}稀有物品，其中包括一个<white>{影响}词缀"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Reforge an Influenced Rare item with random modifiers, including a Influence modifier",
+            "zh": "重铸一件带随机词缀的受影响稀有物品，其中包括一个影响词缀"
+          }
+        ]
+      }
+    }
+  ]
+}

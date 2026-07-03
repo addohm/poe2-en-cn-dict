@@ -1,0 +1,165 @@
+{
+  "table": "StashTabAffinities",
+  "key": "_index",
+  "columns": [
+    "Name"
+  ],
+  "entries": [
+    {
+      "id": null,
+      "index": 0,
+      "columns": {
+        "Name": [
+          {
+            "en": "Currency",
+            "zh": "通货"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 1,
+      "columns": {
+        "Name": [
+          {
+            "en": "Delirium",
+            "zh": "惊悸迷雾"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 2,
+      "columns": {
+        "Name": [
+          {
+            "en": "Essence",
+            "zh": "精华"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 3,
+      "columns": {
+        "Name": [
+          {
+            "en": "Fragment",
+            "zh": "碎片"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 4,
+      "columns": {
+        "Name": [
+          {
+            "en": "Waystone",
+            "zh": "引路石"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 5,
+      "columns": {
+        "Name": [
+          {
+            "en": "Breach",
+            "zh": "裂隙"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 6,
+      "columns": {
+        "Name": [
+          {
+            "en": "Unique",
+            "zh": "传奇"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 7,
+      "columns": {
+        "Name": [
+          {
+            "en": "Flask",
+            "zh": "药剂"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 8,
+      "columns": {
+        "Name": [
+          {
+            "en": "Gem",
+            "zh": "宝石"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 9,
+      "columns": {
+        "Name": [
+          {
+            "en": "Augment",
+            "zh": "增幅器"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 10,
+      "columns": {
+        "Name": [
+          {
+            "en": "Expedition",
+            "zh": "先祖秘藏"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 11,
+      "columns": {
+        "Name": [
+          {
+            "en": "Ritual",
+            "zh": "驱灵仪式"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 12,
+      "columns": {
+        "Name": [
+          {
+            "en": "Abyss",
+            "zh": "深渊"
+          }
+        ]
+      }
+    }
+  ]
+}

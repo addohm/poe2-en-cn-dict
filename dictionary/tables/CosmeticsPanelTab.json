@@ -1,0 +1,59 @@
+{
+  "table": "CosmeticsPanelTab",
+  "key": "_index",
+  "columns": [
+    "Id",
+    "__col2",
+    "__col4"
+  ],
+  "entries": [
+    {
+      "id": null,
+      "index": 0,
+      "columns": {
+        "__col2": [
+          {
+            "en": "Character",
+            "zh": "角色"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 1,
+      "columns": {
+        "__col2": [
+          {
+            "en": "Extras",
+            "zh": "额外"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 2,
+      "columns": {
+        "__col2": [
+          {
+            "en": "Skills",
+            "zh": "技能"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 3,
+      "columns": {
+        "__col2": [
+          {
+            "en": "Consumables",
+            "zh": "消耗品"
+          }
+        ]
+      }
+    }
+  ]
+}

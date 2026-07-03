@@ -1,0 +1,48 @@
+{
+  "table": "SanctumDefenceIcons",
+  "key": "_index",
+  "columns": [
+    "Id",
+    "DefenceIcon",
+    "DefenceBrokenIcon",
+    "Description"
+  ],
+  "entries": [
+    {
+      "id": null,
+      "index": 0,
+      "columns": {
+        "Description": [
+          {
+            "en": "Mitigation prevents a portion of Resolve loss and scales with your Armour",
+            "zh": "缓阻可以减少部分坚毅损失，并随你的护甲变化"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 1,
+      "columns": {
+        "Description": [
+          {
+            "en": "This scales with your Evasion Rating",
+            "zh": "这会随你的闪避值变化"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 2,
+      "columns": {
+        "Description": [
+          {
+            "en": "Up to 50% of Resolve loss from Enemy Hits is removed from the Aegis before Resolve or Inspiration\nAegis is broken when any Resolve is lost from Enemy Hits\nAegis is instantly restored after 4 seconds of no Resolve being lost\nResolve Aegis scales with your maximum Energy Shield",
+            "zh": "在扣除坚毅和启迪前，被怪物命中所损失的坚毅最多有 50% 从护盾中扣除\n被怪物命中损失坚毅后，护盾将失效\n在 4 秒内没有损失坚毅后，护盾会立即恢复\n坚毅护盾随你的能量护盾上限变化"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "table": "SanctumSelectionDisplayOverride",
+  "key": "_index",
+  "columns": [
+    "Id",
+    "Reward",
+    "Icon",
+    "Downside"
+  ],
+  "entries": [
+    {
+      "id": null,
+      "index": 0,
+      "columns": {
+        "Reward": [
+          {
+            "en": "Restore {0} Honour",
+            "zh": "恢复 {0} 的荣誉"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 15,
+      "columns": {
+        "Reward": [
+          {
+            "en": "Urn Relic",
+            "zh": "壶瓮遗物"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 16,
+      "columns": {
+        "Reward": [
+          {
+            "en": "Amphora Relic",
+            "zh": "土罐遗物"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 17,
+      "columns": {
+        "Reward": [
+          {
+            "en": "Vase Relic",
+            "zh": "花瓶遗物"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 18,
+      "columns": {
+        "Reward": [
+          {
+            "en": "Seal Relic",
+            "zh": "封印遗物"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 19,
+      "columns": {
+        "Reward": [
+          {
+            "en": "Coffer Relic",
+            "zh": "匣柜遗物"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 20,
+      "columns": {
+        "Reward": [
+          {
+            "en": "Tapestry Relic",
+            "zh": "挂毯遗物"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 21,
+      "columns": {
+        "Reward": [
+          {
+            "en": "Incense Relic",
+            "zh": "熏香遗物"
+          }
+        ]
+      }
+    }
+  ]
+}

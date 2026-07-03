@@ -1,0 +1,106 @@
+{
+  "table": "CombatUIPrompts",
+  "key": "_index",
+  "columns": [
+    "Id",
+    "Description"
+  ],
+  "entries": [
+    {
+      "id": null,
+      "index": 0,
+      "columns": {
+        "Description": [
+          {
+            "en": "Out Of Mana",
+            "zh": "魔力不足"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 1,
+      "columns": {
+        "Description": [
+          {
+            "en": "On Cooldown",
+            "zh": "仍在冷却中"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 2,
+      "columns": {
+        "Description": [
+          {
+            "en": "Out Of Flasks",
+            "zh": "药剂不足"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 3,
+      "columns": {
+        "Description": [
+          {
+            "en": "Insufficent Spirit",
+            "zh": "灵魂不足"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 4,
+      "columns": {
+        "Description": [
+          {
+            "en": "Inventory Full",
+            "zh": "背包已满"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 5,
+      "columns": {
+        "Description": [
+          {
+            "en": "You Cannot Create a Portal Here",
+            "zh": "你无法在这里开启时空之门"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 6,
+      "columns": {
+        "Description": [
+          {
+            "en": "Out Of Life",
+            "zh": "生命不足"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 7,
+      "columns": {
+        "Description": [
+          {
+            "en": "Object is already in use",
+            "zh": "对象已被占用"
+          }
+        ]
+      }
+    }
+  ]
+}

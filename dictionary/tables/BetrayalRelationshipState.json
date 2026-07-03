@@ -1,0 +1,46 @@
+{
+  "table": "BetrayalRelationshipState",
+  "key": "_index",
+  "columns": [
+    "Id",
+    "Text"
+  ],
+  "entries": [
+    {
+      "id": null,
+      "index": 0,
+      "columns": {
+        "Text": [
+          {
+            "en": "Rivals",
+            "zh": "死敌"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 1,
+      "columns": {
+        "Text": [
+          {
+            "en": "Neutral",
+            "zh": "中立"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 2,
+      "columns": {
+        "Text": [
+          {
+            "en": "Trusted",
+            "zh": "信任"
+          }
+        ]
+      }
+    }
+  ]
+}

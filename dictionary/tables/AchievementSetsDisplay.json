@@ -1,0 +1,57 @@
+{
+  "table": "AchievementSetsDisplay",
+  "key": "_index",
+  "columns": [
+    "Title"
+  ],
+  "entries": [
+    {
+      "id": null,
+      "index": 0,
+      "columns": {
+        "Title": [
+          {
+            "en": "Challenges",
+            "zh": "挑战"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 1,
+      "columns": {
+        "Title": [
+          {
+            "en": "Challenges",
+            "zh": "挑战"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 2,
+      "columns": {
+        "Title": [
+          {
+            "en": "Challenges",
+            "zh": "挑战"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 3,
+      "columns": {
+        "Title": [
+          {
+            "en": "Achievements",
+            "zh": "成就"
+          }
+        ]
+      }
+    }
+  ]
+}

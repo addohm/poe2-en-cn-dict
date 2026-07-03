@@ -1,0 +1,85 @@
+{
+  "table": "AtlasPassiveSkillSubTrees",
+  "key": "Id",
+  "columns": [
+    "UI_Image",
+    "UI_Background",
+    "__col10",
+    "__col11",
+    "Description"
+  ],
+  "entries": [
+    {
+      "id": "Breach",
+      "index": 0,
+      "columns": {
+        "Description": [
+          {
+            "en": "Grants Breach Atlas passive points on completion",
+            "zh": "完成时获得裂隙异界天赋点数"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Expedition",
+      "index": 1,
+      "columns": {
+        "Description": [
+          {
+            "en": "Grants Expedition Atlas passive points on completion",
+            "zh": "完成时获得先祖秘藏异界天赋点数"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Delirium",
+      "index": 2,
+      "columns": {
+        "Description": [
+          {
+            "en": "Grants Delirium Altas passive points on completion",
+            "zh": "完成时获得惊悸迷雾异界天赋点数"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Ritual",
+      "index": 3,
+      "columns": {
+        "Description": [
+          {
+            "en": "Grants Ritual Atlas passive points on completion",
+            "zh": "完成时获得驱灵仪式异界天赋点数"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Abyss",
+      "index": 4,
+      "columns": {
+        "Description": [
+          {
+            "en": "Grants Abyss Atlas passive points on completion",
+            "zh": "完成时获得深渊异界天赋点数"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Incursion",
+      "index": 5,
+      "columns": {
+        "Description": [
+          {
+            "en": "Grants Atziri's Temple Atlas passive points on completion",
+            "zh": "完成时获得阿兹里神庙异界天赋点数"
+          }
+        ]
+      }
+    }
+  ]
+}

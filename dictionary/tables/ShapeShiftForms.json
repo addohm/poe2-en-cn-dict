@@ -1,0 +1,73 @@
+{
+  "table": "ShapeShiftForms",
+  "key": "Id",
+  "columns": [
+    "AOFile",
+    "__col6",
+    "Status",
+    "__col21",
+    "Name"
+  ],
+  "entries": [
+    {
+      "id": "Human",
+      "index": 0,
+      "columns": {
+        "Name": [
+          {
+            "en": "Human",
+            "zh": "人类"
+          }
+        ]
+      }
+    },
+    {
+      "id": "WereBear",
+      "index": 1,
+      "columns": {
+        "Name": [
+          {
+            "en": "Bear",
+            "zh": "巨熊"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Wolf",
+      "index": 2,
+      "columns": {
+        "Name": [
+          {
+            "en": "Werewolf",
+            "zh": "狼人"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Demon",
+      "index": 3,
+      "columns": {
+        "Name": [
+          {
+            "en": "Demon",
+            "zh": "恶魔"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Wyvern",
+      "index": 4,
+      "columns": {
+        "Name": [
+          {
+            "en": "Wyvern",
+            "zh": "双足飞龙"
+          }
+        ]
+      }
+    }
+  ]
+}

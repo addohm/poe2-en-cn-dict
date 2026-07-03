@@ -1,0 +1,143 @@
+{
+  "table": "ArchnemesisMetaRewards",
+  "key": "_index",
+  "columns": [
+    "Id",
+    "RewardText",
+    "ScriptArgument"
+  ],
+  "entries": [
+    {
+      "id": null,
+      "index": 0,
+      "columns": {
+        "RewardText": [
+          {
+            "en": "All Reward Types have an additional reward",
+            "zh": "所有奖励类型都有额外一个奖励"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 1,
+      "columns": {
+        "RewardText": [
+          {
+            "en": "Rewards are doubled",
+            "zh": "奖励翻倍"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 2,
+      "columns": {
+        "RewardText": [
+          {
+            "en": "All Reward Types are Divination Cards",
+            "zh": "全奖励类型都是命运卡"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 3,
+      "columns": {
+        "RewardText": [
+          {
+            "en": "All Reward Types are Uniques",
+            "zh": "全奖励类型都是传奇物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 4,
+      "columns": {
+        "RewardText": [
+          {
+            "en": "All Reward Types are Currency",
+            "zh": "全奖励类型都是通货物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 5,
+      "columns": {
+        "RewardText": [
+          {
+            "en": "Monster's Minions drop a randomly-chosen Reward Type",
+            "zh": "怪物的召唤生物掉落一件随机选择的奖励类型"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 6,
+      "columns": {
+        "RewardText": [
+          {
+            "en": "Rewards are rolled 1 additional time, choosing the rarest result",
+            "zh": "奖励额外重掷 1 次，选择最稀有的结果"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 7,
+      "columns": {
+        "RewardText": [
+          {
+            "en": "Rewards are rolled 2 additional times, choosing the rarest result",
+            "zh": "奖励额外重掷 2 次，选择最稀有的结果"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 8,
+      "columns": {
+        "RewardText": [
+          {
+            "en": "Rewards are rolled 4 additional times, choosing the rarest result",
+            "zh": "奖励额外重掷 4 次，选择最稀有的结果"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 9,
+      "columns": {
+        "RewardText": [
+          {
+            "en": "Rewards are rolled 6 additional times, choosing the rarest result",
+            "zh": "奖励额外重掷 6 次，选择最稀有的结果"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 10,
+      "columns": {
+        "RewardText": [
+          {
+            "en": "Items dropped from the Monster and its Minions are Corrupted",
+            "zh": "怪物和它的召唤生物掉落的物品都被腐化"
+          }
+        ]
+      }
+    }
+  ]
+}

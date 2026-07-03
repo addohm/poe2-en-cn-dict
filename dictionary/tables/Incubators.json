@@ -1,0 +1,729 @@
+{
+  "table": "Incubators",
+  "key": "_index",
+  "columns": [
+    "Reward"
+  ],
+  "entries": [
+    {
+      "id": null,
+      "index": 0,
+      "columns": {
+        "Reward": [
+          {
+            "en": "Essence Item",
+            "zh": "精华物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 1,
+      "columns": {
+        "Reward": [
+          {
+            "en": "Currency Item",
+            "zh": "通货物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 2,
+      "columns": {
+        "Reward": [
+          {
+            "en": "Unique Item",
+            "zh": "传奇物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 3,
+      "columns": {
+        "Reward": [
+          {
+            "en": "Map Item",
+            "zh": "地图物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 4,
+      "columns": {
+        "Reward": [
+          {
+            "en": "Unique Map Item",
+            "zh": "传奇地图物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 5,
+      "columns": {
+        "Reward": [
+          {
+            "en": "Rare Abyss Item",
+            "zh": "稀有深渊物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 6,
+      "columns": {
+        "Reward": [
+          {
+            "en": "Fragment Item",
+            "zh": "碎片物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 7,
+      "columns": {
+        "Reward": [
+          {
+            "en": "Scarab Item",
+            "zh": "圣甲虫物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 8,
+      "columns": {
+        "Reward": [
+          {
+            "en": "Essence Item",
+            "zh": "精华物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 9,
+      "columns": {
+        "Reward": [
+          {
+            "en": "Fossil Item",
+            "zh": "化石物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 10,
+      "columns": {
+        "Reward": [
+          {
+            "en": "Expedition Item",
+            "zh": "先祖秘藏物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 11,
+      "columns": {
+        "Reward": [
+          {
+            "en": "Stacked Decks",
+            "zh": "未知命运卡"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 12,
+      "columns": {
+        "Reward": [
+          {
+            "en": "Talisman Item",
+            "zh": "魔符物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 13,
+      "columns": {
+        "Reward": [
+          {
+            "en": "Enchanted Helmet",
+            "zh": "附魔头盔"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 14,
+      "columns": {
+        "Reward": [
+          {
+            "en": "6-Linked Armour Item",
+            "zh": "六连护甲物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 15,
+      "columns": {
+        "Reward": [
+          {
+            "en": "Currency Item",
+            "zh": "通货物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 16,
+      "columns": {
+        "Reward": [
+          {
+            "en": "League-specific Unique Item",
+            "zh": "赛季专属传奇物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 17,
+      "columns": {
+        "Reward": [
+          {
+            "en": "Shaper or Elder Armour Item",
+            "zh": "塑界者或裂界者护甲物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 18,
+      "columns": {
+        "Reward": [
+          {
+            "en": "Shaper or Elder Weapon Item",
+            "zh": "塑界者或裂界者武器物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 19,
+      "columns": {
+        "Reward": [
+          {
+            "en": "Shaper or Elder Trinket Item",
+            "zh": "塑界者或裂界者饰品"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 20,
+      "columns": {
+        "Reward": [
+          {
+            "en": "Elder Map Item",
+            "zh": "裂界者地图物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 21,
+      "columns": {
+        "Reward": [
+          {
+            "en": "Breach Item",
+            "zh": "裂隙物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 22,
+      "columns": {
+        "Reward": [
+          {
+            "en": "valuable Currency Shards or Harbinger Item",
+            "zh": "珍贵通货碎片或先驱者物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 23,
+      "columns": {
+        "Reward": [
+          {
+            "en": "high level Corrupted Gem or Valuable Gem",
+            "zh": "高级腐化宝石或珍贵宝石"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 24,
+      "columns": {
+        "Reward": [
+          {
+            "en": "Item",
+            "zh": "物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 25,
+      "columns": {
+        "Reward": [
+          {
+            "en": "Quality Gem",
+            "zh": "品质宝石"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 26,
+      "columns": {
+        "Reward": [
+          {
+            "en": "Bestiary Item",
+            "zh": "猎魔物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 27,
+      "columns": {
+        "Reward": [
+          {
+            "en": "Blight Item",
+            "zh": "菌潮物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 28,
+      "columns": {
+        "Reward": [
+          {
+            "en": "Metamorph Item",
+            "zh": "灾变物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 29,
+      "columns": {
+        "Reward": [
+          {
+            "en": "Delirium Item",
+            "zh": "惊悸迷雾物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 30,
+      "columns": {
+        "Reward": [
+          {
+            "en": "Essence Item",
+            "zh": "精华物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 31,
+      "columns": {
+        "Reward": [
+          {
+            "en": "Currency Item",
+            "zh": "通货物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 32,
+      "columns": {
+        "Reward": [
+          {
+            "en": "Unique Item",
+            "zh": "传奇物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 33,
+      "columns": {
+        "Reward": [
+          {
+            "en": "Map Item",
+            "zh": "地图物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 34,
+      "columns": {
+        "Reward": [
+          {
+            "en": "Unique Map Item",
+            "zh": "传奇地图物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 35,
+      "columns": {
+        "Reward": [
+          {
+            "en": "Rare Abyss Item",
+            "zh": "稀有深渊物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 36,
+      "columns": {
+        "Reward": [
+          {
+            "en": "Fragment Item",
+            "zh": "碎片物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 37,
+      "columns": {
+        "Reward": [
+          {
+            "en": "Scarab Item",
+            "zh": "圣甲虫物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 38,
+      "columns": {
+        "Reward": [
+          {
+            "en": "Essence Item",
+            "zh": "精华物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 39,
+      "columns": {
+        "Reward": [
+          {
+            "en": "Fossil Item",
+            "zh": "化石物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 40,
+      "columns": {
+        "Reward": [
+          {
+            "en": "Expedition Item",
+            "zh": "先祖秘藏物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 41,
+      "columns": {
+        "Reward": [
+          {
+            "en": "Stacked Decks",
+            "zh": "未知命运卡"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 42,
+      "columns": {
+        "Reward": [
+          {
+            "en": "Talisman Item",
+            "zh": "魔符物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 43,
+      "columns": {
+        "Reward": [
+          {
+            "en": "Enchanted Helmet",
+            "zh": "附魔头盔"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 44,
+      "columns": {
+        "Reward": [
+          {
+            "en": "6-Linked Armour Item",
+            "zh": "六连护甲物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 45,
+      "columns": {
+        "Reward": [
+          {
+            "en": "Currency Item",
+            "zh": "通货物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 46,
+      "columns": {
+        "Reward": [
+          {
+            "en": "League-specific Unique Item",
+            "zh": "赛季专属传奇物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 47,
+      "columns": {
+        "Reward": [
+          {
+            "en": "Shaper or Elder Armour Item",
+            "zh": "塑界者或裂界者护甲物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 48,
+      "columns": {
+        "Reward": [
+          {
+            "en": "Shaper or Elder Weapon Item",
+            "zh": "塑界者或裂界者武器物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 49,
+      "columns": {
+        "Reward": [
+          {
+            "en": "Shaper or Elder Trinket Item",
+            "zh": "塑界者或裂界者饰品"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 50,
+      "columns": {
+        "Reward": [
+          {
+            "en": "Elder Map Item",
+            "zh": "裂界者地图物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 51,
+      "columns": {
+        "Reward": [
+          {
+            "en": "Breach Item",
+            "zh": "裂隙物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 52,
+      "columns": {
+        "Reward": [
+          {
+            "en": "valuable Currency Shards or Harbinger Item",
+            "zh": "珍贵通货碎片或先驱者物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 53,
+      "columns": {
+        "Reward": [
+          {
+            "en": "high level Corrupted Gem or Valuable Gem",
+            "zh": "高级腐化宝石或珍贵宝石"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 54,
+      "columns": {
+        "Reward": [
+          {
+            "en": "Item",
+            "zh": "物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 55,
+      "columns": {
+        "Reward": [
+          {
+            "en": "Quality Gem",
+            "zh": "品质宝石"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 56,
+      "columns": {
+        "Reward": [
+          {
+            "en": "Bestiary Item",
+            "zh": "猎魔物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 57,
+      "columns": {
+        "Reward": [
+          {
+            "en": "Blight Item",
+            "zh": "菌潮物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 58,
+      "columns": {
+        "Reward": [
+          {
+            "en": "Metamorph Item",
+            "zh": "灾变物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 59,
+      "columns": {
+        "Reward": [
+          {
+            "en": "Delirium Item",
+            "zh": "惊悸迷雾物品"
+          }
+        ]
+      }
+    }
+  ]
+}

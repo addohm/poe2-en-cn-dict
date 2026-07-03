@@ -1,0 +1,1174 @@
+{
+  "table": "Tips",
+  "key": "Id",
+  "columns": [
+    "Text",
+    "TextXBox"
+  ],
+  "entries": [
+    {
+      "id": "ProxyKey1",
+      "index": 0,
+      "columns": {
+        "Text": [
+          {
+            "en": "Remember to use flasks (<b>{1-2} on the keyboard).",
+            "zh": "记得使用键盘左上角的 1 和 2 来喝药水哦! "
+          }
+        ],
+        "TextXBox": [
+          {
+            "en": "Select <b>{Rebind Menu} on the radial menu to assign skills and action to button slots.",
+            "zh": "选择轮盘菜单上的<b>{重新绑定菜单}为按键栏配置技能和行动。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ProxyKey2",
+      "index": 1,
+      "columns": {
+        "Text": [
+          {
+            "en": "Boss Checkpoints and Waypoints will refill your flasks as well as replenishing your life, energy shield, and mana.",
+            "zh": "首领记录点和传送点会补充你的药剂，同时会补充生命，能量护盾和魔力。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ProxyKey3",
+      "index": 2,
+      "columns": {
+        "Text": [
+          {
+            "en": "Dying in an area will send you back to your most recent checkpoint, respawning all enemies.",
+            "zh": "在区域中被击败会将你送回你最近的记录点，并复活所有的敌人。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ProxyKey4",
+      "index": 3,
+      "columns": {
+        "Text": [
+          {
+            "en": "Flask Charges are recovered in combat by slaying Enemies. Magic, Rare and Unique enemies grant progressively more Charges.",
+            "zh": "在战斗中击败敌人可以恢复药剂充能。魔法、稀有或传奇敌人提供的充能逐级提高。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ProxyKey5",
+      "index": 4,
+      "columns": {
+        "Text": [
+          {
+            "en": "Instances reset after being empty for 8-15 minutes, destroying any connected Portals.",
+            "zh": "没人在的地图约 8 至 15 分会重置, 地图内的传送门也会随之关闭. "
+          }
+        ]
+      }
+    },
+    {
+      "id": "ProxyKey6",
+      "index": 5,
+      "columns": {
+        "Text": [
+          {
+            "en": "The more modifiers an item has, the more <currencyitem>{Gold} it will sell for.",
+            "zh": "物品的词条越多，出售时就可以获得更多的 <currencyitem>{金币}。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ProxyKey7",
+      "index": 6,
+      "columns": {
+        "Text": [
+          {
+            "en": "Players in the same party will join the same areas.",
+            "zh": "同队伍的成员才能进入同一张地图哦。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ProxyKey8",
+      "index": 7,
+      "columns": {
+        "Text": [
+          {
+            "en": "Press <b>{Spacebar} to Dodge Roll.",
+            "zh": "按下 <b>{空格键} 进行闪避翻滚。"
+          }
+        ],
+        "TextXBox": [
+          {
+            "en": "Press <<xbox_button_b>> to Dodge Roll.",
+            "zh": "按下 <<xbox_button_b>> 进行闪避翻滚。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ProxyKey9",
+      "index": 8,
+      "columns": {
+        "Text": [
+          {
+            "en": "You can assign your skills to a specific weapon set in the Skills Panel (G).",
+            "zh": "你可以在技能面板（G）中设置特定武器组的技能。"
+          }
+        ],
+        "TextXBox": [
+          {
+            "en": "Open <b>{Skill Options} to assign a skill to use a specific weapon set in the <b>{Skills} tab of the <<xbox_button_view>> <b>{Character menu}. \r\n\r\n",
+            "zh": "打开<b>{技能选项}可以在<<xbox_button_view>><b>{角色菜单}的<b>{技能}页面设置特定武器组的技能。 \r\n\r\n"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ProxyKey10",
+      "index": 9,
+      "columns": {
+        "Text": [
+          {
+            "en": "Hold <b>{Shift} to attack from your current location.",
+            "zh": "按住 Shift 在原地进行攻击。"
+          }
+        ],
+        "TextXBox": [
+          {
+            "en": "Press and hold <<xbox_button_x>> on a skill in the <b>{Skill Binds} Menu to assign alternative targeting methods in <b>{Skill Options}",
+            "zh": "在<b>{技能绑定}菜单中长按技能的<<xbox_button_x>>键，在<b>{技能选项}中分配替代瞄准方式"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ProxyKey11",
+      "index": 10,
+      "columns": {
+        "Text": [
+          {
+            "en": "Waypoints can be used to travel quickly between some areas.",
+            "zh": "除了传送门之外，传送点也能够让你快速的到处走! "
+          }
+        ]
+      }
+    },
+    {
+      "id": "ProxyKey12",
+      "index": 11,
+      "columns": {
+        "Text": [
+          {
+            "en": "Flasks on your belt refill when you kill Monsters, refilling more from more powerful Monsters.",
+            "zh": "击败怪物时，装备在你腰带上的药剂会进行充能。越强大的怪物充能越多。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ProxyKey13",
+      "index": 12,
+      "columns": {
+        "Text": [
+          {
+            "en": "To use a <currencyitem>{scroll} or <currencyitem>{orb}, <b>{right click} it then <b>{left click} the target item.",
+            "zh": "可以右键 单击 卷轴 或 通货 再对目标按左键来使用它. "
+          }
+        ],
+        "TextXBox": [
+          {
+            "en": "To use a <currencyitem>{scroll} or <currencyitem>{orb}, press <<xbox_button_x>> on it then <<xbox_button_a>> on the target item.",
+            "zh": "要使用<currencyitem>{卷轴}或<currencyitem>{通货石}，可对它们按下 <<xbox_button_x>>，再在目标物品上按下 <<xbox_button_a>>。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ProxyKey14",
+      "index": 13,
+      "columns": {
+        "Text": [
+          {
+            "en": "Hold <b>{Shift} and click a stack of items to unstack them.",
+            "zh": "可以按住 Shift 再点击一个已堆叠的物品将其分成两堆。"
+          }
+        ],
+        "TextXBox": [
+          {
+            "en": "Press and hold <<xbox_button_a>> on a stack of items to unstack them.",
+            "zh": "在堆叠的物品上按下 <<xbox_button_a>> 可以将其拆分。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ProxyKey15",
+      "index": 14,
+      "columns": {
+        "Text": [
+          {
+            "en": "Never tell anyone your password.",
+            "zh": "千万不要向别人透露你的密码。"
+          }
+        ],
+        "TextXBox": [
+          {
+            "en": "Never give away your account credentials to anyone or tell them your password.",
+            "zh": "千万不要向别人告知你的账号验证信息或透露你的密码。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ProxyKey17",
+      "index": 15,
+      "columns": {
+        "Text": [
+          {
+            "en": "<gemitem>{Skill Gems} can be leveled up with the use of an Uncut Skill Gem.",
+            "zh": "<gemitem>{技能宝石}可以通过未切割的技能宝石升级。"
+          }
+        ],
+        "TextXBox": [
+          {
+            "en": "Use an <<itemvisual:UncutSkillGem>> <currencyitem>{Uncut Skill Gem} to craft or level-up <gemitem>{Skill Gems} ",
+            "zh": "使用<<itemvisual:UncutSkillGem>> <currencyitem>{未切割的技能宝石} 来制作或升级<gemitem>{技能宝石} "
+          }
+        ]
+      }
+    },
+    {
+      "id": "ProxyKey18",
+      "index": 16,
+      "columns": {
+        "Text": [
+          {
+            "en": "Remember to return to a <b>{Well} to refill your flasks and replenish your Life and Mana.",
+            "zh": "记得回到<b>{水井}旁，补充你的药剂，回复生命和魔力。"
+          }
+        ],
+        "TextXBox": [
+          {
+            "en": "Remember to use a <b>{Well} to refill your flasks and replenish your Charms, Life and Mana.",
+            "zh": "记得使用<b>{水井}，来补充你的药剂并恢复你的咒符、生命和魔力。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ProxyKey19",
+      "index": 17,
+      "columns": {
+        "Text": [
+          {
+            "en": "Partying with other players makes enemies harder and gives more rewards.",
+            "zh": "虽然与他人组队时怪物会变的更强，但所掉落的物品也会跟着变得更好哦。"
+          }
+        ],
+        "TextXBox": [
+          {
+            "en": "Co-op and party play makes enemies tougher, but gives greater rewards.",
+            "zh": "合作和组队游戏会让加强敌人，但给予更丰厚的奖励。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ProxyKey20",
+      "index": 18,
+      "columns": {
+        "Text": [
+          {
+            "en": "You can change your key bindings in the <b>{Options} menu.",
+            "zh": "可以到 设定 中修改快捷键设定。"
+          }
+        ],
+        "TextXBox": [
+          {
+            "en": "Press and hold <<xbox_button_view>> and select <b>{Skill Binds} to customise your Actions and Skills.",
+            "zh": "按下并长按<<xbox_button_view>>，随后选择<b>{技能绑定}，即可自定义你的行动和技能。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ProxyKey21",
+      "index": 19,
+      "columns": {
+        "Text": [
+          {
+            "en": "You can move the overlay map around using the <b>{arrow keys}.",
+            "zh": "可以使用 箭头键 来移动地图。"
+          }
+        ],
+        "TextXBox": [
+          {
+            "en": "Pressing <<xbox_button_x>> on a new skillgem in your inventory will equip and bind the skill in a single action.",
+            "zh": "在背包中对 1 颗新技能宝石按 <<xbox_button_x>> 即可将其装备，并在一个动作栏绑定技能。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ProxyKey22",
+      "index": 20,
+      "columns": {
+        "Text": [
+          {
+            "en": "Use the mouse wheel to zoom in and out.",
+            "zh": "曾经的流放者日记有提到，沿着石板路总能找到记录点或者你想到达的地方"
+          }
+        ],
+        "TextXBox": [
+          {
+            "en": "Press and hold <<xbox_button_a>> to assign <b>{Split Set Points} for each weapon set when spending passive points.",
+            "zh": "按下并长按<<xbox_button_a>>即可在使用天赋点数时为每一个武器组配置<b>{拆分武器组技能点}。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ProxyKey23",
+      "index": 21,
+      "columns": {
+        "Text": [
+          {
+            "en": "The Hooded One can help you by identifying your items.",
+            "zh": "兜帽密师可以帮你鉴定物品。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ProxyKey24",
+      "index": 22,
+      "columns": {
+        "Text": [
+          {
+            "en": "Monsters that deal cold damage can freeze you.",
+            "zh": "会造成冰霜伤害的怪物，可是有机会把你冻结的哦。"
+          }
+        ],
+        "TextXBox": [
+          {
+            "en": "Monsters that deal <cold>{cold} damage can <b>{freeze} you.",
+            "zh": "造成<cold>{冰霜}伤害的怪物会施加<b>{冻结}状态。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ProxyKey25",
+      "index": 23,
+      "columns": {
+        "Text": [
+          {
+            "en": "Lightning damage can shock you, increasing damage taken.",
+            "zh": "闪电伤害会造成感电状态, 额外增加目标受到的伤害. "
+          }
+        ],
+        "TextXBox": [
+          {
+            "en": "<lightning>{Lightning} damage can <b>{shock} you, increasing damage taken.",
+            "zh": "<lightning>{闪电}伤害会造成<b>{感电}状态，额外增加受到的伤害。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ProxyKey26",
+      "index": 24,
+      "columns": {
+        "Text": [
+          {
+            "en": "Fire damage can ignite targets, causing them to burn for extra damage.",
+            "zh": "火焰伤害会点燃目标, 让目标受到额外的燃烧伤害. "
+          }
+        ],
+        "TextXBox": [
+          {
+            "en": "<fire>{Fire} damage can <b>{ignite} targets, causing them to burn for extra damage.",
+            "zh": "<fire>{火焰}伤害会<b>{点燃}目标，让目标受到额外的燃烧伤害。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ProxyKey27",
+      "index": 25,
+      "columns": {
+        "Text": [
+          {
+            "en": "Holding your highlight key (default: <b>{Alt}) will show items on the ground, and pressing <b>{Z} will toggle always displaying items.",
+            "zh": "按住 Alt 可以持续显示掉落在地上的物品, 或是按下 Z 来打开持续显示地上物品的设定. "
+          }
+        ],
+        "TextXBox": [
+          {
+            "en": "Use the <<xbox_rstick>> to target item drops within range.",
+            "zh": "使用 <<xbox_rstick>> 锁定范围内的掉落物品。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ProxyKey28",
+      "index": 26,
+      "columns": {
+        "Text": [
+          {
+            "en": "Activating a new <b>{Waypoint} is a way of saving your exploration through Wraeclast.",
+            "zh": "您可以通过启动新的<b>{传送点}来保存您在瓦尔克拉斯的冒险进程。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ProxyKey29",
+      "index": 27,
+      "columns": {
+        "Text": [
+          {
+            "en": "Track your current quests in the world map by pressing <b>{U}.",
+            "zh": "按下 <b>{U} 在世界地图中追踪当前的任务。"
+          }
+        ],
+        "TextXBox": [
+          {
+            "en": "Track your current quests in the <b>{Quests} tab within the <<xbox_button_view>> <b>{Character menu}.",
+            "zh": "你可以在 <xbox_button_view>> <b>{角色菜单}的 <b>{任务} 页面里追踪当前的任务。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ProxyKey30",
+      "index": 28,
+      "columns": {
+        "Text": [
+          {
+            "en": "Hold <b>{Alt} while viewing items in your inventory to compare them with their equipped counterpart.",
+            "zh": "在背包里查看物品时，可以按住 <b>{Alt} 键跟装备的物品做比对。"
+          }
+        ],
+        "TextXBox": [
+          {
+            "en": "Use <<xbox_button_rstick>> in the inventory to compare equipable items, or Press <<xbox_button_a>> to pickup and hover the item over the equip slot.",
+            "zh": "在背包页面，使用 <<xbox_button_rstick>> 比较可装备物品，或按下 <<xbox_button_a>> 拾取物品并将其悬停在装备槽上。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ProxyKey31",
+      "index": 29,
+      "columns": {
+        "Text": [
+          {
+            "en": "Hold <b>{Ctrl} and click area transitions and waypoint icons to forcibly create new instances of areas.",
+            "zh": "按住 <b>{Ctrl} 点击区域出入口和传送点可以创造当前区域的新副本。"
+          }
+        ],
+        "TextXBox": [
+          {
+            "en": "Press and hold <<xbox_button_a>> on area transitions or a selected waypoint icon to  open the areas instance manager.",
+            "zh": "按住 <<xbox_button_a>> 点击区域出入口和传送点图标可以打开区域的副本管理器。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ProxyKey33",
+      "index": 30,
+      "columns": {
+        "Text": [
+          {
+            "en": "Dodge Rolling can be done during almost any other action.",
+            "zh": "闪避翻滚可以在其他绝大部分操作间使用。"
+          }
+        ],
+        "TextXBox": [
+          {
+            "en": "Evade attacks using the <b>{Dodge Roll} action, it can interrupt most active actions.",
+            "zh": "使用<b>{闪避翻滚}来躲避攻击，可以取消大多数进行中的动作。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ProxyKey34",
+      "index": 31,
+      "columns": {
+        "Text": [
+          {
+            "en": "After being <b>{Stunned} or <b>{Frozen}, both you and enemies are more resistant to being <b>{Stunned} or <b>{Frozen} again.",
+            "zh": "在被 <b>{晕眩} 或 <b>{冻结} 后，你和敌人将对 <b>{晕眩} 或 <b>{冻结} 具有更高的抗性。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ProxyKey35",
+      "index": 32,
+      "columns": {
+        "Text": [
+          {
+            "en": "Some items can grant you specific skills when wielded.",
+            "zh": "有些物品在使用时可以赋予你特定的技能。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ProxyKey36",
+      "index": 33,
+      "columns": {
+        "Text": [
+          {
+            "en": "Repeatedly damaging enemies can cause them to be <b>{Stunned}.",
+            "zh": "反复对敌人造成伤害可以令其<b>{晕眩}。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ProxyKey37",
+      "index": 34,
+      "columns": {
+        "Text": [
+          {
+            "en": "Culling strike will instantly kill <b>{Normal}, <b>{Magic}, <b>{Rare} and <b>{Unique} enemies below 35%, 20%, 10% and 5% Maximum Life respectively.",
+            "zh": "终结会立刻击败被击中后生命不高于 35% 的<b>{普通}敌人。<b>{魔法}敌人的阈值为 20%，<b>{稀有}敌人为 10%，<b>{传奇}敌人为 5%。"
+          }
+        ],
+        "TextXBox": [
+          {
+            "en": "<b>{Culling Strike} will instantly kill <whiteitem>{Normal}, <magicitem>{Magic}, <rareitem>{Rare} and <uniqueitem>{Unique} enemies below 35%, 20%, 10% and 5% Maximum Life respectively.",
+            "zh": "<b>{终结}会立刻击败被击中后生命不高于 35% 的<whiteitem>{普通}敌人。<magicitem>{魔法}敌人的阈值为 20%，<rareitem>{稀有}敌人为 10%，<uniqueitem>{传奇}敌人为 5%。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ProxyKey38",
+      "index": 35,
+      "columns": {
+        "Text": [
+          {
+            "en": "Vendors will have new items when you gain a level, be sure to check them.",
+            "zh": "当你升级后，商贩处可能会提供些新物品，记得去看看。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ProxyKey39",
+      "index": 36,
+      "columns": {
+        "Text": [
+          {
+            "en": "Many Unique bosses can grant permanent buffs for defeating them.",
+            "zh": "很多传奇首领在被击败后会提供永久增益效果。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ProxyKey40",
+      "index": 37,
+      "columns": {
+        "Text": [
+          {
+            "en": "Larger enemies can push you around if you get in their way.",
+            "zh": "大型敌人可以将你推开。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ProxyKey41",
+      "index": 38,
+      "columns": {
+        "Text": [
+          {
+            "en": "Once you have set up an Item Filter, you can press <b>{Z} to view all items.",
+            "zh": "制定物品过滤器后，您可以按 <b>{Z} 浏览所有物品。"
+          }
+        ],
+        "TextXBox": [
+          {
+            "en": "Once you have set up an Item Filter. Toggle <<xbox_button_rstick>> to display info of filtered items on the ground.",
+            "zh": "设置好物品筛选之后，按下 <<xbox_button_rstick>> 可以显示地面物品的筛选信息。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ProxyKey42",
+      "index": 39,
+      "columns": {
+        "Text": [
+          {
+            "en": "Many melee attacks will gap-close to nearby enemies if you're not quite close enough.",
+            "zh": "如果你距离敌人过远，许多近战攻击会使你靠近附近的敌人。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ProxyKey43",
+      "index": 40,
+      "columns": {
+        "Text": [
+          {
+            "en": "Energy Shield will begin recharging after 4 seconds without taking damage.",
+            "zh": "能量护盾会在未受伤害4秒后开始充能。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ProxyKey45",
+      "index": 41,
+      "columns": {
+        "Text": [
+          {
+            "en": "Herald skills are a kind of Spirit reservation that grant various bonuses to Attack skills.",
+            "zh": "捷类技能会保留精魂，并为攻击技能附加多种加成。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ProxyKey46",
+      "index": 42,
+      "columns": {
+        "Text": [
+          {
+            "en": "<b>{Right-click} a <gemitem>{Skill Gem} to open the Skill Gems panel.",
+            "zh": "<b>{右键点击}一块<gemitem>{技能宝石}可以打开技能宝石页面。"
+          }
+        ],
+        "TextXBox": [
+          {
+            "en": "Press <<xbox_button_view>> to access the <b>{Character menu} and use <<xbox_button_lb>> or <<xbox_button_rb>> to cycle between tabs.",
+            "zh": "按下 <<xbox_button_view>> 可以打开<b>{角色菜单}，随后使用 <<xbox_button_lb>> 或 <<xbox_button_rb>> 可以在多个页面之间循环浏览。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ProxyKey47",
+      "index": 43,
+      "columns": {
+        "Text": [
+          {
+            "en": "<gemitem>{Uncut Skill Gems} can be used to either upgrade existing socketed <gemitem>{Skill Gems} or create new ones.",
+            "zh": "<gemitem>{未切割的技能宝石}可以用于升级已经镶嵌好的<gemitem>{技能宝石}，也可以用于制作新的宝石。"
+          }
+        ],
+        "TextXBox": [
+          {
+            "en": "Use <<itemvisual:UncutSkillGem>> <gemitem>{Uncut Skill Gems} to either upgrade existing socketed <gemitem>{Skill Gems} or create new ones.",
+            "zh": "使用<<itemvisual:UncutSkillGem>><gemitem>{未切割的技能宝石}可以用于升级已经镶嵌好的<gemitem>{技能宝石}，也可以用于制作新的宝石。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ProxyKey48",
+      "index": 44,
+      "columns": {
+        "Text": [
+          {
+            "en": "Attribute Requirements for your <gemitem>{Support Gems} are separate from those of your <gemitem>{Skill Gems} and <b>{Equipment}.",
+            "zh": "<gemitem>{辅助宝石}的属性需求独立于你的<gemitem>{技能宝石}和<b>{装备}的需求。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ProxyKey49",
+      "index": 45,
+      "columns": {
+        "Text": [
+          {
+            "en": "Items can be <b>{Disenchanted} at some Vendors in Town, granting Currency Shards in return.",
+            "zh": "物品可以在城镇中的商人处<b>{分解}，并获得通货碎片。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ProxyKey51",
+      "index": 46,
+      "columns": {
+        "Text": [
+          {
+            "en": "You can customise key bindings via the <b>{Input} tab in the <b>{options menu}.",
+            "zh": "你可以在<b>{选项菜单}的<b>{输入}页面下定制按键绑定。"
+          }
+        ],
+        "TextXBox": [
+          {
+            "en": "Press and hold <<xbox_button_view>> to open a radial menu for direct access to the <b>{rebind menu} and <b>{Character menu} tabs.",
+            "zh": "按下并长按<<xbox_button_view>>可以打开滚轮菜单，直接进入<b>{重新绑定菜单} 和 <b>{角色菜单} 页面。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ProxyKey52",
+      "index": 47,
+      "columns": {
+        "Text": [
+          {
+            "en": "Gold is useful in shops and also to respec your character.",
+            "zh": "金币可以用于商店购物，也可以重置角色的天赋。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ProxyKey53",
+      "index": 48,
+      "columns": {
+        "Text": [
+          {
+            "en": "<b>{Right-click} an Uncut Skill Gem to craft it in a Skill Gems panel.",
+            "zh": "<b>{右键点击}未切割的技能宝石，即可在技能宝石面板中进行制作。"
+          }
+        ],
+        "TextXBox": [
+          {
+            "en": "Press <<xbox_button_x>> on an <b>{Uncut Gem} in your inventory to craft it via the <b>{Skill Gem Crafting} panel.",
+            "zh": "对物品栏中<b>{未切割的宝石}按下<<xbox_button_x>>，即可通过<b>{技能宝石工艺}面板进行制作。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ProxyKey54",
+      "index": 49,
+      "columns": {
+        "Text": [
+          {
+            "en": "Spend your skill points in the Passive Skill Tree to improve your character's chance of survival.",
+            "zh": "在天赋树中花费天赋点，即可提高角色的生存几率。"
+          }
+        ],
+        "TextXBox": [
+          {
+            "en": "Press and hold <<xbox_button_view>> to access the <b>{Passives} and <b>{Skills} tabs directly via the radial menu.",
+            "zh": "按下并长按 <<xbox_button_view>> 可以直接在滚轮菜单中打开<b>{天赋} 和 <b>{技能} 页面。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ProxyKey55",
+      "index": 50,
+      "columns": {
+        "Text": [
+          {
+            "en": "You can allocate Spirit reserves via the <b>{Skills} menu to activate Auras and spawn Minions.",
+            "zh": "你可以在<b>{技能}菜单中配置精魂保留，从而激活光环效果和产生召唤生物。"
+          }
+        ],
+        "TextXBox": [
+          {
+            "en": "You can allocate <b>{Spirit} reserves via the <b>{Bind Screen} to activate Auras and spawn Minions.",
+            "zh": "你可以在<b>{绑定界面}中配置<b>{精魂}保留，从而激活光环效果和产生召唤生物。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ProxyKey56",
+      "index": 51,
+      "columns": {
+        "Text": [
+          {
+            "en": "Spirit reserves can be allocated per weapon set via the <b>{Advanced Info} panel for an equipped skillgem.",
+            "zh": "你可以在已装备的技能宝石的<b>{高级信息}面板中，为每一个武器组配置精魂保留。"
+          }
+        ],
+        "TextXBox": [
+          {
+            "en": "<b>{Spirit} reserves can be allocated per weapon set via the Bind Screen reservation panel.",
+            "zh": "你可以在绑定界面的保留面板中，为每一个武器组配置<b>{精魂}保留。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ProxyKey57",
+      "index": 52,
+      "columns": {
+        "TextXBox": [
+          {
+            "en": "You can switch targeting modes via the <b>{rebind menu} between Automatic, Melee and Ranged.",
+            "zh": "你可以通过<b>{重新绑定菜单}，将瞄准模式切换为自动、近战或远程模式。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ProxyKey58",
+      "index": 53,
+      "columns": {
+        "TextXBox": [
+          {
+            "en": "<b>{Automatic} targeting mode switches between Melee and Ranged targeting depending on your active weapon set.",
+            "zh": "<b>{自动}瞄准模式会根据你当前激活的武器组，自动切换为近战或远程瞄准模式。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ProxyKey59",
+      "index": 54,
+      "columns": {
+        "TextXBox": [
+          {
+            "en": "Set your targeting mode to <b>{Melee} or <b>{Ranged} to forces all weapon sets and skills to target with this method.",
+            "zh": "将瞄准模式设置为<b>{近战}或<b>{远程}模式时，所有武器组和技能都会强制使用这一瞄准模式。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ProxyKey60",
+      "index": 55,
+      "columns": {
+        "TextXBox": [
+          {
+            "en": "<b>{Melee} or <b>{Ranged} modes can be customised via the <b>{Bind Screen} and also impacts <b>{Automatic} targeting mode.",
+            "zh": "<b>{近战}和<b>{远程}模式都可以在<b>{绑定界面}中进行自定义设置，同时也会影响到<b>{自动}瞄准模式。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ProxyKey61",
+      "index": 56,
+      "columns": {
+        "TextXBox": [
+          {
+            "en": "Press and hold the <b>{Map Button} and use <<xbox_rstick>> to pan the full map. ",
+            "zh": "按下并长按<b>{地图按键}，并使用 <<xbox_rstick>> 来移动完整地图。 "
+          }
+        ]
+      }
+    },
+    {
+      "id": "ProxyKey62",
+      "index": 57,
+      "columns": {
+        "TextXBox": [
+          {
+            "en": "Use a <<itemvisual:CurrencyIdentification>> <currencyitem>{Scroll of Wisdom} to identify <magicitem>{Magic}, <rareitem>{Rare} and <uniqueitem>{Unique} items.",
+            "zh": "使用<<itemvisual:CurrencyIdentification>> <currencyitem>{知识卷轴}来鉴定<magicitem>{魔法}、<rareitem>{稀有}和<uniqueitem>{传奇}物品。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ProxyKey63",
+      "index": 58,
+      "columns": {
+        "TextXBox": [
+          {
+            "en": "Use a <<itemvisual:CurrencyWeaponQuality>> <currencyitem>{Blacksmith's Whetstone} to improve the base physical damage of a martial weapon.",
+            "zh": "使用<<itemvisual:CurrencyWeaponQuality>><currencyitem>{磨刀石}来提升战斗武器的基础物理伤害。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ProxyKey64",
+      "index": 59,
+      "columns": {
+        "TextXBox": [
+          {
+            "en": "Use an <<itemvisual:CurrencyArmourQuality>> <currencyitem>{Armourer's Scrap} to improve the base defensive quality of armour.",
+            "zh": "使用<<itemvisual:CurrencyArmourQuality>><currencyitem>{护甲片}来提升护甲的基础防御品质。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ProxyKey65",
+      "index": 60,
+      "columns": {
+        "TextXBox": [
+          {
+            "en": "Use an <<itemvisual:CurrencyUpgradeToMagic>> <currencyitem>{Orb of Transmutation} to upgrade a <whiteitem>{Normal} item to a <magicitem>{Magic} item with 1 modifier.",
+            "zh": "使用<<itemvisual:CurrencyUpgradeToMagic>><currencyitem>{蜕变石}将<whiteitem>{普通}物品升级为具有 1 个词缀的<magicitem>{魔法}物品。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ProxyKey66",
+      "index": 61,
+      "columns": {
+        "TextXBox": [
+          {
+            "en": "Use an <<itemvisual:CurrencyAddModToMagic>> <currencyitem>{Orb of Augmentation} to augment a <magicitem>{Magic} item with a new random modifier.",
+            "zh": "使用<<itemvisual:CurrencyAddModToMagic>><currencyitem>{增幅石}为<magicitem>{魔法}物品增加 1 个新的随机词缀。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ProxyKey67",
+      "index": 62,
+      "columns": {
+        "TextXBox": [
+          {
+            "en": "Use an <<itemvisual:CurrencyUpgradeToRare>> <currencyitem>{Orb of Alchemy} to upgrade a <whiteitem>{Normal} item to a <rareitem>{Rare} item with 4 modifiers.",
+            "zh": "使用<<itemvisual:CurrencyUpgradeToRare>><currencyitem>{点金石}将<whiteitem>{普通}物品升级为具有 4 个词缀的<rareitem>{稀有}物品。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ProxyKey68",
+      "index": 63,
+      "columns": {
+        "TextXBox": [
+          {
+            "en": "Use an <<itemvisual:CurrencyAddModToRare>> <currencyitem>{Exalted Orb} to augment a <rareitem>{Rare} item with a new random modifier.",
+            "zh": "使用<<itemvisual:CurrencyAddModToRare>><currencyitem>{崇高石}为<rareitem>{稀有}物品增加 1 个新的随机词缀。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ProxyKey69",
+      "index": 64,
+      "columns": {
+        "TextXBox": [
+          {
+            "en": "Use a <<itemvisual:CurrencyUpgradeMagicToRare>> <currencyitem>{Regal Orb} to upgrade a <magicitem>{Magic} item to a <rareitem>{Rare} item with 1 additional modifier.",
+            "zh": "使用<<itemvisual:CurrencyUpgradeMagicToRare>><currencyitem>{富豪石}将<magicitem>{魔法}物品升级为具有 1 个额外词缀的<rareitem>{稀有}物品。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ProxyKey70",
+      "index": 65,
+      "columns": {
+        "TextXBox": [
+          {
+            "en": "Use a <<itemvisual:CurrencyRerollRare>> <currencyitem>{Chaos Orb} on a <rareitem>{Rare} item to replace a random existing modifier with a new random modifer. ",
+            "zh": "使用<<itemvisual:CurrencyRerollRare>><currencyitem>{混沌石}将<rareitem>{稀有}物品的随机一个现有词缀替换为新的随机词缀。 "
+          }
+        ]
+      }
+    },
+    {
+      "id": "ProxyKey71",
+      "index": 66,
+      "columns": {
+        "Text": [
+          {
+            "en": "Assign your purchased skill cosmetics from your <b>{Skills} menu using <b>{Ctrl + Shift Left-click} on an assign skill.",
+            "zh": "在<b>{技能}菜单中对已分配的技能使用<b>{Ctrl + Shift + 左键点击}来指定你购买的技能外观。"
+          }
+        ],
+        "TextXBox": [
+          {
+            "en": "Assign your purchased skill cosmetics from your <b>{Skills} tab of the <<xbox_button_view>> <b>{Character menu}.",
+            "zh": "在<<xbox_button_view>><b>{角色菜单}的<b>{技能}标签中指定你购买的技能外观。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ProxyKey72",
+      "index": 67,
+      "columns": {
+        "TextXBox": [
+          {
+            "en": "Assign <b>{Stash Affinities} to a tab via the <b>{Edit Tab Settings} to force item by category to quick stash to the selected tab.",
+            "zh": "通过<b>{编辑仓库页设置}为仓库页分配<b>{仓库偏好}，强制按类别快速存储物品到指定仓库页。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ProxyKey73",
+      "index": 68,
+      "columns": {
+        "TextXBox": [
+          {
+            "en": "<b>{Create Folders} in your stash via the <b>{Edit Tab Settings} to help organise them or cursor over a tab and press <<xbox_button_y>> to quickly reorder them.",
+            "zh": "通过<b>{编辑仓库页设置}在仓库中<b>{创建文件夹}来帮助整理，或将鼠标悬停在仓库页上并按<<xbox_button_y>>快速重新排序。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ProxyKey75",
+      "index": 69,
+      "columns": {
+        "TextXBox": [
+          {
+            "en": "Skills can be bound to multiple slots in the <b>{Skill Binds} Menu to allow multiple targeting setups",
+            "zh": "技能可以在<b>{技能绑定}菜单中绑定到多个槽位以允许多种瞄准设置"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ProxyKey76",
+      "index": 70,
+      "columns": {
+        "TextXBox": [
+          {
+            "en": "Assign <b>{Stash Affinities} to a tab via the <b>{Edit Tab Settings} to force item by category to quick stash to the selected tab.",
+            "zh": "通过<b>{编辑仓库页设置}为仓库页分配<b>{仓库偏好}，强制按类别快速存储物品到指定仓库页。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ProxyKey77",
+      "index": 71,
+      "columns": {
+        "Text": [
+          {
+            "en": "Hold Spacebar after Dodge Rolling to go into a Sprint!",
+            "zh": "在闪避翻滚后按住空格键进入奔跑状态！"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ProxyKey78",
+      "index": 72,
+      "columns": {
+        "Text": [
+          {
+            "en": "Only one copy of any given <b>{Skill Gem} can be socketed at a time.",
+            "zh": "同一种<b>{技能宝石}在同一时间内只能镶嵌一颗。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ProxyKey79",
+      "index": 73,
+      "columns": {
+        "Text": [
+          {
+            "en": "<b>{Desecrated} items can be Revealed at the <b>{Well of Souls} in Act Two.",
+            "zh": "<b>{渎灵}物品可以在第二章的<b>{灵魂之井}进行揭露。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ProxyKey80",
+      "index": 74,
+      "columns": {
+        "Text": [
+          {
+            "en": "<b>{Rogue Exiles} defeated near an <b>{Abyss} will be revived with powerful modifiers!",
+            "zh": "在<b>{深渊}附近击败的<b>{盗贼流放者}将会被复活，并带有强力的词缀！"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ProxyKey81",
+      "index": 75,
+      "columns": {
+        "Text": [
+          {
+            "en": "Right click on the weapon set numerals to use the same weapon in both weapon sets.",
+            "zh": "右键点击武器组的数字，可在两组武器组中使用同一把武器。"
+          }
+        ],
+        "TextXBox": [
+          {
+            "en": "Select your equipped weapon and hold <<xbox_button_y>> to use the same weapon in both weapon sets.",
+            "zh": "选择你装备的武器，并长按 <<xbox_button_y>>，可在两个武器组中使用同一把武器。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ProxyKey82",
+      "index": 76,
+      "columns": {
+        "Text": [
+          {
+            "en": "Elemental Resistances are vital to your survival. Don't neglect them!",
+            "zh": "元素抗性对你的生存至关重要，千万别忽视！"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ProxyKey83",
+      "index": 77,
+      "columns": {
+        "Text": [
+          {
+            "en": "Each animal form provides passive benefits, detailed in their keywords.",
+            "zh": "每种野兽形态都能提供被动收益，具体效果详见其关键词说明。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ProxyKey84",
+      "index": 78,
+      "columns": {
+        "Text": [
+          {
+            "en": "Characters wanting to mix Attacks and Spells will benefit greatly from Weapon Set Passive Skill Points.",
+            "zh": "对于想要混合运用攻击与法术的角色而言，武器组天赋点能够带来极大的帮助。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ProxyKey85",
+      "index": 79,
+      "columns": {
+        "Text": [
+          {
+            "en": "Shapeshifting into an animal form requires a <b>{Talisman}, but can be done on any character class.",
+            "zh": "变形为野兽形态需要一枚<b>{魔符}，任何职业角色都可以使用。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ProxyKey86",
+      "index": 80,
+      "columns": {
+        "Text": [
+          {
+            "en": "Cutting a level 3 or higher <gemitem>{Skill Gem} will unlock the ability to shapeshift into a Wyvern using a Talisman.",
+            "zh": "切割一颗 3 级或更高级别的 <gemitem>{技能宝石}，能够解锁通过魔符变形为飞龙的能力。"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,609 @@
+{
+  "table": "EssenceTargetItemCategories",
+  "key": "Id",
+  "columns": [
+    "Text"
+  ],
+  "entries": [
+    {
+      "id": "AllEquipment",
+      "index": 0,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Equipment]",
+            "zh": "[Equipment|装备]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Weapons",
+      "index": 1,
+      "columns": {
+        "Text": [
+          {
+            "en": "[MartialWeapon|Martial Weapon]",
+            "zh": "[MartialWeapon|战斗武器]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Armour",
+      "index": 2,
+      "columns": {
+        "Text": [
+          {
+            "en": "[EquipArmour|Armour]",
+            "zh": "[EquipArmour|护甲]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Caster",
+      "index": 3,
+      "columns": {
+        "Text": [
+          {
+            "en": "[CasterWeapon|Caster Weapon]",
+            "zh": "[CasterWeapon|施法武器]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jewellery",
+      "index": 4,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Jewellery] or Belt",
+            "zh": "[Jewellery|饰品]或腰带"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HelmetRingAmulet",
+      "index": 5,
+      "columns": {
+        "Text": [
+          {
+            "en": "Boots, Gloves, Helmet or [Jewellery]",
+            "zh": "鞋子、手套、头盔或[Jewellery|饰品]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GlovesBoots",
+      "index": 6,
+      "columns": {
+        "Text": [
+          {
+            "en": "Gloves or Boots",
+            "zh": "手套或鞋子"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BodyArmour",
+      "index": 7,
+      "columns": {
+        "Text": [
+          {
+            "en": "Body Armour",
+            "zh": "护甲"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Belt",
+      "index": 8,
+      "columns": {
+        "Text": [
+          {
+            "en": "Belt",
+            "zh": "腰带"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Amulet",
+      "index": 9,
+      "columns": {
+        "Text": [
+          {
+            "en": "Amulet",
+            "zh": "项链"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ArmourJewellery",
+      "index": 10,
+      "columns": {
+        "Text": [
+          {
+            "en": "[EquipArmour|Armour], Belt or [Jewellery]",
+            "zh": "[EquipArmour|护甲]、腰带或[Jewellery|饰品]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ArmourBelt",
+      "index": 11,
+      "columns": {
+        "Text": [
+          {
+            "en": "[EquipArmour|Armour] or Belt",
+            "zh": "[EquipArmour|护甲]或腰带"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AmuletRing",
+      "index": 12,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Jewellery]",
+            "zh": "[Jewellery|饰品]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ShieldBeltHelmetBody",
+      "index": 13,
+      "columns": {
+        "Text": [
+          {
+            "en": "Belt, Body Armour, Helmet or [Shield]",
+            "zh": "腰带、护甲、头盔或[Shield|盾牌]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AmuletBootsGlovesRing",
+      "index": 14,
+      "columns": {
+        "Text": [
+          {
+            "en": "Amulet, Boots, Gloves or Ring",
+            "zh": "项链、鞋子、手套或戒指"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AmuletBootsGloves",
+      "index": 15,
+      "columns": {
+        "Text": [
+          {
+            "en": "Amulet, Boots or Gloves",
+            "zh": "项链、鞋子或手套"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BeltHelmetShield",
+      "index": 16,
+      "columns": {
+        "Text": [
+          {
+            "en": "Belt, Helmet or [Shield]",
+            "zh": "腰带、头盔或[Shield|盾牌]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FocusSceptreWand",
+      "index": 17,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Focus], [Sceptre] or [Wand]",
+            "zh": "[Focus|法器]、[Sceptre|权杖]或[Wand|法杖]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Staff",
+      "index": 18,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Staff]",
+            "zh": "[Staff|长杖]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BeltBootsGlovesHelmet",
+      "index": 19,
+      "columns": {
+        "Text": [
+          {
+            "en": "Belt, Boots, Gloves or Helmet",
+            "zh": "腰带、鞋子、手套或头盔"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MeleeMartialWeapons",
+      "index": 20,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Melee] [MartialWeapon|Weapon]",
+            "zh": "[Melee|近战][MartialWeapon|武器]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "OneHandMartialBow",
+      "index": 21,
+      "columns": {
+        "Text": [
+          {
+            "en": "One Handed [Melee] [MartialWeapon|Weapon] or [Bow]",
+            "zh": "单手[Melee|近战][MartialWeapon|武器]或[Bow|弓类]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "TwoHandMartialCrossBow",
+      "index": 22,
+      "columns": {
+        "Text": [
+          {
+            "en": "Two Handed [Melee] [MartialWeapon|Weapon] or [Crossbow]",
+            "zh": "双手[Melee|近战][MartialWeapon|武器]或[Crossbow|战弩]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FocusWand",
+      "index": 23,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Focus] or [Wand]",
+            "zh": "[Focus|法器]或[Wand|法杖]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "OneHandMeleeMartial",
+      "index": 24,
+      "columns": {
+        "Text": [
+          {
+            "en": "One Handed [Melee] [MartialWeapon|Weapon]",
+            "zh": "单手[Melee|近战][MartialWeapon|武器]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "TwoHandMeleeMartial",
+      "index": 25,
+      "columns": {
+        "Text": [
+          {
+            "en": "Two Handed [Melee] [MartialWeapon|Weapon]",
+            "zh": "双手[Melee|近战][MartialWeapon|武器]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BowCrossbow",
+      "index": 26,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Bow] or [Crossbow]",
+            "zh": "[Bow|弓类]或[Crossbow|战弩]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GlovesQuiver",
+      "index": 27,
+      "columns": {
+        "Text": [
+          {
+            "en": "[MartialWeapon|Martial Weapon], Gloves or [Quiver]",
+            "zh": "[MartialWeapon|战斗]、手套或[Quiver|箭袋]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Boots",
+      "index": 28,
+      "columns": {
+        "Text": [
+          {
+            "en": "Boots",
+            "zh": "鞋子"
+          }
+        ]
+      }
+    },
+    {
+      "id": "StaffWand",
+      "index": 29,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Focus], [Staff] or [Wand]",
+            "zh": "[Focus|法器]、[Staff|长杖]或[Wand|法杖]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Helmet",
+      "index": 30,
+      "columns": {
+        "Text": [
+          {
+            "en": "Helmet",
+            "zh": "头盔"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AmuletHelmet",
+      "index": 31,
+      "columns": {
+        "Text": [
+          {
+            "en": "Amulet or Helmet",
+            "zh": "项链或头盔"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Quiver",
+      "index": 32,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Quiver]",
+            "zh": "[Quiver|箭袋]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BeltBootsGlovesHelmetJewellery",
+      "index": 33,
+      "columns": {
+        "Text": [
+          {
+            "en": "Belt, Boots, Gloves, Helmet or [Jewellery]",
+            "zh": "腰带、鞋子、手套、头盔或[Jewellery|饰品]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FocusSceptreWandRingAmulet",
+      "index": 34,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Focus], [Sceptre], [Wand] or [Jewellery]",
+            "zh": "[Focus|法器]、[Sceptre|权杖]、[Wand|法杖]或[Jewellery|饰品]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Sceptre",
+      "index": 35,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Sceptre]",
+            "zh": "[Sceptre|权杖]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Ring",
+      "index": 36,
+      "columns": {
+        "Text": [
+          {
+            "en": "Ring",
+            "zh": "戒指"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Gloves",
+      "index": 37,
+      "columns": {
+        "Text": [
+          {
+            "en": "Gloves",
+            "zh": "手套"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Shield",
+      "index": 38,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Shield]",
+            "zh": "[Shield|盾牌]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Focus",
+      "index": 39,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Focus]",
+            "zh": "[Focus|法器]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Wand",
+      "index": 40,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Wand]",
+            "zh": "[Wand|法杖]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ShieldFocus",
+      "index": 41,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Shield] or [Focus]",
+            "zh": "[Shield|盾牌]或[Focus|法器]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "StaffWandNoFocus",
+      "index": 42,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Staff] or [Wand]",
+            "zh": "[Staff|长杖]或[Wand|法杖]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AllWeapons",
+      "index": 43,
+      "columns": {
+        "Text": [
+          {
+            "en": "Weapons",
+            "zh": "武器"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Maces",
+      "index": 44,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Mace]",
+            "zh": "[Mace|锤类]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Quarterstaff",
+      "index": 45,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Quarterstaff]",
+            "zh": "[Quarterstaff|节杖]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Spear",
+      "index": 46,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Spear]",
+            "zh": "[Spear|战矛]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Crossbow",
+      "index": 47,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Crossbow]",
+            "zh": "[Crossbow|战弩]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Talisman",
+      "index": 48,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Talisman]",
+            "zh": "[Talisman|魔符]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Bow",
+      "index": 49,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Bow]",
+            "zh": "[Bow|弓类]"
+          }
+        ]
+      }
+    }
+  ]
+}

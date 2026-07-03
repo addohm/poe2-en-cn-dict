@@ -1,0 +1,2126 @@
+{
+  "table": "SanctumPersistentEffects",
+  "key": "_index",
+  "columns": [
+    "Id",
+    "Name",
+    "Icon",
+    "__col9",
+    "BoonDesc",
+    "CurseDesc"
+  ],
+  "entries": [
+    {
+      "id": null,
+      "index": 0,
+      "columns": {
+        "Name": [
+          {
+            "en": "Honed Claws",
+            "zh": "牙尖爪利"
+          }
+        ],
+        "CurseDesc": [
+          {
+            "en": "Monsters deal 30% more Damage",
+            "zh": "怪物伤害总增 30%"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 1,
+      "columns": {
+        "Name": [
+          {
+            "en": "Fright Mask",
+            "zh": "恐惧面罩"
+          }
+        ],
+        "BoonDesc": [
+          {
+            "en": "Monsters deal 20% less Damage",
+            "zh": "怪物伤害总降 20%"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 2,
+      "columns": {
+        "Name": [
+          {
+            "en": "Deadly Snare",
+            "zh": "致命陷阱"
+          }
+        ],
+        "CurseDesc": [
+          {
+            "en": "Traps deal Triple Damage",
+            "zh": "陷阱造成三倍伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 3,
+      "columns": {
+        "Name": [
+          {
+            "en": "Dark Pit",
+            "zh": "黑暗深坑"
+          }
+        ],
+        "CurseDesc": [
+          {
+            "en": "Traps deal 100% increased Damage",
+            "zh": "陷阱造成的伤害提高 100%"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 4,
+      "columns": {
+        "Name": [
+          {
+            "en": "Low Rivers",
+            "zh": "河川枯竭"
+          }
+        ],
+        "CurseDesc": [
+          {
+            "en": "50% less [SacredWater|Sacred Water] found",
+            "zh": "找到的[SacredWater|圣水]总降 50%"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 5,
+      "columns": {
+        "Name": [
+          {
+            "en": "Blunt Sword",
+            "zh": "钝化之剑"
+          }
+        ],
+        "CurseDesc": [
+          {
+            "en": "You and your Minions deal 40% less Damage",
+            "zh": "你和你的召唤生物伤害总降 40%"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 6,
+      "columns": {
+        "Name": [
+          {
+            "en": "Rapid Quicksand",
+            "zh": "急速流沙"
+          }
+        ],
+        "CurseDesc": [
+          {
+            "en": "Traps are faster",
+            "zh": "陷阱现在更快了"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 7,
+      "columns": {
+        "Name": [
+          {
+            "en": "[UNUSED]",
+            "zh": "异动引子"
+          }
+        ],
+        "CurseDesc": [
+          {
+            "en": "Rooms spawn [Volatiles|Volatile] Anomalies",
+            "zh": "房间内会生成一个[Volatiles|无常]的异动奇点"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 8,
+      "columns": {
+        "Name": [
+          {
+            "en": "Hare Foot",
+            "zh": "野兔之足"
+          }
+        ],
+        "BoonDesc": [
+          {
+            "en": "40% increased Movement Speed",
+            "zh": "移动速度提高 40%"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 9,
+      "columns": {
+        "Name": [
+          {
+            "en": "Flooding Rivers",
+            "zh": "河川泛滥"
+          }
+        ],
+        "BoonDesc": [
+          {
+            "en": "50% more [SacredWater|Sacred Water] found",
+            "zh": "找到的[SacredWater|圣水]总增 50%"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 10,
+      "columns": {
+        "Name": [
+          {
+            "en": "Reparations",
+            "zh": "偿还"
+          }
+        ],
+        "BoonDesc": [
+          {
+            "en": "Gain 2 [SacredWater|Sacred Water] when you take Damage from an Enemy [HitDamage|Hit]",
+            "zh": "受到敌人的[HitDamage|击中]伤害时获得 2 [SacredWater|圣水]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 11,
+      "columns": {
+        "Name": [
+          {
+            "en": "Leaking Waterskin",
+            "zh": "水袋渗漏"
+          }
+        ],
+        "CurseDesc": [
+          {
+            "en": "Lose 20 [SacredWater|Sacred Water] when you take Damage from an Enemy [HitDamage|Hit]",
+            "zh": "受到敌人的[HitDamage|击中]伤害时失去 20 [SacredWater|圣水]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 12,
+      "columns": {
+        "Name": [
+          {
+            "en": "Gate Toll",
+            "zh": "通行款项"
+          }
+        ],
+        "CurseDesc": [
+          {
+            "en": "Lose 30 [SacredWater|Sacred Water] on room completion",
+            "zh": "完成房间时失去 30 [SacredWater|圣水]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 13,
+      "columns": {
+        "Name": [
+          {
+            "en": "Death Toll",
+            "zh": "伤亡代价"
+          }
+        ],
+        "CurseDesc": [
+          {
+            "en": "Monsters no longer drop [SacredWater|Sacred Water]",
+            "zh": "怪物不再掉落[SacredWater|圣水]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 14,
+      "columns": {
+        "Name": [
+          {
+            "en": "Death Toll",
+            "zh": "伤亡代价"
+          }
+        ],
+        "CurseDesc": [
+          {
+            "en": "Take {0} [Physical] Damage after completing {1} Rooms",
+            "zh": "完成 {1} 个房间后受到 {0} [Physical|物理]伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 15,
+      "columns": {
+        "Name": [
+          {
+            "en": "Death Toll",
+            "zh": "伤亡代价"
+          }
+        ],
+        "CurseDesc": [
+          {
+            "en": "Take {0} [Physical] Damage after completing {1} Rooms",
+            "zh": "完成 {1} 个房间后受到 {0} [Physical|物理]伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 16,
+      "columns": {
+        "Name": [
+          {
+            "en": "Death Toll",
+            "zh": "伤亡代价"
+          }
+        ],
+        "CurseDesc": [
+          {
+            "en": "Take {0} [Physical] Damage after completing {1} Rooms",
+            "zh": "完成 {1} 个房间后受到 {0} [Physical|物理]伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 17,
+      "columns": {
+        "Name": [
+          {
+            "en": "Death Toll",
+            "zh": "伤亡代价"
+          }
+        ],
+        "CurseDesc": [
+          {
+            "en": "Take {0} [Physical] Damage after completing {1} Rooms",
+            "zh": "完成 {1} 个房间后受到 {0} [Physical|物理]伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 18,
+      "columns": {
+        "Name": [
+          {
+            "en": "Death Toll",
+            "zh": "伤亡代价"
+          }
+        ],
+        "CurseDesc": [
+          {
+            "en": "Take {0} [Physical] Damage after completing {1} Rooms",
+            "zh": "完成 {1} 个房间后受到 {0} [Physical|物理]伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 19,
+      "columns": {
+        "Name": [
+          {
+            "en": "Death Toll",
+            "zh": "伤亡代价"
+          }
+        ],
+        "CurseDesc": [
+          {
+            "en": "Take {0} [Physical] Damage after completing {1} Rooms",
+            "zh": "完成 {1} 个房间后受到 {0} [Physical|物理]伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 20,
+      "columns": {
+        "Name": [
+          {
+            "en": "Death Toll",
+            "zh": "伤亡代价"
+          }
+        ],
+        "CurseDesc": [
+          {
+            "en": "Take {0} [Physical] Damage after completing {1} Rooms",
+            "zh": "完成 {1} 个房间后受到 {0} [Physical|物理]伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 21,
+      "columns": {
+        "Name": [
+          {
+            "en": "Death Toll",
+            "zh": "伤亡代价"
+          }
+        ],
+        "CurseDesc": [
+          {
+            "en": "Take {0} [Physical] Damage after completing the next Room",
+            "zh": "完成下一个房间后受到 {0} [Physical|物理]伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 22,
+      "columns": {
+        "Name": [
+          {
+            "en": "Exhausted Wells",
+            "zh": "干涸水井"
+          }
+        ],
+        "CurseDesc": [
+          {
+            "en": "Chests no longer grant [SacredWater|Sacred Water]",
+            "zh": "宝箱不再提供[SacredWater|圣水]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 23,
+      "columns": {
+        "Name": [
+          {
+            "en": "Spiked Shell",
+            "zh": "尖刺外壳"
+          }
+        ],
+        "CurseDesc": [
+          {
+            "en": "Monsters have 50% increased Maximum Life",
+            "zh": "怪物的生命上限提高 50%"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 24,
+      "columns": {
+        "Name": [
+          {
+            "en": "Hungry Fangs",
+            "zh": "饥饿之牙"
+          }
+        ],
+        "CurseDesc": [
+          {
+            "en": "Monsters remove 5% of your Life, Mana and [EnergyShield|Energy Shield] on [HitDamage|Hit]",
+            "zh": "怪物[HitDamage|击中]你时移除 5% 的生命、魔力和[EnergyShield|能量护盾]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 25,
+      "columns": {
+        "Name": [
+          {
+            "en": "Branded Balbalakh",
+            "zh": "刺面的叛逃者"
+          }
+        ],
+        "CurseDesc": [
+          {
+            "en": "Cannot restore [Honour]",
+            "zh": "无法恢复[Honour|荣誉]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 26,
+      "columns": {
+        "Name": [
+          {
+            "en": "Suspected Sympathiser",
+            "zh": "可疑的同情者"
+          }
+        ],
+        "CurseDesc": [
+          {
+            "en": "50% reduced [Honour] restored",
+            "zh": "恢复的[Honour|荣誉]降低 50%"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 27,
+      "columns": {
+        "Name": [
+          {
+            "en": "Honoured Challenger",
+            "zh": "光荣的挑战者"
+          }
+        ],
+        "BoonDesc": [
+          {
+            "en": "50% increased [Honour] restored",
+            "zh": "恢复的[Honour|荣誉]提高 50%"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 28,
+      "columns": {
+        "Name": [
+          {
+            "en": "Black Smoke",
+            "zh": "黑色烟雾"
+          }
+        ],
+        "CurseDesc": [
+          {
+            "en": "You can see one fewer room ahead on the Trial Map",
+            "zh": "你在试炼地图上看到的房间减少一个"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 29,
+      "columns": {
+        "Name": [
+          {
+            "en": "Scrying Crystal",
+            "zh": "探知水晶"
+          }
+        ],
+        "BoonDesc": [
+          {
+            "en": "You can see an additional room ahead on the Trial Map",
+            "zh": "你在试炼地图上看到的房间增加一个"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 30,
+      "columns": {
+        "Name": [
+          {
+            "en": "Trade Tariff",
+            "zh": "贸易关税"
+          }
+        ],
+        "CurseDesc": [
+          {
+            "en": "50% increased Merchant prices",
+            "zh": "商人处的出售价格提高50%"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 31,
+      "columns": {
+        "Name": [
+          {
+            "en": "Silver Tongue",
+            "zh": "巧舌如簧"
+          }
+        ],
+        "BoonDesc": [
+          {
+            "en": "50% reduced Merchant prices",
+            "zh": "商人处的出售价格降低50%"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 32,
+      "columns": {
+        "Name": [
+          {
+            "en": "Imperial Seal",
+            "zh": "帝国封印"
+          }
+        ],
+        "BoonDesc": [
+          {
+            "en": "Traps are Disabled",
+            "zh": "陷阱现在失效了"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 33,
+      "columns": {
+        "Name": [
+          {
+            "en": "Garukhan's Favour",
+            "zh": "格鲁坎的青睐"
+          }
+        ],
+        "BoonDesc": [
+          {
+            "en": "Ignore the first Damage taken from an Enemy [HitDamage|Hit] in each room",
+            "zh": "每个房间内首次被敌人[HitDamage|击中]时不会受到伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 34,
+      "columns": {
+        "Name": [
+          {
+            "en": "Winter Drought",
+            "zh": "凛冬的干旱"
+          }
+        ],
+        "CurseDesc": [
+          {
+            "en": "Lose all [SacredWater|Sacred Water] on floor completion",
+            "zh": "完成楼层时失去所有[SacredWater|圣水]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 35,
+      "columns": {
+        "Name": [
+          {
+            "en": "Earned Honour",
+            "zh": "赢取荣誉"
+          }
+        ],
+        "BoonDesc": [
+          {
+            "en": "Restore {0} of your [Honour] on room completion",
+            "zh": "完成房间时恢复 {0} 的[Honour|荣誉]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 36,
+      "columns": {
+        "Name": [
+          {
+            "en": "Ahkeli's Guard",
+            "zh": "阿克莱的护卫"
+          }
+        ],
+        "BoonDesc": [
+          {
+            "en": "You cannot be Damaged for 1 second after taking Damage from an Enemy [HitDamage|Hit]",
+            "zh": "你在受到敌人[HitDamage|击中]伤害后的 1 秒内不会受到伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 37,
+      "columns": {
+        "Name": [
+          {
+            "en": "Glowing Orb",
+            "zh": "光亮宝珠"
+          }
+        ],
+        "BoonDesc": [
+          {
+            "en": "The next time you go below 20% of Maximum Life, restore all Life, [EnergyShield|Energy Shield] and 50% of [Honour]",
+            "zh": "下次你的生命低于上限的 20% 时，恢复所有生命和[EnergyShield|能量护盾]，以及 50% 的[Honour|荣誉]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 38,
+      "columns": {
+        "Name": [
+          {
+            "en": "Veiled Sight",
+            "zh": "视线受阻"
+          }
+        ],
+        "CurseDesc": [
+          {
+            "en": "Rooms are unknown on the Trial Map",
+            "zh": "试炼地图上的房间变为未知"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 39,
+      "columns": {
+        "Name": [
+          {
+            "en": "Red Smoke",
+            "zh": "红色烟雾"
+          }
+        ],
+        "CurseDesc": [
+          {
+            "en": "Room types are unknown on the Trial Map",
+            "zh": "试炼地图上的房间类型变为未知"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 40,
+      "columns": {
+        "Name": [
+          {
+            "en": "Golden Smoke",
+            "zh": "金色烟雾"
+          }
+        ],
+        "CurseDesc": [
+          {
+            "en": "Rewards are unknown on the Trial Map",
+            "zh": "试炼地图上的奖励变为未知"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 41,
+      "columns": {
+        "Name": [
+          {
+            "en": "Purple Smoke",
+            "zh": "紫色烟雾"
+          }
+        ],
+        "CurseDesc": [
+          {
+            "en": "[Afflictions] are unknown on the Trial Map",
+            "zh": "试炼地图上的[Afflictions|痛苦]变为未知"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 42,
+      "columns": {
+        "Name": [
+          {
+            "en": "Ghastly Scythe",
+            "zh": "幽暗镰刀"
+          }
+        ],
+        "CurseDesc": [
+          {
+            "en": "Losing [Honour] ends the Trial\r\n(removed after 3 rooms)",
+            "zh": "失去[Honour|荣誉]会使试炼结束\r\n（3 个房间后移除）"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 43,
+      "columns": {
+        "Name": [
+          {
+            "en": "Ghastly Scythe",
+            "zh": "幽暗镰刀"
+          }
+        ],
+        "CurseDesc": [
+          {
+            "en": "Losing [Honour] ends the Trial\r\n(removed after 2 rooms)",
+            "zh": "失去[Honour|荣誉]会使试炼结束\r\n（2 个房间后移除）"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 44,
+      "columns": {
+        "Name": [
+          {
+            "en": "Ghastly Scythe",
+            "zh": "幽暗镰刀"
+          }
+        ],
+        "CurseDesc": [
+          {
+            "en": "Losing [Honour] ends the Trial\r\n(removed after 1 room)",
+            "zh": "失去[Honour|荣誉]会使试炼结束\r\n（1 个房间后移除）"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 45,
+      "columns": {
+        "Name": [
+          {
+            "en": "Orbala's Leathers",
+            "zh": "欧巴拉的皮甲"
+          }
+        ],
+        "BoonDesc": [
+          {
+            "en": "Upon reaching 0 [Honour], revive once with 50% less [Honour]",
+            "zh": "[Honour|荣誉]降至 0 时，复活一次但[Honour|荣誉]总降 50%"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 46,
+      "columns": {
+        "Name": [
+          {
+            "en": "Orbala's Leathers",
+            "zh": "欧巴拉的皮甲"
+          }
+        ],
+        "BoonDesc": [
+          {
+            "en": "50% less Maximum [Honour]",
+            "zh": "最大[Honour|荣誉]总降 50%"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 47,
+      "columns": {
+        "Name": [
+          {
+            "en": "Sekhema's Cloak",
+            "zh": "丝克玛的斗篷"
+          }
+        ],
+        "BoonDesc": [
+          {
+            "en": "Upon reaching 0 [Honour], revive once with full [Honour]",
+            "zh": "[Honour|荣誉]降至 0 时，复活一次并恢复全部[Honour|荣誉]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 48,
+      "columns": {
+        "Name": [
+          {
+            "en": "Dekhara's Necklace",
+            "zh": "德卡拉的项链"
+          }
+        ],
+        "BoonDesc": [
+          {
+            "en": "You cannot receive any more Minor [Afflictions]",
+            "zh": "你不能再获得更多次要[Afflictions|痛苦]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 49,
+      "columns": {
+        "Name": [
+          {
+            "en": "Unassuming Brick",
+            "zh": "朴实之砖"
+          }
+        ],
+        "CurseDesc": [
+          {
+            "en": "You cannot gain any more [Boons]",
+            "zh": "你不能再获得更多[Boons|恩赐]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 50,
+      "columns": {
+        "Name": [
+          {
+            "en": "Moment's Peace",
+            "zh": "片刻的平静"
+          }
+        ],
+        "BoonDesc": [
+          {
+            "en": "You cannot be Damaged until you complete the next room",
+            "zh": "你不会受到伤害，直到完成下一个房间"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 51,
+      "columns": {
+        "Name": [
+          {
+            "en": "Spiked Exit",
+            "zh": "尖刺出口"
+          }
+        ],
+        "CurseDesc": [
+          {
+            "en": "Take {0} [Physical] Damage on Room Completion",
+            "zh": "完成房间时受到 {0} [Physical|物理]伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 52,
+      "columns": {
+        "Name": [
+          {
+            "en": "Tattered Blindfold",
+            "zh": "破烂眼罩"
+          }
+        ],
+        "CurseDesc": [
+          {
+            "en": "90% reduced Light Radius\r\nMinimap is hidden",
+            "zh": "照亮范围降低90%\r\n隐藏小地图"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 53,
+      "columns": {
+        "Name": [
+          {
+            "en": "Unquenched Thirst",
+            "zh": "不灭渴望"
+          }
+        ],
+        "CurseDesc": [
+          {
+            "en": "You cannot gain [SacredWater|Sacred Water]",
+            "zh": "你无法获得[SacredWater|圣水]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 54,
+      "columns": {
+        "Name": [
+          {
+            "en": "Dishonoured Tattoo",
+            "zh": "耻辱文身"
+          }
+        ],
+        "CurseDesc": [
+          {
+            "en": "100% increased Damage Taken while on [LowLife|Low Life]",
+            "zh": "[LowLife|低血]时受到的伤害提高 100%"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 55,
+      "columns": {
+        "Name": [
+          {
+            "en": "Diverted River",
+            "zh": "河道转向"
+          }
+        ],
+        "BoonDesc": [
+          {
+            "en": "[SacredWater|Sacred Water] found on this floor is doubled",
+            "zh": "本楼层获得的[SacredWater|圣水]翻倍"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 56,
+      "columns": {
+        "Name": [
+          {
+            "en": "Raincaller",
+            "zh": "呼风唤雨"
+          }
+        ],
+        "BoonDesc": [
+          {
+            "en": "[SacredWater|Sacred Water] found is doubled",
+            "zh": "获得的[SacredWater|圣水]翻倍"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 57,
+      "columns": {
+        "Name": [
+          {
+            "en": "Deceptive Mirror",
+            "zh": "欺诈之镜"
+          }
+        ],
+        "CurseDesc": [
+          {
+            "en": "You are not always taken to the room you select",
+            "zh": "你不是每次都能进入你选择的房间"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 58,
+      "columns": {
+        "Name": [
+          {
+            "en": "Haemorrhage",
+            "zh": "血流不止"
+          }
+        ],
+        "CurseDesc": [
+          {
+            "en": "You cannot restore [Honour] (removed after killing the next Boss)",
+            "zh": "你不能再恢复[Honour|荣誉]（消灭下一个首领后移除）"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 59,
+      "columns": {
+        "Name": [
+          {
+            "en": "All-Seeing Eye",
+            "zh": "全知之眼"
+          }
+        ],
+        "BoonDesc": [
+          {
+            "en": "The Trial Map is fully revealed",
+            "zh": "试炼地图现在完全显示"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 60,
+      "columns": {
+        "Name": [
+          {
+            "en": "Lustrous Pearl",
+            "zh": "光辉珍珠"
+          }
+        ],
+        "BoonDesc": [
+          {
+            "en": "Traps are slower",
+            "zh": "陷阱现在更慢了"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 61,
+      "columns": {
+        "Name": [
+          {
+            "en": "Viscous Ichor",
+            "zh": "粘性溶液"
+          }
+        ],
+        "BoonDesc": [
+          {
+            "en": "Monsters have 15% reduced Action Speed",
+            "zh": "怪物的行动速度降低 15%"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 62,
+      "columns": {
+        "Name": [
+          {
+            "en": "Wooden Effigy",
+            "zh": "木质塑像"
+          }
+        ],
+        "BoonDesc": [
+          {
+            "en": "[UNUSED]",
+            "zh": "怪物对坚毅的影响降低25%"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 63,
+      "columns": {
+        "Name": [
+          {
+            "en": "Sanguine Vial",
+            "zh": "鲜血之瓶"
+          }
+        ],
+        "BoonDesc": [
+          {
+            "en": "Monsters have 30% less Maximum Life",
+            "zh": "怪物的生命上限降低30%"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 64,
+      "columns": {
+        "Name": [
+          {
+            "en": "Ornate Dagger",
+            "zh": "华丽匕首"
+          }
+        ],
+        "BoonDesc": [
+          {
+            "en": "You and your minions deal 50% more Damage",
+            "zh": "你和你的召唤生物伤害增加50%"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 65,
+      "columns": {
+        "Name": [
+          {
+            "en": "Assassin's Blade",
+            "zh": "刺客之刃"
+          }
+        ],
+        "BoonDesc": [
+          {
+            "en": "The next 10 non-Boss Monsters you [HitDamage|Hit] are killed Instantly",
+            "zh": "你接下来[HitDamage|击中]的 10 个非首领怪物将被立即击败"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 66,
+      "columns": {
+        "Name": [
+          {
+            "en": "Assassin's Blade",
+            "zh": "刺客之刃"
+          }
+        ],
+        "BoonDesc": [
+          {
+            "en": "The next 9 non-Boss Monsters you [HitDamage|Hit] are killed Instantly",
+            "zh": "你接下来[HitDamage|击中]的 9 个非首领怪物将被立即击败"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 67,
+      "columns": {
+        "Name": [
+          {
+            "en": "Assassin's Blade",
+            "zh": "刺客之刃"
+          }
+        ],
+        "BoonDesc": [
+          {
+            "en": "The next 8 non-Boss Monsters you [HitDamage|Hit] are killed Instantly",
+            "zh": "你接下来[HitDamage|击中]的 8 个非首领怪物将被立即击败"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 68,
+      "columns": {
+        "Name": [
+          {
+            "en": "Assassin's Blade",
+            "zh": "刺客之刃"
+          }
+        ],
+        "BoonDesc": [
+          {
+            "en": "The next 7 non-Boss Monsters you [HitDamage|Hit] are killed Instantly",
+            "zh": "你接下来[HitDamage|击中]的 7 个非首领怪物将被立即击败"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 69,
+      "columns": {
+        "Name": [
+          {
+            "en": "Assassin's Blade",
+            "zh": "刺客之刃"
+          }
+        ],
+        "BoonDesc": [
+          {
+            "en": "The next 6 non-Boss Monsters you [HitDamage|Hit] are killed Instantly",
+            "zh": "你接下来[HitDamage|击中]的 6 个非首领怪物将被立即击败"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 70,
+      "columns": {
+        "Name": [
+          {
+            "en": "Assassin's Blade",
+            "zh": "刺客之刃"
+          }
+        ],
+        "BoonDesc": [
+          {
+            "en": "The next 5 non-Boss Monsters you [HitDamage|Hit] are killed Instantly",
+            "zh": "你接下来[HitDamage|击中]的 5 个非首领怪物将被立即击败"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 71,
+      "columns": {
+        "Name": [
+          {
+            "en": "Assassin's Blade",
+            "zh": "刺客之刃"
+          }
+        ],
+        "BoonDesc": [
+          {
+            "en": "The next 4 non-Boss Monsters you [HitDamage|Hit] are killed Instantly",
+            "zh": "你接下来[HitDamage|击中]的 4 个非首领怪物将被立即击败"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 72,
+      "columns": {
+        "Name": [
+          {
+            "en": "Assassin's Blade",
+            "zh": "刺客之刃"
+          }
+        ],
+        "BoonDesc": [
+          {
+            "en": "The next 3 non-Boss Monsters you [HitDamage|Hit] are killed Instantly",
+            "zh": "你接下来[HitDamage|击中]的 3 个非首领怪物将被立即击败"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 73,
+      "columns": {
+        "Name": [
+          {
+            "en": "Assassin's Blade",
+            "zh": "刺客之刃"
+          }
+        ],
+        "BoonDesc": [
+          {
+            "en": "The next 2 non-Boss Monsters you [HitDamage|Hit] are killed Instantly",
+            "zh": "你接下来[HitDamage|击中]的 2 个非首领怪物将被立即击败"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 74,
+      "columns": {
+        "Name": [
+          {
+            "en": "Assassin's Blade",
+            "zh": "刺客之刃"
+          }
+        ],
+        "BoonDesc": [
+          {
+            "en": "The next non-Boss Monster you [HitDamage|Hit] is killed Instantly",
+            "zh": "你接下来[HitDamage|击中]的一个非首领怪物将被立即击败"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 75,
+      "columns": {
+        "Name": [
+          {
+            "en": "Enchanted Urn",
+            "zh": "附魔之瓮"
+          }
+        ],
+        "BoonDesc": [
+          {
+            "en": "30% increased Effect of your Non-[ItemRarity|Unique] [Relic|Relics]",
+            "zh": "你的非[ItemRarity|传奇][Relic|遗物]效果提高 30%"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 76,
+      "columns": {
+        "Name": [
+          {
+            "en": "Adrenaline Vial",
+            "zh": "肾上腺素"
+          }
+        ],
+        "BoonDesc": [
+          {
+            "en": "Restore {0} of your [Honour] on entering a Boss Room",
+            "zh": "进入首领房间时恢复 {0} 的[Honour|荣誉]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 77,
+      "columns": {
+        "Name": [
+          {
+            "en": "Mirror of Fortune",
+            "zh": "命运之镜"
+          }
+        ],
+        "BoonDesc": [
+          {
+            "en": "The next [SekhemaKeys|Key] you pick up is duplicated",
+            "zh": "你拾取的下一把[SekhemaKeys|钥匙]被复制"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 78,
+      "columns": {
+        "Name": [
+          {
+            "en": "Orbala Statuette",
+            "zh": "欧巴拉雕像"
+          }
+        ],
+        "BoonDesc": [
+          {
+            "en": "You have 25% more Maximum [Honour]",
+            "zh": "你的[Honour|荣誉]上限总增 25%"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 79,
+      "columns": {
+        "Name": [
+          {
+            "en": "Holy Water",
+            "zh": "圣水之灵"
+          }
+        ],
+        "BoonDesc": [
+          {
+            "en": "Gain a random Minor [Boons|Boon] when you venerate a Maraketh Shrine",
+            "zh": "当你敬拜马拉克斯神龛时，获得一个随机次要[Boons|恩赐]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 80,
+      "columns": {
+        "Name": [
+          {
+            "en": "Fountain of Youth",
+            "zh": "青春之泉"
+          }
+        ],
+        "BoonDesc": [
+          {
+            "en": "Restore {0} of your [Honour] when you venerate a Maraketh Shrine",
+            "zh": "当你敬拜马拉克斯神龛时，恢复 {0} 的[Honour|荣誉]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 81,
+      "columns": {
+        "Name": [
+          {
+            "en": "Silver Chalice",
+            "zh": "银制圣杯"
+          }
+        ],
+        "BoonDesc": [
+          {
+            "en": "The next Minor [Boons|Boon] you gain is converted into a random Major [Boons|Boon]",
+            "zh": "你获得的下一个次要[Boons|恩赐]转换为一个随机主要[Boons|恩赐]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 82,
+      "columns": {
+        "Name": [
+          {
+            "en": "Black Pearl",
+            "zh": "黑色珍珠"
+          }
+        ],
+        "BoonDesc": [
+          {
+            "en": "Traps deal 50% reduced Damage",
+            "zh": "陷阱造成的伤害降低 50%"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 83,
+      "columns": {
+        "Name": [
+          {
+            "en": "Balbala's Gift",
+            "zh": "贝尔巴拉的礼物"
+          }
+        ],
+        "BoonDesc": [
+          {
+            "en": "Your next purchase from the Merchant has no cost",
+            "zh": "你在商人处的下一次购买不会产生消耗"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 84,
+      "columns": {
+        "Name": [
+          {
+            "en": "Chipped Dice",
+            "zh": "破损骰子"
+          }
+        ],
+        "BoonDesc": [
+          {
+            "en": "The Merchant's Shop can be Rerolled",
+            "zh": "商人的商店可以被重随了"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 85,
+      "columns": {
+        "Name": [
+          {
+            "en": "Upward Path",
+            "zh": "高升之径"
+          }
+        ],
+        "BoonDesc": [
+          {
+            "en": "Your [SacredWater|Sacred Water] found is increased by 10% on room completion\r\n(removed when you purchase something from the Merchant)",
+            "zh": "完成房间时你获得[SacredWater|圣水]提高 10%\r\n（从商人处购买物品后移除）"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 86,
+      "columns": {
+        "Name": [
+          {
+            "en": "Sacred Mirror",
+            "zh": "神圣之镜"
+          }
+        ],
+        "BoonDesc": [
+          {
+            "en": "[SekhemaKeys|Keys] you pick up are duplicated",
+            "zh": "你拾取的[SekhemaKeys|钥匙]被复制"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 87,
+      "columns": {
+        "Name": [
+          {
+            "en": "Crystal Shard",
+            "zh": "水晶碎片"
+          }
+        ],
+        "BoonDesc": [
+          {
+            "en": "The next [Afflictions|Affliction] you gain is converted into a random Minor [Boons|Boon]",
+            "zh": "你获得的下一个[Afflictions|痛苦]转换为一个随机次要[Boons|恩赐]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 88,
+      "columns": {
+        "Name": [
+          {
+            "en": "Lustrous Lacquer",
+            "zh": "光辉漆彩"
+          }
+        ],
+        "BoonDesc": [
+          {
+            "en": "You have 50% more [Armour], [Evasion] and [EnergyShield|Energy Shield]",
+            "zh": "你的[Armour|护甲], [Evasion|闪避]和[EnergyShield|能量护盾]总增 50%"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 89,
+      "columns": {
+        "Name": [
+          {
+            "en": "Forgotten Traditions",
+            "zh": "被遗忘的传统"
+          }
+        ],
+        "CurseDesc": [
+          {
+            "en": "50% reduced Effect of your Non-[ItemRarity|Unique] [Relic|Relics]",
+            "zh": "你的非[ItemRarity|传奇][Relic|遗物]效果降低 50%"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 90,
+      "columns": {
+        "Name": [
+          {
+            "en": "[UNUSED]",
+            "zh": "紧缚项圈"
+          }
+        ],
+        "CurseDesc": [
+          {
+            "en": "You can have a maximum of 5 [Boons]",
+            "zh": "你最多可以拥有5个[Boons|恩赐]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 91,
+      "columns": {
+        "Name": [
+          {
+            "en": "Season of Famine",
+            "zh": "饥荒时节"
+          }
+        ],
+        "CurseDesc": [
+          {
+            "en": "The Merchant offers 50% fewer choices",
+            "zh": "商人提供的选项减少50%"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 92,
+      "columns": {
+        "Name": [
+          {
+            "en": "Myriad Aspersions",
+            "zh": "落井下石"
+          }
+        ],
+        "CurseDesc": [
+          {
+            "en": "When you gain an [Afflictions|Affliction], gain an additional random Minor [Afflictions|Affliction]",
+            "zh": "当你获得[Afflictions|痛苦]时，获得一个额外的随机次要[Afflictions|痛苦]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 93,
+      "columns": {
+        "Name": [
+          {
+            "en": "Costly Aid",
+            "zh": "代价不菲"
+          }
+        ],
+        "CurseDesc": [
+          {
+            "en": "Gain a random Minor [Afflictions|Affliction] when you venerate a Maraketh Shrine",
+            "zh": "当你敬拜马拉克斯神龛时，获得一个随机次要[Afflictions|痛苦]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 94,
+      "columns": {
+        "Name": [
+          {
+            "en": "Chains of Binding",
+            "zh": "拘束锁链"
+          }
+        ],
+        "CurseDesc": [
+          {
+            "en": "Monsters inflict [BindingChains|Binding Chains] on [HitDamage|Hit]",
+            "zh": "怪物[HitDamage|击中]时施加[BindingChains|束缚之链]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 95,
+      "columns": {
+        "Name": [
+          {
+            "en": "[UNUSED]",
+            "zh": "隐蔽异动"
+          }
+        ],
+        "CurseDesc": [
+          {
+            "en": "Guards release a [Volatiles|Volatile] Anomaly on Death",
+            "zh": "守卫被击败时释放一个[Volatiles|无常]的异动奇点"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 96,
+      "columns": {
+        "Name": [
+          {
+            "en": "Untouchable",
+            "zh": "不可触及"
+          }
+        ],
+        "CurseDesc": [
+          {
+            "en": "You are [Curse|Cursed] with [Enfeeble]",
+            "zh": "你被[Enfeeble|衰弱][Curse|诅咒]了"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 97,
+      "columns": {
+        "Name": [
+          {
+            "en": "Rusted Mallet",
+            "zh": "锈蚀重锤"
+          }
+        ],
+        "CurseDesc": [
+          {
+            "en": "Monsters always [Knockback]\r\nMonsters have increased [Knockback] Distance",
+            "zh": "怪物总会[Knockback|击退]\r\n怪物造成的[Knockback|击退]距离提高"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 98,
+      "columns": {
+        "Name": [
+          {
+            "en": "Weakened Flesh",
+            "zh": "弱化血肉"
+          }
+        ],
+        "CurseDesc": [
+          {
+            "en": "25% less Maximum [Honour]",
+            "zh": "最大[Honour|荣誉]总降 25%"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 99,
+      "columns": {
+        "Name": [
+          {
+            "en": "Fiendish Wings",
+            "zh": "恶魔之翼"
+          }
+        ],
+        "CurseDesc": [
+          {
+            "en": "Monsters' Action Speed cannot be slowed below base\r\nMonsters have 25% increased Attack, Cast and Movement Speed",
+            "zh": "怪物的行动速度无法被减速至基础以下\r\n怪物的攻击，施法和移动速度提高 25%"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 100,
+      "columns": {
+        "Name": [
+          {
+            "en": "[UNUSED]",
+            "zh": "石像图腾"
+          }
+        ],
+        "CurseDesc": [
+          {
+            "en": "Guards are accompanied by a Gargoyle",
+            "zh": "守卫们有一个石像鬼陪伴"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 101,
+      "columns": {
+        "Name": [
+          {
+            "en": "[UNUSED]",
+            "zh": "幽影幻象"
+          }
+        ],
+        "CurseDesc": [
+          {
+            "en": "Every room grants a random Minor [Afflictions|Affliction]\r\n([Afflictions|Afflictions] granted this way are removed on room completion)",
+            "zh": "所有房间赋予一个随机次要[Afflictions|痛苦]\r\n（完成房间后移除该效果赋予的[Afflictions|痛苦]）"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 102,
+      "columns": {
+        "Name": [
+          {
+            "en": "[UNUSED]",
+            "zh": "腐化撬具"
+          }
+        ],
+        "CurseDesc": [
+          {
+            "en": "Chests in rooms explode when opened",
+            "zh": "房间内的宝箱被打开时会爆炸"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 103,
+      "columns": {
+        "Name": [
+          {
+            "en": "Worn Sandals",
+            "zh": "破烂凉鞋"
+          }
+        ],
+        "CurseDesc": [
+          {
+            "en": "30% less Movement Speed if you've been [HitDamage|Hit] by an Enemy [Recently]",
+            "zh": "若你[Recently|近期]被敌人[HitDamage|击中]，移动速度总降 30%"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 104,
+      "columns": {
+        "Name": [
+          {
+            "en": "Orb of Negation",
+            "zh": "否定宝珠"
+          }
+        ],
+        "CurseDesc": [
+          {
+            "en": "Non-[ItemRarity|Unique] [Relic|Relics] have no Effect",
+            "zh": "你的非[ItemRarity|传奇][Relic|遗物]失去效果"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 105,
+      "columns": {
+        "Name": [
+          {
+            "en": "Tradition's Demand",
+            "zh": "传统的苛求"
+          }
+        ],
+        "CurseDesc": [
+          {
+            "en": "The Merchant only offers one choice",
+            "zh": "商人仅提供一个选项"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 106,
+      "columns": {
+        "Name": [
+          {
+            "en": "Chiselled Stone",
+            "zh": "凿刻之石"
+          }
+        ],
+        "CurseDesc": [
+          {
+            "en": "Monsters [Petrify] on Hit",
+            "zh": "怪物击中时造成[Petrify|石化]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 107,
+      "columns": {
+        "Name": [
+          {
+            "en": "Glass Shard",
+            "zh": "玻璃碎片"
+          }
+        ],
+        "CurseDesc": [
+          {
+            "en": "The next [Boons|Boon] you gain is converted into a random Minor [Afflictions|Affliction]",
+            "zh": "你获得的下一个[Boons|恩赐]转换为一个随机次要[Afflictions|痛苦]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 108,
+      "columns": {
+        "Name": [
+          {
+            "en": "Iron Manacles",
+            "zh": "钢铁镣铐"
+          }
+        ],
+        "CurseDesc": [
+          {
+            "en": "You have no [Evasion]",
+            "zh": "你没有[Evasion|闪避]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 109,
+      "columns": {
+        "Name": [
+          {
+            "en": "Sharpened Arrowhead",
+            "zh": "锋利箭头"
+          }
+        ],
+        "CurseDesc": [
+          {
+            "en": "You have no [Armour]",
+            "zh": "你没有[Armour|护甲]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 110,
+      "columns": {
+        "Name": [
+          {
+            "en": "Shattered Shield",
+            "zh": "破碎盾牌"
+          }
+        ],
+        "CurseDesc": [
+          {
+            "en": "You have 50% less [EnergyShield|Energy Shield]",
+            "zh": "你的[EnergyShield|能量护盾]总降 50%"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 111,
+      "columns": {
+        "Name": [
+          {
+            "en": "Corrosive Concoction",
+            "zh": "腐蚀药剂"
+          }
+        ],
+        "CurseDesc": [
+          {
+            "en": "You have no [Armour], [Evasion] and [EnergyShield|Energy Shield]",
+            "zh": "你没有[Armour|护甲], [Evasion|闪避]和[EnergyShield|能量护盾]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 112,
+      "columns": {
+        "Name": [
+          {
+            "en": "Pledge to the Guileful",
+            "zh": "诡诈者誓约"
+          }
+        ],
+        "BoonDesc": [
+          {
+            "en": "Can Open 1 Reward Chest in each Room without using a Key",
+            "zh": "在每个房间中可以打开 1 个奖励宝箱且不使用钥匙"
+          }
+        ],
+        "CurseDesc": [
+          {
+            "en": "Take {0} Physical Damage on opening a Key Chest without using a Key",
+            "zh": "不使用钥匙打开钥匙宝箱时受到 {0} 物理伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 113,
+      "columns": {
+        "Name": [
+          {
+            "en": "Pledge to the Powerful",
+            "zh": "伟力者誓约"
+          }
+        ],
+        "BoonDesc": [
+          {
+            "en": "50% less [Honour] lost in Boss Rooms",
+            "zh": "在首领房间失去的[Honour|荣誉]总降 50%"
+          }
+        ],
+        "CurseDesc": [
+          {
+            "en": "100% more [Honour] lost in non-Boss Rooms",
+            "zh": "在非首领房间失去的[Honour|荣誉]总增 100%"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 114,
+      "columns": {
+        "Name": [
+          {
+            "en": "Pledge to the Deserted",
+            "zh": "叛离者誓约"
+          }
+        ],
+        "BoonDesc": [
+          {
+            "en": "50% less Merchant prices",
+            "zh": "商人处的出售价格总降 50%"
+          }
+        ],
+        "CurseDesc": [
+          {
+            "en": "Monsters do not drop [SacredWater|Sacred Water]",
+            "zh": "怪物不掉落[SacredWater|圣水]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 115,
+      "columns": {
+        "Name": [
+          {
+            "en": "Pledge to the Afflicted",
+            "zh": "痛苦者誓约"
+          }
+        ],
+        "BoonDesc": [
+          {
+            "en": "Gain a Key when you are Afflicted",
+            "zh": "获得痛苦时，获得一把钥匙"
+          }
+        ],
+        "CurseDesc": [
+          {
+            "en": "10% reduced [Honour] Restored",
+            "zh": "恢复的[Honour|荣誉]降低 10%"
+          }
+        ]
+      }
+    }
+  ]
+}

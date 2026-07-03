@@ -1,0 +1,201 @@
+{
+  "table": "DelveCraftingTags",
+  "key": "_index",
+  "columns": [
+    "ItemClass"
+  ],
+  "entries": [
+    {
+      "id": null,
+      "index": 0,
+      "columns": {
+        "ItemClass": [
+          {
+            "en": "Weapons",
+            "zh": "武器"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 1,
+      "columns": {
+        "ItemClass": [
+          {
+            "en": "Jewels",
+            "zh": "珠宝"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 2,
+      "columns": {
+        "ItemClass": [
+          {
+            "en": "Body Armour",
+            "zh": "护甲"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 3,
+      "columns": {
+        "ItemClass": [
+          {
+            "en": "Shields",
+            "zh": "盾牌"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 4,
+      "columns": {
+        "ItemClass": [
+          {
+            "en": "Helmets",
+            "zh": "头盔"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 5,
+      "columns": {
+        "ItemClass": [
+          {
+            "en": "Gloves",
+            "zh": "手套"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 6,
+      "columns": {
+        "ItemClass": [
+          {
+            "en": "Boots",
+            "zh": "鞋子"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 7,
+      "columns": {
+        "ItemClass": [
+          {
+            "en": "Maps",
+            "zh": "地图"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 8,
+      "columns": {
+        "ItemClass": [
+          {
+            "en": "Amulets",
+            "zh": "项链"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 9,
+      "columns": {
+        "ItemClass": [
+          {
+            "en": "Belts",
+            "zh": "腰带"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 10,
+      "columns": {
+        "ItemClass": [
+          {
+            "en": "Rings",
+            "zh": "戒指"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 11,
+      "columns": {
+        "ItemClass": [
+          {
+            "en": "Quivers",
+            "zh": "箭袋"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 12,
+      "columns": {
+        "ItemClass": [
+          {
+            "en": "Abyss Jewels",
+            "zh": "深渊珠宝"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 13,
+      "columns": {
+        "ItemClass": [
+          {
+            "en": "Contracts",
+            "zh": "契约"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 14,
+      "columns": {
+        "ItemClass": [
+          {
+            "en": "Blueprints",
+            "zh": "蓝图"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 15,
+      "columns": {
+        "ItemClass": [
+          {
+            "en": "Heist Equipment",
+            "zh": "夺宝奇兵装备"
+          }
+        ]
+      }
+    }
+  ]
+}

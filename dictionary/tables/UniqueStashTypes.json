@@ -1,0 +1,419 @@
+{
+  "table": "UniqueStashTypes",
+  "key": "_index",
+  "columns": [
+    "Id",
+    "Name",
+    "Image"
+  ],
+  "entries": [
+    {
+      "id": null,
+      "index": 0,
+      "columns": {
+        "Name": [
+          {
+            "en": "Flask",
+            "zh": "药剂"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 1,
+      "columns": {
+        "Name": [
+          {
+            "en": "Amulet",
+            "zh": "项链"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 2,
+      "columns": {
+        "Name": [
+          {
+            "en": "Ring",
+            "zh": "戒指"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 3,
+      "columns": {
+        "Name": [
+          {
+            "en": "Claw",
+            "zh": "爪"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 4,
+      "columns": {
+        "Name": [
+          {
+            "en": "Dagger",
+            "zh": "匕首"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 5,
+      "columns": {
+        "Name": [
+          {
+            "en": "Wand",
+            "zh": "法杖"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 6,
+      "columns": {
+        "Name": [
+          {
+            "en": "Sword",
+            "zh": "剑"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 7,
+      "columns": {
+        "Name": [
+          {
+            "en": "Axe",
+            "zh": "斧"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 8,
+      "columns": {
+        "Name": [
+          {
+            "en": "Mace",
+            "zh": "锤"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 9,
+      "columns": {
+        "Name": [
+          {
+            "en": "Bow",
+            "zh": "弓"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 10,
+      "columns": {
+        "Name": [
+          {
+            "en": "Staff",
+            "zh": "长杖"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 11,
+      "columns": {
+        "Name": [
+          {
+            "en": "Quiver",
+            "zh": "箭袋"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 12,
+      "columns": {
+        "Name": [
+          {
+            "en": "Belt",
+            "zh": "腰带"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 13,
+      "columns": {
+        "Name": [
+          {
+            "en": "Gloves",
+            "zh": "手套"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 14,
+      "columns": {
+        "Name": [
+          {
+            "en": "Boots",
+            "zh": "靴子"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 15,
+      "columns": {
+        "Name": [
+          {
+            "en": "Body Armour",
+            "zh": "护甲"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 16,
+      "columns": {
+        "Name": [
+          {
+            "en": "Helmet",
+            "zh": "头盔"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 17,
+      "columns": {
+        "Name": [
+          {
+            "en": "Shield",
+            "zh": "盾牌"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 18,
+      "columns": {
+        "Name": [
+          {
+            "en": "Map",
+            "zh": "地图"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 19,
+      "columns": {
+        "Name": [
+          {
+            "en": "Jewel",
+            "zh": "珠宝"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 20,
+      "columns": {
+        "Name": [
+          {
+            "en": "Watchstone",
+            "zh": "守望石"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 21,
+      "columns": {
+        "Name": [
+          {
+            "en": "Contract",
+            "zh": "契约"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 22,
+      "columns": {
+        "Name": [
+          {
+            "en": "Two-handed Sword",
+            "zh": "双手剑"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 23,
+      "columns": {
+        "Name": [
+          {
+            "en": "Two-handed Axe",
+            "zh": "双手斧"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 24,
+      "columns": {
+        "Name": [
+          {
+            "en": "Two-handed Mace",
+            "zh": "双手锤"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 25,
+      "columns": {
+        "Name": [
+          {
+            "en": "Charm",
+            "zh": "咒符"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 26,
+      "columns": {
+        "Name": [
+          {
+            "en": "Crossbow",
+            "zh": "战弩"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 27,
+      "columns": {
+        "Name": [
+          {
+            "en": "Flail",
+            "zh": "连枷"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 28,
+      "columns": {
+        "Name": [
+          {
+            "en": "Focus",
+            "zh": "法器"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 29,
+      "columns": {
+        "Name": [
+          {
+            "en": "Sceptre",
+            "zh": "权杖"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 30,
+      "columns": {
+        "Name": [
+          {
+            "en": "Spear",
+            "zh": "战矛"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 31,
+      "columns": {
+        "Name": [
+          {
+            "en": "Trap",
+            "zh": "陷阱"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 32,
+      "columns": {
+        "Name": [
+          {
+            "en": "Quarterstaff",
+            "zh": "节杖"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 33,
+      "columns": {
+        "Name": [
+          {
+            "en": "Talisman",
+            "zh": "魔符"
+          }
+        ]
+      }
+    }
+  ]
+}

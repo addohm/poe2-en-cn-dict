@@ -1,0 +1,176 @@
+{
+  "table": "HeistJobs",
+  "key": "Id",
+  "columns": [
+    "Name",
+    "RequiredSkillIcon",
+    "SkillIcon",
+    "MapIcon",
+    "ConsoleBlueprintLegend",
+    "Description"
+  ],
+  "entries": [
+    {
+      "id": "Lockpicking",
+      "index": 0,
+      "columns": {
+        "Name": [
+          {
+            "en": "Lockpicking",
+            "zh": "解密术"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Begin Lockpicking",
+            "zh": "开始使用解密术"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BruteForce",
+      "index": 1,
+      "columns": {
+        "Name": [
+          {
+            "en": "Brute Force",
+            "zh": "凶蛮之力"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Begin Brute Force",
+            "zh": "开始使用凶蛮之力"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Perception",
+      "index": 2,
+      "columns": {
+        "Name": [
+          {
+            "en": "Perception",
+            "zh": "洞察"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Begin Perception",
+            "zh": "开始使用洞察"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Demolition",
+      "index": 3,
+      "columns": {
+        "Name": [
+          {
+            "en": "Demolition",
+            "zh": "爆破"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Begin Demolition",
+            "zh": "开始使用爆破"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CounterThaumaturge",
+      "index": 4,
+      "columns": {
+        "Name": [
+          {
+            "en": "Counter-Thaumaturgy",
+            "zh": "逆向奇术"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Begin Counter-Thaumaturgy",
+            "zh": "开始使用逆向奇术"
+          }
+        ]
+      }
+    },
+    {
+      "id": "TrapDisarmament",
+      "index": 5,
+      "columns": {
+        "Name": [
+          {
+            "en": "Trap Disarmament",
+            "zh": "解除陷阱"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Begin Trap Disarmament",
+            "zh": "开始解除陷阱"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Agility",
+      "index": 6,
+      "columns": {
+        "Name": [
+          {
+            "en": "Agility",
+            "zh": "灵敏"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Begin Agility",
+            "zh": "开始使用灵敏"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Deception",
+      "index": 7,
+      "columns": {
+        "Name": [
+          {
+            "en": "Deception",
+            "zh": "欺诈"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Begin Deception",
+            "zh": "开始使用欺诈"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Engineering",
+      "index": 8,
+      "columns": {
+        "Name": [
+          {
+            "en": "Engineering",
+            "zh": "工程学"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Begin Engineering",
+            "zh": "开始使用工程学"
+          }
+        ]
+      }
+    }
+  ]
+}

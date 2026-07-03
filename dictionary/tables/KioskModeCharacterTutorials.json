@@ -1,0 +1,72 @@
+{
+  "table": "KioskModeCharacterTutorials",
+  "key": "_index",
+  "columns": [
+    "Id",
+    "Description",
+    "PopupArt",
+    "DescriptionGerman"
+  ],
+  "entries": [
+    {
+      "id": null,
+      "index": 0,
+      "columns": {
+        "Description": [
+          {
+            "en": "Use <bold>{<white>{Whirling Slash}} <<skillicon:sandstorm_swipe>> to <bold>{<white>{Blind}} enemies. It's an important defense!\r\n\r\nJumping out of <bold>{<white>{Whirling Slash}} <<skillicon:sandstorm_swipe>> causes an explosion. <bold>{<white>{More Uses}} before jumping means <bold>{<white>{More Damage!}}\r\n\r\nUse <bold>{<white>{Puncture}} <<skillicon:advancing_strike>> to jump to an enemy and <bold>{<white>{Bleed}} it.\r\n\r\nUse <bold>{<white>{Spearfield}} <<skillicon:spear_wall>> to <bold>{<white>{Maim}} large groups of enemies, slowing them down.\r\n\r\n<bold>{<white>{Storm Spear}} <<skillicon:lightning_burst>> uses a lot of mana. Be careful!\r\n\r\nDon't forget to turn on <bold>{<white>{Herald of Thunder}} <<skillicon:herald_of_thunder>>. It will increase your damage a lot!\r\n\r\nIf you are dying a lot, use <bold>{<white>{Dodge Roll}}! It's on space bar!",
+            "zh": "使用<bold>{<white>{回旋挥斩}} <<skillicon:sandstorm_swipe>>来<bold>{<white>{致盲}}敌人，这是重要的防御手段！\r\n\r\n跃出<bold>{<white>{回旋挥斩}} <<skillicon:sandstorm_swipe>>的范围会引发一场爆炸。<bold>{<white>{多次使用}}后再跃出可以造成<bold>{<white>{更多伤害！}}\r\n\r\n使用<bold>{<white>{洞穿}} <<skillicon:advancing_strike>>可以扑向一名敌人，并使其<bold>{<white>{流血}}。\r\n\r\n<bold>{<white>{枪林矛阵}} <<skillicon:spear_wall>>能够<bold>{<white>{瘫痪}}大群敌人，使他们减速。\r\n\r\n<bold>{<white>{雷暴战矛}} <<skillicon:lightning_burst>>会消耗大量魔力。一定要慎重！\r\n\r\n别忘记开启<bold>{<white>{闪电之捷}} <<skillicon:herald_of_thunder>>。它会大幅提高你的伤害！\r\n\r\n如果你发现自己经常会被击败，就使用<bold>{<white>{闪避翻滚}}吧！按空格键就行了！"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 1,
+      "columns": {
+        "Description": [
+          {
+            "en": "Hit enemies with <bold>{<white>{Armour Break}} <<skillicon:heavy_strike>> to remove their Armour. It takes more than one hit for bosses!\r\n\r\nUse <bold>{<white>{Leap Slam}} <<skillicon:leap_slam>> on an an enemy with <bold>{<white>{Armour Break}} to do a <bold>{<white>{Heavy Stun}}\r\n\r\n<bold>{<white>{Supercharged Slam}} <<skillicon:channelled_slam>> is a <bold>{<white>{Channeled}} skill that you can use against a stunned enemy. Hold the mouse down for more damage!\r\n\r\nUsing <bold>{<white>{Infernal Cry}} <<skillicon:infernal_cry>> will charge up your next skill. Use it before <bold>{<white>{Supercharged Slam}} <<skillicon:channelled_slam>> for massive damage.\r\n\r\nUse <bold>{<white>{Sunder}} <<skillicon:new_sunder>> on an enemy with <bold>{<white>{Armour Break}} to do massive damage.\r\n\r\nDon't forget to turn on <bold>{<white>{Herald of Ash}} <<skillicon:herald_of_ash>>. It will increase your damage!\r\n\r\nIf you are dying a lot, use <bold>{<white>{Dodge Roll!}} It's on space bar!",
+            "zh": "<bold>{<white>{摧甲重击}} <<skillicon:heavy_strike>>击中敌人时会消除他们的护甲，面对首领时可能需要击中多次才会生效！\r\n\r\n对<bold>{<white>{护甲破损}}的敌人施放<bold>{<white>{跃击}} <<skillicon:leap_slam>>可以造成<bold>{<white>{重度晕眩}}\r\n\r\n<bold>{<white>{蓄威神锤}} <<skillicon:channelled_slam>>是一种<bold>{<white>{吟唱}}技能，可以对晕眩的敌人使用。按住鼠标键就能造成更高的伤害！\r\n\r\n<bold>{<white>{炽焰战吼}} <<skillicon:infernal_cry>>会充能你的下一个技能。先喊出战吼，再使用<bold>{<white>{蓄威神锤}} <<skillicon:channelled_slam>>便可造成巨额伤害。\r\n\r\n对<bold>{<white>{护甲破损}}的敌人施放<bold>{<white>{大地震击}} <<skillicon:new_sunder>>可以造成巨额伤害。\r\n\r\n别忘记开启<bold>{<white>{灰烬之捷}} <<skillicon:herald_of_ash>>。它会提高你的伤害！\r\n\r\n如果你发现自己经常会被击败，就使用<bold>{<white>{闪避翻滚}}吧！按空格键就行了！"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 2,
+      "columns": {
+        "Description": [
+          {
+            "en": "Lower the monsters' life until there is a <bold>{<white>{Blue Marker}} and then use <bold>{<white>{Killing Palm}} <<skillicon:killing_palm>>\r\n\r\nFollow up with <bold>{<white>{Falling Thunder}} <<skillicon:new_new_lightning_strike>> for a large AoE. \r\n\r\nUse <bold>{<white>{Ice Strike}} <<skillicon:quarterstaff_combo_attack>> to <bold>{<white>{Freeze}} tough enemies. \r\n\r\nUse <bold>{<white>{Wave of Frost}} <<skillicon:quarterstaff_frost_burst>> to <bold>{<white>{Freeze}} groups of weaker enemies. \r\n\r\nThe last spike of <bold>{<white>{Glacial Cascade}} <<skillicon:glacial_cascade>> will shatter <bold>{<white>{Frozen}} enemies for massive damage \r\n\r\nIf you are dying a lot, use <bold>{<white>{Dodge Roll!}} It's on space bar!",
+            "zh": "不断削弱怪物的生命，出现<bold>{<white>{蓝色标记}}后即可使用<bold>{<white>{终结掌}} <<skillicon:killing_palm>>。\r\n\r\n以<bold>{<white>{霹雳闪}} <<skillicon:new_new_lightning_strike>>追击可以造成大范围伤害。\r\n\r\n<bold>{<white>{幽寒打}} <<skillicon:quarterstaff_combo_attack>>可以<bold>{<white>{冻结}}强悍的敌人。\r\n\r\n<bold>{<white>{寒霜浪涌}} <<skillicon:quarterstaff_frost_burst>>可以<bold>{<white>{冻结}}大量脆弱的敌人。\r\n\r\n<bold>{<white>{冰川之刺}} <<skillicon:glacial_cascade>>最后的冰冷会击碎<bold>{<white>{冻结}}的敌人，造成巨额伤害。\r\n\r\n如果你发现自己经常会被击败，就使用<bold>{<white>{闪避翻滚}}吧！按空格键就行了！"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 3,
+      "columns": {
+        "Description": [
+          {
+            "en": "<bold>{<white>{Arc}} <<skillicon:arc>> and <bold>{<white>{Spark}} <<skillicon:spark>> are your basic attacks. Feel free to spam them.\r\n\r\nUse <bold>{<white>{Ice Nova}} <<skillicon:ice_nova>> to <bold>{<white>{Freeze}} enemies. It's an important defense!\r\n\r\nUse <bold>{<white>{Frost Bomb}} <<skillicon:frost_bomb>> to reduce enemy cold resistance.\r\n\r\nUse <bold>{<white>{Unleash}} <<skillicon:staff_unleash>> to triple-cast your next spell. It works great with <bold>{<white>{Comet}} <<skillicon:comet>> for a large damage boost.\r\n\r\nUse <bold>{<white>{Mana Tempest}} <<skillicon:mana_tempest>> to further increase your damage, especially of lightning skills.\r\n\r\nDon't forget to turn on <bold>{<white>{Arctic Armour}} <<skillicon:new_new_arctic_armour>> It will stop you from dying and will chill enemies!\r\n\r\nIf you are dying a lot, use <bold>{<white>{Dodge Roll!}} It's on space bar!",
+            "zh": "<bold>{<white>{电弧}} <<skillicon:arc>>和<bold>{<white>{电球}} <<skillicon:spark>>是你的基础攻击手段，尽情地施放它们吧。\r\n\r\n<bold>{<white>{冰霜新星}} <<skillicon:ice_nova>>可以<bold>{<white>{冻结}}敌人。这是重要的防御手段！\r\n\r\n<bold>{<white>{寒霜爆}} <<skillicon:frost_bomb>>可以降低敌人的冰霜抗性。\r\n\r\n<bold>{<white>{释出}} <<skillicon:staff_unleash>>能够使你的下一个法术连续施放三次，很适合搭配<bold>{<white>{彗星落}} <<skillicon:comet>>，造成强大的爆发伤害。\r\n\r\n<bold>{<white>{魔力风暴}} <<skillicon:mana_tempest>>能够进一步提高你造成的伤害，尤其是闪电技能。\r\n\r\n别忘记开启<bold>{<white>{极地装甲}} <<skillicon:new_new_arctic_armour>>，它能冰缓敌人，保住你的性命！\r\n\r\n如果你发现自己经常会被击败，就使用<bold>{<white>{闪避翻滚}}吧！按空格键就行了！"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 4,
+      "columns": {
+        "Description": [
+          {
+            "en": "<bold>{<white>{Lightning Storm}} <<skillicon:lightning_storm>> is a long-lasting spell that <bold>{<white>{Shocks}} enemies. \r\n\r\n<bold>{<white>{Volcano}} <<skillicon:volcano>> fires projectiles around itself and lasts a long time. Hold the button down longer to fire more initial projectiles. \r\n\r\nWhile your spells are active, transform into a bear! \r\n\r\nUse <bold>{<white>{Bear Maul}} <<skillicon:bear_maul>> to generate <bold>{<white>{Rage}}. \r\n\r\nUse <bold>{<white>{Rampage}} <<skillicon:bear_rampage>> to slam the ground repeatedly while consuming your <bold>{<white>{Rage}}. \r\n\r\nUse <bold>{<white>{Furious Slam}} <<skillicon:bear_slam>> to <bold>{<white>{Stun}} nearby enemies. \r\n\r\nUse <bold>{<white>{Ferocious Roar}} <<skillicon:bear_warcry_meta>> near <bold>{<white>{Stunned}} enemies to empower your <bold>{<white>{Slams}} with a second aftershock. \r\n\r\nAny <bold>{<white>{Slam}} near a <bold>{<white>{Volcano}} <<skillicon:volcano>> will will trigger more projectiles, including aftershocks! \r\n\r\nUse <bold>{<white>{Summoned Wolves}} <<skillicon:summon_wolf_companion>> to distract enemies! They also debuff enemies when they appear. \r\n\r\nIf you are dying a lot, use <bold>{<white>{Dodge Roll}}! It's on space bar!",
+            "zh": "<bold>{<white>{闪电风暴}} <<skillicon:lightning_storm>>法术的持续时间较长，可以令敌人<bold>{<white>{感电}}。\r\n\r\n<bold>{<white>{火山}} <<skillicon:volcano>>会在周围喷发投射物，并且持续时间很长。按住技能键便可提高初始投射物的数量。\r\n\r\n法术激活的时候，亲自变形成巨熊吧！\r\n\r\n<bold>{<white>{巨熊重殴}} <<skillicon:bear_maul>>可以产生<bold>{<white>{怒火}}。\r\n\r\n<bold>{<white>{横冲直撞}} <<skillicon:bear_rampage>>会反复猛击地面，并不断消耗<bold>{<white>{怒火}}。\r\n\r\n<bold>{<white>{狂怒猛击}} <<skillicon:bear_slam>>可以<bold>{<white>{晕眩}}周围的敌人。\r\n\r\n在<bold>{<white>{晕眩的}}敌人周围施放<bold>{<white>{凶蛮咆哮}} <<skillicon:bear_warcry_meta>>来强化你的<bold>{<white>{猛击}}，使其产生第二次余震。\r\n\r\n在激活的<bold>{<white>{火山}} <<skillicon:volcano>>周围使用任意<bold>{<white>{猛击}}都会触发更多投射物，余震也行！\r\n\r\n <bold>{<white>{召唤恶狼}} <<skillicon:summon_wolf_companion>>来干扰敌人！它们出现时也会为敌人施加减益状态。\r\n\r\n如果你发现自己经常会被击败，就使用<bold>{<white>{闪避翻滚}}吧！按空格键就行了！"
+          }
+        ]
+      }
+    }
+  ]
+}

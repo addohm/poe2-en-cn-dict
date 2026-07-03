@@ -1,0 +1,227 @@
+{
+  "table": "TieredMicrotransactionsVisuals",
+  "key": "_index",
+  "columns": [
+    "Description",
+    "DDSFile",
+    "__col5"
+  ],
+  "entries": [
+    {
+      "id": null,
+      "index": 0,
+      "columns": {
+        "Description": [
+          {
+            "en": "Head Only",
+            "zh": "仅头部"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 1,
+      "columns": {
+        "Description": [
+          {
+            "en": "Body Only",
+            "zh": "仅身体"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 2,
+      "columns": {
+        "Description": [
+          {
+            "en": "Full Body",
+            "zh": "全身"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 3,
+      "columns": {
+        "Description": [
+          {
+            "en": "Primal",
+            "zh": "原始"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 4,
+      "columns": {
+        "Description": [
+          {
+            "en": "Vivid",
+            "zh": "鲜活"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 5,
+      "columns": {
+        "Description": [
+          {
+            "en": "Wild",
+            "zh": "野性"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 6,
+      "columns": {
+        "Description": [
+          {
+            "en": "Sacred",
+            "zh": "圣洁"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 7,
+      "columns": {
+        "Description": [
+          {
+            "en": "Dynamic",
+            "zh": "动态"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 8,
+      "columns": {
+        "Description": [
+          {
+            "en": "Primal",
+            "zh": "原始"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 9,
+      "columns": {
+        "Description": [
+          {
+            "en": "Vivid",
+            "zh": "鲜活"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 10,
+      "columns": {
+        "Description": [
+          {
+            "en": "Wild",
+            "zh": "野性"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 11,
+      "columns": {
+        "Description": [
+          {
+            "en": "Sacred",
+            "zh": "圣洁"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 12,
+      "columns": {
+        "Description": [
+          {
+            "en": "Primal",
+            "zh": "原始"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 13,
+      "columns": {
+        "Description": [
+          {
+            "en": "Vivid",
+            "zh": "鲜活"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 14,
+      "columns": {
+        "Description": [
+          {
+            "en": "Wild",
+            "zh": "野性"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 15,
+      "columns": {
+        "Description": [
+          {
+            "en": "Sacred",
+            "zh": "圣洁"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 16,
+      "columns": {
+        "Description": [
+          {
+            "en": "Forgemaster",
+            "zh": "锻造大师"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 17,
+      "columns": {
+        "Description": [
+          {
+            "en": "Default",
+            "zh": "默认"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "table": "MusicCategories",
+  "key": "Id",
+  "columns": [
+    "Name"
+  ],
+  "entries": [
+    {
+      "id": "Boss",
+      "index": 0,
+      "columns": {
+        "Name": [
+          {
+            "en": "Boss Fights",
+            "zh": "首领战"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Town",
+      "index": 1,
+      "columns": {
+        "Name": [
+          {
+            "en": "Encampments",
+            "zh": "营地"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act1",
+      "index": 2,
+      "columns": {
+        "Name": [
+          {
+            "en": "Act I",
+            "zh": "第一章"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act2",
+      "index": 3,
+      "columns": {
+        "Name": [
+          {
+            "en": "Act II",
+            "zh": "第二章"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act3",
+      "index": 4,
+      "columns": {
+        "Name": [
+          {
+            "en": "Act III",
+            "zh": "第三章"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act4",
+      "index": 5,
+      "columns": {
+        "Name": [
+          {
+            "en": "Act IV",
+            "zh": "第四章"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Map",
+      "index": 6,
+      "columns": {
+        "Name": [
+          {
+            "en": "Unique Maps",
+            "zh": "传奇地图"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Expansions",
+      "index": 7,
+      "columns": {
+        "Name": [
+          {
+            "en": "Expansions",
+            "zh": "扩展"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Other",
+      "index": 8,
+      "columns": {
+        "Name": [
+          {
+            "en": "Other",
+            "zh": "其他"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Hideouts",
+      "index": 9,
+      "columns": {
+        "Name": [
+          {
+            "en": "Hideouts",
+            "zh": "藏身处"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Ascendancy",
+      "index": 10,
+      "columns": {
+        "Name": [
+          {
+            "en": "Ascendancy",
+            "zh": "升华"
+          }
+        ]
+      }
+    }
+  ]
+}

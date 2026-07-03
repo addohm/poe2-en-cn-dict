@@ -1,0 +1,570 @@
+{
+  "table": "BlightTowers",
+  "key": "Id",
+  "columns": [
+    "Name",
+    "Description",
+    "Icon",
+    "Tier"
+  ],
+  "entries": [
+    {
+      "id": "EmptyNode",
+      "index": 0,
+      "columns": {
+        "Name": [
+          {
+            "en": "Tower Foundation",
+            "zh": "防御塔地基"
+          }
+        ],
+        "Description": [
+          {
+            "en": "A powered base for one of Cassia's towers.",
+            "zh": "为卡西娅的防御塔准备的供能地基。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ChillingTower1",
+      "index": 1,
+      "columns": {
+        "Name": [
+          {
+            "en": "Chilling Tower Mk I",
+            "zh": "冰霜之塔 I 型"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Damage: Low\r\nChills and Damages nearby enemies\r\n\r\nIneffective against Blighted Monsters of the same type",
+            "zh": "伤害：低\r\n对周围的敌人造成伤害和冰缓效果\r\n\r\n对同类型的菌潮怪物无效"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ChillingTower2",
+      "index": 2,
+      "columns": {
+        "Name": [
+          {
+            "en": "Chilling Tower Mk II",
+            "zh": "冰霜之塔 II 型"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Increased Damage\r\nIncreased effect of Chill\r\nAffects more Targets",
+            "zh": "提高伤害\r\n提高冰缓效果\r\n影响更多目标"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ChillingTower3",
+      "index": 3,
+      "columns": {
+        "Name": [
+          {
+            "en": "Chilling Tower Mk III",
+            "zh": "冰霜之塔 III 型"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Increased Damage\r\nIncreased effect of Chill\r\nAffects more targets",
+            "zh": "提高伤害\r\n提高冰缓效果\r\n影响更多目标"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FreezingTower",
+      "index": 4,
+      "columns": {
+        "Name": [
+          {
+            "en": "Freezebolt Tower",
+            "zh": "冰箭之塔"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Damage: Very High\r\nShoots a Piercing projectile which Freezes enemies\r\n\r\nIneffective against Blighted Monsters of the same type",
+            "zh": "伤害：非常高\r\n发射穿透敌人的投射物，并使其冻结\r\n\r\n对同类型的菌潮怪物无效"
+          }
+        ]
+      }
+    },
+    {
+      "id": "IcePrisonTower",
+      "index": 5,
+      "columns": {
+        "Name": [
+          {
+            "en": "Glacial Cage Tower",
+            "zh": "冰笼之塔"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Deals no Damage\r\nImprisons Enemies\r\n\r\nIneffective against Blighted Monsters of the same type",
+            "zh": "不造成伤害\r\n禁锢敌人\r\n\r\n对同类型的菌潮怪物无效"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ShockingTower1",
+      "index": 6,
+      "columns": {
+        "Name": [
+          {
+            "en": "Shock Nova Tower Mk I",
+            "zh": "闪电之塔 I 型"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Damage: Low\r\nCreates Shocked Ground\r\nCasts Shock Nova\r\n\r\nIneffective against Blighted Monsters of the same type",
+            "zh": "伤害：低\r\n创造感电地面\r\n施放闪电新星\r\n\r\n对同类型的菌潮怪物无效"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ShockingTower2",
+      "index": 7,
+      "columns": {
+        "Name": [
+          {
+            "en": "Shock Nova Tower Mk II",
+            "zh": "闪电之塔 II 型"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Increased Damage\r\nIncreased chance to Shock\r\nIncreased Area of Effect",
+            "zh": "提高伤害\r\n提高感电几率\r\n提高效果区域"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ShockingTower3",
+      "index": 8,
+      "columns": {
+        "Name": [
+          {
+            "en": "Shock Nova Tower Mk III",
+            "zh": "闪电之塔 III 型"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Increased Damage\r\nIncreased chance to Shock\r\nIncreased Area of Effect",
+            "zh": "提高伤害\r\n提高感电几率\r\n提高效果区域"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LightningStormTower",
+      "index": 9,
+      "columns": {
+        "Name": [
+          {
+            "en": "Lightning Storm Tower",
+            "zh": "雷暴之塔"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Damage: High\r\nLightning rapidly strikes around the Tower\r\n\r\nIneffective against Blighted Monsters of the same type",
+            "zh": "伤害：高\r\n发射闪电，迅速打击周围的敌人\r\n\r\n对同类型的菌潮怪物无效"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ArcingTower",
+      "index": 10,
+      "columns": {
+        "Name": [
+          {
+            "en": "Arc Tower",
+            "zh": "电弧之塔"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Damage: Medium\r\nCasts Arc\r\n\r\nIneffective against Blighted Monsters of the same type",
+            "zh": "伤害：中\r\n施放电弧\r\n\r\n对同类型的菌潮怪物无效"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BuffTower1",
+      "index": 11,
+      "columns": {
+        "Name": [
+          {
+            "en": "Empowering Tower Mk I",
+            "zh": "赋能之塔 I 型"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Improves the effectiveness of other Towers\r\nDoes not Damage Enemies",
+            "zh": "强化其它防御塔的效果\r\n不对敌人造成伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BuffTower2",
+      "index": 12,
+      "columns": {
+        "Name": [
+          {
+            "en": "Empowering Tower Mk II",
+            "zh": "赋能之塔 II 型"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Improves the effectiveness of other Towers\r\nDoes not Damage Enemies",
+            "zh": "强化其它防御塔的效果\r\n不对敌人造成伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BuffTower3",
+      "index": 13,
+      "columns": {
+        "Name": [
+          {
+            "en": "Empowering Tower Mk III",
+            "zh": "赋能之塔 III 型"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Improves the effectiveness of other Towers\r\nDoes not Damage Enemies",
+            "zh": "强化其它防御塔的效果\r\n不对敌人造成伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BuffPlayersTower",
+      "index": 14,
+      "columns": {
+        "Name": [
+          {
+            "en": "Imbuing Tower",
+            "zh": "灌注之塔"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Improves the effectiveness of Players in range.\r\nDoes not Damage Enemies",
+            "zh": "强化范围内的玩家\r\n不对敌人造成伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": "WeakenEnemiesTower",
+      "index": 15,
+      "columns": {
+        "Name": [
+          {
+            "en": "Smothering Tower",
+            "zh": "窒息之塔"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Weakens Enemies in range\r\nDoes not Damage Enemies",
+            "zh": "削弱范围内的敌人\r\n不对敌人造成伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": "StunningTower1",
+      "index": 16,
+      "columns": {
+        "Name": [
+          {
+            "en": "Seismic Tower Mk I",
+            "zh": "震地之塔 I 型"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Damage: Low\r\nRepeats 3 times\r\nAlways Stuns\r\nDamages and Stuns nearby Enemies\r\n\r\nIneffective against Blighted Monsters of the same type",
+            "zh": "伤害：低\r\n重复 3 次\r\n必定晕眩\r\n对周围的敌人造成伤害并使其晕眩\r\n\r\n对同类型的菌潮怪物无效"
+          }
+        ]
+      }
+    },
+    {
+      "id": "StunningTower2",
+      "index": 17,
+      "columns": {
+        "Name": [
+          {
+            "en": "Seismic Tower Mk II",
+            "zh": "震地之塔 II 型"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Repeats 5 times",
+            "zh": "重复 5 次"
+          }
+        ]
+      }
+    },
+    {
+      "id": "StunningTower3",
+      "index": 18,
+      "columns": {
+        "Name": [
+          {
+            "en": "Seismic Tower Mk III",
+            "zh": "震地之塔 III 型"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Repeats 7 times",
+            "zh": "重复 7 次"
+          }
+        ]
+      }
+    },
+    {
+      "id": "TemporalTower",
+      "index": 19,
+      "columns": {
+        "Name": [
+          {
+            "en": "Temporal Tower",
+            "zh": "时间之塔"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Persistently Slows Monsters \r\nDoes not Damage Enemies\r\n\r\nIneffective against Blighted Monsters of the same type",
+            "zh": "持续使敌人减速\r\n不对敌人造成伤害\r\n\r\n对同类型的菌潮怪物无效"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PetrificationTower",
+      "index": 20,
+      "columns": {
+        "Name": [
+          {
+            "en": "Stone Gaze Tower",
+            "zh": "石化之塔"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Periodically Petrifies Monsters\r\nDoes not Damage Enemies\r\n\r\nIneffective against Blighted Monsters of the same type",
+            "zh": "周期性使敌人石化\r\n不对敌人造成伤害\r\n\r\n对同类型的菌潮怪物无效"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MinionTower1",
+      "index": 21,
+      "columns": {
+        "Name": [
+          {
+            "en": "Summoning Tower Mk I",
+            "zh": "召唤之塔 I 型"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Summons 3 Minions\r\nMinion Damage: Low\r\nMinion Life: Low\r\nCan only summon Minions when previous Minions are dead\r\n\r\nIneffective against Blighted Monsters of the same type",
+            "zh": "召唤 3 个生物\r\n召唤生物伤害：低\r\n召唤生物生命：低\r\n只有之前的召唤生物被击败后才会召唤新的\r\n\r\n对同类型的菌潮怪物无效"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MinionTower2",
+      "index": 22,
+      "columns": {
+        "Name": [
+          {
+            "en": "Summoning Tower Mk II",
+            "zh": "召唤之塔 II 型"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Summons 5 Minions",
+            "zh": "召唤 5 个生物"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MinionTower3",
+      "index": 23,
+      "columns": {
+        "Name": [
+          {
+            "en": "Summoning Tower Mk III",
+            "zh": "召唤之塔 III 型"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Summons 7 Minions",
+            "zh": "召唤 7 个生物"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FlyingMinionTower",
+      "index": 24,
+      "columns": {
+        "Name": [
+          {
+            "en": "Scout Tower",
+            "zh": "斥候之塔"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Summons 10 Flying Minions\r\nMinion Damage: High\r\nMinion Life: Low\r\nCan only summon Minions when previous Minions are dead\r\n\r\nIneffective against Blighted Monsters of the same type",
+            "zh": "召唤 10 个飞行生物\r\n召唤生物伤害：高\r\n召唤生物生命：低\r\n只有之前的召唤生物被击败后才会召唤新的\r\n\r\n对同类型的菌潮怪物无效"
+          }
+        ]
+      }
+    },
+    {
+      "id": "TankyMinionTower",
+      "index": 25,
+      "columns": {
+        "Name": [
+          {
+            "en": "Sentinel Tower",
+            "zh": "哨兵之塔"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Summons 1 Durable Minion\r\nMinion Damage: Low\r\nMinion Life: High\r\nCan only summon Minions when previous Minions are dead\r\n\r\nIneffective against Blighted Monsters of the same type",
+            "zh": "召唤 1 个高耐力生物\r\n召唤生物伤害：低\r\n召唤生物生命：高\r\n只有之前的召唤生物被击败后才会召唤新的\r\n\r\n对同类型的菌潮怪物无效"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FlameTower1",
+      "index": 26,
+      "columns": {
+        "Name": [
+          {
+            "en": "Fireball Tower Mk I",
+            "zh": "火球之塔 I 型"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Damage: Medium\r\nCasts a Fireball\r\n\r\nIneffective against Blighted Monsters of the same type",
+            "zh": "伤害：高\r\n施放一道火瀑\r\n\r\n对同类型的菌潮怪物无效"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FlameTower2",
+      "index": 27,
+      "columns": {
+        "Name": [
+          {
+            "en": "Fireball Tower Mk II",
+            "zh": "火球之塔 II 型"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Casts 3 Fireballs",
+            "zh": "施放 3 个火球"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FlameTower3",
+      "index": 28,
+      "columns": {
+        "Name": [
+          {
+            "en": "Fireball Tower Mk III",
+            "zh": "火球之塔 III 型"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Casts 5 Fireballs",
+            "zh": "施放 5 个火球"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FlamethrowerTower",
+      "index": 29,
+      "columns": {
+        "Name": [
+          {
+            "en": "Flamethrower Tower",
+            "zh": "掷火之塔"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Damage: High\r\nCasts a stream of Fire\r\n\r\nIneffective against Blighted Monsters of the same type",
+            "zh": "伤害：高\r\n施放一道火瀑\r\n\r\n对同类型的菌潮怪物无效"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MeteorTower",
+      "index": 30,
+      "columns": {
+        "Name": [
+          {
+            "en": "Meteor Tower",
+            "zh": "陨星之塔"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Damage: Very High\r\nRains Meteors from the sky\r\n\r\nIneffective against Blighted Monsters of the same type",
+            "zh": "伤害：非常高\r\n天降流星火雨\r\n\r\n对同类型的菌潮怪物无效"
+          }
+        ]
+      }
+    }
+  ]
+}

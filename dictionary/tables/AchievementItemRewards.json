@@ -1,0 +1,118 @@
+{
+  "table": "AchievementItemRewards",
+  "key": "Id",
+  "columns": [
+    "MessagePC",
+    "MessageConsole"
+  ],
+  "entries": [
+    {
+      "id": "ExilesHood",
+      "index": 0,
+      "columns": {
+        "MessagePC": [
+          {
+            "en": "Rewarded an Exile's Hood Microtransaction!\r\nPress K to Equip",
+            "zh": "已获得一件商城物品奖励：流放者兜帽！\r\n按下 K 装备"
+          }
+        ],
+        "MessageConsole": [
+          {
+            "en": "Rewarded an Exile's Hood Microtransaction!\r\nOpen the Cosmetics Window to Equip",
+            "zh": "已获得一件商城物品奖励：流放者兜帽！\r\n打开外观窗口以装备"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ExilesStaff",
+      "index": 1,
+      "columns": {
+        "MessagePC": [
+          {
+            "en": "Rewarded an Exile's Staff Microtransaction!\r\nPress K to Equip",
+            "zh": "已获得一件商城物品奖励：流放者长杖！\r\n按下 K 装备"
+          }
+        ],
+        "MessageConsole": [
+          {
+            "en": "Rewarded an Exile's Staff Microtransaction!\r\nOpen the Cosmetics Window to Equip",
+            "zh": "已获得一件商城物品奖励：流放者长杖！\r\n打开外观窗口以装备"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ExilesCloak",
+      "index": 2,
+      "columns": {
+        "MessagePC": [
+          {
+            "en": "Rewarded an Exile's Cloak Microtransaction!\r\nPress K to Equip",
+            "zh": "已获得一件商城物品奖励：流放者披风！\r\n按下 K 装备"
+          }
+        ],
+        "MessageConsole": [
+          {
+            "en": "Rewarded an Exile's Cloak Microtransaction!\r\nOpen the Cosmetics Window to Equip",
+            "zh": "已获得一件商城物品奖励：流放者披风！\r\n打开外观窗口以装备"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SmokingPipeHelmetAttachment",
+      "index": 3,
+      "columns": {
+        "MessagePC": [
+          {
+            "en": "Rewarded a Smoking Pipe Helmet Attachment Microtransaction!\r\nPress K to Equip",
+            "zh": "已获得一件商城物品奖励：烟斗头部外观附加！\r\n按下 K 装备"
+          }
+        ],
+        "MessageConsole": [
+          {
+            "en": "Rewarded a Smoking Pipe Helmet Attachment Microtransaction!\r\nOpen the Cosmetics Window to Equip",
+            "zh": "已获得一件商城物品奖励：烟斗头部外观附加！\r\n打开外观窗口以装备"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MagusTomeHipAttachment",
+      "index": 4,
+      "columns": {
+        "MessagePC": [
+          {
+            "en": "Rewarded a Magus Tome Hip Attachment Microtransaction!\r\nPress K to Equip",
+            "zh": "已获得一件商城物品奖励：术士禁册腰部附加外观！\r\n按下 K 装备"
+          }
+        ],
+        "MessageConsole": [
+          {
+            "en": "Rewarded a Magus Tome Hip Attachment Microtransaction!\r\nOpen the Cosmetics Window to Equip",
+            "zh": "已获得一件商城物品奖励：术士禁册腰部附加外观！\r\n打开外观窗口以装备"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BloodMoonLevelupExtraEffect",
+      "index": 5,
+      "columns": {
+        "MessagePC": [
+          {
+            "en": "Rewarded a Blood Moon Level-Up Effect Microtransaction!\r\nPress K to Equip",
+            "zh": "已获得一件商城物品奖励：血月升级特效！\r\n按下 K 装备"
+          }
+        ],
+        "MessageConsole": [
+          {
+            "en": "Rewarded a Blood Moon Level-Up Effect Microtransaction!\r\nOpen the Cosmetics Window to Equip",
+            "zh": "已获得一件商城物品奖励：血月升级特效！\r\n打开外观窗口以装备"
+          }
+        ]
+      }
+    }
+  ]
+}

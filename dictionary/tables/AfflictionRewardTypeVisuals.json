@@ -1,0 +1,22 @@
+{
+  "table": "AfflictionRewardTypeVisuals",
+  "key": "_index",
+  "columns": [
+    "Id",
+    "Name"
+  ],
+  "entries": [
+    {
+      "id": null,
+      "index": 0,
+      "columns": {
+        "Name": [
+          {
+            "en": "Delirium",
+            "zh": "惊悸迷雾"
+          }
+        ]
+      }
+    }
+  ]
+}

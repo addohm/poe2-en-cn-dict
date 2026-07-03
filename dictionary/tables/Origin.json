@@ -1,0 +1,46 @@
+{
+  "table": "Origin",
+  "key": "_index",
+  "columns": [
+    "Id",
+    "Format"
+  ],
+  "entries": [
+    {
+      "id": null,
+      "index": 0,
+      "columns": {
+        "Format": [
+          {
+            "en": "Kalguuran {0}",
+            "zh": "卡古兰 {0}"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 1,
+      "columns": {
+        "Format": [
+          {
+            "en": "Ezomyte {0}",
+            "zh": "艾兹麦 {0}"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 2,
+      "columns": {
+        "Format": [
+          {
+            "en": "Vaal {0}",
+            "zh": "瓦尔 {0}"
+          }
+        ]
+      }
+    }
+  ]
+}

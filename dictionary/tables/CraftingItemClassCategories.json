@@ -1,0 +1,346 @@
+{
+  "table": "CraftingItemClassCategories",
+  "key": "Id",
+  "columns": [
+    "__col2",
+    "Text"
+  ],
+  "entries": [
+    {
+      "id": "OneHandMelee",
+      "index": 0,
+      "columns": {
+        "Text": [
+          {
+            "en": "One Hand Melee",
+            "zh": "单手近战"
+          }
+        ]
+      }
+    },
+    {
+      "id": "TwoHandMelee",
+      "index": 1,
+      "columns": {
+        "Text": [
+          {
+            "en": "Two Hand Melee",
+            "zh": "双手近战"
+          }
+        ]
+      }
+    },
+    {
+      "id": "OneHandRanged",
+      "index": 2,
+      "columns": {
+        "Text": [
+          {
+            "en": "One Hand Ranged",
+            "zh": "单手远程"
+          }
+        ]
+      }
+    },
+    {
+      "id": "TwoHandRanged",
+      "index": 3,
+      "columns": {
+        "Text": [
+          {
+            "en": "Two Hand Ranged",
+            "zh": "双手远程"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Shield",
+      "index": 4,
+      "columns": {
+        "Text": [
+          {
+            "en": "[DNT] Shield-likes",
+            "zh": "盾类"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Helmet",
+      "index": 5,
+      "columns": {
+        "Text": [
+          {
+            "en": "Helmet",
+            "zh": "头盔"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BodyArmour",
+      "index": 6,
+      "columns": {
+        "Text": [
+          {
+            "en": "Body Armour",
+            "zh": "护甲"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Gloves",
+      "index": 7,
+      "columns": {
+        "Text": [
+          {
+            "en": "Gloves",
+            "zh": "手套"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Boots",
+      "index": 8,
+      "columns": {
+        "Text": [
+          {
+            "en": "Boots",
+            "zh": "鞋子"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Ring",
+      "index": 9,
+      "columns": {
+        "Text": [
+          {
+            "en": "Ring",
+            "zh": "戒指"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Amulet",
+      "index": 10,
+      "columns": {
+        "Text": [
+          {
+            "en": "Amulet",
+            "zh": "项链"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Belt",
+      "index": 11,
+      "columns": {
+        "Text": [
+          {
+            "en": "Belt",
+            "zh": "腰带"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Flask",
+      "index": 12,
+      "columns": {
+        "Text": [
+          {
+            "en": "Flask",
+            "zh": "药剂"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Quiver",
+      "index": 13,
+      "columns": {
+        "Text": [
+          {
+            "en": "Quiver",
+            "zh": "箭袋"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Map",
+      "index": 14,
+      "columns": {
+        "Text": [
+          {
+            "en": "Map",
+            "zh": "地图"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MapFragment",
+      "index": 15,
+      "columns": {
+        "Text": [
+          {
+            "en": "Map Fragment",
+            "zh": "地图碎片"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jewel",
+      "index": 16,
+      "columns": {
+        "Text": [
+          {
+            "en": "Jewel",
+            "zh": "珠宝"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Breachstone",
+      "index": 17,
+      "columns": {
+        "Text": [
+          {
+            "en": "Breachstone",
+            "zh": "裂隙石"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MartialWeapon",
+      "index": 19,
+      "columns": {
+        "Text": [
+          {
+            "en": "Martial Weapon",
+            "zh": "战斗武器"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CasterWeapon",
+      "index": 20,
+      "columns": {
+        "Text": [
+          {
+            "en": "Caster Weapon",
+            "zh": "施法武器"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Staff",
+      "index": 21,
+      "columns": {
+        "Text": [
+          {
+            "en": "Staff",
+            "zh": "长杖"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Wand",
+      "index": 22,
+      "columns": {
+        "Text": [
+          {
+            "en": "Wand",
+            "zh": "法杖"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Sceptre",
+      "index": 23,
+      "columns": {
+        "Text": [
+          {
+            "en": "Sceptre",
+            "zh": "权杖"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Focus",
+      "index": 24,
+      "columns": {
+        "Text": [
+          {
+            "en": "Focus",
+            "zh": "法器"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Buckler",
+      "index": 25,
+      "columns": {
+        "Text": [
+          {
+            "en": "Buckler",
+            "zh": "轻盾"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ActiveSkillGem",
+      "index": 26,
+      "columns": {
+        "Text": [
+          {
+            "en": "[DNT] Active Skill Gem",
+            "zh": "主动技能宝石"
+          }
+        ]
+      }
+    },
+    {
+      "id": "UncutSkillGem",
+      "index": 27,
+      "columns": {
+        "Text": [
+          {
+            "en": "[DNT] Uncut Skill Gem",
+            "zh": "未切割的技能宝石"
+          }
+        ]
+      }
+    },
+    {
+      "id": "UncutReservationGem",
+      "index": 28,
+      "columns": {
+        "Text": [
+          {
+            "en": "[DNT] Uncut Reservation Gem",
+            "zh": "未切割的保留宝石"
+          }
+        ]
+      }
+    }
+  ]
+}

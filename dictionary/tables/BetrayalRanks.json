@@ -1,0 +1,47 @@
+{
+  "table": "BetrayalRanks",
+  "key": "_index",
+  "columns": [
+    "Id",
+    "Text",
+    "RankImage"
+  ],
+  "entries": [
+    {
+      "id": null,
+      "index": 1,
+      "columns": {
+        "Text": [
+          {
+            "en": "Sergeant",
+            "zh": "中士"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 2,
+      "columns": {
+        "Text": [
+          {
+            "en": "Lieutenant",
+            "zh": "上尉"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 3,
+      "columns": {
+        "Text": [
+          {
+            "en": "Captain",
+            "zh": "队长"
+          }
+        ]
+      }
+    }
+  ]
+}

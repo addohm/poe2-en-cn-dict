@@ -1,0 +1,135 @@
+{
+  "table": "MobileSkillGemLayout",
+  "key": "_index",
+  "columns": [
+    "Id",
+    "__col4",
+    "__col5",
+    "__col6",
+    "__col7",
+    "__col8",
+    "__col9"
+  ],
+  "entries": [
+    {
+      "id": null,
+      "index": 0,
+      "columns": {
+        "__col6": [
+          {
+            "en": "Main Weapon 1",
+            "zh": "主手武器 1"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 1,
+      "columns": {
+        "__col6": [
+          {
+            "en": "Main Weapon 2",
+            "zh": "主手武器 2"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 2,
+      "columns": {
+        "__col6": [
+          {
+            "en": "Offhand 1",
+            "zh": "副手 1"
+          }
+        ],
+        "__col7": [
+          {
+            "en": "Main Weapon 3",
+            "zh": "主手武器 3"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 3,
+      "columns": {
+        "__col6": [
+          {
+            "en": "Offhand 2",
+            "zh": "副手 2"
+          }
+        ],
+        "__col7": [
+          {
+            "en": "Main Weapon 4",
+            "zh": "主手武器 4"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 4,
+      "columns": {
+        "__col6": [
+          {
+            "en": "Helmet",
+            "zh": "头盔"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 5,
+      "columns": {
+        "__col6": [
+          {
+            "en": "Boots",
+            "zh": "鞋子"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 6,
+      "columns": {
+        "__col6": [
+          {
+            "en": "Body Armour 1",
+            "zh": "胸甲 1"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 7,
+      "columns": {
+        "__col6": [
+          {
+            "en": "Gloves",
+            "zh": "手套"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 8,
+      "columns": {
+        "__col6": [
+          {
+            "en": "Body Armour 2",
+            "zh": "胸甲 2"
+          }
+        ]
+      }
+    }
+  ]
+}

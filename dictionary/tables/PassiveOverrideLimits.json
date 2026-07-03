@@ -1,0 +1,94 @@
+{
+  "table": "PassiveOverrideLimits",
+  "key": "_index",
+  "columns": [
+    "Id",
+    "Description"
+  ],
+  "entries": [
+    {
+      "id": null,
+      "index": 0,
+      "columns": {
+        "Description": [
+          {
+            "en": "1 Loyalty Tattoo",
+            "zh": "1 个忠诚文身"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 1,
+      "columns": {
+        "Description": [
+          {
+            "en": "1 Strength Notable Tattoo",
+            "zh": "1 个力量核心文身"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 2,
+      "columns": {
+        "Description": [
+          {
+            "en": "1 Dexterity Notable Tattoo",
+            "zh": "1 个敏捷核心文身"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 3,
+      "columns": {
+        "Description": [
+          {
+            "en": "1 Intelligence Notable Tattoo",
+            "zh": "1 个智慧核心文身"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 4,
+      "columns": {
+        "Description": [
+          {
+            "en": "1 Attribute Notable Tattoo",
+            "zh": "1 个属性核心文身"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 5,
+      "columns": {
+        "Description": [
+          {
+            "en": "1 Ancestral Tattoo",
+            "zh": "1 个先祖文身"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 6,
+      "columns": {
+        "Description": [
+          {
+            "en": "1 Keystone Tattoo",
+            "zh": "1 个基石文身"
+          }
+        ]
+      }
+    }
+  ]
+}

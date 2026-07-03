@@ -1,0 +1,479 @@
+{
+  "table": "ExpeditionDeals",
+  "key": "Function",
+  "columns": [
+    "Arguments",
+    "Description",
+    "__col6"
+  ],
+  "entries": [
+    {
+      "id": "reroll_affixes_highest_of_X",
+      "index": 0,
+      "columns": {
+        "Description": [
+          {
+            "en": "Reroll Prefix Modifiers.",
+            "zh": "重置前缀。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "reroll_affixes_highest_of_X",
+      "index": 1,
+      "columns": {
+        "Description": [
+          {
+            "en": "Reroll Suffix Modifiers.",
+            "zh": "重置后缀。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "reroll_mods_lucky",
+      "index": 2,
+      "columns": {
+        "Description": [
+          {
+            "en": "Reroll Modifier Values of a single Modifier.",
+            "zh": "重置单个词缀的数值。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "reroll_mods_lucky",
+      "index": 3,
+      "columns": {
+        "Description": [
+          {
+            "en": "Reroll Modifier Values of Prefixes.",
+            "zh": "重置前缀的词缀数值。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "reroll_mods_lucky",
+      "index": 4,
+      "columns": {
+        "Description": [
+          {
+            "en": "Reroll Modifier Values of Suffixes.",
+            "zh": "重置后缀的词缀数值。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "add_mod_to_rare_highest_of_X",
+      "index": 5,
+      "columns": {
+        "Description": [
+          {
+            "en": "Add a Prefix Modifier.",
+            "zh": "添加一个前缀。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "add_mod_to_rare_highest_of_X",
+      "index": 6,
+      "columns": {
+        "Description": [
+          {
+            "en": "Add a Suffix Modifier.",
+            "zh": "添加一个后缀。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "remove_X_lowest_level_mods",
+      "index": 7,
+      "columns": {
+        "Description": [
+          {
+            "en": "Remove a single Modifier with the lowest Modifier level.",
+            "zh": "移除一个等级最低的词缀。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "remove_affixes_of_type",
+      "index": 8,
+      "columns": {
+        "Description": [
+          {
+            "en": "Remove all Prefix Modifiers.",
+            "zh": "移除所有前缀词缀。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "remove_affixes_of_type",
+      "index": 9,
+      "columns": {
+        "Description": [
+          {
+            "en": "Remove all Suffix Modifiers.",
+            "zh": "移除所有后缀词缀。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "upgrade_X_mods_to_max_tier",
+      "index": 10,
+      "columns": {
+        "Description": [
+          {
+            "en": "Upgrade the level of a Modifier by 1 tier.",
+            "zh": "将 1 个词缀的等阶升级 1 阶。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fill_mods_on_rare",
+      "index": 11,
+      "columns": {
+        "Description": [
+          {
+            "en": "Fill all empty Modifier slots.",
+            "zh": "填补所有空词缀栏。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "add_mod_to_magic_making_rare",
+      "index": 12,
+      "columns": {
+        "Description": [
+          {
+            "en": "Add a Modifier and make Rare.",
+            "zh": "添加词缀并制作稀有。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "reroll_affixes_highest_of_X",
+      "index": 13,
+      "columns": {
+        "Description": [
+          {
+            "en": "Reroll Prefix Modifiers.",
+            "zh": "重置前缀。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "reroll_affixes_highest_of_X",
+      "index": 14,
+      "columns": {
+        "Description": [
+          {
+            "en": "Reroll Suffix Modifiers.",
+            "zh": "重置后缀。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "reroll_mods_lucky",
+      "index": 15,
+      "columns": {
+        "Description": [
+          {
+            "en": "Reroll Modifier Values of a single Modifier.",
+            "zh": "重置单个词缀的数值。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "reroll_mods_lucky",
+      "index": 16,
+      "columns": {
+        "Description": [
+          {
+            "en": "Reroll Modifier Values of Prefixes.",
+            "zh": "重置前缀的词缀数值。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "reroll_mods_lucky",
+      "index": 17,
+      "columns": {
+        "Description": [
+          {
+            "en": "Reroll Modifier Values of Suffixes.",
+            "zh": "重置后缀的词缀数值。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "add_mod_to_rare_highest_of_X",
+      "index": 18,
+      "columns": {
+        "Description": [
+          {
+            "en": "Add a Prefix Modifier.",
+            "zh": "添加一个前缀。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "add_mod_to_rare_highest_of_X",
+      "index": 19,
+      "columns": {
+        "Description": [
+          {
+            "en": "Add a Suffix Modifier.",
+            "zh": "添加一个后缀。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "remove_X_lowest_level_mods",
+      "index": 20,
+      "columns": {
+        "Description": [
+          {
+            "en": "Remove a single Modifier with the lowest Modifier level.",
+            "zh": "移除一个等级最低的词缀。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "remove_affixes_of_type",
+      "index": 21,
+      "columns": {
+        "Description": [
+          {
+            "en": "Remove all Prefix Modifiers.",
+            "zh": "移除所有前缀词缀。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "remove_affixes_of_type",
+      "index": 22,
+      "columns": {
+        "Description": [
+          {
+            "en": "Remove all Suffix Modifiers.",
+            "zh": "移除所有后缀词缀。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "upgrade_X_mods_to_max_tier",
+      "index": 23,
+      "columns": {
+        "Description": [
+          {
+            "en": "Upgrade the level of a Modifier by 1 tier.",
+            "zh": "将 1 个词缀的等阶升级 1 阶。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fill_mods_on_rare",
+      "index": 24,
+      "columns": {
+        "Description": [
+          {
+            "en": "Fill all empty Modifier slots.",
+            "zh": "填补所有空词缀栏。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "add_mod_to_magic_making_rare",
+      "index": 25,
+      "columns": {
+        "Description": [
+          {
+            "en": "Add a Modifier and make Rare.",
+            "zh": "添加词缀并使其变为稀有。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "reroll_affixes_highest_of_X",
+      "index": 26,
+      "columns": {
+        "Description": [
+          {
+            "en": "Reroll Prefix Modifiers.",
+            "zh": "重置前缀。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "reroll_affixes_highest_of_X",
+      "index": 27,
+      "columns": {
+        "Description": [
+          {
+            "en": "Reroll Suffix Modifiers.",
+            "zh": "重置后缀。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "reroll_mods_lucky",
+      "index": 28,
+      "columns": {
+        "Description": [
+          {
+            "en": "Reroll Modifier Values of a single Modifier.",
+            "zh": "重置单个词缀的数值。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "reroll_mods_lucky",
+      "index": 29,
+      "columns": {
+        "Description": [
+          {
+            "en": "Reroll Modifier Values of Prefixes.",
+            "zh": "重置前缀的词缀数值。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "reroll_mods_lucky",
+      "index": 30,
+      "columns": {
+        "Description": [
+          {
+            "en": "Reroll Modifier Values of Suffixes.",
+            "zh": "重置后缀的词缀数值。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "add_mod_to_rare_highest_of_X",
+      "index": 31,
+      "columns": {
+        "Description": [
+          {
+            "en": "Add a Prefix Modifier.",
+            "zh": "添加一个前缀。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "add_mod_to_rare_highest_of_X",
+      "index": 32,
+      "columns": {
+        "Description": [
+          {
+            "en": "Add a Suffix Modifier.",
+            "zh": "添加一个后缀。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "remove_X_lowest_level_mods",
+      "index": 33,
+      "columns": {
+        "Description": [
+          {
+            "en": "Remove a single Modifier with the lowest Modifier level.",
+            "zh": "移除一个等阶最低的词缀。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "remove_affixes_of_type",
+      "index": 34,
+      "columns": {
+        "Description": [
+          {
+            "en": "Remove all Prefix Modifiers.",
+            "zh": "移除所有前缀词缀。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "remove_affixes_of_type",
+      "index": 35,
+      "columns": {
+        "Description": [
+          {
+            "en": "Remove all Suffix Modifiers.",
+            "zh": "移除所有后缀词缀。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "upgrade_X_mods_to_max_tier",
+      "index": 36,
+      "columns": {
+        "Description": [
+          {
+            "en": "Upgrade the level of a Modifier by 1 tier.",
+            "zh": "将 1 个词缀的等阶升级 1 阶。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fill_mods_on_rare",
+      "index": 37,
+      "columns": {
+        "Description": [
+          {
+            "en": "Fill all empty Modifier slots.",
+            "zh": "填补所有空词缀栏。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "add_mod_to_magic_making_rare",
+      "index": 38,
+      "columns": {
+        "Description": [
+          {
+            "en": "Add a Modifier and make Rare.",
+            "zh": "添加词缀并使其变为稀有。"
+          }
+        ]
+      }
+    }
+  ]
+}

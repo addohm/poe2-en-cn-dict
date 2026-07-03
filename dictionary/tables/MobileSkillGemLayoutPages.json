@@ -1,0 +1,47 @@
+{
+  "table": "MobileSkillGemLayoutPages",
+  "key": "_index",
+  "columns": [
+    "Id",
+    "Menu",
+    "Name"
+  ],
+  "entries": [
+    {
+      "id": null,
+      "index": 0,
+      "columns": {
+        "Name": [
+          {
+            "en": "Main Skills",
+            "zh": "主要技能"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 1,
+      "columns": {
+        "Name": [
+          {
+            "en": "Targetted Skills",
+            "zh": "目标技能"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 2,
+      "columns": {
+        "Name": [
+          {
+            "en": "Unbound Skills",
+            "zh": "未绑定技能"
+          }
+        ]
+      }
+    }
+  ]
+}

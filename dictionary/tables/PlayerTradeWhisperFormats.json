@@ -1,0 +1,58 @@
+{
+  "table": "PlayerTradeWhisperFormats",
+  "key": "_index",
+  "columns": [
+    "Id",
+    "Whisper"
+  ],
+  "entries": [
+    {
+      "id": null,
+      "index": 0,
+      "columns": {
+        "Whisper": [
+          {
+            "en": "Hi, I would like to buy your {{ITEM}} in {{LEAGUE}}",
+            "zh": "你好，我希望购买你的 {{ITEM}} 在 {{LEAGUE}}区"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 1,
+      "columns": {
+        "Whisper": [
+          {
+            "en": "Hi, I would like to buy your {{ITEM}} listed for {{PRICE}} in {{LEAGUE}}",
+            "zh": "你好，我希望购买你的{{ITEM}} ，标价 {{PRICE}} ，在 {{LEAGUE}}区"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 2,
+      "columns": {
+        "Whisper": [
+          {
+            "en": "Hi, I would like to buy your {{ITEM}} in {{LEAGUE}} (stash tab \"{{STASH}}\"; position: left {{LEFT}}, top {{TOP}})",
+            "zh": "您好，我想在{{LEAGUE}}中购买您的{{ITEM}}，（仓库标签：\"{{STASH}}\"; 位置：左 {{LEFT}}，上 {{TOP}}）"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 3,
+      "columns": {
+        "Whisper": [
+          {
+            "en": "Hi, I would like to buy your {{ITEM}} listed for {{PRICE}} in {{LEAGUE}} (stash tab \"{{STASH}}\"; position: left {{LEFT}}, top {{TOP}})",
+            "zh": "你好，我希望购买你的{{ITEM}} ，标价 {{PRICE}} ，在 {{LEAGUE}}区 (市集页 \"{{STASH}}\"; 位置: 左起 {{LEFT}}, 上起 {{TOP}})"
+          }
+        ]
+      }
+    }
+  ]
+}

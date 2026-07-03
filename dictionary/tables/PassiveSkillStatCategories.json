@@ -1,0 +1,249 @@
+{
+  "table": "PassiveSkillStatCategories",
+  "key": "Id",
+  "columns": [
+    "Name"
+  ],
+  "entries": [
+    {
+      "id": "Attributes",
+      "index": 0,
+      "columns": {
+        "Name": [
+          {
+            "en": "Attributes",
+            "zh": "属性"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Damage",
+      "index": 1,
+      "columns": {
+        "Name": [
+          {
+            "en": "Damage",
+            "zh": "伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Ailments",
+      "index": 2,
+      "columns": {
+        "Name": [
+          {
+            "en": "Ailments",
+            "zh": "异常状态"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Skill Speed",
+      "index": 3,
+      "columns": {
+        "Name": [
+          {
+            "en": "Skill Speed",
+            "zh": "技能速度"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Critical Hits",
+      "index": 4,
+      "columns": {
+        "Name": [
+          {
+            "en": "Critical Hits",
+            "zh": "暴击"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Accuracy",
+      "index": 5,
+      "columns": {
+        "Name": [
+          {
+            "en": "Accuracy",
+            "zh": "命中"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Other Offensive Stats",
+      "index": 6,
+      "columns": {
+        "Name": [
+          {
+            "en": "Other Offensive Stats",
+            "zh": "其他伤害属性"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Life",
+      "index": 7,
+      "columns": {
+        "Name": [
+          {
+            "en": "Life",
+            "zh": "生命"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Mana",
+      "index": 8,
+      "columns": {
+        "Name": [
+          {
+            "en": "Mana",
+            "zh": "魔力"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ArmourEvasionEnergyShield",
+      "index": 9,
+      "columns": {
+        "Name": [
+          {
+            "en": "Defences",
+            "zh": "防御属性"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Resistances",
+      "index": 10,
+      "columns": {
+        "Name": [
+          {
+            "en": "Resistances",
+            "zh": "抗性"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Other Survivability Stats",
+      "index": 11,
+      "columns": {
+        "Name": [
+          {
+            "en": "Other Survivability Stats",
+            "zh": "其他生存属性"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Minions",
+      "index": 12,
+      "columns": {
+        "Name": [
+          {
+            "en": "Minions",
+            "zh": "召唤生物"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Totems",
+      "index": 13,
+      "columns": {
+        "Name": [
+          {
+            "en": "Totems",
+            "zh": "图腾"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Traps",
+      "index": 14,
+      "columns": {
+        "Name": [
+          {
+            "en": "Traps",
+            "zh": "陷阱"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Mines",
+      "index": 15,
+      "columns": {
+        "Name": [
+          {
+            "en": "Mines",
+            "zh": "地雷"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Charges",
+      "index": 16,
+      "columns": {
+        "Name": [
+          {
+            "en": "Charges",
+            "zh": "能量球"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Flasks",
+      "index": 17,
+      "columns": {
+        "Name": [
+          {
+            "en": "Flasks",
+            "zh": "药剂"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Misc",
+      "index": 18,
+      "columns": {
+        "Name": [
+          {
+            "en": "Misc",
+            "zh": "其他"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Ascendancy",
+      "index": 19,
+      "columns": {
+        "Name": [
+          {
+            "en": "Ascendancy",
+            "zh": "升华"
+          }
+        ]
+      }
+    }
+  ]
+}

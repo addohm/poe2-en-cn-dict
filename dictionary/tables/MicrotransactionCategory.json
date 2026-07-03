@@ -1,0 +1,153 @@
+{
+  "table": "MicrotransactionCategory",
+  "key": "Name",
+  "columns": [
+    "Description"
+  ],
+  "entries": [
+    {
+      "id": "Weapon Added Effect",
+      "index": 3,
+      "columns": {
+        "Description": [
+          {
+            "en": "Added Effects that apply to your weapon, such as Finishers. Finishers add effects when you kill a Monster of a specific Rarity. You can only have 1 Finisher per Rarity type equipped at a time.",
+            "zh": "适用于武器的附加效果，例如终结特效。终结特效会在你击杀特定稀有度的怪物时触发效果。每种稀有度等级你只能同时装备一种击败特效。\r\n"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Social Frame",
+      "index": 12,
+      "columns": {
+        "Description": [
+          {
+            "en": "Adds a Frame to your character portrait. This can be seen in the Social Panel, Party UI, and on the character select menu.",
+            "zh": "为你的角色头像添加边框。该边框可在社交面板、队伍界面以及角色选择菜单中看到。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Alternate Charge Skin",
+      "index": 30,
+      "columns": {
+        "Description": [
+          {
+            "en": "Changes the appearance of your Endurance, Frenzy and Power Charges.",
+            "zh": "改变你的耐力球、狂怒球和暴击球的外观。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Extra Effect",
+      "index": 31,
+      "columns": {
+        "Description": [
+          {
+            "en": "Extra Effects are special effects that do not apply to specific mtx slot and are triggered on certain conditions, such as opening a chest.",
+            "zh": "额外特效是指不应用于特定外观槽位、而是在特定条件下（例如开启宝箱时）触发的特殊效果。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Character Skin",
+      "index": 33,
+      "columns": {
+        "Description": [
+          {
+            "en": "Effects that add tattoos or scars to your characters skin, or replace their skin entirely.",
+            "zh": "为角色添加纹身或伤疤，或完全替换角色外观。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Tracking Scroll",
+      "index": 34,
+      "columns": {
+        "Description": [
+          {
+            "en": "Tracking Scrolls keep record of specific statistics such as monster kills or number of items picked up. You can pin a specific scroll to your profile to display to your friends, party or guild members, and can also be linked in chat. ",
+            "zh": "追踪卷轴用于记录特定统计数据，例如击杀怪物数量或拾取物品数量。你可以将某个卷轴固定在个人资料上，向好友、队伍或公会成员展示，也可以在聊天中发送链接。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Level Up Effect",
+      "index": 35,
+      "columns": {
+        "Description": [
+          {
+            "en": "Effects that play when your character levels up. You can only have 1 Level Up Effect equipped at a time.",
+            "zh": "在你的角色升级时播放的特效。你每次只能装备一个升级特效。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Dodge Roll Effect",
+      "index": 36,
+      "columns": {
+        "Description": [
+          {
+            "en": "Adds an effect when your dodge roll and sprint.",
+            "zh": "闪避翻滚和奔跑时添加特效。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Bear Shapeshift Skin",
+      "index": 37,
+      "columns": {
+        "Description": [
+          {
+            "en": "Changes the appearance of your character when shapeshifted into a Bear.",
+            "zh": "变形为巨熊时，改变你的角色外观。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Wolf Shapeshift Skin",
+      "index": 38,
+      "columns": {
+        "Description": [
+          {
+            "en": "Changes the appearance of your character when shapeshifted into a Wolf.",
+            "zh": "变形为巨狼时，改变你的角色外观。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Demon Shapeshift Skin",
+      "index": 39,
+      "columns": {
+        "Description": [
+          {
+            "en": "Changes the appearance of your character when shapeshifted into a Demon.",
+            "zh": "变形为恶魔时，改变你的角色外观。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Wyvern Shapeshift Skin",
+      "index": 40,
+      "columns": {
+        "Description": [
+          {
+            "en": "Changes the appearance of your character when shapeshifted into a Wyvern.",
+            "zh": "变形为双足飞龙时，改变你的角色外观。"
+          }
+        ]
+      }
+    }
+  ]
+}

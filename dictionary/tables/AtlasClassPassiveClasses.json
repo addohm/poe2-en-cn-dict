@@ -1,0 +1,54 @@
+{
+  "table": "AtlasClassPassiveClasses",
+  "key": "_index",
+  "columns": [
+    "Id",
+    "Description",
+    "TabActive",
+    "TabInactive",
+    "MasterNormal",
+    "ActiveHover",
+    "FrameBackground",
+    "ButtonBase",
+    "ButtonActive",
+    "Tab"
+  ],
+  "entries": [
+    {
+      "id": null,
+      "index": 1,
+      "columns": {
+        "Description": [
+          {
+            "en": "Doryani's Science",
+            "zh": "多里亚尼的科学之道"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 2,
+      "columns": {
+        "Description": [
+          {
+            "en": "Hilda's Hunting",
+            "zh": "希尔达的狩猎之道"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 3,
+      "columns": {
+        "Description": [
+          {
+            "en": "Jado's Spycraft",
+            "zh": "贾多的间谍之道"
+          }
+        ]
+      }
+    }
+  ]
+}

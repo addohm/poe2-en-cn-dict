@@ -1,0 +1,33 @@
+{
+  "table": "SoulCoreLimits",
+  "key": "Id",
+  "columns": [
+    "Text"
+  ],
+  "entries": [
+    {
+      "id": "AncientAugment",
+      "index": 2,
+      "columns": {
+        "Text": [
+          {
+            "en": "{0} [Ancient|Ancient Augment]",
+            "zh": "{0} 个[Ancient|远古增幅器]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AldursLegacyLimit1",
+      "index": 3,
+      "columns": {
+        "Text": [
+          {
+            "en": "{0} [AldursLegacy|Aldur's Legacy]",
+            "zh": "{0} [AldursLegacy|奥杜尔的遗产]"
+          }
+        ]
+      }
+    }
+  ]
+}

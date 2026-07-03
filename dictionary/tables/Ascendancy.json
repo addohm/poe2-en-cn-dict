@@ -1,0 +1,428 @@
+{
+  "table": "Ascendancy",
+  "key": "Id",
+  "columns": [
+    "CoordinateRect",
+    "RGBFlavourTextColour",
+    "Name",
+    "FlavourText",
+    "OGGFile",
+    "PassiveTreeImage"
+  ],
+  "entries": [
+    {
+      "id": "Warrior1",
+      "index": 3,
+      "columns": {
+        "Name": [
+          {
+            "en": "Titan",
+            "zh": "泰坦"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "Incredible might has always laid buried within you. Now is the time to rise.",
+            "zh": "身负惊世骇俗之力，如今正是奋起之时。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Warrior2",
+      "index": 4,
+      "columns": {
+        "Name": [
+          {
+            "en": "Warbringer",
+            "zh": "战争使者"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "Your home has been threatened. A good man must be roused to war.",
+            "zh": "家园危在旦夕，义士挺身而战。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Warrior3",
+      "index": 5,
+      "columns": {
+        "Name": [
+          {
+            "en": "Smith of Kitava",
+            "zh": "奇塔弗匠师"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "You hunger for power, and by force of arms, you will take it.",
+            "zh": "力量令你如饥似渴，你将凭借刀兵将其夺得。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Ranger1",
+      "index": 6,
+      "columns": {
+        "Name": [
+          {
+            "en": "Deadeye",
+            "zh": "锐眼"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "A woman can change the world with a single well-placed arrow.",
+            "zh": "只需一箭，便可改变世界的女人。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Ranger3",
+      "index": 8,
+      "columns": {
+        "Name": [
+          {
+            "en": "Pathfinder",
+            "zh": "追猎者"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "There are venoms and virtues aplenty in the wilds, if you know where to look.",
+            "zh": "荒野中充满了恶毒与美善，只要你知道在何处寻找。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Huntress1",
+      "index": 9,
+      "columns": {
+        "Name": [
+          {
+            "en": "Amazon",
+            "zh": "亚马逊"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "You became a weapon of war so that others could live in peace.",
+            "zh": "为了让旁人和平安居，你甘愿化身为战争的武器。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Huntress2",
+      "index": 10,
+      "columns": {
+        "Name": [
+          {
+            "en": "Spirit Walker",
+            "zh": "灵魂行者"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "You were chosen by the Sacred Wisps to enact the Spirit's will.",
+            "zh": "你被圣洁鬼灵选中，以践行万灵的意志。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Huntress3",
+      "index": 11,
+      "columns": {
+        "Name": [
+          {
+            "en": "Ritualist",
+            "zh": "仪祭师"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "Corruption cost you your home, but taught you so much more...",
+            "zh": "腐化令你失去了家园，又投以智慧作为回报……"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Witch1",
+      "index": 12,
+      "columns": {
+        "Name": [
+          {
+            "en": "Infernalist",
+            "zh": "驱炎使"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "You seek power at any cost... and there is no price too high to pay.",
+            "zh": "不计代价地追寻力量……多少代价都不足吝惜。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Witch2",
+      "index": 13,
+      "columns": {
+        "Name": [
+          {
+            "en": "Blood Mage",
+            "zh": "命源法师"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "Your search for power took you on a journey inwards.",
+            "zh": "追求力量的旅程，通往了你的内心。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Witch3",
+      "index": 14,
+      "columns": {
+        "Name": [
+          {
+            "en": "Lich",
+            "zh": "巫妖"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "Death is your domain, your flesh merely a material to be mastered.",
+            "zh": "死亡是你的领域，血肉不过是有待掌控的耗材。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Witch3b",
+      "index": 15,
+      "columns": {
+        "Name": [
+          {
+            "en": "Abyssal Lich",
+            "zh": "深渊巫妖"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "The Well of Souls is yours to command.",
+            "zh": "灵魂之井由你掌控。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Sorceress1",
+      "index": 16,
+      "columns": {
+        "Name": [
+          {
+            "en": "Stormweaver",
+            "zh": "风暴编织者"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "The rumble of thunder heralds your approach. Woe to those that draw your ire.",
+            "zh": "电闪雷鸣宣告着你的降临，狂徒鼠辈必将饱尝灾祸。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Sorceress2",
+      "index": 17,
+      "columns": {
+        "Name": [
+          {
+            "en": "Chronomancer",
+            "zh": "塑时术师"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "The tapestry of time is yours to weave; an element you alone may master.",
+            "zh": "时光的织缕任你编织，唯你掌控。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Sorceress3",
+      "index": 18,
+      "columns": {
+        "Name": [
+          {
+            "en": "Disciple of Varashta",
+            "zh": "瓦拉煞的门徒"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "By your command, they will earn redemption...one duty at a time.",
+            "zh": "遵你命令，他们将完成一项项任务……逐步获得救赎。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Mercenary1",
+      "index": 22,
+      "columns": {
+        "Name": [
+          {
+            "en": "Tactician",
+            "zh": "战术家"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "Countless wars have left you with skills somewhat resembling a decent officer...",
+            "zh": "经历无数场战争的洗礼，你已和精锐的军官别无二致……"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Mercenary2",
+      "index": 23,
+      "columns": {
+        "Name": [
+          {
+            "en": "Witchhunter",
+            "zh": "猎巫人"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "There's something very wrong with this world... and you're going to fix it.",
+            "zh": "横行世间的不义……将由你拨乱反正。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Mercenary3",
+      "index": 24,
+      "columns": {
+        "Name": [
+          {
+            "en": "Gemling Legionnaire",
+            "zh": "古灵使徒斗士"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "The more you embrace virtue gems, the more power they offer...",
+            "zh": "向古灵宝石献出身心，它们也会赋予你力量……"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Druid1",
+      "index": 28,
+      "columns": {
+        "Name": [
+          {
+            "en": "Oracle",
+            "zh": "神谕者"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "There are many paths to achieve your goals... and you see them all.",
+            "zh": "达成目标有多种途径……皆在你洞悉之下。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Druid2",
+      "index": 29,
+      "columns": {
+        "Name": [
+          {
+            "en": "Shaman",
+            "zh": "萨满"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "Wraeclast has suffered for too long.\r\nYou are vengeance incarnate.",
+            "zh": "瓦尔克拉斯的苦难绵亘太久。\r\n你就是复仇的化身。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Monk1",
+      "index": 34,
+      "columns": {
+        "Name": [
+          {
+            "en": "Martial Artist",
+            "zh": "武圣"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "They made you a human weapon... but that strength has set you free.",
+            "zh": "他们把你锻造成人形兵器……但那份力量，却让你挣脱了枷锁。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Monk2",
+      "index": 35,
+      "columns": {
+        "Name": [
+          {
+            "en": "Invoker",
+            "zh": "祈求者"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "True strength lies within. One must only focus... and believe.",
+            "zh": "真正的力量源于内心，你只需全神贯注……坚守信念。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Monk3",
+      "index": 36,
+      "columns": {
+        "Name": [
+          {
+            "en": "Acolyte of Chayula",
+            "zh": "夏乌拉追随者"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "The truth of your faith threatens to break your very soul... but in that struggle lies power beyond belief.",
+            "zh": "追随的真相令你的内心摇摇欲坠……挣扎中却蕴藏着超乎想象的力量。"
+          }
+        ]
+      }
+    }
+  ]
+}

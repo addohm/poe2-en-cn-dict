@@ -1,0 +1,214 @@
+{
+  "table": "BestiaryRecipeCategories",
+  "key": "_index",
+  "columns": [
+    "Id",
+    "Text"
+  ],
+  "entries": [
+    {
+      "id": null,
+      "index": 0,
+      "columns": {
+        "Text": [
+          {
+            "en": "Create Currency Items",
+            "zh": "创造通货物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 1,
+      "columns": {
+        "Text": [
+          {
+            "en": "Create a Unique",
+            "zh": "制作一个传奇"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 2,
+      "columns": {
+        "Text": [
+          {
+            "en": "Create a Rare",
+            "zh": "制作一个稀有"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 3,
+      "columns": {
+        "Text": [
+          {
+            "en": "Create an Item",
+            "zh": "创造一个物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 4,
+      "columns": {
+        "Text": [
+          {
+            "en": "Create an Imprint",
+            "zh": "创造一个印记"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 5,
+      "columns": {
+        "Text": [
+          {
+            "en": "Corrupt an Item",
+            "zh": "腐化一个物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 6,
+      "columns": {
+        "Text": [
+          {
+            "en": "Transform an Item",
+            "zh": "变换物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 7,
+      "columns": {
+        "Text": [
+          {
+            "en": "Modify Mods on an Item",
+            "zh": "修改物品上的词缀"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 8,
+      "columns": {
+        "Text": [
+          {
+            "en": "Split an Item Into Two",
+            "zh": "将物品一分为二"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 9,
+      "columns": {
+        "Text": [
+          {
+            "en": "Convert this Unique Item",
+            "zh": "转换这个传奇物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 10,
+      "columns": {
+        "Text": [
+          {
+            "en": "Add a Mod to a Life or Mana Flask",
+            "zh": "给生命药剂或魔力药剂添加一个词缀"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 11,
+      "columns": {
+        "Text": [
+          {
+            "en": "Add a Mod to a Utility Flask",
+            "zh": "给功能药剂添加一个词缀"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 12,
+      "columns": {
+        "Text": [
+          {
+            "en": "Open a Portal",
+            "zh": "开启一个传送门"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 13,
+      "columns": {
+        "Text": [
+          {
+            "en": "Craft an Aspect Skill onto an Item",
+            "zh": "给物品加上一个势类技能"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 14,
+      "columns": {
+        "Text": [
+          {
+            "en": "Gain Atlas Crafts",
+            "zh": "获得异界工艺"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 15,
+      "columns": {
+        "Text": [
+          {
+            "en": "Enchant a Utility Flask",
+            "zh": "给功能药剂附魔"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 16,
+      "columns": {
+        "Text": [
+          {
+            "en": "Create a Talisman",
+            "zh": "制作一个魔符"
+          }
+        ]
+      }
+    }
+  ]
+}

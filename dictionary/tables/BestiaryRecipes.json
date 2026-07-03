@@ -1,0 +1,1750 @@
+{
+  "table": "BestiaryRecipes",
+  "key": "Id",
+  "columns": [
+    "Description",
+    "Notes"
+  ],
+  "entries": [
+    {
+      "id": "EinharMasterCraft1",
+      "index": 0,
+      "columns": {
+        "Description": [
+          {
+            "en": "A Stack of 8 Chromatic Orbs",
+            "zh": "一叠8个的幻色石"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraft2",
+      "index": 1,
+      "columns": {
+        "Description": [
+          {
+            "en": "A Stack of 4 Jeweller's Orbs",
+            "zh": "一叠4个的工匠石"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraft3",
+      "index": 2,
+      "columns": {
+        "Description": [
+          {
+            "en": "Orb of Fusing",
+            "zh": "链结石"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraft4",
+      "index": 3,
+      "columns": {
+        "Description": [
+          {
+            "en": "Item",
+            "zh": "物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraft5",
+      "index": 4,
+      "columns": {
+        "Description": [
+          {
+            "en": "Ring",
+            "zh": "戒指"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraft6",
+      "index": 5,
+      "columns": {
+        "Description": [
+          {
+            "en": "Amulet",
+            "zh": "项链"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraft7",
+      "index": 6,
+      "columns": {
+        "Description": [
+          {
+            "en": "Belt",
+            "zh": "腰带"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraft8",
+      "index": 7,
+      "columns": {
+        "Description": [
+          {
+            "en": "Flask",
+            "zh": "药剂"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraft9",
+      "index": 8,
+      "columns": {
+        "Description": [
+          {
+            "en": "Helmet",
+            "zh": "头盔"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraft10",
+      "index": 9,
+      "columns": {
+        "Description": [
+          {
+            "en": "Body Armour",
+            "zh": "护甲"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraft11",
+      "index": 10,
+      "columns": {
+        "Description": [
+          {
+            "en": "Boots",
+            "zh": "鞋子"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraft12",
+      "index": 11,
+      "columns": {
+        "Description": [
+          {
+            "en": "Gloves",
+            "zh": "手套"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraft13",
+      "index": 12,
+      "columns": {
+        "Description": [
+          {
+            "en": "Talisman",
+            "zh": "魔符"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraft14",
+      "index": 13,
+      "columns": {
+        "Description": [
+          {
+            "en": "Claw or Dagger",
+            "zh": "爪或匕首"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraft15",
+      "index": 14,
+      "columns": {
+        "Description": [
+          {
+            "en": "Mace or Sceptre",
+            "zh": "锤或权杖"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraft16",
+      "index": 15,
+      "columns": {
+        "Description": [
+          {
+            "en": "Shield or Quiver",
+            "zh": "护盾或箭袋"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraft17",
+      "index": 16,
+      "columns": {
+        "Description": [
+          {
+            "en": "Sword or Axe",
+            "zh": "剑类或斧类"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraft18",
+      "index": 17,
+      "columns": {
+        "Description": [
+          {
+            "en": "Staff",
+            "zh": "长杖"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraft20",
+      "index": 18,
+      "columns": {
+        "Description": [
+          {
+            "en": "Bow",
+            "zh": "弓"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraft21",
+      "index": 19,
+      "columns": {
+        "Description": [
+          {
+            "en": "Wand",
+            "zh": "法杖"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraft22",
+      "index": 20,
+      "columns": {
+        "Description": [
+          {
+            "en": "Map",
+            "zh": "地图"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraft23",
+      "index": 21,
+      "columns": {
+        "Description": [
+          {
+            "en": "23% Quality Corrupted Gem",
+            "zh": "品质 23% 的腐化技能石"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraft24",
+      "index": 22,
+      "columns": {
+        "Description": [
+          {
+            "en": "Level 21 Corrupted Gem",
+            "zh": "等级21的腐化技能石"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraft25",
+      "index": 23,
+      "columns": {
+        "Description": [
+          {
+            "en": "Fully-linked Six-socket Rare",
+            "zh": "完全六连稀有物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraft26",
+      "index": 24,
+      "columns": {
+        "Description": [
+          {
+            "en": "A Stack of 10 Random Currency",
+            "zh": "一叠10个的随机通货物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraft27",
+      "index": 25,
+      "columns": {
+        "Description": [
+          {
+            "en": "Of a Magic Item",
+            "zh": "一个魔法物品的"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraft28",
+      "index": 26,
+      "columns": {
+        "Description": [
+          {
+            "en": "To have 30% Quality",
+            "zh": "拥有30%品质"
+          }
+        ],
+        "Notes": [
+          {
+            "en": "Only works on armour and weapons",
+            "zh": "只对护甲和武器有效"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraft29",
+      "index": 27,
+      "columns": {
+        "Description": [
+          {
+            "en": "From a Gilded Scarab to a Winged Scarab",
+            "zh": "从镀金圣甲虫变为有翼圣甲虫"
+          }
+        ],
+        "Notes": [
+          {
+            "en": "Scarab will be of the same type",
+            "zh": "圣甲虫将变为相同类型的圣甲虫"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraft30",
+      "index": 28,
+      "columns": {
+        "Description": [
+          {
+            "en": "Add a Suffix, Remove a Random Prefix",
+            "zh": "添加一个后缀，去除一个随机前缀"
+          }
+        ],
+        "Notes": [
+          {
+            "en": "Only works on rare items",
+            "zh": "只对稀有物品生效"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraft31",
+      "index": 29,
+      "columns": {
+        "Description": [
+          {
+            "en": "Add a Prefix, Remove a Random Suffix",
+            "zh": "添加一个前缀，去除一个随机后缀"
+          }
+        ],
+        "Notes": [
+          {
+            "en": "Only works on rare items",
+            "zh": "只对稀有物品生效"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraft32",
+      "index": 30,
+      "columns": {
+        "Description": [
+          {
+            "en": "With Half the Mods on Each Item",
+            "zh": "每个物品拥有一半词缀"
+          }
+        ],
+        "Notes": [
+          {
+            "en": "Does not work on Influenced or Split items",
+            "zh": "不对分裂物品或影响效果物品生效"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraft33",
+      "index": 31,
+      "columns": {
+        "Description": [
+          {
+            "en": "Into Another Random Unique Item",
+            "zh": "变成一个随机传奇物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraftFlask1",
+      "index": 32,
+      "columns": {
+        "Description": [
+          {
+            "en": "Adds \"of Convection\"",
+            "zh": "添加“对流之”"
+          }
+        ],
+        "Notes": [
+          {
+            "en": "Requires Flask to have no existing Suffix",
+            "zh": "需要没有现存后缀的药剂"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraftFlask2",
+      "index": 33,
+      "columns": {
+        "Description": [
+          {
+            "en": "Adds \"of Damping\"",
+            "zh": "添加“潮息之”"
+          }
+        ],
+        "Notes": [
+          {
+            "en": "Requires Flask to have no existing Suffix",
+            "zh": "需要没有现存后缀的药剂"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraftFlask3",
+      "index": 34,
+      "columns": {
+        "Description": [
+          {
+            "en": "Adds \"of Sealing\"",
+            "zh": "添加“封闭之”"
+          }
+        ],
+        "Notes": [
+          {
+            "en": "Requires Flask to have no existing Suffix",
+            "zh": "需要没有现存后缀的药剂"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraftFlask4",
+      "index": 35,
+      "columns": {
+        "Description": [
+          {
+            "en": "Adds \"of Earthing\"",
+            "zh": "添加“下地之”"
+          }
+        ],
+        "Notes": [
+          {
+            "en": "Requires Flask to have no existing Suffix",
+            "zh": "需要没有现存后缀的药剂"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraftFlask5",
+      "index": 36,
+      "columns": {
+        "Description": [
+          {
+            "en": "Adds \"of the Antitoxin\"",
+            "zh": "添加“抗毒之”"
+          }
+        ],
+        "Notes": [
+          {
+            "en": "Requires Flask to have no existing Suffix",
+            "zh": "需要没有现存后缀的药剂"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraftFlask6",
+      "index": 37,
+      "columns": {
+        "Description": [
+          {
+            "en": "Adds \"of Warding\"",
+            "zh": "添加“守护之”"
+          }
+        ],
+        "Notes": [
+          {
+            "en": "Requires Flask to have no existing Suffix",
+            "zh": "需要没有现存后缀的药剂"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraftFlask7",
+      "index": 38,
+      "columns": {
+        "Description": [
+          {
+            "en": "Adds \"of the Lizard\"",
+            "zh": "添加“蜥蜴之”"
+          }
+        ],
+        "Notes": [
+          {
+            "en": "Requires Flask to have no existing Suffix",
+            "zh": "需要没有现存后缀的药剂"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraftFlask8",
+      "index": 39,
+      "columns": {
+        "Description": [
+          {
+            "en": "Adds \"of the Skunk\"",
+            "zh": "添加“臭鼬之”"
+          }
+        ],
+        "Notes": [
+          {
+            "en": "Requires Flask to have no existing Suffix",
+            "zh": "需要没有现存后缀的药剂"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraftFlask9",
+      "index": 40,
+      "columns": {
+        "Description": [
+          {
+            "en": "Adds \"of the Conger\"",
+            "zh": "添加“鳗鱼之”"
+          }
+        ],
+        "Notes": [
+          {
+            "en": "Requires Flask to have no existing Suffix",
+            "zh": "需要没有现存后缀的药剂"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraftFlask10",
+      "index": 41,
+      "columns": {
+        "Description": [
+          {
+            "en": "Adds \"of the Deer\"",
+            "zh": "添加“森鹿之”"
+          }
+        ],
+        "Notes": [
+          {
+            "en": "Requires Flask to have no existing Suffix",
+            "zh": "需要没有现存后缀的药剂"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraftFlask11",
+      "index": 42,
+      "columns": {
+        "Description": [
+          {
+            "en": "Adds \"of the Urchin\"",
+            "zh": "添加“山猬之”"
+          }
+        ],
+        "Notes": [
+          {
+            "en": "Requires Flask to have no existing Suffix",
+            "zh": "需要没有现存后缀的药剂"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraft34",
+      "index": 43,
+      "columns": {
+        "Description": [
+          {
+            "en": "to Farrul's Den",
+            "zh": "去往法瑞尔的巢穴"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraft35",
+      "index": 44,
+      "columns": {
+        "Description": [
+          {
+            "en": "to Saqawal's Roost",
+            "zh": "去往萨奇沃的栖地"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraft36",
+      "index": 45,
+      "columns": {
+        "Description": [
+          {
+            "en": "to Fenumus' Lair",
+            "zh": "去往费努姆斯的巢穴"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraft37",
+      "index": 46,
+      "columns": {
+        "Description": [
+          {
+            "en": "to Craiceann's Cove",
+            "zh": "去往克林斯昂的湾谷"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraft38",
+      "index": 47,
+      "columns": {
+        "Description": [
+          {
+            "en": "Aspect of the Cat skill",
+            "zh": "猫之势技能"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraft39",
+      "index": 48,
+      "columns": {
+        "Description": [
+          {
+            "en": "Aspect of the Avian skill",
+            "zh": "鸟之势技能"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraft40",
+      "index": 49,
+      "columns": {
+        "Description": [
+          {
+            "en": "Aspect of the Spider skill",
+            "zh": "蛛之势技能"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraft41",
+      "index": 50,
+      "columns": {
+        "Description": [
+          {
+            "en": "Aspect of the Crab skill",
+            "zh": "蟹之势技能"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraft42",
+      "index": 51,
+      "columns": {
+        "Description": [
+          {
+            "en": "Add a Mod to a Shaper Item",
+            "zh": "给塑界者物品加一个词缀"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraft43",
+      "index": 52,
+      "columns": {
+        "Description": [
+          {
+            "en": "Add a Mod to an Elder Item",
+            "zh": "给裂界者物品加一个词缀"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraft44",
+      "index": 53,
+      "columns": {
+        "Description": [
+          {
+            "en": "Add a Mod to a Redeemer Item",
+            "zh": "给救赎者物品加一个词缀"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraft45",
+      "index": 54,
+      "columns": {
+        "Description": [
+          {
+            "en": "Add a Mod to a Hunter Item",
+            "zh": "给狩猎者物品加一个词缀"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraft46",
+      "index": 55,
+      "columns": {
+        "Description": [
+          {
+            "en": "Add a Mod to a Crusader Item",
+            "zh": "给圣战者物品加一个词缀"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraft47",
+      "index": 56,
+      "columns": {
+        "Description": [
+          {
+            "en": "Add a Mod to a Warlord Item",
+            "zh": "给督军物品加一个词缀"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraft48",
+      "index": 57,
+      "columns": {
+        "Description": [
+          {
+            "en": "Double Corrupt a Map",
+            "zh": "双倍腐化一张地图"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraft49",
+      "index": 58,
+      "columns": {
+        "Description": [
+          {
+            "en": "Add a Mod to a Rare Map",
+            "zh": "给稀有地图加一个词缀"
+          }
+        ],
+        "Notes": [
+          {
+            "en": "Only works on rare maps",
+            "zh": "只对稀有地图有效"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraft50",
+      "index": 59,
+      "columns": {
+        "Description": [
+          {
+            "en": "A Stack of 2 Orbs of Binding",
+            "zh": "一叠 2 件装绑定石"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraft51",
+      "index": 60,
+      "columns": {
+        "Description": [
+          {
+            "en": "A Stack of 3 Orbs of Horizons",
+            "zh": "一叠 3 件装平行石"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraftMemoryLine1",
+      "index": 61,
+      "columns": {
+        "Description": [
+          {
+            "en": "Add a crafted Meta-modifier to a non-Unique Item",
+            "zh": "在一个非传奇物品上添加制作完成的词缀"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraftMemoryLine2",
+      "index": 62,
+      "columns": {
+        "Description": [
+          {
+            "en": "Reroll a Watcher's Eye Modifier",
+            "zh": "重置一个守望之眼的词缀"
+          }
+        ],
+        "Notes": [
+          {
+            "en": "Cannot reroll Maximum Life, Mana or Energy Shield modifiers",
+            "zh": "无法重置最大生命值、魔力或能量护盾词缀"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraftMemoryLine3",
+      "index": 63,
+      "columns": {
+        "Description": [
+          {
+            "en": "Increase level of non-Corrupted Awakened Gem by 1",
+            "zh": "将未腐化的觉醒宝石提升1级"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraftMemoryLine4",
+      "index": 64,
+      "columns": {
+        "Description": [
+          {
+            "en": "Reroll an Awakened Support Gem",
+            "zh": "重置一颗强化辅助宝石"
+          }
+        ],
+        "Notes": [
+          {
+            "en": "Cannot result in Awakened Empower, Enhance or Enlighten",
+            "zh": "无法用于强化赋予、启蒙或增幅技能石"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraftMemoryLine5",
+      "index": 65,
+      "columns": {
+        "Description": [
+          {
+            "en": "Reroll a Synthesis Implicit Modifier",
+            "zh": "重置一个虚空忆境基底词缀"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraftMemoryLine6",
+      "index": 66,
+      "columns": {
+        "Description": [
+          {
+            "en": "Shaper Guardian, Elder Guardian or Conqueror Map",
+            "zh": "塑界守卫、裂界守卫或征服者地图"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraftMemoryLine7",
+      "index": 67,
+      "columns": {
+        "Description": [
+          {
+            "en": "Vaal Temple Map",
+            "zh": "瓦尔密殿地图"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraftMemoryLine8",
+      "index": 68,
+      "columns": {
+        "Description": [
+          {
+            "en": "Gain a free use of each Map Crafting Option",
+            "zh": "免费使用一次所有地图工艺选项"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraftMemoryLine9",
+      "index": 69,
+      "columns": {
+        "Description": [
+          {
+            "en": "Gain one of each Atlas Mission",
+            "zh": "获得所有异界图鉴任务各一个"
+          }
+        ],
+        "Notes": [
+          {
+            "en": "Colour of Mission is based on Level of Red Beast",
+            "zh": "任务颜色取决于红野兽等级"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraftHardModeFlask1",
+      "index": 70,
+      "columns": {
+        "Description": [
+          {
+            "en": "Adds \"Used when an adjacent Flask is used\"",
+            "zh": "添加“当使用相邻药剂时使用”"
+          }
+        ],
+        "Notes": [
+          {
+            "en": "Replaces any existing Enchantment",
+            "zh": "替换任何现有附魔"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraftHardModeFlask2",
+      "index": 71,
+      "columns": {
+        "Description": [
+          {
+            "en": "Adds \"Reused at the end of this Flask's effect\"",
+            "zh": "添加“当该药剂效果结束时重新使用”"
+          }
+        ],
+        "Notes": [
+          {
+            "en": "Replaces any existing Enchantment",
+            "zh": "替换任何现有附魔"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraftHardModeFlask3",
+      "index": 72,
+      "columns": {
+        "Description": [
+          {
+            "en": "Adds \"Used when Charges reach full\"",
+            "zh": "添加“当充能完毕时使用”"
+          }
+        ],
+        "Notes": [
+          {
+            "en": "Replaces any existing Enchantment",
+            "zh": "替换任何现有附魔"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraftHardModeFlask4",
+      "index": 73,
+      "columns": {
+        "Description": [
+          {
+            "en": "Adds \"Used when you Use a Guard Skill\"",
+            "zh": "添加“当你使用一个防卫技能时使用”"
+          }
+        ],
+        "Notes": [
+          {
+            "en": "Replaces any existing Enchantment",
+            "zh": "替换任何现有附魔"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraftHardModeFlask5",
+      "index": 74,
+      "columns": {
+        "Description": [
+          {
+            "en": "Adds \"Used when you Use a Travel Skill\"",
+            "zh": "添加“当你使用一个旅行技能时使用”"
+          }
+        ],
+        "Notes": [
+          {
+            "en": "Replaces any existing Enchantment",
+            "zh": "替换任何现有附魔"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraftHardModeFlask6",
+      "index": 75,
+      "columns": {
+        "Description": [
+          {
+            "en": "Adds \"Used when you Hit a Rare or Unique Enemy, if not already in effect\"",
+            "zh": "添加“当你击中一个稀有或传奇敌人，且并未受到该药剂效果影响时使用”"
+          }
+        ],
+        "Notes": [
+          {
+            "en": "Replaces any existing Enchantment",
+            "zh": "替换任何现有附魔"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraftHardModeFlask7",
+      "index": 76,
+      "columns": {
+        "Description": [
+          {
+            "en": "Adds \"Used when you become Frozen\"",
+            "zh": "添加“当你被冰冻时使用”"
+          }
+        ],
+        "Notes": [
+          {
+            "en": "Replaces any existing Enchantment",
+            "zh": "替换任何现有附魔"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraftHardModeFlask8",
+      "index": 77,
+      "columns": {
+        "Description": [
+          {
+            "en": "Adds \"Used when you become Chilled\"",
+            "zh": "添加“当你被冰缓时使用”"
+          }
+        ],
+        "Notes": [
+          {
+            "en": "Replaces any existing Enchantment",
+            "zh": "替换任何现有附魔"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraftHardModeFlask9",
+      "index": 78,
+      "columns": {
+        "Description": [
+          {
+            "en": "Adds \"Used when you become Shocked\"",
+            "zh": "添加“当你感电时使用”"
+          }
+        ],
+        "Notes": [
+          {
+            "en": "Replaces any existing Enchantment",
+            "zh": "替换任何现有附魔"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraftHardModeFlask10",
+      "index": 79,
+      "columns": {
+        "Description": [
+          {
+            "en": "Adds \"Used when you become Ignited\"",
+            "zh": "添加“当你被点燃时使用”"
+          }
+        ],
+        "Notes": [
+          {
+            "en": "Replaces any existing Enchantment",
+            "zh": "替换任何现有附魔"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraftHardModeFlask11",
+      "index": 80,
+      "columns": {
+        "Description": [
+          {
+            "en": "Adds \"Used when you start Bleeding\"",
+            "zh": "添加“当你流血时使用”"
+          }
+        ],
+        "Notes": [
+          {
+            "en": "Replaces any existing Enchantment",
+            "zh": "替换任何现有附魔"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraftHardModeFlask12",
+      "index": 81,
+      "columns": {
+        "Description": [
+          {
+            "en": "Adds \"Used when you become Poisoned\"",
+            "zh": "添加“当你中毒时使用”"
+          }
+        ],
+        "Notes": [
+          {
+            "en": "Replaces any existing Enchantment",
+            "zh": "替换任何现有附魔"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraftHardModeFlask13",
+      "index": 82,
+      "columns": {
+        "Description": [
+          {
+            "en": "Adds \"Used when you Block\"",
+            "zh": "添加“当你格挡时使用”"
+          }
+        ],
+        "Notes": [
+          {
+            "en": "Replaces any existing Enchantment",
+            "zh": "替换任何现有附魔"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraftHardModeFlask14",
+      "index": 83,
+      "columns": {
+        "Description": [
+          {
+            "en": "Adds \"Used when you take a Savage Hit\"",
+            "zh": "添加“当你受到一次残暴打击时使用”"
+          }
+        ],
+        "Notes": [
+          {
+            "en": "Replaces any existing Enchantment",
+            "zh": "替换任何现有附魔"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraftHardModeFlask15",
+      "index": 84,
+      "columns": {
+        "Description": [
+          {
+            "en": "Adds \"Used when you use a Life Flask\"",
+            "zh": "添加“当你使用一个生命药剂时使用”"
+          }
+        ],
+        "Notes": [
+          {
+            "en": "Replaces any existing Enchantment",
+            "zh": "替换任何现有附魔"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraft1HardMode",
+      "index": 85,
+      "columns": {
+        "Description": [
+          {
+            "en": "Breakrib Talisman",
+            "zh": "碎骨魔符"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraft2HardMode",
+      "index": 86,
+      "columns": {
+        "Description": [
+          {
+            "en": "Ashscale Talisman",
+            "zh": "灰烬魔符"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraft3HardMode",
+      "index": 87,
+      "columns": {
+        "Description": [
+          {
+            "en": "Lone Antler Talisman",
+            "zh": "孤角魔符"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraft4HardMode",
+      "index": 88,
+      "columns": {
+        "Description": [
+          {
+            "en": "Deep One Talisman",
+            "zh": "深渊魔符"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraft5HardMode",
+      "index": 89,
+      "columns": {
+        "Description": [
+          {
+            "en": "Chrysalis Talisman",
+            "zh": "虫蛹魔符"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraft6HardMode",
+      "index": 90,
+      "columns": {
+        "Description": [
+          {
+            "en": "Writhing Talisman",
+            "zh": "狂癫魔符"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraft7HardMode",
+      "index": 91,
+      "columns": {
+        "Description": [
+          {
+            "en": "Mandible Talisman",
+            "zh": "巨颚魔符"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraft8HardMode",
+      "index": 92,
+      "columns": {
+        "Description": [
+          {
+            "en": "Bonespire Talisman",
+            "zh": "脊骨魔符"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraft9HardMode",
+      "index": 93,
+      "columns": {
+        "Description": [
+          {
+            "en": "Deadhand Talisman",
+            "zh": "亡手魔符"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraft10HardMode",
+      "index": 94,
+      "columns": {
+        "Description": [
+          {
+            "en": "Undying Flesh Talisman",
+            "zh": "不朽魔符"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraft11HardMode",
+      "index": 95,
+      "columns": {
+        "Description": [
+          {
+            "en": "Black Maw Talisman",
+            "zh": "黑牙魔符"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraft12HardMode",
+      "index": 96,
+      "columns": {
+        "Description": [
+          {
+            "en": "Splitnewt Talisman",
+            "zh": "断螈魔符"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraft13HardMode",
+      "index": 97,
+      "columns": {
+        "Description": [
+          {
+            "en": "Clutching Talisman",
+            "zh": "咒箍魔符"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraft14HardMode",
+      "index": 98,
+      "columns": {
+        "Description": [
+          {
+            "en": "Horned Talisman",
+            "zh": "尖角魔符"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraft15HardMode",
+      "index": 99,
+      "columns": {
+        "Description": [
+          {
+            "en": "Primal Skull Talisman",
+            "zh": "皇骨魔符"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraft16HardMode",
+      "index": 100,
+      "columns": {
+        "Description": [
+          {
+            "en": "Hexclaw Talisman",
+            "zh": "幻爪魔符"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraft17HardMode",
+      "index": 101,
+      "columns": {
+        "Description": [
+          {
+            "en": "Fangjaw Talisman",
+            "zh": "齿鲨魔符"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraft18HardMode",
+      "index": 102,
+      "columns": {
+        "Description": [
+          {
+            "en": "Wereclaw Talisman",
+            "zh": "亡爪魔符"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraft19HardMode",
+      "index": 103,
+      "columns": {
+        "Description": [
+          {
+            "en": "Monkey Twins Talisman",
+            "zh": "双猴魔符"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraft20HardMode",
+      "index": 104,
+      "columns": {
+        "Description": [
+          {
+            "en": "Three Hands Talisman",
+            "zh": "三手魔符"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraft21HardMode",
+      "index": 105,
+      "columns": {
+        "Description": [
+          {
+            "en": "Longtooth Talisman",
+            "zh": "长牙魔符"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraft22HardMode",
+      "index": 106,
+      "columns": {
+        "Description": [
+          {
+            "en": "Rotfeather Talisman",
+            "zh": "死羽魔符"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraft23HardMode",
+      "index": 107,
+      "columns": {
+        "Description": [
+          {
+            "en": "Three Rat Talisman",
+            "zh": "三鼠魔符"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraft24HardMode",
+      "index": 108,
+      "columns": {
+        "Description": [
+          {
+            "en": "Avian Twins Talisman (Fire)",
+            "zh": "双子魔符（火焰）"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraft25HardMode",
+      "index": 109,
+      "columns": {
+        "Description": [
+          {
+            "en": "Avian Twins Talisman (Lightning)",
+            "zh": "双子魔符（闪电）"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraft26HardMode",
+      "index": 110,
+      "columns": {
+        "Description": [
+          {
+            "en": "Avian Twins Talisman (Cold)",
+            "zh": "双子魔符（冰霜）"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraft27HardMode",
+      "index": 111,
+      "columns": {
+        "Description": [
+          {
+            "en": "Monkey Paw Talisman (Power)",
+            "zh": "猴掌魔符（暴击）"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraft28HardMode",
+      "index": 112,
+      "columns": {
+        "Description": [
+          {
+            "en": "Monkey Paw Talisman (Frenzy)",
+            "zh": "猴掌魔符（狂怒）"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraft29HardMode",
+      "index": 113,
+      "columns": {
+        "Description": [
+          {
+            "en": "Monkey Paw Talisman (Endurance)",
+            "zh": "猴掌魔符（耐力）"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraft30HardMode",
+      "index": 114,
+      "columns": {
+        "Description": [
+          {
+            "en": "A Stack of 5 Random Currency",
+            "zh": "一叠5个的随机通货物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraft31HardMode",
+      "index": 115,
+      "columns": {
+        "Description": [
+          {
+            "en": "Of a Magic Item",
+            "zh": "一个魔法物品的"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraft32HardMode",
+      "index": 116,
+      "columns": {
+        "Description": [
+          {
+            "en": "To have 30% Quality",
+            "zh": "拥有30%品质"
+          }
+        ],
+        "Notes": [
+          {
+            "en": "Only works on armour and weapons",
+            "zh": "只对护甲和武器有效"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraft33HardMode",
+      "index": 117,
+      "columns": {
+        "Description": [
+          {
+            "en": "Into Another Random Unique Item",
+            "zh": "变成一个随机传奇物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraft34HardMode",
+      "index": 118,
+      "columns": {
+        "Description": [
+          {
+            "en": "Double Corrupt a Map",
+            "zh": "双倍腐化一张地图"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraft35HardMode",
+      "index": 119,
+      "columns": {
+        "Description": [
+          {
+            "en": "to Farrul's Den",
+            "zh": "去往法瑞尔的巢穴"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraft36HardMode",
+      "index": 120,
+      "columns": {
+        "Description": [
+          {
+            "en": "to Saqawal's Roost",
+            "zh": "去往萨奇沃的栖地"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraft37HardMode",
+      "index": 121,
+      "columns": {
+        "Description": [
+          {
+            "en": "to Fenumus' Lair",
+            "zh": "去往费努姆斯的巢穴"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraft38HardMode",
+      "index": 122,
+      "columns": {
+        "Description": [
+          {
+            "en": "to Craiceann's Cove",
+            "zh": "去往克林斯昂的湾谷"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraft39HardMode",
+      "index": 123,
+      "columns": {
+        "Description": [
+          {
+            "en": "Aspect of the Cat skill",
+            "zh": "猫之势技能"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraft40HardMode",
+      "index": 124,
+      "columns": {
+        "Description": [
+          {
+            "en": "Aspect of the Avian skill",
+            "zh": "鸟之势技能"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraft41HardMode",
+      "index": 125,
+      "columns": {
+        "Description": [
+          {
+            "en": "Aspect of the Spider skill",
+            "zh": "蛛之势技能"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EinharMasterCraft42HardMode",
+      "index": 126,
+      "columns": {
+        "Description": [
+          {
+            "en": "Aspect of the Crab skill",
+            "zh": "蟹之势技能"
+          }
+        ]
+      }
+    }
+  ]
+}

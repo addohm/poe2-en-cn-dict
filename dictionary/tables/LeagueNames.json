@@ -1,0 +1,118 @@
+{
+  "table": "LeagueNames",
+  "key": "Id",
+  "columns": [
+    "Name1",
+    "Name2"
+  ],
+  "entries": [
+    {
+      "id": "Standard",
+      "index": 0,
+      "columns": {
+        "Name1": [
+          {
+            "en": "Standard",
+            "zh": "永久"
+          }
+        ],
+        "Name2": [
+          {
+            "en": "Standard",
+            "zh": "永久"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Village",
+      "index": 1,
+      "columns": {
+        "Name1": [
+          {
+            "en": "Settlers",
+            "zh": "君锋城下"
+          }
+        ],
+        "Name2": [
+          {
+            "en": "Settlers",
+            "zh": "君锋城下"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DawnOfTheHunt",
+      "index": 2,
+      "columns": {
+        "Name1": [
+          {
+            "en": "Dawn of the Hunt",
+            "zh": "狩猎黎明"
+          }
+        ],
+        "Name2": [
+          {
+            "en": "Dawn of the Hunt",
+            "zh": "狩猎黎明"
+          }
+        ]
+      }
+    },
+    {
+      "id": "RiseOfTheAbyssal",
+      "index": 3,
+      "columns": {
+        "Name1": [
+          {
+            "en": "Rise Of The Abyssal",
+            "zh": "深渊崛起"
+          }
+        ],
+        "Name2": [
+          {
+            "en": "Rise Of The Abyssal",
+            "zh": "深渊崛起"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FateOfTheVaal",
+      "index": 4,
+      "columns": {
+        "Name1": [
+          {
+            "en": "Fate Of The Vaal",
+            "zh": "瓦尔的宿命"
+          }
+        ],
+        "Name2": [
+          {
+            "en": "Fate Of The Vaal",
+            "zh": "瓦尔的宿命"
+          }
+        ]
+      }
+    },
+    {
+      "id": "RunesofAldur",
+      "index": 5,
+      "columns": {
+        "Name1": [
+          {
+            "en": "Runes of Aldur",
+            "zh": "奥杜尔秘符"
+          }
+        ],
+        "Name2": [
+          {
+            "en": "Runes of Aldur",
+            "zh": "奥杜尔秘符"
+          }
+        ]
+      }
+    }
+  ]
+}

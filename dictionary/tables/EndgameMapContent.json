@@ -1,0 +1,1192 @@
+{
+  "table": "EndgameMapContent",
+  "key": "Id",
+  "columns": [
+    "Description",
+    "Name"
+  ],
+  "entries": [
+    {
+      "id": "PowerfulMapBoss",
+      "index": 0,
+      "columns": {
+        "Description": [
+          {
+            "en": "Area contains a [PowerfulMapBoss|Powerful Map Boss]",
+            "zh": "区域内包含一个[PowerfulMapBoss|强力地图首领]"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Powerful Map Boss",
+            "zh": "强力地图首领"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Breach",
+      "index": 1,
+      "columns": {
+        "Description": [
+          {
+            "en": "Area contains an [ContainsBreach|Otherworldly Breach]",
+            "zh": "区域内包含一个[ContainsBreach|异世裂隙]"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Breach",
+            "zh": "裂隙"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Expedition",
+      "index": 2,
+      "columns": {
+        "Description": [
+          {
+            "en": "Area contains a [ContainsExpedition|Kalguuran Expedition]",
+            "zh": "区域内包含一个[ContainsExpedition|卡古兰先祖迷藏]"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Expedition",
+            "zh": "先祖秘藏"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Delirium",
+      "index": 3,
+      "columns": {
+        "Description": [
+          {
+            "en": "Area contains a [ContainsDelirium|Delirium Mirror]",
+            "zh": "区域内包含一个[ContainsDelirium|惊悸迷雾之镜]"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Delirium",
+            "zh": "惊悸迷雾"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Ritual",
+      "index": 4,
+      "columns": {
+        "Description": [
+          {
+            "en": "Area contains [ContainsRitual|Ritual Altars]",
+            "zh": "区域内包含[ContainsRitual|驱灵祭坛]"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Ritual",
+            "zh": "驱灵仪式"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Irradiated",
+      "index": 5,
+      "columns": {
+        "Description": [
+          {
+            "en": "Area has +1 to Monster Level",
+            "zh": "区域的怪物等级 +1"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Irradiated",
+            "zh": "能量辐照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AbyssOverrun",
+      "index": 6,
+      "columns": {
+        "Description": [
+          {
+            "en": "Area contains many extra [ContainsAbyss|Abysses]",
+            "zh": "区域内包含多个额外[ContainsAbyss|深渊]"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Overrun by the Abyssal",
+            "zh": "被深渊侵占"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Incursion",
+      "index": 7,
+      "columns": {
+        "Description": [
+          {
+            "en": "Area contains [ContainsIncursion|Vaal Beacons]",
+            "zh": "区域内包含[ContainsIncursion|瓦尔灯塔]"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Vaal Beacons",
+            "zh": "瓦尔灯塔"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Abyss",
+      "index": 8,
+      "columns": {
+        "Description": [
+          {
+            "en": "Area contains [ContainsAbyss|Abysses]",
+            "zh": "区域内包含[ContainsAbyss|深渊]"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Abyss",
+            "zh": "深渊"
+          }
+        ]
+      }
+    },
+    {
+      "id": "QuestArea",
+      "index": 9,
+      "columns": {
+        "Description": [
+          {
+            "en": "Area contains an important objective",
+            "zh": "区域包含一个重要目标"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Notable Location",
+            "zh": "关键地点"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HildaHuntBoss",
+      "index": 11,
+      "columns": {
+        "Description": [
+          {
+            "en": "Slay the [GreatBeast|Great Beast] to earn [HildasFavour|Hilda's Favour]",
+            "zh": "击杀[GreatBeast|巨兽]，赢得[HildasFavour|希尔达的青睐]"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Great Beast",
+            "zh": "巨兽"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EssenceOverrun",
+      "index": 12,
+      "columns": {
+        "Description": [
+          {
+            "en": "All [Rarity|Rare] monsters are [Essence] monsters",
+            "zh": "区域内所有[Rarity|稀有]怪物均为[Essence|精华]怪物"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Essence Trove",
+            "zh": "精华秘宝"
+          }
+        ]
+      }
+    },
+    {
+      "id": "StrongboxMonsterousTreasure",
+      "index": 13,
+      "columns": {
+        "Description": [
+          {
+            "en": "Contains many extra [Strongbox|Strongboxes] with monsters waiting in ambush",
+            "zh": "区域内包含多个额外埋伏着怪物的[Strongbox|保险箱]"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Monstrous Treasure",
+            "zh": "怪物宝藏"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AzmeriSpiritGuide",
+      "index": 14,
+      "columns": {
+        "Description": [
+          {
+            "en": "Contains an [AzmeriSpirit|Azmeri Spirit] that will be released when [SpiritPossessed|Possessed] Monsters are slain",
+            "zh": "区域内包含一个[AzmeriSpirit|阿兹莫里之灵]，当击杀[SpiritPossessed|附身]怪物时释放。"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Spirit Guide",
+            "zh": "万灵指引"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MagicMonsters",
+      "index": 15,
+      "columns": {
+        "Description": [
+          {
+            "en": "All Monsters are at least [Rarity|Magic]",
+            "zh": "区域内所有怪物至少为[Rarity|魔法]怪物"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Arcane Hordes",
+            "zh": "奥法部落"
+          }
+        ]
+      }
+    },
+    {
+      "id": "RogueExileHuntingGrounds",
+      "index": 16,
+      "columns": {
+        "Description": [
+          {
+            "en": "Contains 2 additional [RogueExile|Rogue Exiles] and 5 additional Rare Beasts",
+            "zh": "区域内包含 2 个额外的[RogueExile|盗贼流放者]和 5 个额外的稀有野兽"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Hunting Grounds",
+            "zh": "猎场"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ShrinesReaseSpirits",
+      "index": 17,
+      "columns": {
+        "Description": [
+          {
+            "en": "Contains 2 additional [Shrine|Shrines]\n[Shrine|Shrines] release an [AzmeriSpirit|Azmeri Spirit] when activated",
+            "zh": "区域内包含 2 个额外[Shrine|神龛]，\n[Shrine|神龛]激活时会释放[AzmeriSpirit|阿兹莫里之灵]"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Nature Shrines",
+            "zh": "自然神龛"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EssenceTwinned",
+      "index": 18,
+      "columns": {
+        "Description": [
+          {
+            "en": "Contains 3 additional [Essence] Packs\n[Essence] Packs have an additional [Rarity|Rare] Monster",
+            "zh": "区域内包含 3 个额外[Essence|精华]群落，\n[Essence|精华]群落额外包含 1 个[Rarity|稀有]怪物"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Crystalised Twinning",
+            "zh": "晶化双生"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EssenceTransfer",
+      "index": 19,
+      "columns": {
+        "Description": [
+          {
+            "en": "Contains 3 additional [Essence]\n[Essence|Essences] transfer to a random Unique Monster on death",
+            "zh": "区域包含 3 个 额外[Essence|精华]，\n死亡时[Essence|精华]转移至 1 个随机传奇怪物"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Indomitable Essence",
+            "zh": "不屈精华"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AzmeriSpiritHighPower",
+      "index": 20,
+      "columns": {
+        "Description": [
+          {
+            "en": "Contains 2 additional [AzmeriSpirit|Azmeri Spirits]\n[AzmeriSpirit|Azmeri Spirits] have 1000% increased maximum Empowerment ",
+            "zh": "区域包含 2 个额外[AzmeriSpirit|阿兹莫里之灵]，\n[AzmeriSpirit|阿兹莫里之灵]的最大强化提高 1000%"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Azmeri Energisation",
+            "zh": "阿兹莫里充能"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AzmeriMovingMaps",
+      "index": 21,
+      "columns": {
+        "Description": [
+          {
+            "en": "An [AzmeriSpirit|Azmeri Spirit] moves to a nearby map on completion, eventually ascending to a Sacred Spirit",
+            "zh": "[AzmeriSpirit|阿兹莫里之灵]在完成时移动到附近地图，最终升华为圣洁万灵"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Spirit Migration",
+            "zh": "游荡鬼灵"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AzmeriMovingMapsUpgraded",
+      "index": 22,
+      "columns": {
+        "Description": [
+          {
+            "en": "The [AzmeriSpirit|Azmeri Spirit] has ascended to a Sacred Spirit",
+            "zh": "[AzmeriSpirit|阿兹莫里之灵]已升华为圣洁万灵"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Sacred Spirit",
+            "zh": "圣洁万灵"
+          }
+        ]
+      }
+    },
+    {
+      "id": "StrongboxUnique",
+      "index": 23,
+      "columns": {
+        "Description": [
+          {
+            "en": "Contains a [Rarity|Unique] [Strongbox]",
+            "zh": "包含一个[Rarity|传奇][Strongbox|保险箱]"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Ancient Trove",
+            "zh": "远古宝库"
+          }
+        ]
+      }
+    },
+    {
+      "id": "StrongboxOpenTwiceChance",
+      "index": 24,
+      "columns": {
+        "Description": [
+          {
+            "en": "Contains 3 additional [Strongbox|Strongboxes]\n[Strongbox|Strongboxes] are openable twice",
+            "zh": "区域包含 3 个额外[Strongbox|保险箱]，\n[Strongbox|保险箱]可开启两次"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Twice-Locked Boxes",
+            "zh": "重锁宝箱"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ShrineEffect",
+      "index": 25,
+      "columns": {
+        "Description": [
+          {
+            "en": "Contains 3 additional [Shrine|Shrines]",
+            "zh": "区域内包含 3 个额外[Shrine|神龛]"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Power of Faith",
+            "zh": "信仰之力"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ShrinePackSize",
+      "index": 26,
+      "columns": {
+        "Description": [
+          {
+            "en": "Contains 3 additional [Shrine|Shrines]\n[Shrine|Shrines] have 2 additional packs of [ShrineMonster|Worshippers]",
+            "zh": "区域内包含 3 个额外[Shrine|神龛]，\n[Shrine|神龛]额外拥有 2 组[ShrineMonster|敬拜者]群落"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Large Congregation",
+            "zh": "邪教集会"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ShrineElementalBonus",
+      "index": 27,
+      "columns": {
+        "Description": [
+          {
+            "en": "Contains 2 additional [Shrine|Shrines]\n[ElementalDamage|Elemental] [Shrine|Shrines] do not appear in area\n[Shrine] Duration increased by 1000%",
+            "zh": "区域内包含 2 个额外[Shrine|神龛]，\n区域内不会出现[ElementalDamage|元素][Shrine|神龛]，\n[Shrine|神龛]持续时间提高 1000%"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Zealous Reverence",
+            "zh": "狂热崇敬"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ShrineExiry",
+      "index": 28,
+      "columns": {
+        "Description": [
+          {
+            "en": "[Shrine] Buffs are reapplied when entering the [MapBoss|Map Boss] Arena",
+            "zh": "进入[MapBoss|地图首领]竞技场时，[Shrine|神龛]增益会被重新施加"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Persistent Devotion",
+            "zh": "长久奉献"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ShrineRogueExile",
+      "index": 29,
+      "columns": {
+        "Description": [
+          {
+            "en": "Contains 2 additional [Shrine|Shrines]\n[Shrine|Shrines] are [ShrineMonster|Worshipped] by a [RogueExile|Rogue Exile]",
+            "zh": "区域内包含 2 个额外[Shrine|神龛]，\n[Shrine|神龛]被一名[RogueExile|盗贼流放者]所[ShrineMonster|敬拜]"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Rites of the Rogues",
+            "zh": "流放者仪式"
+          }
+        ]
+      }
+    },
+    {
+      "id": "RogueExileTwin",
+      "index": 30,
+      "columns": {
+        "Description": [
+          {
+            "en": "Contains 2 additional [RogueExile|Rogue Exiles]\n[RogueExile|Rogue Exiles] appear in Pairs",
+            "zh": "区域内包含 2 个额外[RogueExile|盗贼流放者]，\n[RogueExile|盗贼流放者]成对出现"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Surprising Alliances",
+            "zh": "意外联盟"
+          }
+        ]
+      }
+    },
+    {
+      "id": "RogueExilePossesOnSpiritDeath",
+      "index": 31,
+      "columns": {
+        "Description": [
+          {
+            "en": "Contains an additional [RogueExile|Rogue Exile] and 2 additional [AzmeriSpirit|Azmeri Spirits]\n[RogueExile|Rogue Exiles] are [SpiritPossessed|Possessed] when a Possessed Monster is killed in Area",
+            "zh": "区域内包含 1 个额外[RogueExile|盗贼流放者]和 2 个额外[AzmeriSpirit|阿兹莫里之灵]，\n当区域内的附身怪物被击杀时，[RogueExile|盗贼流放者]会被[SpiritPossessed|附身]"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Azmeri Bloodline",
+            "zh": "阿兹莫里血脉"
+          }
+        ]
+      }
+    },
+    {
+      "id": "StoneCircleDoubleBoss",
+      "index": 32,
+      "columns": {
+        "Description": [
+          {
+            "en": "Contains an additional [StoneSummoningCircle|Summoning Circles]\n[StoneSummoningCircle|Summoning Circles] always summon an additional Boss",
+            "zh": "区域内包含 1 个额外[StoneSummoningCircle|召唤法阵]，\n[StoneSummoningCircle|召唤法阵]总是额外召唤 1 个首领"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Twinned Terrors",
+            "zh": "恐惧双生"
+          }
+        ]
+      }
+    },
+    {
+      "id": "StoneCircleExtras",
+      "index": 33,
+      "columns": {
+        "Description": [
+          {
+            "en": "Contains 3 additional [StoneSummoningCircle|Summoning Circles] ",
+            "zh": "包含 3 个额外的[StoneSummoningCircle|召唤法阵]"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Scattered Stones",
+            "zh": "散落巨石"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MapChanged",
+      "index": 34,
+      "columns": {
+        "Description": [
+          {
+            "en": "World Area has been manipulated and cannot be manipulated again",
+            "zh": "世界区域已被操控，无法再次操控"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Map Area Modified",
+            "zh": "地图区域已修改"
+          }
+        ]
+      }
+    },
+    {
+      "id": "RogueExileUpgraded",
+      "index": 35,
+      "columns": {
+        "Name": [
+          {
+            "en": "Fleeing Exile",
+            "zh": "逃亡流放者"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BreachHive",
+      "index": 36,
+      "columns": {
+        "Description": [
+          {
+            "en": "Contains a [ContainsBreach|Breach Hive]",
+            "zh": "包含一个[ContainsBreach|裂隙巢穴]"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Breach Hive",
+            "zh": "裂隙巢穴"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Simulacrum",
+      "index": 37,
+      "columns": {
+        "Description": [
+          {
+            "en": "Contains a manifestation of [ContainsDelirium|Delirium] that requires 100% [Delirious|Delirousness] to enter",
+            "zh": "区域内包含一个[ContainsDelirium|惊悸迷雾]的拟像，需要 100% [Delirious|亢奋]度方可进入"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Simulacrum",
+            "zh": "梦魇拟像"
+          }
+        ]
+      }
+    },
+    {
+      "id": "OneOfAll",
+      "index": 38,
+      "columns": {
+        "Description": [
+          {
+            "en": "Contains an extra of each type of content",
+            "zh": "额外包含每种类型的内容各一个"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Chaotic Cacophony",
+            "zh": "混沌喧嚣"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ItemRarity",
+      "index": 39,
+      "columns": {
+        "Description": [
+          {
+            "en": "50% increased [Rarity] of items found in area",
+            "zh": "区域内找到的物品[Rarity|稀有度]提高 50%"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Affluent Armies",
+            "zh": "富庶军团"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BossUniqueItem",
+      "index": 40,
+      "columns": {
+        "Description": [
+          {
+            "en": "[MapBoss|Map Boss] drops a [Rarity|Unique] item",
+            "zh": "[MapBoss|地图首领]会掉落一件[Rarity|传奇]物品"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Monstrous Treasure",
+            "zh": "怪物宝藏"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BossUltimarumKey",
+      "index": 41,
+      "columns": {
+        "Description": [
+          {
+            "en": "[MapBoss|Map Boss] drops an [UltimatumKey|Inscribed Ultimatum]",
+            "zh": "[MapBoss|地图首领]会掉落一个[UltimatumKey|贪婪战书]"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Trialmaster's Trainee",
+            "zh": "试炼大师学徒"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BossSanctumKey",
+      "index": 42,
+      "columns": {
+        "Description": [
+          {
+            "en": "[MapBoss|Map Boss] drops a [SanctumKey|Djinn Barya]",
+            "zh": "[MapBoss|地图首领]会掉落一个[UltimatumKey|巨灵币]"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Sekhema's Student",
+            "zh": "丝克玛学徒"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AzmeriSpiritBossPossessed",
+      "index": 43,
+      "columns": {
+        "Description": [
+          {
+            "en": "[MapBoss|Map Boss] is [SpiritPossessed|Possessed]",
+            "zh": "[MapBoss|地图首领]被[SpiritPossessed|附身]"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Azmeri Champion",
+            "zh": "阿兹莫里冠军"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GiantMonsters",
+      "index": 44,
+      "columns": {
+        "Description": [
+          {
+            "en": "Monsters are [Gigantic], have 50% reduced pack size and drop 50% increased items",
+            "zh": "怪物为[Gigantic|庞然大物]，群落规模降低 50%，掉落物品增加 50%"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Gigantic Uprising",
+            "zh": "巨物崛起"
+          }
+        ]
+      }
+    },
+    {
+      "id": "RareCurrencyOnly",
+      "index": 45,
+      "columns": {
+        "Description": [
+          {
+            "en": "Currency found is replaced with rarer varieties",
+            "zh": "找到的通货替换为更稀有的种类"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Glimmering Mutation",
+            "zh": "闪耀变异"
+          }
+        ]
+      }
+    },
+    {
+      "id": "StoneCircleBossEmpoweredPerEnemySlain",
+      "index": 46,
+      "columns": {
+        "Description": [
+          {
+            "en": "Contains an additional [StoneSummoningCircle|Summoning Circle]\n[StoneSummoningCircle|Summoning Circle] Bosses have increased difficulty and reward per power of enemy slain",
+            "zh": "区域内包含 1 个额外[StoneSummoningCircle|召唤法阵]，\n[StoneSummoningCircle|召唤法阵]的首领难度和奖励根据所杀敌人的威力值而提高"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Stolen Power",
+            "zh": "力量窃取"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Headhunter",
+      "index": 47,
+      "columns": {
+        "Description": [
+          {
+            "en": "When Players Kill a Rare Monster they will gain 1 of its Modifiers for 20 seconds",
+            "zh": "击杀稀有怪物时，获得其一条词缀，持续 20 秒"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Headhunters",
+            "zh": "猎首"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AzmeriSpiritSwarm",
+      "index": 48,
+      "columns": {
+        "Description": [
+          {
+            "en": "Contains 5 additional [AzmeriSpirit|Azmeri Spirits]",
+            "zh": "区域内包含 5 个额外[AzmeriSpirit|阿兹莫里之灵]"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Swarming Spirits",
+            "zh": "蜂拥万灵"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MapBossesInArea",
+      "index": 49,
+      "columns": {
+        "Description": [
+          {
+            "en": "Contains 3 additional [MapBoss|Map Bosses] throughout the area",
+            "zh": "区域内包含 3 个额外[MapBoss|地图首领]"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Power Struggle",
+            "zh": "权力斗争"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CorruptionRandomArea",
+      "index": 50,
+      "columns": {
+        "Description": [
+          {
+            "en": "Area has 2 additional random Waystone Modifiers",
+            "zh": "区域内额外增加 2 条随机引路石词缀"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Corrupted Mirage",
+            "zh": "腐化幻象"
+          }
+        ]
+      }
+    },
+    {
+      "id": "TabletDoubleEffect",
+      "index": 51,
+      "columns": {
+        "Description": [
+          {
+            "en": "Doubles Effect of [Tablet|Tablets] used on Area",
+            "zh": "应用于区域的[Tablet|石板]效果翻倍"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Energized Ley Lines",
+            "zh": "充能地脉"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ExceptionalItemChance",
+      "index": 52,
+      "columns": {
+        "Description": [
+          {
+            "en": "1000% increased [ExceptionalItem|Exceptional Items] found in Area\nMonster may drop any[ExceptionalItem|Exceptional Items]",
+            "zh": "区域内发现的[ExceptionalItem|卓越物品]数量提高 100%，\n怪物可能掉落任何[ExceptionalItem|卓越物品]"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Exceptional Find",
+            "zh": "卓越发现"
+          }
+        ]
+      }
+    },
+    {
+      "id": "WaterBiome",
+      "index": 53,
+      "columns": {
+        "Description": [
+          {
+            "en": "Also counts as a [Biome|Water] Area",
+            "zh": "同时也视作[Biome|水域]地貌"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Water Influence",
+            "zh": "水域影响"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MountainBiome",
+      "index": 54,
+      "columns": {
+        "Description": [
+          {
+            "en": "Also counts as a [Biome|Mountain] Area",
+            "zh": "同时也视作[Biome|山地]地貌"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Mountain Influence",
+            "zh": "山地影响"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GrassBiome",
+      "index": 55,
+      "columns": {
+        "Description": [
+          {
+            "en": "Also counts as a [Biome|Grass] Area",
+            "zh": "同时也视作[Biome|草地]地貌"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Grass Influence",
+            "zh": "草地影响"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ForestBiome",
+      "index": 56,
+      "columns": {
+        "Description": [
+          {
+            "en": "Also counts as a [Biome|Forest] Area",
+            "zh": "同时也视作[Biome|森林]地貌"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Forest Influence",
+            "zh": "森林影响"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SwampBiome",
+      "index": 57,
+      "columns": {
+        "Description": [
+          {
+            "en": "Also counts as a [Biome|Swamp] Area",
+            "zh": "同时也视作[Biome|沼泽]地貌"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Swamp Influence",
+            "zh": "沼泽影响"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DesertBiome",
+      "index": 58,
+      "columns": {
+        "Description": [
+          {
+            "en": "Also counts as a [Biome|Desert] Area",
+            "zh": "同时也视作[Biome|沙漠]地貌"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Desert Influence",
+            "zh": "沙漠影响"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ImmuredFuryQuest",
+      "index": 59,
+      "columns": {
+        "Description": [
+          {
+            "en": "Doryani has spotted [ImmuredFury|The Immured Fury] in this Area",
+            "zh": "多里亚尼在该区域发现了[ImmuredFury|禁锢之怒]"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Immured Fury",
+            "zh": "禁锢之怒"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AllDropsNotEquipment",
+      "index": 60,
+      "columns": {
+        "Description": [
+          {
+            "en": "[Equipment] dropped by monsters is replaced with other items",
+            "zh": "怪物掉落的[Equipment|装备]被替换为其他物品"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Mirage of Riches",
+            "zh": "财富幻象"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ExperienceGain",
+      "index": 61,
+      "columns": {
+        "Description": [
+          {
+            "en": "Monsters grant 100% increased Experience",
+            "zh": "怪物提供的经验值提高 100%"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Wisdom's Teachings",
+            "zh": "智者教诲"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AllDropsNotGold",
+      "index": 62,
+      "columns": {
+        "Description": [
+          {
+            "en": "Gold dropped by monsters is replaced with other items",
+            "zh": "怪物掉落的金币被替换为其他物品"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Tight Pockets",
+            "zh": "囊中羞涩"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LivesAndEffectiveness",
+      "index": 63,
+      "columns": {
+        "Description": [
+          {
+            "en": "Players have unlimited [LimitedRespawn|Revivals] in area\nMonsters have 100% increased [MonsterEffectiveness|Effectiveness]",
+            "zh": "玩家在区域内拥有无限的[LimitedRespawn|复活]次数\n怪物[MonsterEffectiveness|效能]提高 100%"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Fragment of Immortality",
+            "zh": "不朽碎片"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ItemRarityGreater",
+      "index": 64,
+      "columns": {
+        "Description": [
+          {
+            "en": "100% increased [Rarity] of items found in area",
+            "zh": "区域内找到的物品[Rarity|稀有度]提高 100%"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Prosperous Populous",
+            "zh": "繁荣民众"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DuplicatedRares",
+      "index": 65,
+      "columns": {
+        "Description": [
+          {
+            "en": "5 [Rarity|Rare] Monsters are Duplicated",
+            "zh": "5 只[Rarity|稀有]怪物被复制"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Echoes of Power",
+            "zh": "力量回响"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GrandExpedition",
+      "index": 66,
+      "columns": {
+        "Description": [
+          {
+            "en": "Area contains a [GrandExpedition|Grand Expedition]",
+            "zh": "区域内包含一个[GrandExpedition|宏大先祖秘藏]"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Grand Expedition",
+            "zh": "宏大先祖秘藏"
+          }
+        ]
+      }
+    }
+  ]
+}

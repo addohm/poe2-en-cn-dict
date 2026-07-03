@@ -1,0 +1,418 @@
+{
+  "table": "SkillGemSearchTerms",
+  "key": "_index",
+  "columns": [
+    "Id",
+    "Name"
+  ],
+  "entries": [
+    {
+      "id": null,
+      "index": 0,
+      "columns": {
+        "Name": [
+          {
+            "en": "Strength",
+            "zh": "力量"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 1,
+      "columns": {
+        "Name": [
+          {
+            "en": "Dexterity",
+            "zh": "敏捷"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 2,
+      "columns": {
+        "Name": [
+          {
+            "en": "Mana Multiplier",
+            "zh": "魔力加成"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 3,
+      "columns": {
+        "Name": [
+          {
+            "en": "Cost Multiplier",
+            "zh": "消耗加成"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 4,
+      "columns": {
+        "Name": [
+          {
+            "en": "Intelligence",
+            "zh": "智慧"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 5,
+      "columns": {
+        "Name": [
+          {
+            "en": "Slow",
+            "zh": "减速"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 6,
+      "columns": {
+        "Name": [
+          {
+            "en": "Ignite",
+            "zh": "点燃"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 7,
+      "columns": {
+        "Name": [
+          {
+            "en": "Additional Reservation",
+            "zh": "额外保留"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 8,
+      "columns": {
+        "Name": [
+          {
+            "en": "Ammo",
+            "zh": "弹药"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 9,
+      "columns": {
+        "Name": [
+          {
+            "en": "Sacrifice",
+            "zh": "牺牲"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 10,
+      "columns": {
+        "Name": [
+          {
+            "en": "Summon",
+            "zh": "召唤"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 11,
+      "columns": {
+        "Name": [
+          {
+            "en": "Skeleton",
+            "zh": "魔侍"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 12,
+      "columns": {
+        "Name": [
+          {
+            "en": "Skeletal",
+            "zh": "魔侍"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 13,
+      "columns": {
+        "Name": [
+          {
+            "en": "Mana",
+            "zh": "魔力"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 14,
+      "columns": {
+        "Name": [
+          {
+            "en": "Trigger",
+            "zh": "触发"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 15,
+      "columns": {
+        "Name": [
+          {
+            "en": "Command",
+            "zh": "命令"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 16,
+      "columns": {
+        "Name": [
+          {
+            "en": "Minion",
+            "zh": "召唤生物"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 17,
+      "columns": {
+        "Name": [
+          {
+            "en": "Sticky",
+            "zh": "粘附"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 18,
+      "columns": {
+        "Name": [
+          {
+            "en": "Utility",
+            "zh": "设施"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 19,
+      "columns": {
+        "Name": [
+          {
+            "en": "Bomb",
+            "zh": "炸弹"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 20,
+      "columns": {
+        "Name": [
+          {
+            "en": "Trade-off",
+            "zh": "代价"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 21,
+      "columns": {
+        "Name": [
+          {
+            "en": "Counter",
+            "zh": "反制"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 22,
+      "columns": {
+        "Name": [
+          {
+            "en": "Counterattack",
+            "zh": "反击"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 23,
+      "columns": {
+        "Name": [
+          {
+            "en": "Parry",
+            "zh": "招架"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 24,
+      "columns": {
+        "Name": [
+          {
+            "en": "Shield",
+            "zh": "盾牌"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 25,
+      "columns": {
+        "Name": [
+          {
+            "en": "Poise",
+            "zh": "架势"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 26,
+      "columns": {
+        "Name": [
+          {
+            "en": "Meta",
+            "zh": "非凡"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 27,
+      "columns": {
+        "Name": [
+          {
+            "en": "Arcane Archer",
+            "zh": "秘法射手"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 28,
+      "columns": {
+        "Name": [
+          {
+            "en": "Reservation",
+            "zh": "保留"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 29,
+      "columns": {
+        "Name": [
+          {
+            "en": "Banner",
+            "zh": "旗帜"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 30,
+      "columns": {
+        "Name": [
+          {
+            "en": "Block",
+            "zh": "格挡"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 31,
+      "columns": {
+        "Name": [
+          {
+            "en": "Defense",
+            "zh": "防御"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 32,
+      "columns": {
+        "Name": [
+          {
+            "en": "Defence",
+            "zh": "防御属性"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 33,
+      "columns": {
+        "Name": [
+          {
+            "en": "Doom",
+            "zh": "毁灭"
+          }
+        ]
+      }
+    }
+  ]
+}

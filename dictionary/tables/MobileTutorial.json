@@ -1,0 +1,514 @@
+{
+  "table": "MobileTutorial",
+  "key": "_index",
+  "columns": [
+    "Id",
+    "Text"
+  ],
+  "entries": [
+    {
+      "id": null,
+      "index": 1,
+      "columns": {
+        "Text": [
+          {
+            "en": "<tutorialgesture>{Get ready for battle!}\r\nLoot the Weapon Rack",
+            "zh": "<tutorialgesture>{准备作战！}\r\n搜刮武器架"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 2,
+      "columns": {
+        "Text": [
+          {
+            "en": "<tutorialgesture>{[Tap]} to pick up items or\r\nuse the Interact button",
+            "zh": "<tutorialgesture>{[点击]}以拾取物品\r\n或使用交换按钮"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 3,
+      "columns": {
+        "Text": [
+          {
+            "en": "<tutorialgesture>{[Tap]} to pick up <gem>{Skill Gem}",
+            "zh": "<tutorialgesture>{[点击]}以拾取<gem>{技能宝石}"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 4,
+      "columns": {
+        "Text": [
+          {
+            "en": "<gem>{Skill gems} <tutorialgesture>{must be equipped \r\nto harness its power}\r\n<tutorialgesture>{[Tap]} to open your Character Menu",
+            "zh": "<gem>{技能宝石} <tutorialgesture>{只有装备后\r\n才能发挥作用}\r\n<tutorialgesture>{[点击]}打开角色菜单"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 5,
+      "columns": {
+        "Text": [
+          {
+            "en": "Navigate to the Skills Tab",
+            "zh": "前往技能页面"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 6,
+      "columns": {
+        "Text": [
+          {
+            "en": "<tutorialgesture>{[Drag and Drop]} the <gem>{Skill Gem}\r\ninto a skill gem socket",
+            "zh": "<tutorialgesture>{[拖动]}<gem>{技能宝石}\r\n放入技能宝石插槽"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 7,
+      "columns": {
+        "Text": [
+          {
+            "en": "<tutorialgesture>{New skill acquired!}\r\nClose the Character Menu",
+            "zh": "<tutorialgesture>{获得了新的技能！}\r\n关闭角色菜单"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 8,
+      "columns": {
+        "Text": [
+          {
+            "en": "<tutorialgesture>{[Tap]} or <tutorialgesture>{[Tap-Hold]} to\r\ndisplay item information",
+            "zh": "<tutorialgesture>{[按下]}或 <tutorialgesture>{[长按]}以\r\n显示物品信息"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 9,
+      "columns": {
+        "Text": [
+          {
+            "en": "<tutorialgesture>{[Drag and Drop]} the <gem>{Skill gem}\r\nto take the item",
+            "zh": "<tutorialgesture>{[拖动]}<gem>{技能宝石}\r\n以获取物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 11,
+      "columns": {
+        "Text": [
+          {
+            "en": "Pick up <gem>{Support Gem}",
+            "zh": "拾取<gem>{辅助宝石}"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 12,
+      "columns": {
+        "Text": [
+          {
+            "en": "<gem>{Support gems} <tutorialgesture>{are used to augment \r\nyour} <gem>{Skill gems}\r\nOpen your Character Menu",
+            "zh": "<gem>{辅助宝石}<tutorialgesture>{可以强化\r\n你的}<gem>{技能宝石}\r\n打开角色菜单"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 13,
+      "columns": {
+        "Text": [
+          {
+            "en": "Navigate to the Skills Tab",
+            "zh": "前往技能页面"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 14,
+      "columns": {
+        "Text": [
+          {
+            "en": "Place the <gem>{Support Gem} into\r\na support socket of the same colour",
+            "zh": "将<gem>{辅助宝石}放入\r\n相同颜色的辅助插槽中"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 15,
+      "columns": {
+        "Text": [
+          {
+            "en": "<tutorialgesture>{Your skill has been augmented!}\r\nClose the Character Menu",
+            "zh": "<tutorialgesture>{你的技能强化了！}\r\n关闭角色菜单"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 16,
+      "columns": {
+        "Text": [
+          {
+            "en": "<tutorialgesture>{You have taken damage!}\r\n<tutorialgesture>{[Tap]} a Life Flask or\r\nyour Life Orb to recover",
+            "zh": "<tutorialgesture>{你受到了伤害！}\r\n<tutorialgesture>{[点击]}生命药剂或\r\n生命球以恢复生命值"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 17,
+      "columns": {
+        "Text": [
+          {
+            "en": "<tutorialgesture>{Combat has begun!}\r\n<tutorialgesture>{[Tap]} to attack",
+            "zh": "<tutorialgesture>{战斗开始了！}\r\n<tutorialgesture>{[点击]}以攻击"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 18,
+      "columns": {
+        "Text": [
+          {
+            "en": "<tutorialgesture>{Welcome to the Atlas of Worlds!}\r\nTo get started, we will introduce \r\nsome controls",
+            "zh": "<tutorialgesture>{欢迎浏览异界图鉴！}\r\n我们首先来介绍一下\r\n控制方式吧"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 19,
+      "columns": {
+        "Text": [
+          {
+            "en": "<tutorialgesture>{[Drag]} to look around",
+            "zh": "<tutorialgesture>{[拖动]}以四处查看"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 20,
+      "columns": {
+        "Text": [
+          {
+            "en": "<tutorialgesture>{[Pinch]} to zoom in on the Atlas",
+            "zh": "<tutorialgesture>{[双指捏合]}放大异界图鉴"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 21,
+      "columns": {
+        "Text": [
+          {
+            "en": "<tutorialgesture>{[Tap]} to select the map",
+            "zh": "<tutorialgesture>{[点击]}以选择地图"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 23,
+      "columns": {
+        "Text": [
+          {
+            "en": "<tutorialgesture>{The Map Device only creates six Portals to an Area}\r\nThis means there are only six Entrances before an Area is closed permanently. Tread carefully!",
+            "zh": "<tutorialgesture>{地图装置只能开通前往一个区域的六扇时空之门}\r\n这表示开启某个区域的六个入口后，该区域就会永久关闭。要小心脚下！"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 24,
+      "columns": {
+        "Text": [
+          {
+            "en": "<tutorialgesture>{Introducing the Character Passive Skill Tree!}\r\nSkill points are used to enhance your character",
+            "zh": "<tutorialgesture>{认识一下角色天赋树！}\r\n天赋点数可以增强你的角色"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 25,
+      "columns": {
+        "Text": [
+          {
+            "en": "<tutorialgesture>{[Tap]} Passive Skill to see its Stats",
+            "zh": "<tutorialgesture>{[点击]}天赋查看其属性"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 26,
+      "columns": {
+        "Text": [
+          {
+            "en": "<tutorialgesture>{[Tap]} Assign Mode button\r\nto start Allocating",
+            "zh": "<tutorialgesture>{[点击]}分配模式按键\r\n开始配置"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 27,
+      "columns": {
+        "Text": [
+          {
+            "en": "<tutorialgesture>{[Tap]} to select a Passive Skill\r\nto allocate",
+            "zh": "<tutorialgesture>{[点击]}选择一个天赋\r\n进行分配"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 28,
+      "columns": {
+        "Text": [
+          {
+            "en": "<tutorialgesture>{[Tap-Hold]} Confirm button to apply changes\r\n<tutorialgesture>{[Tap]} Passive Skill again to deselect\r\nand choose another option",
+            "zh": "<tutorialgesture>{[长按]}确认按键应用更改\r\n再次<tutorialgesture>{[点击]}天赋可以取消\r\n并选择其他的选项"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 29,
+      "columns": {
+        "Text": [
+          {
+            "en": "<tutorialgesture>{Your character has grown in power!}\r\nSkill points are gained through levelling up, \r\nand completing certain quests.",
+            "zh": "<tutorialgesture>{你的角色变强了！}\r\n天赋点数会在升级时，\r\n以及完成特定任务时获得。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 31,
+      "columns": {
+        "Text": [
+          {
+            "en": "<tutorialgesture>{Portal Scrolls are used to create Checkpoints}\r\n<tutorialgesture>{[Tap]} the Portal Button to create a portal \r\nback to town.\r\n<tutorialgesture>{Reminder:} You only have six Portals before the Map Device must be Reactivated!",
+            "zh": "<tutorialgesture>{传送卷轴可以创造出记录点}\r\n<tutorialgesture>{[点击]}时空之门按钮可以打开一扇时空之门\r\n并返回城镇。\r\n<tutorialgesture>{请注意：}你只能开启六个时空之门，随后就要重新激活地图装置了！"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 33,
+      "columns": {
+        "Text": [
+          {
+            "en": "<tutorialgesture>{The Minimap can be used to help navigate the Area}\r\nExpand the map by <tutorialgesture>{[Tapping]} the Minimap",
+            "zh": "<tutorialgesture>{小地图可以帮助你在区域中导航}\r\n<tutorialgesture>{[点击]}小地图可以展开地图"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 34,
+      "columns": {
+        "Text": [
+          {
+            "en": "<tutorialgesture>{[Drag]} the Joystick to move the Map\r\nClose the Map Overlay by <tutorialgesture>{[Tapping]} the Joystick",
+            "zh": "<tutorialgesture>{[拖动]}摇杆可以移动地图\r\n <tutorialgesture>{[点击]}摇杆可以关闭层叠地图"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 36,
+      "columns": {
+        "Text": [
+          {
+            "en": "<tutorialgesture>{Virtue Gem Crafting}\r\nGem Artisans can craft Uncut Gems to unleash Skills within",
+            "zh": "<tutorialgesture>{古灵宝石工艺}\r\n宝石匠可以雕琢未切割的宝石，释放出其中潜藏的技能"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 37,
+      "columns": {
+        "Text": [
+          {
+            "en": "<tutorialgesture>{[Drag]} the Uncut Skill Gem\r\ninto crafting slot",
+            "zh": "<tutorialgesture>{[拖动]}未切割的技能宝石\r\n将其放入工艺栏位"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 38,
+      "columns": {
+        "Text": [
+          {
+            "en": "<tutorialgesture>{[Swipe]} through the Archetypes\r\nto see available Skills\r\n<tutorialgesture>{[Tap]} the Skill Icons to view the\r\ndetails of the Virtue",
+            "zh": "<tutorialgesture>{[滑动]}浏览流派\r\n即可查看可用的技能\r\n<tutorialgesture>{[点击]}技能图标\r\n查看详情"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 39,
+      "columns": {
+        "Text": [
+          {
+            "en": "<tutorialgesture>{[Tap]} the Engrave button \r\nto create a new <gem>{Skill Gem}",
+            "zh": "<tutorialgesture>{[点击]}铭刻按钮\r\n制作一颗新的<gem>{技能宝石}"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 40,
+      "columns": {
+        "Text": [
+          {
+            "en": "<tutorialgesture>{This Skill requirements a higher\r\nItem Level Uncut Skill Gem}\r\nPick a new skill to Engrave",
+            "zh": "<tutorialgesture>{该技能需要更高\r\n物品等级的未切割的技能宝石}\r\n选择一个新技能进行铭刻"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 41,
+      "columns": {
+        "Text": [
+          {
+            "en": "<tutorialgesture>{[Drag]} the <gem>{Skill Gem} back to your Inventory",
+            "zh": "<tutorialgesture>{[拖动]}<gem>{技能宝石}，放回背包之中"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 42,
+      "columns": {
+        "Text": [
+          {
+            "en": "<tutorialgesture>{Tutorial Complete!}\r\nWhen you are ready to equip the crafted <gem>{Skill Gem} \r\ngo to the Skills menu and drag it into the slot",
+            "zh": "<tutorialgesture>{你完成了教程！}\r\n等你准备好装备自己制作的<gem>{技能宝石}了，\r\n只需打开技能菜单，将它拖入栏位"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 44,
+      "columns": {
+        "Text": [
+          {
+            "en": "<tutorialgesture>{Your character has two Weapon Sets}\r\nWeapon Sets switch automatically to meet Skill requirements as they are used, but switching weapons takes time!",
+            "zh": "<tutorialgesture>{你的角色拥有两套武器组}\r\n使用技能时，武器组会根据技能要求而自动切换，但切换武器是需要时间的！"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 46,
+      "columns": {
+        "Text": [
+          {
+            "en": "<tutorialgesture>{You have found an unidentified Item}\r\nAn Item must be identified before\r\nit can be equipped",
+            "zh": "<tutorialgesture>{你找到了一件未鉴定的物品}\r\n物品必须经过鉴定\r\n才可以装备"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 47,
+      "columns": {
+        "Text": [
+          {
+            "en": "<tutorialgesture>{[Drag]} and use a Scroll of Wisdom\r\non an unidentified Item",
+            "zh": "<tutorialgesture>{[拖动]}知识卷轴\r\n并对未鉴定的物品使用"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 48,
+      "columns": {
+        "Text": [
+          {
+            "en": "<tutorialgesture>{The Item is now identified}\r\nIn each Town, There will be a Vendor who will identify all your Items free of charge!",
+            "zh": "<tutorialgesture>{物品完成了鉴定}\r\n每个城镇中都有一位可以免费鉴定物品的商人！"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 50,
+      "columns": {
+        "Text": [
+          {
+            "en": "<tutorialgesture>{[Tap]} to use the Well\r\nWells restore Life, Mana, and Flask Charges",
+            "zh": "<tutorialgesture>{[点击]}使用水井\r\n水井可以恢复生命、魔力和药剂充能"
+          }
+        ]
+      }
+    }
+  ]
+}

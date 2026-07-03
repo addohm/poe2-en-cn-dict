@@ -1,0 +1,178 @@
+{
+  "table": "ExpeditionRelics",
+  "key": "Id",
+  "columns": [
+    "Name",
+    "AOFiles"
+  ],
+  "entries": [
+    {
+      "id": "AtollEzomyteRemnantLogbook",
+      "index": 0,
+      "columns": {
+        "Name": [
+          {
+            "en": "Ezomyte Runestone",
+            "zh": "艾兹麦符文石"
+          }
+        ]
+      }
+    },
+    {
+      "id": "TundraVaalRemnantLogbook",
+      "index": 1,
+      "columns": {
+        "Name": [
+          {
+            "en": "Vaal Relic",
+            "zh": "瓦尔遗物"
+          }
+        ]
+      }
+    },
+    {
+      "id": "TropicalKaruiRemnantLogbook",
+      "index": 2,
+      "columns": {
+        "Name": [
+          {
+            "en": "Karui Idol",
+            "zh": "卡鲁雕塑"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PeninsulaGoblinRemnantLogbook",
+      "index": 3,
+      "columns": {
+        "Name": [
+          {
+            "en": "Kin Totem",
+            "zh": "亲眷图腾"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BeastSkinFakeRelic",
+      "index": 4,
+      "columns": {
+        "Name": [
+          {
+            "en": "Beast Skin",
+            "zh": "兽皮"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HeathHengeRemnantLogbook",
+      "index": 5,
+      "columns": {
+        "Name": [
+          {
+            "en": "Runic Henge",
+            "zh": "符文石阵"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DigsiteBeaconRemnantLogbook",
+      "index": 6,
+      "columns": {
+        "Name": [
+          {
+            "en": "Precursor Leyline",
+            "zh": "先驱地脉"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PrairieWispRemnantLogbook_Wild",
+      "index": 7,
+      "columns": {
+        "Name": [
+          {
+            "en": "Imprisoned Wild Wisp",
+            "zh": "被囚禁的狂野鬼灵"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PrairieWispRemnantLogbook_Vivid",
+      "index": 8,
+      "columns": {
+        "Name": [
+          {
+            "en": "Imprisoned Vivid Wisp",
+            "zh": "被囚禁的活性鬼灵"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PrairieWispRemnantLogbook_Primal",
+      "index": 9,
+      "columns": {
+        "Name": [
+          {
+            "en": "Imprisoned Primal Wisp",
+            "zh": "被囚禁的原始鬼灵"
+          }
+        ]
+      }
+    },
+    {
+      "id": "WastesSulphiteRemnantLogbook",
+      "index": 10,
+      "columns": {
+        "Name": [
+          {
+            "en": "Sulphite Stalagmite",
+            "zh": "亚硫酸石笋"
+          }
+        ]
+      }
+    },
+    {
+      "id": "WastesKaruiRemnantLogbook",
+      "index": 11,
+      "columns": {
+        "Name": [
+          {
+            "en": "Karui Totem",
+            "zh": "卡鲁图腾"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ReefClamRemnantLogbook",
+      "index": 12,
+      "columns": {
+        "Name": [
+          {
+            "en": "Overgrown Clam",
+            "zh": "疯长蛤蜊"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GullyDevourerRemnantLogbook",
+      "index": 13,
+      "columns": {
+        "Name": [
+          {
+            "en": "Dormant Burrower",
+            "zh": "休眠的掘穴虫"
+          }
+        ]
+      }
+    }
+  ]
+}

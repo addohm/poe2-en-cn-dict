@@ -1,0 +1,498 @@
+{
+  "table": "GamepadButtonBindAction",
+  "key": "_index",
+  "columns": [
+    "Id",
+    "Icon",
+    "Description",
+    "Name"
+  ],
+  "entries": [
+    {
+      "id": null,
+      "index": 0,
+      "columns": {
+        "Description": [
+          {
+            "en": "Uses Skill bound to this slot.",
+            "zh": "使用绑定于该栏位的技能。"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Use Skill",
+            "zh": "使用技能"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 1,
+      "columns": {
+        "Description": [
+          {
+            "en": "Drink from your equipped life flask.",
+            "zh": "饮用装备的生命药剂。"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Use Life Flask",
+            "zh": "使用生命药剂"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 2,
+      "columns": {
+        "Description": [
+          {
+            "en": "Drink from your equipped mana flask.",
+            "zh": "饮用装备的魔力药剂。"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Use Mana Flask",
+            "zh": "使用魔力药剂"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 3,
+      "columns": {
+        "Description": [
+          {
+            "en": "Perform a quick Dodge Roll.\r\nCan be used to instantly break out of animation locks.\r\n<yellow>{Press-hold to start sprinting after a roll.}",
+            "zh": "快速进行闪避翻滚。\r\n可以立即解除动画锁定状态。\r\n<yellow>{长按以在翻滚后开始奔跑。}"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Dodge Roll/Sprint",
+            "zh": "闪避翻滚/奔跑"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 4,
+      "columns": {
+        "Description": [
+          {
+            "en": "Toggle between the Corner Map, and the Map Overlay.\r\n\r\nPress and hold the <b>{Map Button} and use <<xbox_rstick>> to pan the full map. ",
+            "zh": "切换小地图模式和层叠地图模式。\r\n\r\n按下并长按<b>{地图按键}，并使用<<xbox_rstick>>来移动完整地图。 "
+          }
+        ],
+        "Name": [
+          {
+            "en": "Toggle map",
+            "zh": "切换地图"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 5,
+      "columns": {
+        "Description": [
+          {
+            "en": "Create a Portal to Town.",
+            "zh": "开启一扇返回城镇的时空之门。"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Town Portal",
+            "zh": "城镇传送门"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 6,
+      "columns": {
+        "Description": [
+          {
+            "en": "Use Flask equipped in slot 1.",
+            "zh": "使用1号栏位装备的药剂。"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Use Flask 1",
+            "zh": "使用药剂1"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 7,
+      "columns": {
+        "Description": [
+          {
+            "en": "Use Flask equipped in slot 2.",
+            "zh": "使用2号栏位装备的药剂。"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Use Flask 2",
+            "zh": "使用药剂2"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 8,
+      "columns": {
+        "Description": [
+          {
+            "en": "Use Flask equipped in slot 3.",
+            "zh": "使用3号栏位装备的药剂。"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Use Flask 3",
+            "zh": "使用药剂3"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 9,
+      "columns": {
+        "Description": [
+          {
+            "en": "Use Flask equipped in slot 4.",
+            "zh": "使用4号栏位装备的药剂。"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Use Flask 4",
+            "zh": "使用药剂4"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 10,
+      "columns": {
+        "Description": [
+          {
+            "en": "Use to start riding a nearby mountable Minion.",
+            "zh": "使用以骑乘附近可以骑乘的一个召唤生物。"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Mount Minion",
+            "zh": "骑乘召唤生物"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 11,
+      "columns": {
+        "Description": [
+          {
+            "en": "Allows contextual interaction within the environment.\r\n<yellow>{- Can be bound on the same Bind Slot as other Skills\r\n- Can only be associated to one Bind Slot at a time}",
+            "zh": "可以与环境进行情境互动。\r\n<yellow>{可以与其他技能绑定在同一个绑定栏中。\r\n同一时间只能分配给一个绑定栏。}"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Interact",
+            "zh": "交互"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 12,
+      "columns": {
+        "Description": [
+          {
+            "en": "Swap between Weapon Sets which have Weapons equipped.",
+            "zh": "在装备了武器的武器组之间进行切换。"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Toggle Weapon Set",
+            "zh": "切换武器组"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 13,
+      "columns": {
+        "Description": [
+          {
+            "en": "Press-hold to use Skills in your Secondary Skill Set.\r\n<yellow>{- This action will take up Bind Slots in both Skill Sets}",
+            "zh": "按下并按住即可使用次要技能组中的技能。\r\n<yellow>{- 该行动会分别占用两个技能组中的绑定栏。}"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Activate Secondary Skill Set",
+            "zh": "激活次要技能组"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 14,
+      "columns": {
+        "Description": [
+          {
+            "en": "Moves your minions, or signal to your minions\r\nwhich enemy they should target.",
+            "zh": "命令你的召唤生物移动，或者示意召唤生物\r\n应当攻击的敌方目标。"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Direct Minions",
+            "zh": "指示召唤生物"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 15,
+      "columns": {
+        "Description": [
+          {
+            "en": "Use to interact with your Chat.",
+            "zh": "用于和聊天窗口互动。"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Open Chat",
+            "zh": "打开聊天窗口"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 16,
+      "columns": {
+        "Description": [
+          {
+            "en": "Toggles between Dynamic and Focus Fire modes.\r\n\r\nDynamic (default)\r\n- Target selection is based your current targeting mode\r\n\r\nFocus Fire\r\n- Target enemy must be manually changed using {0}",
+            "zh": "切换动态和集火模式。\r\n\r\n动态（默认）\r\n- 根据当前的瞄准模式选择目标。\r\n\r\n集火\r\n- 必须使用 {0} 手动更改敌方目标"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Activate Focus Fire",
+            "zh": "激活集火模式"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 17,
+      "columns": {
+        "Description": [
+          {
+            "en": "Button bind required to interact with some in game content.",
+            "zh": "绑定用于和部分游戏内容互动的按键。"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Contextual 1",
+            "zh": "情境1"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 18,
+      "columns": {
+        "Description": [
+          {
+            "en": "A second button bind required to interact with some in game content.",
+            "zh": "绑定用于和部分游戏内容互动的第二个按键。"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Contextual 2",
+            "zh": "情境2"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 19,
+      "columns": {
+        "Description": [
+          {
+            "en": "A third button bind required to interact with some in game content.",
+            "zh": "绑定用于和部分游戏内容互动的第三个按键。"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Contextual 3",
+            "zh": "情境3"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 20,
+      "columns": {
+        "Description": [
+          {
+            "en": "On (default)\r\n- All labels will be visible\r\n\r\nOff\r\n- Highlighted object label will be shown\r\n- All other labels will be hidden\r\n- Items will not be selectable",
+            "zh": "开启（默认）\r\n- 所有标签都会显示\r\n\r\n关闭\r\n- 只会显示标亮的物体标签\r\n- 其他所有标签都会隐藏\r\n- 物品将无法选中"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Toggle Label Visibility",
+            "zh": "切换标签可见度"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 21,
+      "columns": {
+        "Description": [
+          {
+            "en": "Cycles through crossbow ammo types in skill menu order.",
+            "zh": "按照技能菜单顺序，循环切换战弩的弹药类型。"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Cycle Crossbow Ammo",
+            "zh": "循环战弩弹药"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 22,
+      "columns": {
+        "Description": [
+          {
+            "en": "Reloads active crossbow ammo type.",
+            "zh": "装填激活的战弩弹药类型。"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Reload Crossbow",
+            "zh": "装填战弩"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 23,
+      "columns": {
+        "Description": [
+          {
+            "en": "Cycles camera zoom level in/out.",
+            "zh": "循环镜头缩放等级拉近/拉远"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Cycle Camera Zoom",
+            "zh": "循环镜头缩放"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 24,
+      "columns": {
+        "Description": [
+          {
+            "en": "Cycle the shown quest on the HUD.",
+            "zh": "在界面上循环切换当前追踪的任务"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Cycle Quest",
+            "zh": "循环任务"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 25,
+      "columns": {
+        "Description": [
+          {
+            "en": "Perform a quick Dodge Roll without sprinting.",
+            "zh": "在不奔跑的情况下施展一次快速闪避翻滚。"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Dodge Roll",
+            "zh": "闪避翻滚"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 26,
+      "columns": {
+        "Description": [
+          {
+            "en": "Open the Runeshape Tome",
+            "zh": "打开符文面板。"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Open Runeshape Tome",
+            "zh": "打开符文法典"
+          }
+        ]
+      }
+    }
+  ]
+}

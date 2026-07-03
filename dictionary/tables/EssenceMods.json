@@ -1,0 +1,33 @@
+{
+  "table": "EssenceMods",
+  "key": "_index",
+  "columns": [
+    "Text"
+  ],
+  "entries": [
+    {
+      "id": null,
+      "index": 10,
+      "columns": {
+        "Text": [
+          {
+            "en": "Allocates a random Notable Passive Skill",
+            "zh": "分配一个随机的核心天赋"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 13,
+      "columns": {
+        "Text": [
+          {
+            "en": "[MarkofAbyssalLord|Mark of the Abyssal Lord]",
+            "zh": "[MarkofAbyssalLord|深渊领主的印记]"
+          }
+        ]
+      }
+    }
+  ]
+}

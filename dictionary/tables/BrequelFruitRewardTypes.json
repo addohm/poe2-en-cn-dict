@@ -1,0 +1,162 @@
+{
+  "table": "BrequelFruitRewardTypes",
+  "key": "Id",
+  "columns": [
+    "Name",
+    "Description",
+    "PCPrompt",
+    "ConsolePrompt"
+  ],
+  "entries": [
+    {
+      "id": "Currency",
+      "index": 0,
+      "columns": {
+        "Name": [
+          {
+            "en": "Currency",
+            "zh": "通货"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Can grow into a Currency item on the Genesis Tree",
+            "zh": "能在起源之树上培育为通货物品"
+          }
+        ],
+        "PCPrompt": [
+          {
+            "en": "Place this item into the currency womb on the Genesis Tree. Right click to retrieve from the Genesis Tree.",
+            "zh": "将此物品放入起源之树的通货孕育槽位中。右键点击即可从起源之树中取回。"
+          }
+        ],
+        "ConsolePrompt": [
+          {
+            "en": "Place this item into the currency womb on the Genesis Tree. <<xbox_button_a>> to retrieve from the Genesis Tree.",
+            "zh": "将此物品放入起源之树的通货孕育槽位中。按<<xbox_button_a>>即可从起源之树中取回。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Rings",
+      "index": 1,
+      "columns": {
+        "Name": [
+          {
+            "en": "Ring",
+            "zh": "戒指"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Can grow into a Ring on the Genesis Tree",
+            "zh": "能在起源之树上培育为戒指"
+          }
+        ],
+        "PCPrompt": [
+          {
+            "en": "Place this item into the ring womb on the Genesis Tree. Right click to retrieve from the Genesis Tree.",
+            "zh": "将此物品放入起源之树的戒指孕育槽位中。右键点击即可从起源之树中取回。"
+          }
+        ],
+        "ConsolePrompt": [
+          {
+            "en": "Place this item into the ring womb on the Genesis Tree. <<xbox_button_a>> to retrieve from the Genesis Tree.",
+            "zh": "将此物品放入起源之树的戒指孕育槽位中。按<<xbox_button_a>>即可从起源之树中取回。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Amulets",
+      "index": 2,
+      "columns": {
+        "Name": [
+          {
+            "en": "Amulet",
+            "zh": "项链"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Can grow into an Amulet on the Genesis Tree",
+            "zh": "能在起源之树上培育为项链"
+          }
+        ],
+        "PCPrompt": [
+          {
+            "en": "Place this item into the amulet womb on the Genesis Tree. Right click to retrieve from the Genesis Tree.",
+            "zh": "将此物品放入起源之树的项链孕育槽位中。右键点击即可从起源之树中取回。"
+          }
+        ],
+        "ConsolePrompt": [
+          {
+            "en": "Place this item into the amulet womb on the Genesis Tree. <<xbox_button_a>> to retrieve from the Genesis Tree.",
+            "zh": "将此物品放入起源之树的项链孕育槽位中。按<<xbox_button_a>>即可从起源之树中取回。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Belts",
+      "index": 3,
+      "columns": {
+        "Name": [
+          {
+            "en": "Belt",
+            "zh": "腰带"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Can grow into a Belt on the Genesis Tree",
+            "zh": "能在起源之树上培育为腰带"
+          }
+        ],
+        "PCPrompt": [
+          {
+            "en": "Place this item into the belt womb on the Genesis Tree. Right click to retrieve from the Genesis Tree.",
+            "zh": "将此物品放入起源之树的腰带孕育槽位中。右键点击即可从起源之树中取回。"
+          }
+        ],
+        "ConsolePrompt": [
+          {
+            "en": "Place this item into the belt womb on the Genesis Tree. <<xbox_button_a>> to retrieve from the Genesis Tree.",
+            "zh": "将此物品放入起源之树的腰带孕育槽位中。按<<xbox_button_a>>即可从起源之树中取回。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Breachstones",
+      "index": 4,
+      "columns": {
+        "Name": [
+          {
+            "en": "Breachstone",
+            "zh": "裂隙石"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Can grow into a Breachstone on the Genesis Tree",
+            "zh": "能在起源之树上培育为裂隙石"
+          }
+        ],
+        "PCPrompt": [
+          {
+            "en": "Place this item into the breachstone womb on the Genesis Tree. Right click to retrieve from the Genesis Tree.",
+            "zh": "将此物品放入起源之树的裂隙石孕育槽位中。右键点击即可从起源之树中取回。"
+          }
+        ],
+        "ConsolePrompt": [
+          {
+            "en": "Place this item into the breachstone womb on the Genesis Tree. <<xbox_button_a>> to retrieve from the Genesis Tree.",
+            "zh": "将此物品放入起源之树的裂隙石孕育槽位中。按<<xbox_button_a>>即可从起源之树中取回。"
+          }
+        ]
+      }
+    }
+  ]
+}

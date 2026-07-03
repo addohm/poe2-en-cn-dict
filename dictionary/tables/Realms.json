@@ -1,0 +1,619 @@
+{
+  "table": "Realms",
+  "key": "Id",
+  "columns": [
+    "Name",
+    "Server",
+    "Server2",
+    "ShortName",
+    "SpeedtestUrl"
+  ],
+  "entries": [
+    {
+      "id": "America",
+      "index": 0,
+      "columns": {
+        "Name": [
+          {
+            "en": "Texas (US)",
+            "zh": "中国"
+          }
+        ],
+        "ShortName": [
+          {
+            "en": "US",
+            "zh": "中国"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Europe",
+      "index": 1,
+      "columns": {
+        "Name": [
+          {
+            "en": "Amsterdam (EU)",
+            "zh": "中国"
+          }
+        ],
+        "ShortName": [
+          {
+            "en": "EU",
+            "zh": "中国"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Singapore",
+      "index": 2,
+      "columns": {
+        "Name": [
+          {
+            "en": "Singapore",
+            "zh": "中国"
+          }
+        ],
+        "ShortName": [
+          {
+            "en": "SG",
+            "zh": "中国"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Australia",
+      "index": 3,
+      "columns": {
+        "Name": [
+          {
+            "en": "Australia",
+            "zh": "中国"
+          }
+        ],
+        "ShortName": [
+          {
+            "en": "AU",
+            "zh": "中国"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SingaporeGA",
+      "index": 4,
+      "columns": {
+        "Name": [
+          {
+            "en": "Singapore/Malaysia",
+            "zh": "中国"
+          }
+        ],
+        "ShortName": [
+          {
+            "en": "SG",
+            "zh": "中国"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PhilippinesGA",
+      "index": 5,
+      "columns": {
+        "Name": [
+          {
+            "en": "Philippines",
+            "zh": "中国"
+          }
+        ],
+        "ShortName": [
+          {
+            "en": "PH",
+            "zh": "中国"
+          }
+        ]
+      }
+    },
+    {
+      "id": "TaiwanGA",
+      "index": 6,
+      "columns": {
+        "Name": [
+          {
+            "en": "Taiwan",
+            "zh": "中国"
+          }
+        ],
+        "ShortName": [
+          {
+            "en": "TW",
+            "zh": "中国"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ThailandGA",
+      "index": 7,
+      "columns": {
+        "Name": [
+          {
+            "en": "Thailand",
+            "zh": "中国"
+          }
+        ],
+        "ShortName": [
+          {
+            "en": "TH",
+            "zh": "中国"
+          }
+        ]
+      }
+    },
+    {
+      "id": "RussiaGA",
+      "index": 8,
+      "columns": {
+        "Name": [
+          {
+            "en": "Moscow",
+            "zh": "中国"
+          }
+        ],
+        "ShortName": [
+          {
+            "en": "RU",
+            "zh": "中国"
+          }
+        ]
+      }
+    },
+    {
+      "id": "London",
+      "index": 9,
+      "columns": {
+        "Name": [
+          {
+            "en": "London (EU)",
+            "zh": "中国"
+          }
+        ],
+        "ShortName": [
+          {
+            "en": "LON",
+            "zh": "中国"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Frankfurt",
+      "index": 10,
+      "columns": {
+        "Name": [
+          {
+            "en": "Frankfurt (EU)",
+            "zh": "中国"
+          }
+        ],
+        "ShortName": [
+          {
+            "en": "FRA",
+            "zh": "中国"
+          }
+        ]
+      }
+    },
+    {
+      "id": "WashingtonDC",
+      "index": 11,
+      "columns": {
+        "Name": [
+          {
+            "en": "Washington, D.C. (US)",
+            "zh": "中国"
+          }
+        ],
+        "ShortName": [
+          {
+            "en": "WDC",
+            "zh": "中国"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SanJose",
+      "index": 12,
+      "columns": {
+        "Name": [
+          {
+            "en": "California (US)",
+            "zh": "中国"
+          }
+        ],
+        "ShortName": [
+          {
+            "en": "SJC",
+            "zh": "中国"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Stockholm",
+      "index": 13,
+      "columns": {
+        "Name": [
+          {
+            "en": "Stockholm",
+            "zh": "中国"
+          }
+        ],
+        "ShortName": [
+          {
+            "en": "STO",
+            "zh": "中国"
+          }
+        ]
+      }
+    },
+    {
+      "id": "RussiaVL",
+      "index": 14,
+      "columns": {
+        "Name": [
+          {
+            "en": "Vladivostok",
+            "zh": "中国"
+          }
+        ],
+        "ShortName": [
+          {
+            "en": "RUVL",
+            "zh": "中国"
+          }
+        ]
+      }
+    },
+    {
+      "id": "RussiaAL",
+      "index": 15,
+      "columns": {
+        "Name": [
+          {
+            "en": "Almaty",
+            "zh": "中国"
+          }
+        ],
+        "ShortName": [
+          {
+            "en": "RUAL",
+            "zh": "中国"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Milan",
+      "index": 16,
+      "columns": {
+        "Name": [
+          {
+            "en": "Milan (EU)",
+            "zh": "中国"
+          }
+        ],
+        "ShortName": [
+          {
+            "en": "MIL",
+            "zh": "中国"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Brazil",
+      "index": 17,
+      "columns": {
+        "Name": [
+          {
+            "en": "Sao Paulo (BR)",
+            "zh": "中国"
+          }
+        ],
+        "ShortName": [
+          {
+            "en": "BR",
+            "zh": "中国"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Paris",
+      "index": 18,
+      "columns": {
+        "Name": [
+          {
+            "en": "Paris (EU)",
+            "zh": "中国"
+          }
+        ],
+        "ShortName": [
+          {
+            "en": "PAR",
+            "zh": "中国"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Miami",
+      "index": 19,
+      "columns": {
+        "Name": [
+          {
+            "en": "Miami (US)",
+            "zh": "中国"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Russia",
+      "index": 20,
+      "columns": {
+        "Name": [
+          {
+            "en": "Moscow (RU)",
+            "zh": "中国"
+          }
+        ],
+        "ShortName": [
+          {
+            "en": "RU",
+            "zh": "中国"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Aotearoa",
+      "index": 21,
+      "columns": {
+        "Name": [
+          {
+            "en": "Auckland (NZ)",
+            "zh": "中国"
+          }
+        ],
+        "ShortName": [
+          {
+            "en": "NZ",
+            "zh": "中国"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SingaporeGamma",
+      "index": 22,
+      "columns": {
+        "Name": [
+          {
+            "en": "Singapore",
+            "zh": "中国"
+          }
+        ],
+        "ShortName": [
+          {
+            "en": "SGG",
+            "zh": "中国"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SanJoseGamma",
+      "index": 23,
+      "columns": {
+        "Name": [
+          {
+            "en": "California",
+            "zh": "中国"
+          }
+        ],
+        "ShortName": [
+          {
+            "en": "SJCG",
+            "zh": "中国"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LondonGamma",
+      "index": 24,
+      "columns": {
+        "Name": [
+          {
+            "en": "London",
+            "zh": "中国"
+          }
+        ],
+        "ShortName": [
+          {
+            "en": "LONG",
+            "zh": "中国"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AustraliaGamma",
+      "index": 25,
+      "columns": {
+        "Name": [
+          {
+            "en": "Australia",
+            "zh": "中国"
+          }
+        ],
+        "ShortName": [
+          {
+            "en": "AUG",
+            "zh": "中国"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Japan",
+      "index": 26,
+      "columns": {
+        "Name": [
+          {
+            "en": "Japan",
+            "zh": "中国"
+          }
+        ],
+        "ShortName": [
+          {
+            "en": "JPN",
+            "zh": "中国"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Korea",
+      "index": 27,
+      "columns": {
+        "Name": [
+          {
+            "en": "Seoul (KR)",
+            "zh": "首尔（韩国）"
+          }
+        ],
+        "ShortName": [
+          {
+            "en": "KR",
+            "zh": "韩国"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Canada",
+      "index": 28,
+      "columns": {
+        "Name": [
+          {
+            "en": "Canada (East)",
+            "zh": "加拿大（东部）"
+          }
+        ],
+        "ShortName": [
+          {
+            "en": "TOR",
+            "zh": "加拿大"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SouthAfrica",
+      "index": 29,
+      "columns": {
+        "Name": [
+          {
+            "en": "South Africa",
+            "zh": "南非"
+          }
+        ],
+        "ShortName": [
+          {
+            "en": "ZA",
+            "zh": "南非"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HongKong",
+      "index": 30,
+      "columns": {
+        "Name": [
+          {
+            "en": "Hong Kong",
+            "zh": "中国香港"
+          }
+        ],
+        "ShortName": [
+          {
+            "en": "HK",
+            "zh": "中国香港"
+          }
+        ]
+      }
+    },
+    {
+      "id": "TestOne",
+      "index": 31,
+      "columns": {
+        "Name": [
+          {
+            "en": "Test Realm 1",
+            "zh": "测试服 1"
+          }
+        ],
+        "ShortName": [
+          {
+            "en": "TST1",
+            "zh": "测试服 1"
+          }
+        ]
+      }
+    },
+    {
+      "id": "TestTwo",
+      "index": 32,
+      "columns": {
+        "Name": [
+          {
+            "en": "Test Realm 2",
+            "zh": "测试服 2"
+          }
+        ],
+        "ShortName": [
+          {
+            "en": "TST2",
+            "zh": "测试服 2"
+          }
+        ]
+      }
+    },
+    {
+      "id": "TestThree",
+      "index": 33,
+      "columns": {
+        "Name": [
+          {
+            "en": "Test Realm 3",
+            "zh": "测试服 3"
+          }
+        ],
+        "ShortName": [
+          {
+            "en": "TST3",
+            "zh": "测试服 3"
+          }
+        ]
+      }
+    }
+  ]
+}

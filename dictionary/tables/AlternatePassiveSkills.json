@@ -1,0 +1,2951 @@
+{
+  "table": "AlternatePassiveSkills",
+  "key": "Id",
+  "columns": [
+    "Name",
+    "FlavourText",
+    "DDSIcon"
+  ],
+  "entries": [
+    {
+      "id": "vaal_keystone_1",
+      "index": 0,
+      "columns": {
+        "Name": [
+          {
+            "en": "Divine Flesh",
+            "zh": "神圣血肉"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "Give up your flesh unto the gods, and in vulnerability find strength.",
+            "zh": "将身躯尽数献出，在脆弱中寻找力量。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vaal_keystone_2",
+      "index": 1,
+      "columns": {
+        "Name": [
+          {
+            "en": "Eternal Youth",
+            "zh": "青春永驻"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "Burn the spirit to vitalise the flesh.",
+            "zh": "燃烧意志，滋养血肉。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vaal_keystone_2_v2",
+      "index": 2,
+      "columns": {
+        "Name": [
+          {
+            "en": "Immortal Ambition",
+            "zh": "不朽野望"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "You may live forever, so long as someone remains to be sacrificed.",
+            "zh": "只要自愿作出牺牲，你就可以长生不朽。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vaal_keystone_3",
+      "index": 3,
+      "columns": {
+        "Name": [
+          {
+            "en": "Corrupted Soul",
+            "zh": "腐化的灵魂"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "As true belief fades, the facade of faith grows, leaving you powerful but hollow.",
+            "zh": "正念消褪筑高墙，高墙愈坚愈迷惘。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vaal_small_fire_damage",
+      "index": 4,
+      "columns": {
+        "Name": [
+          {
+            "en": "Fire Damage",
+            "zh": "火焰伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vaal_small_cold_damage",
+      "index": 5,
+      "columns": {
+        "Name": [
+          {
+            "en": "Cold Damage",
+            "zh": "冰霜伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vaal_small_lightning_damage",
+      "index": 6,
+      "columns": {
+        "Name": [
+          {
+            "en": "Lightning Damage",
+            "zh": "闪电伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vaal_small_physical_damage",
+      "index": 7,
+      "columns": {
+        "Name": [
+          {
+            "en": "Physical Damage",
+            "zh": "物理伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vaal_small_chaos_damage",
+      "index": 8,
+      "columns": {
+        "Name": [
+          {
+            "en": "Chaos Damage",
+            "zh": "混沌伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vaal_small_minion_damage",
+      "index": 9,
+      "columns": {
+        "Name": [
+          {
+            "en": "Minion Damage",
+            "zh": "召唤生物伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vaal_small_attack_damage",
+      "index": 10,
+      "columns": {
+        "Name": [
+          {
+            "en": "Attack Damage",
+            "zh": "攻击伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vaal_small_spell_damage",
+      "index": 11,
+      "columns": {
+        "Name": [
+          {
+            "en": "Spell Damage",
+            "zh": "法术伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vaal_small_area_damage",
+      "index": 12,
+      "columns": {
+        "Name": [
+          {
+            "en": "Area Damage",
+            "zh": "范围伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vaal_small_projectile_damage",
+      "index": 13,
+      "columns": {
+        "Name": [
+          {
+            "en": "Projectile Damage",
+            "zh": "投射物伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vaal_small_damage_over_time",
+      "index": 14,
+      "columns": {
+        "Name": [
+          {
+            "en": "Damage Over Time",
+            "zh": "持续伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vaal_small_area_of_effect",
+      "index": 15,
+      "columns": {
+        "Name": [
+          {
+            "en": "Area of Effect",
+            "zh": "效果区域"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vaal_small_projectile_speed",
+      "index": 16,
+      "columns": {
+        "Name": [
+          {
+            "en": "Projectile Speed",
+            "zh": "投射物速度"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vaal_small_critical_strike_chance",
+      "index": 17,
+      "columns": {
+        "Name": [
+          {
+            "en": "Critical Strike Chance",
+            "zh": "暴击率"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vaal_small_critical_strike_multiplier",
+      "index": 18,
+      "columns": {
+        "Name": [
+          {
+            "en": "Critical Strike Multiplier",
+            "zh": "暴击伤害加成"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vaal_small_attack_speed",
+      "index": 19,
+      "columns": {
+        "Name": [
+          {
+            "en": "Attack Speed",
+            "zh": "攻击速度"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vaal_small_cast_speed",
+      "index": 20,
+      "columns": {
+        "Name": [
+          {
+            "en": "Cast Speed",
+            "zh": "施法速度"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vaal_small_movement_speed",
+      "index": 21,
+      "columns": {
+        "Name": [
+          {
+            "en": "Movement Speed",
+            "zh": "移动速度"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vaal_small_chance_to_ignite",
+      "index": 22,
+      "columns": {
+        "Name": [
+          {
+            "en": "Ignite Chance",
+            "zh": "点燃几率"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vaal_small_chance_to_freeze",
+      "index": 23,
+      "columns": {
+        "Name": [
+          {
+            "en": "Freeze Chance",
+            "zh": "冻结几率"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vaal_small_chance_to_shock",
+      "index": 24,
+      "columns": {
+        "Name": [
+          {
+            "en": "Shock Chance",
+            "zh": "感电几率"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vaal_small_duration",
+      "index": 25,
+      "columns": {
+        "Name": [
+          {
+            "en": "Skill Duration",
+            "zh": "技能持续时间"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vaal_small_life",
+      "index": 26,
+      "columns": {
+        "Name": [
+          {
+            "en": "Life",
+            "zh": "生命"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vaal_small_mana",
+      "index": 27,
+      "columns": {
+        "Name": [
+          {
+            "en": "Mana",
+            "zh": "魔力"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vaal_small_mana_regeneration",
+      "index": 28,
+      "columns": {
+        "Name": [
+          {
+            "en": "Mana Regeneration",
+            "zh": "魔力回复"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vaal_small_armour",
+      "index": 29,
+      "columns": {
+        "Name": [
+          {
+            "en": "Armour",
+            "zh": "护甲"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vaal_small_evasion",
+      "index": 30,
+      "columns": {
+        "Name": [
+          {
+            "en": "Evasion",
+            "zh": "闪避"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vaal_small_energy_shield",
+      "index": 31,
+      "columns": {
+        "Name": [
+          {
+            "en": "Energy Shield",
+            "zh": "能量护盾"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vaal_small_attack_block",
+      "index": 32,
+      "columns": {
+        "Name": [
+          {
+            "en": "Block",
+            "zh": "格挡"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vaal_small_spell_block",
+      "index": 33,
+      "columns": {
+        "Name": [
+          {
+            "en": "Spell Block",
+            "zh": "法术格挡"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vaal_small_attack_dodge",
+      "index": 34,
+      "columns": {
+        "Name": [
+          {
+            "en": "Avoid Elemental Ailments",
+            "zh": "避免元素异常状态"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vaal_small_spell_dodge",
+      "index": 35,
+      "columns": {
+        "Name": [
+          {
+            "en": "Spell Suppression",
+            "zh": "法术压制"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vaal_small_aura_effect",
+      "index": 36,
+      "columns": {
+        "Name": [
+          {
+            "en": "Aura Effect",
+            "zh": "光环效果"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vaal_small_curse_effect",
+      "index": 37,
+      "columns": {
+        "Name": [
+          {
+            "en": "Curse Effect",
+            "zh": "诅咒效果"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vaal_small_fire_resistance",
+      "index": 38,
+      "columns": {
+        "Name": [
+          {
+            "en": "Fire Resistance",
+            "zh": "火焰抗性"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vaal_small_cold_resistance",
+      "index": 39,
+      "columns": {
+        "Name": [
+          {
+            "en": "Cold Resistance",
+            "zh": "冰霜抗性"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vaal_small_lightning_resistance",
+      "index": 40,
+      "columns": {
+        "Name": [
+          {
+            "en": "Lightning Resistance",
+            "zh": "闪电抗性"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vaal_small_chaos_resistance",
+      "index": 41,
+      "columns": {
+        "Name": [
+          {
+            "en": "Chaos Resistance",
+            "zh": "混沌抗性"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vaal_notable_fire_damage_1",
+      "index": 42,
+      "columns": {
+        "Name": [
+          {
+            "en": "Ritual of Immolation",
+            "zh": "焚化祭仪"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vaal_notable_fire_damage_2",
+      "index": 43,
+      "columns": {
+        "Name": [
+          {
+            "en": "Revitalising Flames",
+            "zh": "活化烈焰"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vaal_notable_fire_damage_3",
+      "index": 44,
+      "columns": {
+        "Name": [
+          {
+            "en": "Flesh to Flames",
+            "zh": "蚀骨烈焰"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vaal_notable_cold_damage_1",
+      "index": 45,
+      "columns": {
+        "Name": [
+          {
+            "en": "Ritual of Stillness",
+            "zh": "寒冰祭仪"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vaal_notable_cold_damage_2",
+      "index": 46,
+      "columns": {
+        "Name": [
+          {
+            "en": "Revitalising Frost",
+            "zh": "活化寒冰"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vaal_notable_cold_damage_3",
+      "index": 47,
+      "columns": {
+        "Name": [
+          {
+            "en": "Flesh to Frost",
+            "zh": "蚀骨寒冰"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vaal_notable_lightning_damage_1",
+      "index": 48,
+      "columns": {
+        "Name": [
+          {
+            "en": "Ritual of Thunder",
+            "zh": "雷霆祭仪"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vaal_notable_lightning_damage_2",
+      "index": 49,
+      "columns": {
+        "Name": [
+          {
+            "en": "Revitalising Lightning",
+            "zh": "活化闪电"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vaal_notable_lightning_damage_3",
+      "index": 50,
+      "columns": {
+        "Name": [
+          {
+            "en": "Flesh to Lightning",
+            "zh": "蚀骨闪电"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vaal_notable_physical_damage_1",
+      "index": 51,
+      "columns": {
+        "Name": [
+          {
+            "en": "Ritual of Might",
+            "zh": "力之祭仪"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vaal_notable_physical_damage_2",
+      "index": 52,
+      "columns": {
+        "Name": [
+          {
+            "en": "Revitalising Winds",
+            "zh": "活化之风"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vaal_notable_physical_damage_3",
+      "index": 53,
+      "columns": {
+        "Name": [
+          {
+            "en": "Bloody Savagery",
+            "zh": "残酷的暴行"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vaal_notable_chaos_damage_1",
+      "index": 54,
+      "columns": {
+        "Name": [
+          {
+            "en": "Ritual of Shadows",
+            "zh": "暗影祭仪"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vaal_notable_chaos_damage_2",
+      "index": 55,
+      "columns": {
+        "Name": [
+          {
+            "en": "Revitalising Darkness",
+            "zh": "活化黑暗"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vaal_notable_spell_damage_1",
+      "index": 56,
+      "columns": {
+        "Name": [
+          {
+            "en": "Thaumaturgical Aptitude",
+            "zh": "奇术之力"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vaal_notable_minion_damage_1",
+      "index": 57,
+      "columns": {
+        "Name": [
+          {
+            "en": "Hierarchy",
+            "zh": "阶级"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vaal_notable_damage_over_time_1",
+      "index": 58,
+      "columns": {
+        "Name": [
+          {
+            "en": "Exquisite Pain",
+            "zh": "极度剧痛"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vaal_notable_life_1",
+      "index": 59,
+      "columns": {
+        "Name": [
+          {
+            "en": "Ritual of Flesh",
+            "zh": "血肉祭仪"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vaal_notable_life_2",
+      "index": 60,
+      "columns": {
+        "Name": [
+          {
+            "en": "Flesh Worship",
+            "zh": "血肉崇拜"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vaal_notable_mana_1",
+      "index": 61,
+      "columns": {
+        "Name": [
+          {
+            "en": "Ritual of Memory",
+            "zh": "回忆祭仪"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vaal_notable_armour_1",
+      "index": 62,
+      "columns": {
+        "Name": [
+          {
+            "en": "Automaton Studies",
+            "zh": "神兵之学"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vaal_notable_evasion_1",
+      "index": 63,
+      "columns": {
+        "Name": [
+          {
+            "en": "Construct Studies",
+            "zh": "构造之学"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vaal_notable_energy_shield_1",
+      "index": 64,
+      "columns": {
+        "Name": [
+          {
+            "en": "Energy Flow Studies",
+            "zh": "能量之学"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vaal_notable_energy_shield_2",
+      "index": 65,
+      "columns": {
+        "Name": [
+          {
+            "en": "Soul Worship",
+            "zh": "灵魂崇拜"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vaal_notable_block_1",
+      "index": 66,
+      "columns": {
+        "Name": [
+          {
+            "en": "Blood-Quenched Bulwark",
+            "zh": "血淬壁垒"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vaal_notable_block_2",
+      "index": 67,
+      "columns": {
+        "Name": [
+          {
+            "en": "Thaumaturgical Protection",
+            "zh": "奇术防御"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vaal_notable_dodge_1",
+      "index": 68,
+      "columns": {
+        "Name": [
+          {
+            "en": "Jungle Paths",
+            "zh": "丛林迷踪"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vaal_notable_dodge_2",
+      "index": 69,
+      "columns": {
+        "Name": [
+          {
+            "en": "Temple Paths",
+            "zh": "神庙迷踪"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vaal_notable_aura_1",
+      "index": 70,
+      "columns": {
+        "Name": [
+          {
+            "en": "Commanding Presence",
+            "zh": "指挥姿态"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vaal_notable_curse_1",
+      "index": 71,
+      "columns": {
+        "Name": [
+          {
+            "en": "Ancient Hex",
+            "zh": "上古邪术"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vaal_notable_fire_resistance_1",
+      "index": 72,
+      "columns": {
+        "Name": [
+          {
+            "en": "Cult of Fire",
+            "zh": "火焰秘仪"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vaal_notable_cold_resistance_1",
+      "index": 73,
+      "columns": {
+        "Name": [
+          {
+            "en": "Cult of Ice",
+            "zh": "寒冰秘仪"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vaal_notable_lightning_resistance_1",
+      "index": 74,
+      "columns": {
+        "Name": [
+          {
+            "en": "Cult of Lightning",
+            "zh": "风暴秘仪"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vaal_notable_chaos_resistance_1",
+      "index": 75,
+      "columns": {
+        "Name": [
+          {
+            "en": "Cult of Chaos",
+            "zh": "混沌秘仪"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vaal_notable_random_offense",
+      "index": 76,
+      "columns": {
+        "Name": [
+          {
+            "en": "Might of the Vaal",
+            "zh": "瓦尔之力"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vaal_notable_random_defence",
+      "index": 77,
+      "columns": {
+        "Name": [
+          {
+            "en": "Legacy of the Vaal",
+            "zh": "瓦尔之遗"
+          }
+        ]
+      }
+    },
+    {
+      "id": "karui_keystone_1",
+      "index": 78,
+      "columns": {
+        "Name": [
+          {
+            "en": "Strength of Blood",
+            "zh": "鲜血之力"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "Wreathed in madness and blood, you are unstoppable.",
+            "zh": "身披鲜血与疯狂，打遍天下无敌手。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "karui_keystone_2",
+      "index": 79,
+      "columns": {
+        "Name": [
+          {
+            "en": "Tempered by War",
+            "zh": "战争锤炼"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "Tasalio and Valako test you, child of the volcano. Prove yourself worthy.",
+            "zh": "这是塔赛里奥和瓦拉克的试炼，火山之子。证明你的价值吧。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "karui_keystone_3",
+      "index": 80,
+      "columns": {
+        "Name": [
+          {
+            "en": "Glancing Blows",
+            "zh": "斗转星移"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "Utter trust in your defence unleashes ultimate potential.",
+            "zh": "相信防御，你将有无限潜力。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "karui_keystone_3_v2",
+      "index": 81,
+      "columns": {
+        "Name": [
+          {
+            "en": "Chainbreaker",
+            "zh": "破枷除锁"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "No man may enslave you, for you have a secret: you're always angry.",
+            "zh": "没人可以奴役你，因为你始终愤怒不已。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "maraketh_keystone_1",
+      "index": 82,
+      "columns": {
+        "Name": [
+          {
+            "en": "Wind Dancer",
+            "zh": "风舞者"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "Invite the enemy when you are strong, evade them when you are weak;\r\nstrike with the coming of the storm.",
+            "zh": "强大时与敌为友，虚弱时暂避其锋，\r\n时机一到就出手。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "maraketh_keystone_1_v2",
+      "index": 83,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Traitor",
+            "zh": "叛徒"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "The fewer there are, the less you have to share.",
+            "zh": "数量越少，你分出去的就更少。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "maraketh_keystone_2",
+      "index": 84,
+      "columns": {
+        "Name": [
+          {
+            "en": "Dance with Death",
+            "zh": "与亡共舞"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "You circle the black scorpion with enmity, daring it time and again.",
+            "zh": "你带着敌意环绕黑蝎，屡败屡战。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "maraketh_keystone_3",
+      "index": 85,
+      "columns": {
+        "Name": [
+          {
+            "en": "Second Sight",
+            "zh": "慧眼"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "Speak not, but listen, for danger reveals itself on the wind.",
+            "zh": "少说多听，危险在风声中吐露踪迹。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "templar_keystone_1",
+      "index": 86,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Agnostic",
+            "zh": "惘信者"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "Put your faith in intellect rather than mysticism.",
+            "zh": "少一点玄学，多一点理性。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "templar_keystone_1_v2",
+      "index": 87,
+      "columns": {
+        "Name": [
+          {
+            "en": "Transcendence",
+            "zh": "超然飞升"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "Master the mortal world, and you may find immortality beyond.",
+            "zh": "一旦主宰凡人世界，你将发现超凡之道。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "templar_keystone_2",
+      "index": 88,
+      "columns": {
+        "Name": [
+          {
+            "en": "Inner Conviction",
+            "zh": "内在信念"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "Your every move is calm and calculated with absolute certainty.",
+            "zh": "你的每一步都从容自若，十拿九稳。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "templar_keystone_3",
+      "index": 89,
+      "columns": {
+        "Name": [
+          {
+            "en": "Power of Purpose",
+            "zh": "决心之力"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "Empowered by the divine, you fear no weapon of man.",
+            "zh": "神力加持之下，无需畏惧凡人的刀兵。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "templar_devotion_node",
+      "index": 90,
+      "columns": {
+        "Name": [
+          {
+            "en": "Devotion",
+            "zh": "奉献"
+          }
+        ]
+      }
+    },
+    {
+      "id": "templar_notable_fire_conversion",
+      "index": 91,
+      "columns": {
+        "Name": [
+          {
+            "en": "Heated Devotion",
+            "zh": "狂热的奉献"
+          }
+        ]
+      }
+    },
+    {
+      "id": "templar_notable_cold_conversion",
+      "index": 92,
+      "columns": {
+        "Name": [
+          {
+            "en": "Calming Devotion",
+            "zh": "平静的奉献"
+          }
+        ]
+      }
+    },
+    {
+      "id": "templar_notable_lightning_conversion",
+      "index": 93,
+      "columns": {
+        "Name": [
+          {
+            "en": "Thundrous Devotion",
+            "zh": "雷鸣的奉献"
+          }
+        ]
+      }
+    },
+    {
+      "id": "templar_notable_mana_added_as_energy_shield",
+      "index": 94,
+      "columns": {
+        "Name": [
+          {
+            "en": "Thoughts and Prayers",
+            "zh": "思考与祈祷"
+          }
+        ]
+      }
+    },
+    {
+      "id": "templar_notable_arcane_surge",
+      "index": 95,
+      "columns": {
+        "Name": [
+          {
+            "en": "Zealot",
+            "zh": "狂热者"
+          }
+        ]
+      }
+    },
+    {
+      "id": "templar_notable_minimum_endurance_charge",
+      "index": 96,
+      "columns": {
+        "Name": [
+          {
+            "en": "Enduring Faith",
+            "zh": "持久的信仰"
+          }
+        ]
+      }
+    },
+    {
+      "id": "templar_notable_minimum_frenzy_charge",
+      "index": 97,
+      "columns": {
+        "Name": [
+          {
+            "en": "Powerful Faith",
+            "zh": "强大的信仰"
+          }
+        ]
+      }
+    },
+    {
+      "id": "templar_notable_minimum_power_charge",
+      "index": 98,
+      "columns": {
+        "Name": [
+          {
+            "en": "Frenzied Faith",
+            "zh": "狂烈的信仰"
+          }
+        ]
+      }
+    },
+    {
+      "id": "templar_notable_consecrated_ground_ailments",
+      "index": 99,
+      "columns": {
+        "Name": [
+          {
+            "en": "Cloistered",
+            "zh": "隔绝"
+          }
+        ]
+      }
+    },
+    {
+      "id": "templar_notable_additional_physical_reduction",
+      "index": 100,
+      "columns": {
+        "Name": [
+          {
+            "en": "Martyr's Might",
+            "zh": "殉道者之力"
+          }
+        ]
+      }
+    },
+    {
+      "id": "templar_notable_max_resistances",
+      "index": 101,
+      "columns": {
+        "Name": [
+          {
+            "en": "Intolerance of Sin",
+            "zh": "罪恶的偏执"
+          }
+        ]
+      }
+    },
+    {
+      "id": "templar_notable_fire_exposure",
+      "index": 102,
+      "columns": {
+        "Name": [
+          {
+            "en": "Smite the Wicked",
+            "zh": "恶毒之击"
+          }
+        ]
+      }
+    },
+    {
+      "id": "templar_notable_cold_exposure",
+      "index": 103,
+      "columns": {
+        "Name": [
+          {
+            "en": "Smite the Ignorant",
+            "zh": "愚昧之击"
+          }
+        ]
+      }
+    },
+    {
+      "id": "templar_notable_lightning_exposure",
+      "index": 104,
+      "columns": {
+        "Name": [
+          {
+            "en": "Smite the Heretical",
+            "zh": "异端之击"
+          }
+        ]
+      }
+    },
+    {
+      "id": "eternal_keystone_1",
+      "index": 105,
+      "columns": {
+        "Name": [
+          {
+            "en": "Supreme Decadence",
+            "zh": "无上衰败"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "You may find that having is less pleasing a thing than wanting.",
+            "zh": "你会发现，期待比占有更有乐趣。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "eternal_keystone_2",
+      "index": 106,
+      "columns": {
+        "Name": [
+          {
+            "en": "Supreme Grandstanding",
+            "zh": "无上之秀"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "Your fiery passion inspires everyone around you - especially your foes.",
+            "zh": "你高昂的激情鼓舞了周围每一个人，除了敌人。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "eternal_keystone_3",
+      "index": 107,
+      "columns": {
+        "Name": [
+          {
+            "en": "Supreme Ego",
+            "zh": "无上自我"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "You are the heart of the empire, shining bright so that all are lifted up by your light.\r\nLet none tell you otherwise.",
+            "zh": "你是帝国之心，给所有人带来光明。\r\n除此之外，你一无所知。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "eternal_keystone_3_v2",
+      "index": 108,
+      "columns": {
+        "Name": [
+          {
+            "en": "Supreme Ostentation",
+            "zh": "无上宣示"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "Displays of power are not just for show. If you are never truly tested,\r\nyou may divert those resources elsewhere.",
+            "zh": "仅用于力量并非宣示。如果你不愿尝试，\r\n那力量多半会转向别处。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "eternal_small_blank",
+      "index": 109,
+      "columns": {
+        "Name": [
+          {
+            "en": "Price of Glory",
+            "zh": "荣耀的代价"
+          }
+        ]
+      }
+    },
+    {
+      "id": "eternal_notable_crit_1",
+      "index": 110,
+      "columns": {
+        "Name": [
+          {
+            "en": "Flawless Execution",
+            "zh": "完美处决"
+          }
+        ]
+      }
+    },
+    {
+      "id": "eternal_notable_crit_2",
+      "index": 111,
+      "columns": {
+        "Name": [
+          {
+            "en": "Brutal Execution",
+            "zh": "残暴处决"
+          }
+        ]
+      }
+    },
+    {
+      "id": "eternal_notable_endurance_1",
+      "index": 112,
+      "columns": {
+        "Name": [
+          {
+            "en": "Eternal Resilience",
+            "zh": "永恒的弹性"
+          }
+        ]
+      }
+    },
+    {
+      "id": "eternal_notable_endurance_2",
+      "index": 113,
+      "columns": {
+        "Name": [
+          {
+            "en": "Eternal Fortitude",
+            "zh": "永恒的韧性"
+          }
+        ]
+      }
+    },
+    {
+      "id": "eternal_notable_endurance_3",
+      "index": 114,
+      "columns": {
+        "Name": [
+          {
+            "en": "Eternal Dominance",
+            "zh": "永恒支配"
+          }
+        ]
+      }
+    },
+    {
+      "id": "eternal_notable_frenzy_1",
+      "index": 115,
+      "columns": {
+        "Name": [
+          {
+            "en": "Eternal Fervour",
+            "zh": "永恒的热情"
+          }
+        ]
+      }
+    },
+    {
+      "id": "eternal_notable_frenzy_2",
+      "index": 116,
+      "columns": {
+        "Name": [
+          {
+            "en": "Eternal Adaptiveness",
+            "zh": "永恒的相性"
+          }
+        ]
+      }
+    },
+    {
+      "id": "eternal_notable_frenzy_3",
+      "index": 117,
+      "columns": {
+        "Name": [
+          {
+            "en": "Eternal Bloodlust",
+            "zh": "永恒嗜血"
+          }
+        ]
+      }
+    },
+    {
+      "id": "eternal_notable_power_1",
+      "index": 118,
+      "columns": {
+        "Name": [
+          {
+            "en": "Eternal Subjugation",
+            "zh": "永恒的镇压"
+          }
+        ]
+      }
+    },
+    {
+      "id": "eternal_notable_power_2",
+      "index": 119,
+      "columns": {
+        "Name": [
+          {
+            "en": "Eternal Separation",
+            "zh": "永恒的隔离"
+          }
+        ]
+      }
+    },
+    {
+      "id": "eternal_notable_power_3",
+      "index": 120,
+      "columns": {
+        "Name": [
+          {
+            "en": "Eternal Exploitation",
+            "zh": "永恒榨取"
+          }
+        ]
+      }
+    },
+    {
+      "id": "eternal_notable_chill_1",
+      "index": 121,
+      "columns": {
+        "Name": [
+          {
+            "en": "Rites of Lunaris",
+            "zh": "月影祭仪"
+          }
+        ]
+      }
+    },
+    {
+      "id": "eternal_notable_chill_2",
+      "index": 122,
+      "columns": {
+        "Name": [
+          {
+            "en": "Rites of Solaris",
+            "zh": "日耀仪式"
+          }
+        ]
+      }
+    },
+    {
+      "id": "eternal_notable_shock_1",
+      "index": 123,
+      "columns": {
+        "Name": [
+          {
+            "en": "Virtue Gem Surgery",
+            "zh": "美德手术"
+          }
+        ]
+      }
+    },
+    {
+      "id": "eternal_notable_shock_2",
+      "index": 124,
+      "columns": {
+        "Name": [
+          {
+            "en": "Rural Life",
+            "zh": "田园牧歌"
+          }
+        ]
+      }
+    },
+    {
+      "id": "eternal_notable_block_1",
+      "index": 125,
+      "columns": {
+        "Name": [
+          {
+            "en": "City Walls",
+            "zh": "城市壁垒"
+          }
+        ]
+      }
+    },
+    {
+      "id": "eternal_notable_block_2",
+      "index": 126,
+      "columns": {
+        "Name": [
+          {
+            "en": "Sceptre Pinnacle",
+            "zh": "权杖之尖"
+          }
+        ]
+      }
+    },
+    {
+      "id": "eternal_notable_dodge_1",
+      "index": 127,
+      "columns": {
+        "Name": [
+          {
+            "en": "Secret Tunnels",
+            "zh": "秘密隧道"
+          }
+        ]
+      }
+    },
+    {
+      "id": "eternal_notable_dodge_2",
+      "index": 128,
+      "columns": {
+        "Name": [
+          {
+            "en": "Purity Rebel",
+            "zh": "净化叛乱"
+          }
+        ]
+      }
+    },
+    {
+      "id": "eternal_notable_aura_1",
+      "index": 129,
+      "columns": {
+        "Name": [
+          {
+            "en": "Superiority",
+            "zh": "优越"
+          }
+        ]
+      }
+    },
+    {
+      "id": "eternal_notable_minion_1",
+      "index": 130,
+      "columns": {
+        "Name": [
+          {
+            "en": "Slum Lord",
+            "zh": "贫民之王"
+          }
+        ]
+      }
+    },
+    {
+      "id": "eternal_notable_minion_2",
+      "index": 131,
+      "columns": {
+        "Name": [
+          {
+            "en": "Axiom Warden",
+            "zh": "公义卫士"
+          }
+        ]
+      }
+    },
+    {
+      "id": "eternal_notable_spell_1",
+      "index": 132,
+      "columns": {
+        "Name": [
+          {
+            "en": "Gemling Inquisition",
+            "zh": "璀璨审判"
+          }
+        ]
+      }
+    },
+    {
+      "id": "eternal_notable_spell_2",
+      "index": 133,
+      "columns": {
+        "Name": [
+          {
+            "en": "Gemling Ambush",
+            "zh": "宝石的伏击"
+          }
+        ]
+      }
+    },
+    {
+      "id": "eternal_notable_fire_attack_1",
+      "index": 134,
+      "columns": {
+        "Name": [
+          {
+            "en": "Night of a Thousand Ribbons",
+            "zh": "无尽荣光之夜"
+          }
+        ]
+      }
+    },
+    {
+      "id": "eternal_notable_cold_attack_1",
+      "index": 135,
+      "columns": {
+        "Name": [
+          {
+            "en": "Bloody Flowers' Rebellion",
+            "zh": "猛烈开花"
+          }
+        ]
+      }
+    },
+    {
+      "id": "eternal_notable_lightning_attack_1",
+      "index": 136,
+      "columns": {
+        "Name": [
+          {
+            "en": "Chitus' Heart",
+            "zh": "切特斯之心"
+          }
+        ]
+      }
+    },
+    {
+      "id": "eternal_notable_physical_damage_1",
+      "index": 137,
+      "columns": {
+        "Name": [
+          {
+            "en": "Gemling Training",
+            "zh": "璀璨训练"
+          }
+        ]
+      }
+    },
+    {
+      "id": "eternal_notable_physical_damage_2",
+      "index": 138,
+      "columns": {
+        "Name": [
+          {
+            "en": "Rigwald's Might",
+            "zh": "瑞佛之力"
+          }
+        ]
+      }
+    },
+    {
+      "id": "eternal_notable_bleed_damage_1",
+      "index": 139,
+      "columns": {
+        "Name": [
+          {
+            "en": "Geofri's End",
+            "zh": "吉尔菲的末日"
+          }
+        ]
+      }
+    },
+    {
+      "id": "eternal_notable_projectile_attack_damage_1",
+      "index": 140,
+      "columns": {
+        "Name": [
+          {
+            "en": "Lioneye's Focus",
+            "zh": "狮眼的专注"
+          }
+        ]
+      }
+    },
+    {
+      "id": "eternal_notable_attack_speed_1",
+      "index": 141,
+      "columns": {
+        "Name": [
+          {
+            "en": "Voll's Coup",
+            "zh": "福尔的政变"
+          }
+        ]
+      }
+    },
+    {
+      "id": "eternal_notable_cast_speed_1",
+      "index": 142,
+      "columns": {
+        "Name": [
+          {
+            "en": "Dialla's Wit",
+            "zh": "达拉的聪慧"
+          }
+        ]
+      }
+    },
+    {
+      "id": "eternal_notable_rarity_1",
+      "index": 143,
+      "columns": {
+        "Name": [
+          {
+            "en": "Discerning Taste",
+            "zh": "多滋多味"
+          }
+        ]
+      }
+    },
+    {
+      "id": "eternal_notable_armour_1",
+      "index": 144,
+      "columns": {
+        "Name": [
+          {
+            "en": "Gleaming Legion",
+            "zh": "辉煌军团"
+          }
+        ]
+      }
+    },
+    {
+      "id": "eternal_notable_evasion_1",
+      "index": 145,
+      "columns": {
+        "Name": [
+          {
+            "en": "Shadowy Streets",
+            "zh": "街头暗影"
+          }
+        ]
+      }
+    },
+    {
+      "id": "eternal_notable_fire_resistance_1",
+      "index": 146,
+      "columns": {
+        "Name": [
+          {
+            "en": "Crematorium Worker",
+            "zh": "焚尸工"
+          }
+        ]
+      }
+    },
+    {
+      "id": "eternal_notable_cold_resistance_1",
+      "index": 147,
+      "columns": {
+        "Name": [
+          {
+            "en": "Street Urchin",
+            "zh": "街头顽童"
+          }
+        ]
+      }
+    },
+    {
+      "id": "eternal_notable_lightning_resistance_1",
+      "index": 148,
+      "columns": {
+        "Name": [
+          {
+            "en": "Baleful Augmentation",
+            "zh": "惊悚增幅"
+          }
+        ]
+      }
+    },
+    {
+      "id": "eternal_notable_chaos_resistance_1",
+      "index": 149,
+      "columns": {
+        "Name": [
+          {
+            "en": "With Eyes Open",
+            "zh": "天眼开"
+          }
+        ]
+      }
+    },
+    {
+      "id": "eternal_notable_life_1",
+      "index": 150,
+      "columns": {
+        "Name": [
+          {
+            "en": "Robust Diet",
+            "zh": "健康食谱"
+          }
+        ]
+      }
+    },
+    {
+      "id": "eternal_notable_mana_1",
+      "index": 151,
+      "columns": {
+        "Name": [
+          {
+            "en": "Pooled Resources",
+            "zh": "魔力聚汇"
+          }
+        ]
+      }
+    },
+    {
+      "id": "eternal_notable_mana_regen_1",
+      "index": 152,
+      "columns": {
+        "Name": [
+          {
+            "en": "Laureate",
+            "zh": "魔力之冠"
+          }
+        ]
+      }
+    },
+    {
+      "id": "eternal_notable_accuracy_1",
+      "index": 153,
+      "columns": {
+        "Name": [
+          {
+            "en": "War Games",
+            "zh": "演习"
+          }
+        ]
+      }
+    },
+    {
+      "id": "eternal_notable_flask_duration_1",
+      "index": 154,
+      "columns": {
+        "Name": [
+          {
+            "en": "Freshly Brewed",
+            "zh": "新酿"
+          }
+        ]
+      }
+    },
+    {
+      "id": "kalguur_keystone_1",
+      "index": 155,
+      "columns": {
+        "Name": [
+          {
+            "en": "Black Scythe Training",
+            "zh": "黑镰的训练"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "The most important lesson the company\r\ntaught was simple. Be clever, and survive.",
+            "zh": "黑镰最重要的一条训诫朴实无华，\r\n头脑机敏，勉励求生。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "kalguur_keystone_2",
+      "index": 156,
+      "columns": {
+        "Name": [
+          {
+            "en": "Circular Teachings",
+            "zh": "循证的训诫"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "It is both despair and inspiration, to look back,\r\nand see oneself in the cycles of Time.",
+            "zh": "回首过去，发现自己深陷轮回，\r\n既是绝望，同样也是一种启迪。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "kalguur_keystone_3",
+      "index": 157,
+      "columns": {
+        "Name": [
+          {
+            "en": "Knightly Tenets",
+            "zh": "骑士信条"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "Many men throughout history have claimed to\r\nstand against evil. Only a few truly meant it.",
+            "zh": "不计其数的人立誓对抗邪恶。\r\n信守诺言之人却是寥寥无几。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "kalguur_notable1",
+      "index": 158,
+      "columns": {
+        "Name": [
+          {
+            "en": "Scorched Earth",
+            "zh": "炽炎之地"
+          }
+        ]
+      }
+    },
+    {
+      "id": "kalguur_notable2",
+      "index": 159,
+      "columns": {
+        "Name": [
+          {
+            "en": "War Tactics",
+            "zh": "战争军略"
+          }
+        ]
+      }
+    },
+    {
+      "id": "kalguur_notable3",
+      "index": 160,
+      "columns": {
+        "Name": [
+          {
+            "en": "Kalguuran Forged",
+            "zh": "卡古兰锻造"
+          }
+        ]
+      }
+    },
+    {
+      "id": "kalguur_notable4",
+      "index": 161,
+      "columns": {
+        "Name": [
+          {
+            "en": "Born of Middengard",
+            "zh": "源自米登加德"
+          }
+        ]
+      }
+    },
+    {
+      "id": "kalguur_notable5",
+      "index": 162,
+      "columns": {
+        "Name": [
+          {
+            "en": "Force of Will",
+            "zh": "意志的力量"
+          }
+        ]
+      }
+    },
+    {
+      "id": "kalguur_notable6",
+      "index": 163,
+      "columns": {
+        "Name": [
+          {
+            "en": "Runic Flows",
+            "zh": "符文流动"
+          }
+        ]
+      }
+    },
+    {
+      "id": "kalguur_notable7",
+      "index": 164,
+      "columns": {
+        "Name": [
+          {
+            "en": "Siege Mentality",
+            "zh": "工程思维"
+          }
+        ]
+      }
+    },
+    {
+      "id": "kalguur_notable8",
+      "index": 165,
+      "columns": {
+        "Name": [
+          {
+            "en": "Rune Knight",
+            "zh": "符文骑士"
+          }
+        ]
+      }
+    },
+    {
+      "id": "kalguur_notable9",
+      "index": 166,
+      "columns": {
+        "Name": [
+          {
+            "en": "Fiery Leadership",
+            "zh": "炽热的领袖"
+          }
+        ]
+      }
+    },
+    {
+      "id": "kalguur_notable10",
+      "index": 167,
+      "columns": {
+        "Name": [
+          {
+            "en": "Druidic Alliance",
+            "zh": "德鲁伊同盟"
+          }
+        ]
+      }
+    },
+    {
+      "id": "kalguur_notable11",
+      "index": 168,
+      "columns": {
+        "Name": [
+          {
+            "en": "Steel and Sorcery",
+            "zh": "钢铁与魔法"
+          }
+        ]
+      }
+    },
+    {
+      "id": "kalguur_notable12",
+      "index": 169,
+      "columns": {
+        "Name": [
+          {
+            "en": "Triskelion's Light",
+            "zh": "三耀之火的光芒"
+          }
+        ]
+      }
+    },
+    {
+      "id": "kalguur_notable13",
+      "index": 170,
+      "columns": {
+        "Name": [
+          {
+            "en": "Stormtossed Voyager",
+            "zh": "风霜的航海家"
+          }
+        ]
+      }
+    },
+    {
+      "id": "kalguur_notable14",
+      "index": 171,
+      "columns": {
+        "Name": [
+          {
+            "en": "Wrest Control",
+            "zh": "争夺掌控权"
+          }
+        ]
+      }
+    },
+    {
+      "id": "kalguur_notable15",
+      "index": 172,
+      "columns": {
+        "Name": [
+          {
+            "en": "Firedancer",
+            "zh": "炎舞者"
+          }
+        ]
+      }
+    },
+    {
+      "id": "kalguur_notable16",
+      "index": 173,
+      "columns": {
+        "Name": [
+          {
+            "en": "Mercenary's Lot",
+            "zh": "佣兵领地"
+          }
+        ]
+      }
+    },
+    {
+      "id": "kalguur_notable17",
+      "index": 174,
+      "columns": {
+        "Name": [
+          {
+            "en": "Vorana's Fury",
+            "zh": "沃拉娜之怒"
+          }
+        ]
+      }
+    },
+    {
+      "id": "kalguur_notable18",
+      "index": 175,
+      "columns": {
+        "Name": [
+          {
+            "en": "Sensible Precautions",
+            "zh": "合理预防"
+          }
+        ]
+      }
+    },
+    {
+      "id": "kalguur_notable19",
+      "index": 176,
+      "columns": {
+        "Name": [
+          {
+            "en": "Aim for the Jugular",
+            "zh": "直击命门"
+          }
+        ]
+      }
+    },
+    {
+      "id": "kalguur_notable20",
+      "index": 177,
+      "columns": {
+        "Name": [
+          {
+            "en": "Survival Plan",
+            "zh": "生存计划"
+          }
+        ]
+      }
+    },
+    {
+      "id": "kalguur_notable21",
+      "index": 178,
+      "columns": {
+        "Name": [
+          {
+            "en": "War of Attrition",
+            "zh": "持久鏖战"
+          }
+        ]
+      }
+    },
+    {
+      "id": "kalguur_notable22",
+      "index": 179,
+      "columns": {
+        "Name": [
+          {
+            "en": "Guerilla Warfare",
+            "zh": "游击战法"
+          }
+        ]
+      }
+    },
+    {
+      "id": "kalguur_notable23",
+      "index": 180,
+      "columns": {
+        "Name": [
+          {
+            "en": "One for the Road",
+            "zh": "跋涉的旅人"
+          }
+        ]
+      }
+    },
+    {
+      "id": "kalguur_notable24",
+      "index": 181,
+      "columns": {
+        "Name": [
+          {
+            "en": "Targeted Strike",
+            "zh": "定向打击"
+          }
+        ]
+      }
+    },
+    {
+      "id": "kalguur_notable25",
+      "index": 182,
+      "columns": {
+        "Name": [
+          {
+            "en": "Steel Bastion",
+            "zh": "钢铁的壁垒"
+          }
+        ]
+      }
+    },
+    {
+      "id": "kalguur_notable26",
+      "index": 183,
+      "columns": {
+        "Name": [
+          {
+            "en": "Forceful Energies",
+            "zh": "钢胆魄力"
+          }
+        ]
+      }
+    },
+    {
+      "id": "kalguur_notable27",
+      "index": 184,
+      "columns": {
+        "Name": [
+          {
+            "en": "Winter Forest",
+            "zh": "冬日寒林"
+          }
+        ]
+      }
+    },
+    {
+      "id": "kalguur_notable28",
+      "index": 185,
+      "columns": {
+        "Name": [
+          {
+            "en": "Fight as One",
+            "zh": "合力奋战"
+          }
+        ]
+      }
+    },
+    {
+      "id": "kalguur_notable29",
+      "index": 186,
+      "columns": {
+        "Name": [
+          {
+            "en": "Summer Meadows",
+            "zh": "夏日草甸"
+          }
+        ]
+      }
+    },
+    {
+      "id": "kalguur_notable30",
+      "index": 187,
+      "columns": {
+        "Name": [
+          {
+            "en": "Druidic Training",
+            "zh": "德鲁伊的训练"
+          }
+        ]
+      }
+    },
+    {
+      "id": "kalguur_notable31",
+      "index": 188,
+      "columns": {
+        "Name": [
+          {
+            "en": "Corrupted Vision",
+            "zh": "腐化幻象"
+          }
+        ]
+      }
+    },
+    {
+      "id": "kalguur_notable32",
+      "index": 189,
+      "columns": {
+        "Name": [
+          {
+            "en": "Runic Tattoos",
+            "zh": "符纹文身"
+          }
+        ]
+      }
+    },
+    {
+      "id": "kalguur_notable33",
+      "index": 190,
+      "columns": {
+        "Name": [
+          {
+            "en": "Furs and Leather",
+            "zh": "皮毛坠饰"
+          }
+        ]
+      }
+    },
+    {
+      "id": "kalguur_notable34",
+      "index": 191,
+      "columns": {
+        "Name": [
+          {
+            "en": "Sudden Hail",
+            "zh": "突降冰雹"
+          }
+        ]
+      }
+    },
+    {
+      "id": "kalguur_notable35",
+      "index": 192,
+      "columns": {
+        "Name": [
+          {
+            "en": "Natural Energies",
+            "zh": "自然精力"
+          }
+        ]
+      }
+    },
+    {
+      "id": "kalguur_notable36",
+      "index": 193,
+      "columns": {
+        "Name": [
+          {
+            "en": "Oaken Form",
+            "zh": "橡树形态"
+          }
+        ]
+      }
+    },
+    {
+      "id": "kalguur_notable37",
+      "index": 194,
+      "columns": {
+        "Name": [
+          {
+            "en": "Spider's Lesson",
+            "zh": "蜘蛛的训诫"
+          }
+        ]
+      }
+    },
+    {
+      "id": "abyss_keystone_1",
+      "index": 195,
+      "columns": {
+        "Name": [
+          {
+            "en": "Sacrifice of Flesh",
+            "zh": "血肉牺牲"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "I pledge my soul to you, Liege of the Lightless, and vow to conquer nations in your name!",
+            "zh": "我将我的灵魂献给你，暗光领主，誓要以你之名征服万国！"
+          }
+        ]
+      }
+    },
+    {
+      "id": "abyss_keystone_2",
+      "index": 196,
+      "columns": {
+        "Name": [
+          {
+            "en": "Sacrifice of Loyalty",
+            "zh": "忠诚牺牲"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "I pledge my soul to you, Lord of Liches, and vow to end the scourge of Life itself!",
+            "zh": "我将我的灵魂献给你，巫妖之王，誓要终结生命这一祸患！"
+          }
+        ]
+      }
+    },
+    {
+      "id": "abyss_keystone_3",
+      "index": 197,
+      "columns": {
+        "Name": [
+          {
+            "en": "Sacrifice of Mind",
+            "zh": "心智牺牲"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "I pledge my soul to you, the Blackblooded, and vow to usurp the power of Darkness!",
+            "zh": "我将我的灵魂献给你，黑血之众，誓要夺取黑暗的力量！"
+          }
+        ]
+      }
+    },
+    {
+      "id": "abyss_keystone_4",
+      "index": 198,
+      "columns": {
+        "Name": [
+          {
+            "en": "Sacrifice of Blood",
+            "zh": "鲜血牺牲"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "I pledge my soul to you, Hated Slave, and vow to exact revenge upon your kind!",
+            "zh": "我将我的灵魂献给你，憎恨之奴，誓要向你的同类复仇！"
+          }
+        ]
+      }
+    },
+    {
+      "id": "abyss_keystone_5",
+      "index": 199,
+      "columns": {
+        "Name": [
+          {
+            "en": "Sacrifice of Sight",
+            "zh": "视觉牺牲"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "I pledge my soul to you, Sovereign of the Well, and vow to bring eternal night!",
+            "zh": "我将我的灵魂献给你，弱言领主，誓要带来永恒的黑夜！"
+          }
+        ]
+      }
+    },
+    {
+      "id": "abyss_small_tribute",
+      "index": 200,
+      "columns": {
+        "Name": [
+          {
+            "en": "Tribute",
+            "zh": "贡品"
+          }
+        ]
+      }
+    },
+    {
+      "id": "abyss_notable_1",
+      "index": 201,
+      "columns": {
+        "Name": [
+          {
+            "en": "Disciple of Darkness",
+            "zh": "黑暗狂信者"
+          }
+        ]
+      }
+    },
+    {
+      "id": "abyss_notable_2",
+      "index": 202,
+      "columns": {
+        "Name": [
+          {
+            "en": "Creature of Death",
+            "zh": "死亡生物"
+          }
+        ]
+      }
+    },
+    {
+      "id": "abyss_notable_3",
+      "index": 203,
+      "columns": {
+        "Name": [
+          {
+            "en": "Creature of Magic",
+            "zh": "魔法生物"
+          }
+        ]
+      }
+    },
+    {
+      "id": "abyss_notable_4",
+      "index": 204,
+      "columns": {
+        "Name": [
+          {
+            "en": "Quickened Corpses",
+            "zh": "活化灵柩"
+          }
+        ]
+      }
+    },
+    {
+      "id": "abyss_notable_5",
+      "index": 205,
+      "columns": {
+        "Name": [
+          {
+            "en": "Ambivalent Command",
+            "zh": "矛盾指令"
+          }
+        ]
+      }
+    },
+    {
+      "id": "abyss_notable_6",
+      "index": 206,
+      "columns": {
+        "Name": [
+          {
+            "en": "Boneshedder",
+            "zh": "脱骨者"
+          }
+        ]
+      }
+    },
+    {
+      "id": "abyss_notable_7",
+      "index": 207,
+      "columns": {
+        "Name": [
+          {
+            "en": "Unfiltered Brutality",
+            "zh": "纯粹残暴"
+          }
+        ]
+      }
+    },
+    {
+      "id": "abyss_notable_8",
+      "index": 208,
+      "columns": {
+        "Name": [
+          {
+            "en": "Derogatory Gaze",
+            "zh": "不屑凝视"
+          }
+        ]
+      }
+    },
+    {
+      "id": "abyss_notable_9",
+      "index": 209,
+      "columns": {
+        "Name": [
+          {
+            "en": "Abyssal Conduit",
+            "zh": "深渊通道"
+          }
+        ]
+      }
+    },
+    {
+      "id": "abyss_notable_10",
+      "index": 210,
+      "columns": {
+        "Name": [
+          {
+            "en": "Expedited Horrors",
+            "zh": "极速恐慌"
+          }
+        ]
+      }
+    },
+    {
+      "id": "abyss_notable_11",
+      "index": 211,
+      "columns": {
+        "Name": [
+          {
+            "en": "Confined Exaltation",
+            "zh": "受限狂喜"
+          }
+        ]
+      }
+    },
+    {
+      "id": "abyss_notable_12",
+      "index": 212,
+      "columns": {
+        "Name": [
+          {
+            "en": "Arcane Ascension",
+            "zh": "秘术升华"
+          }
+        ]
+      }
+    },
+    {
+      "id": "abyss_notable_13",
+      "index": 213,
+      "columns": {
+        "Name": [
+          {
+            "en": "Ravenous Mind",
+            "zh": "贪婪心智"
+          }
+        ]
+      }
+    },
+    {
+      "id": "abyss_notable_14",
+      "index": 214,
+      "columns": {
+        "Name": [
+          {
+            "en": "Gluttonous Presence",
+            "zh": "贪食之姿"
+          }
+        ]
+      }
+    },
+    {
+      "id": "abyss_notable_15",
+      "index": 215,
+      "columns": {
+        "Name": [
+          {
+            "en": "Unrestrained Intellect",
+            "zh": "无拘智慧"
+          }
+        ]
+      }
+    },
+    {
+      "id": "abyss_notable_16",
+      "index": 216,
+      "columns": {
+        "Name": [
+          {
+            "en": "Cruel Strength",
+            "zh": "残酷力量"
+          }
+        ]
+      }
+    },
+    {
+      "id": "abyss_notable_17",
+      "index": 217,
+      "columns": {
+        "Name": [
+          {
+            "en": "Opportunistic Dexterity",
+            "zh": "投机敏捷"
+          }
+        ]
+      }
+    },
+    {
+      "id": "abyss_notable_18",
+      "index": 218,
+      "columns": {
+        "Name": [
+          {
+            "en": "Unreal Potential",
+            "zh": "超凡潜能"
+          }
+        ]
+      }
+    },
+    {
+      "id": "abyss_notable_19",
+      "index": 219,
+      "columns": {
+        "Name": [
+          {
+            "en": "I Have Darkvision",
+            "zh": "暗视能力"
+          }
+        ]
+      }
+    },
+    {
+      "id": "abyss_notable_20",
+      "index": 220,
+      "columns": {
+        "Name": [
+          {
+            "en": "Domineering Commands",
+            "zh": "统御指令"
+          }
+        ]
+      }
+    },
+    {
+      "id": "abyss_notable_21",
+      "index": 221,
+      "columns": {
+        "Name": [
+          {
+            "en": "Worthy Tithes",
+            "zh": "价值供奉"
+          }
+        ]
+      }
+    },
+    {
+      "id": "abyss_notable_22",
+      "index": 222,
+      "columns": {
+        "Name": [
+          {
+            "en": "Buried Animosity",
+            "zh": "深埋怨恨"
+          }
+        ]
+      }
+    },
+    {
+      "id": "abyss_notable_23",
+      "index": 223,
+      "columns": {
+        "Name": [
+          {
+            "en": "Fast Rot",
+            "zh": "急速腐朽"
+          }
+        ]
+      }
+    },
+    {
+      "id": "abyss_notable_24",
+      "index": 224,
+      "columns": {
+        "Name": [
+          {
+            "en": "Hollow Bones",
+            "zh": "中空骸骨"
+          }
+        ]
+      }
+    },
+    {
+      "id": "abyss_notable_25",
+      "index": 225,
+      "columns": {
+        "Name": [
+          {
+            "en": "Ancient Bastion",
+            "zh": "远古要塞"
+          }
+        ]
+      }
+    },
+    {
+      "id": "abyss_notable_26",
+      "index": 226,
+      "columns": {
+        "Name": [
+          {
+            "en": "Deformed Steel",
+            "zh": "扭曲钢铁"
+          }
+        ]
+      }
+    },
+    {
+      "id": "abyss_notable_27",
+      "index": 227,
+      "columns": {
+        "Name": [
+          {
+            "en": "Mystic Brew",
+            "zh": "神秘酿造"
+          }
+        ]
+      }
+    },
+    {
+      "id": "abyss_notable_28",
+      "index": 228,
+      "columns": {
+        "Name": [
+          {
+            "en": "Resilient Wards",
+            "zh": "抗争结界"
+          }
+        ]
+      }
+    },
+    {
+      "id": "abyss_notable_29",
+      "index": 229,
+      "columns": {
+        "Name": [
+          {
+            "en": "Dreadful Fortitude",
+            "zh": "可怖毅力"
+          }
+        ]
+      }
+    },
+    {
+      "id": "abyss_notable_30",
+      "index": 230,
+      "columns": {
+        "Name": [
+          {
+            "en": "Barbed Allegiance",
+            "zh": "带刺忠诚"
+          }
+        ]
+      }
+    }
+  ]
+}

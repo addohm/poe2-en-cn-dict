@@ -1,0 +1,5088 @@
+{
+  "table": "Music",
+  "key": "Id",
+  "columns": [
+    "SoundFile",
+    "BankFile",
+    "Name",
+    "__col6"
+  ],
+  "entries": [
+    {
+      "id": "Default",
+      "index": 0,
+      "columns": {
+        "Name": [
+          {
+            "en": "Default Hideout Music",
+            "zh": "藏身处默认音乐"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Silence",
+      "index": 1,
+      "columns": {
+        "Name": [
+          {
+            "en": "Silence",
+            "zh": "沉默"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Random",
+      "index": 2,
+      "columns": {
+        "Name": [
+          {
+            "en": "Random",
+            "zh": "随机"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MainMenu",
+      "index": 3,
+      "columns": {
+        "Name": [
+          {
+            "en": "Main Theme",
+            "zh": "主题"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ThemeMobile",
+      "index": 5,
+      "columns": {
+        "Name": [
+          {
+            "en": "Mobile Theme",
+            "zh": "移动版主题"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act1_TwilightStrand",
+      "index": 6,
+      "columns": {
+        "Name": [
+          {
+            "en": "Twilight Strand",
+            "zh": "绝望岩滩"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act1_Encampment",
+      "index": 7,
+      "columns": {
+        "Name": [
+          {
+            "en": "Lioneye's Watch (A1)",
+            "zh": "狮眼守望(A1)"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act1_SandBeach",
+      "index": 8,
+      "columns": {
+        "Name": [
+          {
+            "en": "Coast",
+            "zh": "海岸"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act1_TidalIsland",
+      "index": 9,
+      "columns": {
+        "Name": [
+          {
+            "en": "Tidal Island",
+            "zh": "海潮孤岛"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act1_MudFlats",
+      "index": 10,
+      "columns": {
+        "Name": [
+          {
+            "en": "Mud Flats",
+            "zh": "炙热盐沼"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act1_FetidPool",
+      "index": 11,
+      "columns": {
+        "Name": [
+          {
+            "en": "Fetid Pool",
+            "zh": "腐水岩洞"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act1_Cave",
+      "index": 12,
+      "columns": {
+        "Name": [
+          {
+            "en": "Submerged Passage",
+            "zh": "海潮地穴"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act1_FloodedDepths",
+      "index": 13,
+      "columns": {
+        "Name": [
+          {
+            "en": "Flooded Depths",
+            "zh": "水声之渊"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act1_Cliff",
+      "index": 14,
+      "columns": {
+        "Name": [
+          {
+            "en": "Ledge",
+            "zh": "沉寂海崖"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act1_Climb",
+      "index": 15,
+      "columns": {
+        "Name": [
+          {
+            "en": "Climb",
+            "zh": "碎岩山坡"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act1_Prison",
+      "index": 16,
+      "columns": {
+        "Name": [
+          {
+            "en": "Prison",
+            "zh": "牢狱"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act1_Brutus",
+      "index": 17,
+      "columns": {
+        "Name": [
+          {
+            "en": "Brutus",
+            "zh": "布鲁特斯"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act1_PrisonersGate",
+      "index": 18,
+      "columns": {
+        "Name": [
+          {
+            "en": "Prisoner's Gate",
+            "zh": "监狱大门"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act1_DarkBeach",
+      "index": 19,
+      "columns": {
+        "Name": [
+          {
+            "en": "Ship Graveyard",
+            "zh": "魅影船墓"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act1_CaveVocal",
+      "index": 20,
+      "columns": {
+        "Name": [
+          {
+            "en": "Merveil's Caverns",
+            "zh": "莫薇儿的洞窟"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act1_BossFight",
+      "index": 21,
+      "columns": {
+        "Name": [
+          {
+            "en": "Merveil",
+            "zh": "莫薇儿"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act2_SouthernForest",
+      "index": 22,
+      "columns": {
+        "Name": [
+          {
+            "en": "Southern Forest",
+            "zh": "南部森林"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act2_Encampment",
+      "index": 23,
+      "columns": {
+        "Name": [
+          {
+            "en": "Forest Encampment",
+            "zh": "森林营地"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act2_DryForest",
+      "index": 24,
+      "columns": {
+        "Name": [
+          {
+            "en": "Old Fields",
+            "zh": "前哨原野"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act2_Cave",
+      "index": 25,
+      "columns": {
+        "Name": [
+          {
+            "en": "Den",
+            "zh": "洞穴"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act2_Crossroads",
+      "index": 26,
+      "columns": {
+        "Name": [
+          {
+            "en": "Crossroads",
+            "zh": "危机叉路"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act2_DarkForest",
+      "index": 27,
+      "columns": {
+        "Name": [
+          {
+            "en": "Fellshrine Ruins",
+            "zh": "堕道遗迹"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act2_ChurchDungeon",
+      "index": 28,
+      "columns": {
+        "Name": [
+          {
+            "en": "Crypt",
+            "zh": "陵墓"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act2_TempleRuin",
+      "index": 29,
+      "columns": {
+        "Name": [
+          {
+            "en": "Chamber of Sins",
+            "zh": "罪孽之殿"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act2_BrokenBridge",
+      "index": 30,
+      "columns": {
+        "Name": [
+          {
+            "en": "Broken Bridge",
+            "zh": "河畔断桥"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act2_Riverways",
+      "index": 31,
+      "columns": {
+        "Name": [
+          {
+            "en": "Riverways",
+            "zh": "河道"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act2_WesternForest",
+      "index": 32,
+      "columns": {
+        "Name": [
+          {
+            "en": "Western Forest",
+            "zh": "西部密林"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act2_WeaversChambers",
+      "index": 33,
+      "columns": {
+        "Name": [
+          {
+            "en": "Weaver's Chambers",
+            "zh": "织网者巢穴"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act2_Wetlands",
+      "index": 34,
+      "columns": {
+        "Name": [
+          {
+            "en": "Wetlands",
+            "zh": "湿地"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act2_VaalDungeon",
+      "index": 35,
+      "columns": {
+        "Name": [
+          {
+            "en": "Vaal Ruins",
+            "zh": "瓦尔遗迹"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act2_Darkness",
+      "index": 36,
+      "columns": {
+        "Name": [
+          {
+            "en": "Darkness",
+            "zh": "黑暗"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act2_NorthernForest",
+      "index": 37,
+      "columns": {
+        "Name": [
+          {
+            "en": "Northern Forest",
+            "zh": "南部森林"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act2_DreadThicket",
+      "index": 38,
+      "columns": {
+        "Name": [
+          {
+            "en": "Dread Thicket",
+            "zh": "惊魂树洞"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act2_AncientPyramid",
+      "index": 39,
+      "columns": {
+        "Name": [
+          {
+            "en": "Ancient Pyramid",
+            "zh": "古金字塔"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act2_VaalShadow",
+      "index": 40,
+      "columns": {
+        "Name": [
+          {
+            "en": "Vaal Oversoul",
+            "zh": "瓦尔超灵"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act3_Intro",
+      "index": 41,
+      "columns": {
+        "Name": [
+          {
+            "en": "City of Sarn",
+            "zh": "萨恩城废墟"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act3_Encampment",
+      "index": 42,
+      "columns": {
+        "Name": [
+          {
+            "en": "Sarn Encampment",
+            "zh": "萨恩营地"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act3_Slums",
+      "index": 43,
+      "columns": {
+        "Name": [
+          {
+            "en": "Slums",
+            "zh": "贫民窟"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act3_Crematorium",
+      "index": 44,
+      "columns": {
+        "Name": [
+          {
+            "en": "Crematorium",
+            "zh": "火葬场"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act3_Sewers",
+      "index": 45,
+      "columns": {
+        "Name": [
+          {
+            "en": "Sewers",
+            "zh": "下水道"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act3_Markets",
+      "index": 46,
+      "columns": {
+        "Name": [
+          {
+            "en": "Marketplace",
+            "zh": "市集地带"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act3_Catacombs",
+      "index": 47,
+      "columns": {
+        "Name": [
+          {
+            "en": "Catacombs",
+            "zh": "黑石陵墓"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act3_Battlefront",
+      "index": 48,
+      "columns": {
+        "Name": [
+          {
+            "en": "Battlefront",
+            "zh": "激战广场"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act3_Solaris",
+      "index": 49,
+      "columns": {
+        "Name": [
+          {
+            "en": "Solaris Temple",
+            "zh": "日耀神殿"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act3_Docks",
+      "index": 50,
+      "columns": {
+        "Name": [
+          {
+            "en": "Docks",
+            "zh": "不朽海港"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act3_EbonyBarracks",
+      "index": 51,
+      "columns": {
+        "Name": [
+          {
+            "en": "Ebony Barracks",
+            "zh": "乌旗守卫兵营"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act3_Lunaris",
+      "index": 52,
+      "columns": {
+        "Name": [
+          {
+            "en": "Lunaris Temple",
+            "zh": "月影神殿"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act3_Piety",
+      "index": 53,
+      "columns": {
+        "Name": [
+          {
+            "en": "Piety",
+            "zh": "派蒂"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act3_Gardens",
+      "index": 54,
+      "columns": {
+        "Name": [
+          {
+            "en": "Imperial Gardens",
+            "zh": "皇家花园"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act3_Library",
+      "index": 55,
+      "columns": {
+        "Name": [
+          {
+            "en": "Library",
+            "zh": "图书馆"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act3_Sceptre_Inside",
+      "index": 56,
+      "columns": {
+        "Name": [
+          {
+            "en": "Sceptre of God",
+            "zh": "神权之塔"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act3_Sceptre_Top",
+      "index": 57,
+      "columns": {
+        "Name": [
+          {
+            "en": "Dominus",
+            "zh": "神主"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act3_Sceptre_Demonic",
+      "index": 58,
+      "columns": {
+        "Name": [
+          {
+            "en": "Ascendant Theme",
+            "zh": "升华使徒主题"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act4_Aqueduct",
+      "index": 59,
+      "columns": {
+        "Name": [
+          {
+            "en": "Aqueduct",
+            "zh": "下水道"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act4_Town",
+      "index": 60,
+      "columns": {
+        "Name": [
+          {
+            "en": "Highgate",
+            "zh": "统治者之殿"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act4_Lake",
+      "index": 61,
+      "columns": {
+        "Name": [
+          {
+            "en": "Dried Lake",
+            "zh": "干涸湖岸"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act4_Tunnels",
+      "index": 62,
+      "columns": {
+        "Name": [
+          {
+            "en": "Mines",
+            "zh": "矿坑"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act4_Kaom",
+      "index": 63,
+      "columns": {
+        "Name": [
+          {
+            "en": "Kaom's Dream",
+            "zh": "冈姆的壮志"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act4_Kaom_2",
+      "index": 64,
+      "columns": {
+        "Name": [
+          {
+            "en": "Kaom's Stronghold",
+            "zh": "冈姆的堡垒"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act4_KaomBossfight",
+      "index": 65,
+      "columns": {
+        "Name": [
+          {
+            "en": "Kaom",
+            "zh": "冈姆"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act4_Daresso_Pit",
+      "index": 66,
+      "columns": {
+        "Name": [
+          {
+            "en": "Pit",
+            "zh": "巨坑"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act4_Daresso_Arena",
+      "index": 67,
+      "columns": {
+        "Name": [
+          {
+            "en": "Grand Arena",
+            "zh": "大竞技场"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act4_Daresso_Bossfight",
+      "index": 68,
+      "columns": {
+        "Name": [
+          {
+            "en": "Daresso",
+            "zh": "德瑞索"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act4_BeastBelly",
+      "index": 69,
+      "columns": {
+        "Name": [
+          {
+            "en": "Belly of the Beast",
+            "zh": "巨兽沼泽"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act4_HeartOfCorruption",
+      "index": 70,
+      "columns": {
+        "Name": [
+          {
+            "en": "Heart of Corruption",
+            "zh": "腐化之心"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act5_OriathPortal",
+      "index": 71,
+      "columns": {
+        "Name": [
+          {
+            "en": "Ascent",
+            "zh": "上坡"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act5_SlavePens",
+      "index": 72,
+      "columns": {
+        "Name": [
+          {
+            "en": "Slave Pens",
+            "zh": "奴隶深坑"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act5_OverseerTower",
+      "index": 73,
+      "columns": {
+        "Name": [
+          {
+            "en": "Overseer's Tower",
+            "zh": "监工高塔"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act5_ControlBlocks",
+      "index": 74,
+      "columns": {
+        "Name": [
+          {
+            "en": "Control Blocks",
+            "zh": "操控街区"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act5_OriathSquare",
+      "index": 75,
+      "columns": {
+        "Name": [
+          {
+            "en": "Oriath Square",
+            "zh": "奥瑞亚广场"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act5_TemplarCourt",
+      "index": 76,
+      "columns": {
+        "Name": [
+          {
+            "en": "Templar Court",
+            "zh": "圣堂高庭"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act5_COInnocence",
+      "index": 77,
+      "columns": {
+        "Name": [
+          {
+            "en": "Chamber of Innocence",
+            "zh": "纯净圣殿"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act5_Avarius",
+      "index": 78,
+      "columns": {
+        "Name": [
+          {
+            "en": "High Templar Avarius",
+            "zh": "神主阿瓦留斯"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act5_Reliquary",
+      "index": 79,
+      "columns": {
+        "Name": [
+          {
+            "en": "Reliquary",
+            "zh": "遗物厅"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act5_Ossuary",
+      "index": 80,
+      "columns": {
+        "Name": [
+          {
+            "en": "Ossuary",
+            "zh": "藏骨堂"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act5_RuinedSquare",
+      "index": 81,
+      "columns": {
+        "Name": [
+          {
+            "en": "Ruined Square",
+            "zh": "废弃广场"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act5_CathedralRoof",
+      "index": 82,
+      "columns": {
+        "Name": [
+          {
+            "en": "Cathedral Rooftop",
+            "zh": "教堂屋顶"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act5_Kitava",
+      "index": 83,
+      "columns": {
+        "Name": [
+          {
+            "en": "Kitava (A5)",
+            "zh": "奇塔弗(A5)"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act6_TwilightStrand",
+      "index": 85,
+      "columns": {
+        "Name": [
+          {
+            "en": "Twilight Strand",
+            "zh": "绝望岩滩"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act6_Encampment",
+      "index": 86,
+      "columns": {
+        "Name": [
+          {
+            "en": "Lioneye's Watch (A6)",
+            "zh": "狮眼守望(A6)"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act6_Coast",
+      "index": 87,
+      "columns": {
+        "Name": [
+          {
+            "en": "Coast",
+            "zh": "海岸"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act6_TidalIsland",
+      "index": 88,
+      "columns": {
+        "Name": [
+          {
+            "en": "Tidal Island",
+            "zh": "海潮孤岛"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act6_MudFlats",
+      "index": 89,
+      "columns": {
+        "Name": [
+          {
+            "en": "Mud Flats",
+            "zh": "炙热盐沼"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act6_KaruiFortress",
+      "index": 90,
+      "columns": {
+        "Name": [
+          {
+            "en": "Karui Fortress",
+            "zh": "卡鲁要塞"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act6_Ridge",
+      "index": 91,
+      "columns": {
+        "Name": [
+          {
+            "en": "Ridge",
+            "zh": "山脊"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act6_Prison",
+      "index": 92,
+      "columns": {
+        "Name": [
+          {
+            "en": "Prison",
+            "zh": "牢狱"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Shavronne",
+      "index": 93,
+      "columns": {
+        "Name": [
+          {
+            "en": "Shavronne",
+            "zh": "薛朗"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act6_PrisonersGate",
+      "index": 94,
+      "columns": {
+        "Name": [
+          {
+            "en": "Prisoner's Gate",
+            "zh": "监狱大门"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act6_Abberath",
+      "index": 95,
+      "columns": {
+        "Name": [
+          {
+            "en": "Minor Gods",
+            "zh": "次神"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act6_WesternForest",
+      "index": 96,
+      "columns": {
+        "Name": [
+          {
+            "en": "Western Forest",
+            "zh": "西部密林"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act6_ForestDaylight",
+      "index": 97,
+      "columns": {
+        "Name": [
+          {
+            "en": "Riverways",
+            "zh": "河道"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act6_Wetlands",
+      "index": 98,
+      "columns": {
+        "Name": [
+          {
+            "en": "Wetlands",
+            "zh": "湿地"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act6_SouthernForest",
+      "index": 99,
+      "columns": {
+        "Name": [
+          {
+            "en": "Southern Forest",
+            "zh": "南部森林"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act6_CavernOfAnger",
+      "index": 100,
+      "columns": {
+        "Name": [
+          {
+            "en": "Cavern of Anger",
+            "zh": "怨忿之窟深处"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act6_Beacon",
+      "index": 101,
+      "columns": {
+        "Name": [
+          {
+            "en": "Beacon",
+            "zh": "孤岛灯塔"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act6_Reef",
+      "index": 102,
+      "columns": {
+        "Name": [
+          {
+            "en": "Brine King's Reef",
+            "zh": "惊海之王的海礁"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act6_BrineKing",
+      "index": 103,
+      "columns": {
+        "Name": [
+          {
+            "en": "Brine King",
+            "zh": "惊海之王"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BridgeEncampment",
+      "index": 104,
+      "columns": {
+        "Name": [
+          {
+            "en": "Bridge Encampment",
+            "zh": "桥梁营地"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act7_BrokenBridge",
+      "index": 105,
+      "columns": {
+        "Name": [
+          {
+            "en": "Broken Bridge",
+            "zh": "河畔断桥"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act7_Crossroads",
+      "index": 106,
+      "columns": {
+        "Name": [
+          {
+            "en": "Crossroads",
+            "zh": "危机叉路"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act7_FellshrineRuins",
+      "index": 107,
+      "columns": {
+        "Name": [
+          {
+            "en": "Fellshrine Ruins",
+            "zh": "堕道遗迹"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act7_Crypt",
+      "index": 108,
+      "columns": {
+        "Name": [
+          {
+            "en": "Crypt",
+            "zh": "陵墓"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act7_ChamberOfSins",
+      "index": 109,
+      "columns": {
+        "Name": [
+          {
+            "en": "Chamber of Sins",
+            "zh": "罪孽之殿"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act7_Sanctum",
+      "index": 110,
+      "columns": {
+        "Name": [
+          {
+            "en": "Maligaro's Sanctum",
+            "zh": "马雷格罗的藏身处"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act7_Den",
+      "index": 111,
+      "columns": {
+        "Name": [
+          {
+            "en": "Den",
+            "zh": "洞穴"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act7_AshenFields",
+      "index": 112,
+      "columns": {
+        "Name": [
+          {
+            "en": "Ashen Fields",
+            "zh": "灰烬原野"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act7_NorthernForest",
+      "index": 113,
+      "columns": {
+        "Name": [
+          {
+            "en": "Northern Forest",
+            "zh": "南部森林"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act7_DreadThicket",
+      "index": 114,
+      "columns": {
+        "Name": [
+          {
+            "en": "Dread Thicket",
+            "zh": "惊魂树洞"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act7_Causeway",
+      "index": 115,
+      "columns": {
+        "Name": [
+          {
+            "en": "Causeway",
+            "zh": "堤道"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act7_VaalCity",
+      "index": 116,
+      "columns": {
+        "Name": [
+          {
+            "en": "Vaal City",
+            "zh": "瓦尔城市"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act7_TempleOfDecay",
+      "index": 117,
+      "columns": {
+        "Name": [
+          {
+            "en": "Temple of Decay",
+            "zh": "腐蚀神庙"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act7_Arakaali",
+      "index": 118,
+      "columns": {
+        "Name": [
+          {
+            "en": "Arakaali",
+            "zh": "阿拉卡力"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act8_SarnRamparts",
+      "index": 119,
+      "columns": {
+        "Name": [
+          {
+            "en": "Sarn Ramparts",
+            "zh": "萨恩壁垒"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act8_Encampment",
+      "index": 120,
+      "columns": {
+        "Name": [
+          {
+            "en": "Sarn Encampment",
+            "zh": "萨恩营地"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act8_ToxicConduits",
+      "index": 121,
+      "columns": {
+        "Name": [
+          {
+            "en": "Toxic Conduits",
+            "zh": "剧毒导体"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act8_GrandPromenade",
+      "index": 122,
+      "columns": {
+        "Name": [
+          {
+            "en": "Grand Promenade",
+            "zh": "大月色回廊"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act8_BathHouse",
+      "index": 123,
+      "columns": {
+        "Name": [
+          {
+            "en": "Bath House",
+            "zh": "澡堂"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act8_HighGardens",
+      "index": 124,
+      "columns": {
+        "Name": [
+          {
+            "en": "High Gardens",
+            "zh": "贵族花园"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act8_LunarisConcourse",
+      "index": 125,
+      "columns": {
+        "Name": [
+          {
+            "en": "Lunaris Concourse",
+            "zh": "月影广场"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act8_LunarisTemple",
+      "index": 126,
+      "columns": {
+        "Name": [
+          {
+            "en": "Lunaris Temple",
+            "zh": "月影神殿"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act8_Quay",
+      "index": 127,
+      "columns": {
+        "Name": [
+          {
+            "en": "Quay",
+            "zh": "码头"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act8_GrainGate",
+      "index": 128,
+      "columns": {
+        "Name": [
+          {
+            "en": "Grain Gate",
+            "zh": "谷门"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act8_ImperialFields",
+      "index": 129,
+      "columns": {
+        "Name": [
+          {
+            "en": "Imperial Fields",
+            "zh": "帝国原野"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act8_SolarisTemple",
+      "index": 130,
+      "columns": {
+        "Name": [
+          {
+            "en": "Solaris Temple",
+            "zh": "日耀神殿"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act8_SolarisConcourse",
+      "index": 131,
+      "columns": {
+        "Name": [
+          {
+            "en": "Solaris Concourse",
+            "zh": "日耀广场"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Battlefront",
+      "index": 132,
+      "columns": {
+        "Name": [
+          {
+            "en": "Harbour Bridge",
+            "zh": "港湾大桥"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act8_SolarisLunaris",
+      "index": 133,
+      "columns": {
+        "Name": [
+          {
+            "en": "Solaris vs Lunaris",
+            "zh": "日耀对月影"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act9_BloodAqueduct",
+      "index": 134,
+      "columns": {
+        "Name": [
+          {
+            "en": "Blood Aqueduct",
+            "zh": "鲜血高渠"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act9_Highgate",
+      "index": 135,
+      "columns": {
+        "Name": [
+          {
+            "en": "Highgate",
+            "zh": "统治者之殿"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act9_Descent",
+      "index": 136,
+      "columns": {
+        "Name": [
+          {
+            "en": "Descent",
+            "zh": "后裔"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act9_VastiriDesert",
+      "index": 137,
+      "columns": {
+        "Name": [
+          {
+            "en": "Vastiri Desert",
+            "zh": "瓦斯提里荒漠"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act9_Oasis",
+      "index": 138,
+      "columns": {
+        "Name": [
+          {
+            "en": "Oasis",
+            "zh": "荒漠绿洲"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Shakari",
+      "index": 139,
+      "columns": {
+        "Name": [
+          {
+            "en": "Shakari",
+            "zh": "沙卡丽"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act9_Foothills",
+      "index": 140,
+      "columns": {
+        "Name": [
+          {
+            "en": "Foothills",
+            "zh": "山麓"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act9_BoilingLake",
+      "index": 141,
+      "columns": {
+        "Name": [
+          {
+            "en": "Boiling Lake",
+            "zh": "沸水湖泊"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act9_Tunnel",
+      "index": 142,
+      "columns": {
+        "Name": [
+          {
+            "en": "Tunnel",
+            "zh": "冰冷通道"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act9_Quarry",
+      "index": 143,
+      "columns": {
+        "Name": [
+          {
+            "en": "Quarry",
+            "zh": "采石场"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act9_Rafinery",
+      "index": 144,
+      "columns": {
+        "Name": [
+          {
+            "en": "Refinery",
+            "zh": "精炼厂"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act9_Belly",
+      "index": 145,
+      "columns": {
+        "Name": [
+          {
+            "en": "Belly of the Beast",
+            "zh": "巨兽沼泽"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act9_RottingCore",
+      "index": 146,
+      "columns": {
+        "Name": [
+          {
+            "en": "Rotting Core",
+            "zh": "腐败核心"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act10_OriathDock",
+      "index": 147,
+      "columns": {
+        "Name": [
+          {
+            "en": "Oriath's Dock",
+            "zh": "奥瑞亚的码头"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act10_CathedralRooftop",
+      "index": 148,
+      "columns": {
+        "Name": [
+          {
+            "en": "Cathedral Rooftop",
+            "zh": "教堂屋顶"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act10_RavagedSquare",
+      "index": 149,
+      "columns": {
+        "Name": [
+          {
+            "en": "Ravaged Square",
+            "zh": "被肆虐的广场"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act10_ControlBlocks",
+      "index": 150,
+      "columns": {
+        "Name": [
+          {
+            "en": "Control Blocks",
+            "zh": "操控街区"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act10_Reliquary",
+      "index": 151,
+      "columns": {
+        "Name": [
+          {
+            "en": "Reliquary",
+            "zh": "遗物厅"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act10_Ossuary",
+      "index": 152,
+      "columns": {
+        "Name": [
+          {
+            "en": "Ossuary",
+            "zh": "藏骨堂"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act10_TorchedCourts",
+      "index": 153,
+      "columns": {
+        "Name": [
+          {
+            "en": "Torched Courts",
+            "zh": "被烧毁的高庭"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act10_DesecratedChambers",
+      "index": 154,
+      "columns": {
+        "Name": [
+          {
+            "en": "Desecrated Chambers",
+            "zh": "亵渎之间"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act10_Canals",
+      "index": 155,
+      "columns": {
+        "Name": [
+          {
+            "en": "Canals",
+            "zh": "运河"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act10_FeedingThrough",
+      "index": 156,
+      "columns": {
+        "Name": [
+          {
+            "en": "Feeding Trough",
+            "zh": "饲槽"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act10_Kitava",
+      "index": 157,
+      "columns": {
+        "Name": [
+          {
+            "en": "Kitava (A10)",
+            "zh": "奇塔弗(A10)"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Labyrinth_Interior",
+      "index": 158,
+      "columns": {
+        "Name": [
+          {
+            "en": "Labyrinth Interior",
+            "zh": "升华试炼内环"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Labyrinth_Exterior",
+      "index": 159,
+      "columns": {
+        "Name": [
+          {
+            "en": "Labyrinth Exterior",
+            "zh": "升华试炼外环"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Labyrinth_Boss",
+      "index": 160,
+      "columns": {
+        "Name": [
+          {
+            "en": "Izaro",
+            "zh": "伊泽洛"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AtlasOfWorlds",
+      "index": 162,
+      "columns": {
+        "Name": [
+          {
+            "en": "Shaper",
+            "zh": "塑界者"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AtlasShapersRealm",
+      "index": 163,
+      "columns": {
+        "Name": [
+          {
+            "en": "Shaper's Realm",
+            "zh": "塑界者之域"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Elder",
+      "index": 164,
+      "columns": {
+        "Name": [
+          {
+            "en": "Elder",
+            "zh": "裂界者"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MemoryNexus",
+      "index": 166,
+      "columns": {
+        "Name": [
+          {
+            "en": "Memory Nexus",
+            "zh": "回忆枢纽"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Venarius",
+      "index": 167,
+      "columns": {
+        "Name": [
+          {
+            "en": "Venarius",
+            "zh": "维纳留斯"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BreachTriggered",
+      "index": 170,
+      "columns": {
+        "Name": [
+          {
+            "en": "Breach",
+            "zh": "精华"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AbyssLeagueArea",
+      "index": 171,
+      "columns": {
+        "Name": [
+          {
+            "en": "Abyss",
+            "zh": "深渊"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AbyssLeagueBoss",
+      "index": 172,
+      "columns": {
+        "Name": [
+          {
+            "en": "Abyssal Lich",
+            "zh": "深渊巫妖"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Bestiary_Boss",
+      "index": 173,
+      "columns": {
+        "Name": [
+          {
+            "en": "Bestiary",
+            "zh": "猎魔"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Menagerie",
+      "index": 174,
+      "columns": {
+        "Name": [
+          {
+            "en": "Menagerie",
+            "zh": "魔物园"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Incursion_Boss",
+      "index": 175,
+      "columns": {
+        "Name": [
+          {
+            "en": "Incursion",
+            "zh": "穿越"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DelveMines",
+      "index": 177,
+      "columns": {
+        "Name": [
+          {
+            "en": "Azurite Mine",
+            "zh": "蓝晶矿坑"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DelveBoss",
+      "index": 178,
+      "columns": {
+        "Name": [
+          {
+            "en": "Delve",
+            "zh": "地心探索"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DelveHub",
+      "index": 179,
+      "columns": {
+        "Name": [
+          {
+            "en": "Mine Encampment",
+            "zh": "矿坑营地"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Betrayal",
+      "index": 180,
+      "columns": {
+        "Name": [
+          {
+            "en": "Betrayal",
+            "zh": "背叛者"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Sacrifice",
+      "index": 181,
+      "columns": {
+        "Name": [
+          {
+            "en": "Atziri",
+            "zh": "阿兹里"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LegionBattle",
+      "index": 183,
+      "columns": {
+        "Name": [
+          {
+            "en": "Legion",
+            "zh": "军团"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BlightBattle",
+      "index": 186,
+      "columns": {
+        "Name": [
+          {
+            "en": "Blight",
+            "zh": "菌潮"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Metamorphosis",
+      "index": 190,
+      "columns": {
+        "Name": [
+          {
+            "en": "Metamorph",
+            "zh": "灾变"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Laboratory",
+      "index": 191,
+      "columns": {
+        "Name": [
+          {
+            "en": "Tane's Laboratory",
+            "zh": "丹恩的实验室"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DeliriumRegular",
+      "index": 192,
+      "columns": {
+        "Name": [
+          {
+            "en": "Twisted Illusions",
+            "zh": "扭曲幻影"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DeliriumBoss",
+      "index": 193,
+      "columns": {
+        "Name": [
+          {
+            "en": "Delirium",
+            "zh": "惊悸迷雾"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HarvestCombat",
+      "index": 195,
+      "columns": {
+        "Name": [
+          {
+            "en": "Harvest Combat",
+            "zh": "庄园战斗"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HarvestBoss",
+      "index": 196,
+      "columns": {
+        "Name": [
+          {
+            "en": "Harvest Boss",
+            "zh": "庄园首领"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HarvestGarden",
+      "index": 197,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Sacred Grove",
+            "zh": "古灵庄园"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HeistTrailer",
+      "index": 198,
+      "columns": {
+        "Name": [
+          {
+            "en": "Stick to the Plan",
+            "zh": "按计划行事"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HeistHub",
+      "index": 199,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Rogue Harbour",
+            "zh": "黄金港"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HeistBoss1",
+      "index": 202,
+      "columns": {
+        "Name": [
+          {
+            "en": "Vengeance",
+            "zh": "复仇"
+          }
+        ]
+      }
+    },
+    {
+      "id": "UltimatumHideout",
+      "index": 210,
+      "columns": {
+        "Name": [
+          {
+            "en": "Ultimatum",
+            "zh": "致命贪婪"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Expedition",
+      "index": 211,
+      "columns": {
+        "Name": [
+          {
+            "en": "Expedition",
+            "zh": "先祖秘藏"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Logbooks",
+      "index": 212,
+      "columns": {
+        "Name": [
+          {
+            "en": "Logbooks",
+            "zh": "日志"
+          }
+        ]
+      }
+    },
+    {
+      "id": "VoranaBoss",
+      "index": 214,
+      "columns": {
+        "Name": [
+          {
+            "en": "Expedition Boss",
+            "zh": "先祖秘藏首领"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Scourge",
+      "index": 218,
+      "columns": {
+        "Name": [
+          {
+            "en": "Scourge",
+            "zh": "异度天灾"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Ritual",
+      "index": 219,
+      "columns": {
+        "Name": [
+          {
+            "en": "Ritual",
+            "zh": "驱灵仪式"
+          }
+        ]
+      }
+    },
+    {
+      "id": "OrionBoss",
+      "index": 220,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Awakener",
+            "zh": "觉醒者"
+          }
+        ]
+      }
+    },
+    {
+      "id": "OrionAmbience",
+      "index": 221,
+      "columns": {
+        "Name": [
+          {
+            "en": "Eye of the Storm",
+            "zh": "风暴之眼"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EyrieBoss",
+      "index": 222,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Redeemer",
+            "zh": "救赎者"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EyrieAmbience",
+      "index": 223,
+      "columns": {
+        "Name": [
+          {
+            "en": "Redeemer's Eyrie",
+            "zh": "救赎者之巢"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CrusaderBoss",
+      "index": 224,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Crusader",
+            "zh": "圣战者"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CrusaderAmbience",
+      "index": 225,
+      "columns": {
+        "Name": [
+          {
+            "en": "Crusader's Sanctum",
+            "zh": "圣战者之堂"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BasiliskBoss",
+      "index": 226,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Hunter",
+            "zh": "狩猎者"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BasiliskAmbience",
+      "index": 227,
+      "columns": {
+        "Name": [
+          {
+            "en": "Hunter's Ambush",
+            "zh": "狩猎者之伏"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AdjudicatorBoss",
+      "index": 229,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Warlord",
+            "zh": "督军"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AdjudicatorAmbience",
+      "index": 230,
+      "columns": {
+        "Name": [
+          {
+            "en": "Warlord's Keep",
+            "zh": "督军之城"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MavensKeep",
+      "index": 233,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Proving Ground",
+            "zh": "验证之地"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MavenBoss",
+      "index": 234,
+      "columns": {
+        "Name": [
+          {
+            "en": "Maven",
+            "zh": "贤主"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BossRush",
+      "index": 235,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Maven's Challenge",
+            "zh": "贤主之试"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DarkStar",
+      "index": 236,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Black Star",
+            "zh": "漆黑之星"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CleansingFire",
+      "index": 237,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Searing Exarch",
+            "zh": "焚界者"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DoomPers",
+      "index": 238,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Infinite Hunger",
+            "zh": "无限饥渴"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Tangle",
+      "index": 239,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Eater of Worlds",
+            "zh": "灭界者"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AtlasBase",
+      "index": 240,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Last Outpost",
+            "zh": "最后的阵地"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Trailer_AngelsDemons",
+      "index": 246,
+      "columns": {
+        "Name": [
+          {
+            "en": "Angels & Demons",
+            "zh": "婆娑世界"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Trailer_Carnival",
+      "index": 247,
+      "columns": {
+        "Name": [
+          {
+            "en": "Carnival",
+            "zh": "狂欢盛宴"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Trailer_Frontier",
+      "index": 248,
+      "columns": {
+        "Name": [
+          {
+            "en": "Frontier",
+            "zh": "壁垒"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Trailer_Polaris",
+      "index": 249,
+      "columns": {
+        "Name": [
+          {
+            "en": "Polaris",
+            "zh": "极地"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Trailer_Thaumaturgy",
+      "index": 250,
+      "columns": {
+        "Name": [
+          {
+            "en": "Thaumaturgy",
+            "zh": "奇术"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HallOfGrandmasters",
+      "index": 251,
+      "columns": {
+        "Name": [
+          {
+            "en": "Hall of Grandmasters",
+            "zh": "元帅殿堂"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EndGame_MusicBox",
+      "index": 252,
+      "columns": {
+        "Name": [
+          {
+            "en": "Acton's Nightmare",
+            "zh": "轮回的梦魇"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HideoutForest",
+      "index": 260,
+      "columns": {
+        "Name": [
+          {
+            "en": "Lush Hideout",
+            "zh": "苍翠藏身处"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HideoutArch",
+      "index": 261,
+      "columns": {
+        "Name": [
+          {
+            "en": "Robber's Trench Hideout",
+            "zh": "沟渠藏身处"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HideoutBattleground",
+      "index": 262,
+      "columns": {
+        "Name": [
+          {
+            "en": "Battle-scarred Hideout",
+            "zh": "战痕藏身处"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HideoutBeach",
+      "index": 263,
+      "columns": {
+        "Name": [
+          {
+            "en": "Coastal Hideout",
+            "zh": "海岸藏身处"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HideoutLibrary",
+      "index": 264,
+      "columns": {
+        "Name": [
+          {
+            "en": "Enlightened Hideout",
+            "zh": "启迪藏身处"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HideoutGardens",
+      "index": 265,
+      "columns": {
+        "Name": [
+          {
+            "en": "Overgrown Hideout",
+            "zh": "密草藏身处"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HideoutSolaris",
+      "index": 266,
+      "columns": {
+        "Name": [
+          {
+            "en": "Immaculate Hideout",
+            "zh": "洁净藏身处"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HideoutFellshrine",
+      "index": 267,
+      "columns": {
+        "Name": [
+          {
+            "en": "Unearthed Hideout",
+            "zh": "墓穴藏身处"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HideoutSlum",
+      "index": 268,
+      "columns": {
+        "Name": [
+          {
+            "en": "Backstreet Hideout",
+            "zh": "暗巷藏身处"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HideoutSewer",
+      "index": 269,
+      "columns": {
+        "Name": [
+          {
+            "en": "Undercity Hideout",
+            "zh": "地下城藏身处"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HideoutMine",
+      "index": 270,
+      "columns": {
+        "Name": [
+          {
+            "en": "Excavated Hideout",
+            "zh": "考古藏身处"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HideoutCourts",
+      "index": 271,
+      "columns": {
+        "Name": [
+          {
+            "en": "Stately Hideout",
+            "zh": "宏伟藏身处"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HideoutCoral",
+      "index": 272,
+      "columns": {
+        "Name": [
+          {
+            "en": "Coral Hideout",
+            "zh": "珊瑚藏身处"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HideoutRuinedTemple",
+      "index": 273,
+      "columns": {
+        "Name": [
+          {
+            "en": "Baleful Hideout",
+            "zh": "罪孽藏身处"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HideoutOasis",
+      "index": 274,
+      "columns": {
+        "Name": [
+          {
+            "en": "Desert Hideout",
+            "zh": "荒漠藏身处"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HideoutOssuary",
+      "index": 275,
+      "columns": {
+        "Name": [
+          {
+            "en": "Skeletal Hideout",
+            "zh": "白骨藏身处"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HideoutBaths",
+      "index": 276,
+      "columns": {
+        "Name": [
+          {
+            "en": "Luxurious Hideout",
+            "zh": "奢华藏身处"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HideoutTemplarLab",
+      "index": 277,
+      "columns": {
+        "Name": [
+          {
+            "en": "Cartographer's Hideout",
+            "zh": "制图师藏身处"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HideoutPillarsOfArun",
+      "index": 278,
+      "columns": {
+        "Name": [
+          {
+            "en": "Towering Hideout",
+            "zh": "塔楼藏身处"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HideoutAtziriArena",
+      "index": 279,
+      "columns": {
+        "Name": [
+          {
+            "en": "Corrupted Hideout",
+            "zh": "腐化藏身处"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HideoutInnocenceArena",
+      "index": 280,
+      "columns": {
+        "Name": [
+          {
+            "en": "Innocent Hideout",
+            "zh": "纯净藏身处"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HideoutShaperArena",
+      "index": 281,
+      "columns": {
+        "Name": [
+          {
+            "en": "Shaped Hideout",
+            "zh": "塑界藏身处"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HideoutKaomArena",
+      "index": 282,
+      "columns": {
+        "Name": [
+          {
+            "en": "Furious Hideout",
+            "zh": "狂怒藏身处"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HideoutDaressoArena",
+      "index": 283,
+      "columns": {
+        "Name": [
+          {
+            "en": "Champion's Hideout",
+            "zh": "藏身处：勇士"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HideoutDominusArena",
+      "index": 284,
+      "columns": {
+        "Name": [
+          {
+            "en": "Indomitable Hideout",
+            "zh": "不屈藏身处"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HideoutPietyArena",
+      "index": 285,
+      "columns": {
+        "Name": [
+          {
+            "en": "Morbid Hideout",
+            "zh": "灾病藏身处"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HideoutLunarisSolarisArena",
+      "index": 286,
+      "columns": {
+        "Name": [
+          {
+            "en": "Eclipsed Hideout (Twilight)",
+            "zh": "日蚀藏身处（黄昏）"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HideoutLunarisSolarisArenaSolaris",
+      "index": 287,
+      "columns": {
+        "Name": [
+          {
+            "en": "Eclipsed Hideout (Day)",
+            "zh": "日蚀藏身处（白昼）"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HideoutLunarisSolarisArenaLunaris",
+      "index": 288,
+      "columns": {
+        "Name": [
+          {
+            "en": "Eclipsed Hideout (Night)",
+            "zh": "日蚀藏身处（夜晚）"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HideoutKitavaArenaAct10",
+      "index": 289,
+      "columns": {
+        "Name": [
+          {
+            "en": "Ravenous Hideout",
+            "zh": "贪婪藏身处"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HideoutSunken",
+      "index": 290,
+      "columns": {
+        "Name": [
+          {
+            "en": "Sunken Hideout",
+            "zh": "沉陷藏身处"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HideoutShapersRealm",
+      "index": 291,
+      "columns": {
+        "Name": [
+          {
+            "en": "Celestial Hideout",
+            "zh": "天界藏身处"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HideoutTwilightTempleSolaris",
+      "index": 292,
+      "columns": {
+        "Name": [
+          {
+            "en": "Divided Hideout (Solaris)",
+            "zh": "分裂的藏身处（日耀）"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HideoutTwilightTempleLunaris",
+      "index": 293,
+      "columns": {
+        "Name": [
+          {
+            "en": "Divided Hideout (Lunaris)",
+            "zh": "分裂的藏身处（月影）"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HideoutHighGardens",
+      "index": 294,
+      "columns": {
+        "Name": [
+          {
+            "en": "Arboreal Hideout",
+            "zh": "树栖藏身处"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HideoutHauntedMansion",
+      "index": 295,
+      "columns": {
+        "Name": [
+          {
+            "en": "Haunted Hideout",
+            "zh": "鬼语藏身处"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HideoutPrisonTower",
+      "index": 296,
+      "columns": {
+        "Name": [
+          {
+            "en": "Brutal Hideout",
+            "zh": "野蛮藏身处"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HideoutCrimsonTemple",
+      "index": 297,
+      "columns": {
+        "Name": [
+          {
+            "en": "Sanguine Hideout",
+            "zh": "血色藏身处"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HideoutIceberg",
+      "index": 298,
+      "columns": {
+        "Name": [
+          {
+            "en": "Glacial Hideout",
+            "zh": "冰河藏身处"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HideoutMountain",
+      "index": 299,
+      "columns": {
+        "Name": [
+          {
+            "en": "Alpine Hideout",
+            "zh": "实验藏身处"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HideoutDoomguard",
+      "index": 300,
+      "columns": {
+        "Name": [
+          {
+            "en": "Doomguard Hideout",
+            "zh": "末日骑士藏身处"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HideoutSunspire",
+      "index": 301,
+      "columns": {
+        "Name": [
+          {
+            "en": "Sunspire Hideout",
+            "zh": "烈日之焰藏身处"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HideoutDarkwood",
+      "index": 302,
+      "columns": {
+        "Name": [
+          {
+            "en": "Glimmerwood Hideout",
+            "zh": "幽暗森林藏身处"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HideoutSpace",
+      "index": 303,
+      "columns": {
+        "Name": [
+          {
+            "en": "Celestial Nebula Hideout",
+            "zh": "众星之云藏身处"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HideoutArenaGraveyardTrio",
+      "index": 304,
+      "columns": {
+        "Name": [
+          {
+            "en": "Entombed Hideout",
+            "zh": "埋葬藏身处"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HideoutArenaElder",
+      "index": 305,
+      "columns": {
+        "Name": [
+          {
+            "en": "Void Hideout",
+            "zh": "虚空藏身处"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HideoutChiyouSpring",
+      "index": 306,
+      "columns": {
+        "Name": [
+          {
+            "en": "Chiyou Hideout",
+            "zh": "蚩尤藏身处"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HideoutBlankAbyss",
+      "index": 307,
+      "columns": {
+        "Name": [
+          {
+            "en": "Infinite Abyss Hideout",
+            "zh": "无底深渊藏身处"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HideoutBlankCity",
+      "index": 308,
+      "columns": {
+        "Name": [
+          {
+            "en": "Urban Sprawl Hideout",
+            "zh": "无边蔓延藏身处"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HideoutBlankClouds",
+      "index": 309,
+      "columns": {
+        "Name": [
+          {
+            "en": "Boundless Skies Hideout",
+            "zh": "无顶之空藏身处"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HideoutBlankDesert",
+      "index": 310,
+      "columns": {
+        "Name": [
+          {
+            "en": "Endless Sands Hideout",
+            "zh": "无限流沙藏身处"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HideoutBlankDirt",
+      "index": 311,
+      "columns": {
+        "Name": [
+          {
+            "en": "Eternal Wasteland Hideout",
+            "zh": "无终废土藏身处"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HideoutBlankGrass",
+      "index": 312,
+      "columns": {
+        "Name": [
+          {
+            "en": "Vast Plains Hideout",
+            "zh": "无量平原藏身处"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HideoutBlankSea",
+      "index": 313,
+      "columns": {
+        "Name": [
+          {
+            "en": "All at Sea Hideout",
+            "zh": "无垠之海藏身处"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HideoutBlankSnow",
+      "index": 314,
+      "columns": {
+        "Name": [
+          {
+            "en": "Glacial Expanse Hideout",
+            "zh": "无尽冰川藏身处"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HideoutDark",
+      "index": 315,
+      "columns": {
+        "Name": [
+          {
+            "en": "Ghost-lit Graveyard Hideout",
+            "zh": "幽灵墓地藏身处"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HideoutLight",
+      "index": 316,
+      "columns": {
+        "Name": [
+          {
+            "en": "Timekeeper's Hideout",
+            "zh": "计时者藏身处"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Lake",
+      "index": 317,
+      "columns": {
+        "Name": [
+          {
+            "en": "Lake",
+            "zh": "湖泊"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LakeOfKalandraHO",
+      "index": 318,
+      "columns": {
+        "Name": [
+          {
+            "en": "Lake of Kalandra",
+            "zh": "卡兰德之湖"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SanctumHO",
+      "index": 320,
+      "columns": {
+        "Name": [
+          {
+            "en": "Sanctum",
+            "zh": "圣地"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CrucibleHO",
+      "index": 323,
+      "columns": {
+        "Name": [
+          {
+            "en": "Wisdom of the Ages",
+            "zh": "世代智慧"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CrucibleFightHO",
+      "index": 324,
+      "columns": {
+        "Name": [
+          {
+            "en": "Titan's Call",
+            "zh": "泰坦的呼唤"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CrucibleMapHO",
+      "index": 325,
+      "columns": {
+        "Name": [
+          {
+            "en": "Forge of the Ancient's",
+            "zh": "远古熔炉"
+          }
+        ]
+      }
+    },
+    {
+      "id": "A1_Encampment1",
+      "index": 330,
+      "columns": {
+        "Name": [
+          {
+            "en": "Clearfell Encampment",
+            "zh": "克里费尔营地"
+          }
+        ]
+      }
+    },
+    {
+      "id": "A1_Clearfell",
+      "index": 332,
+      "columns": {
+        "Name": [
+          {
+            "en": "Clearfell",
+            "zh": "克里费尔"
+          }
+        ]
+      }
+    },
+    {
+      "id": "A1_RedVale",
+      "index": 336,
+      "columns": {
+        "Name": [
+          {
+            "en": "Red Vale",
+            "zh": "红谷"
+          }
+        ]
+      }
+    },
+    {
+      "id": "A1_HuntingGrounds",
+      "index": 342,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Hunting Grounds",
+            "zh": "猎场"
+          }
+        ]
+      }
+    },
+    {
+      "id": "A2_Caravan",
+      "index": 352,
+      "columns": {
+        "Name": [
+          {
+            "en": "Caravan",
+            "zh": "商队"
+          }
+        ]
+      }
+    },
+    {
+      "id": "A2_TraitorsPassage",
+      "index": 354,
+      "columns": {
+        "Name": [
+          {
+            "en": "Traitor's Passage",
+            "zh": "叛徒小径"
+          }
+        ]
+      }
+    },
+    {
+      "id": "A3_Viper",
+      "index": 389,
+      "columns": {
+        "Name": [
+          {
+            "en": "Viper Napuatzi",
+            "zh": "蝰蛇娜帕齐"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_A1Town",
+      "index": 592,
+      "columns": {
+        "Name": [
+          {
+            "en": "Clearfell Encampment",
+            "zh": "克里费尔营地"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_A1OghamVillage",
+      "index": 593,
+      "columns": {
+        "Name": [
+          {
+            "en": "Ogham Village",
+            "zh": "欧甘村庄"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_A1Riverbank",
+      "index": 594,
+      "columns": {
+        "Name": [
+          {
+            "en": "Riverbank",
+            "zh": "污流河畔"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_A1Grelwood",
+      "index": 595,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Grelwood",
+            "zh": "韧木森林"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_A1MudBurrow",
+      "index": 596,
+      "columns": {
+        "Name": [
+          {
+            "en": "Mud Burrow",
+            "zh": "泥穴"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_A1RedVale",
+      "index": 597,
+      "columns": {
+        "Name": [
+          {
+            "en": "Red Vale",
+            "zh": "红谷"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_A1HuntingGrounds",
+      "index": 598,
+      "columns": {
+        "Name": [
+          {
+            "en": "Hunting Grounds",
+            "zh": "猎场"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_A1Clearfell",
+      "index": 599,
+      "columns": {
+        "Name": [
+          {
+            "en": "Clearfell",
+            "zh": "克里费尔"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_A1Graveyard",
+      "index": 600,
+      "columns": {
+        "Name": [
+          {
+            "en": "Cemetery of the Eternals",
+            "zh": "永恒园林"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_A1Tomb&Crypts",
+      "index": 601,
+      "columns": {
+        "Name": [
+          {
+            "en": "Tomb & Crypts",
+            "zh": "石室与地窟"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_A1CountsChambers",
+      "index": 602,
+      "columns": {
+        "Name": [
+          {
+            "en": "Counts' Chambers",
+            "zh": "伯爵的密室"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_A1GrimTangle",
+      "index": 603,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Grim Tangle",
+            "zh": "阴森网道"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_A1Canopy",
+      "index": 604,
+      "columns": {
+        "Name": [
+          {
+            "en": "Freythorn",
+            "zh": "茂棘深林"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_A1VillageRoad",
+      "index": 605,
+      "columns": {
+        "Name": [
+          {
+            "en": "Village Road",
+            "zh": "村庄之路"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_A1Executioner",
+      "index": 606,
+      "columns": {
+        "Name": [
+          {
+            "en": "Executioner",
+            "zh": "惩罚者"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_A1Count",
+      "index": 607,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Count",
+            "zh": "伯爵"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_A1Devourer",
+      "index": 608,
+      "columns": {
+        "Name": [
+          {
+            "en": "Devourer",
+            "zh": "吞噬者"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_A1RustKing",
+      "index": 609,
+      "columns": {
+        "Name": [
+          {
+            "en": "Rust King",
+            "zh": "锈污之王"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_A1Lachlann",
+      "index": 610,
+      "columns": {
+        "Name": [
+          {
+            "en": "Lachlann",
+            "zh": "拉赫兰"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_A1Crowbell",
+      "index": 611,
+      "columns": {
+        "Name": [
+          {
+            "en": "Crowbell",
+            "zh": "悬铃巨鸦"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_A1Asinia&Draven",
+      "index": 612,
+      "columns": {
+        "Name": [
+          {
+            "en": "Asinia & Draven",
+            "zh": "阿辛妮娅与德莱文"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_A1GrimTangleBoss",
+      "index": 613,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Rotten Druid",
+            "zh": "腐烂的德鲁伊"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_A1Miller",
+      "index": 614,
+      "columns": {
+        "Name": [
+          {
+            "en": "Bloated Miller",
+            "zh": "浮肿的伐木工"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_A2AncientGates",
+      "index": 615,
+      "columns": {
+        "Name": [
+          {
+            "en": "Ancient Gates",
+            "zh": "上古之门"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_A2KethTemple",
+      "index": 616,
+      "columns": {
+        "Name": [
+          {
+            "en": "Keth Temple",
+            "zh": "克斯殿堂"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_A2MastodonBadlands",
+      "index": 617,
+      "columns": {
+        "Name": [
+          {
+            "en": "Mastodon Badlands",
+            "zh": "长毛象荒原"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_A2MawdunQuarry",
+      "index": 618,
+      "columns": {
+        "Name": [
+          {
+            "en": "Mawdun Quarry",
+            "zh": "莫丹采石场"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_A2Oasis",
+      "index": 619,
+      "columns": {
+        "Name": [
+          {
+            "en": "Oasis",
+            "zh": "荒漠绿洲"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_A2Spires",
+      "index": 620,
+      "columns": {
+        "Name": [
+          {
+            "en": "Spires",
+            "zh": "尖塔"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_A2TitanGrotto",
+      "index": 621,
+      "columns": {
+        "Name": [
+          {
+            "en": "Titan's Grotto",
+            "zh": "巨人石窟"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_A2Towers",
+      "index": 622,
+      "columns": {
+        "Name": [
+          {
+            "en": "Towers",
+            "zh": "高塔"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_A2TraitorsPassage",
+      "index": 623,
+      "columns": {
+        "Name": [
+          {
+            "en": "Traitors Passage",
+            "zh": "叛徒小径"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_A2ValleyOfTitans",
+      "index": 624,
+      "columns": {
+        "Name": [
+          {
+            "en": "Valley of Titans",
+            "zh": "巨人之谷"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_A2Dreadnought",
+      "index": 625,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Dreadnought",
+            "zh": "无畏战车"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_A2KethCity",
+      "index": 626,
+      "columns": {
+        "Name": [
+          {
+            "en": "Keth City",
+            "zh": "克斯城区"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_A2CrimsonShores",
+      "index": 627,
+      "columns": {
+        "Name": [
+          {
+            "en": "Vastiri Outskirts",
+            "zh": "瓦斯提里外沿"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_A2ForsakenSon",
+      "index": 628,
+      "columns": {
+        "Name": [
+          {
+            "en": "Forsaken Son",
+            "zh": "忘却之子"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_A2Mastodon",
+      "index": 629,
+      "columns": {
+        "Name": [
+          {
+            "en": "Mastodon",
+            "zh": "长毛悍象"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_A2PerennialKing",
+      "index": 630,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Perennial King",
+            "zh": "千年国王"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_A2Rudja",
+      "index": 631,
+      "columns": {
+        "Name": [
+          {
+            "en": "Rudja",
+            "zh": "鲁贾"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_A2Titan",
+      "index": 632,
+      "columns": {
+        "Name": [
+          {
+            "en": "Titan",
+            "zh": "泰坦"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_A2TorGul",
+      "index": 633,
+      "columns": {
+        "Name": [
+          {
+            "en": "Tor Gul",
+            "zh": "托古尔"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_A2Rathbreaker",
+      "index": 634,
+      "columns": {
+        "Name": [
+          {
+            "en": "Rathbreaker",
+            "zh": "摧寨魔"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_A2Balbala",
+      "index": 635,
+      "columns": {
+        "Name": [
+          {
+            "en": "Balbala",
+            "zh": "贝尔巴拉"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_A2ArduraCaravan",
+      "index": 636,
+      "columns": {
+        "Name": [
+          {
+            "en": "Ardura Caravan",
+            "zh": "阿杜拉的商队"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_A3Aggorat",
+      "index": 637,
+      "columns": {
+        "Name": [
+          {
+            "en": "Aggorat",
+            "zh": "阿戈拉特"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_A3CarversBog",
+      "index": 638,
+      "columns": {
+        "Name": [
+          {
+            "en": "Carvers Bog",
+            "zh": "卡弗泥沼"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_A3ChimeralWetlands",
+      "index": 639,
+      "columns": {
+        "Name": [
+          {
+            "en": "Chimeral Wetlands",
+            "zh": "幻缈湿地"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_A3DoryanisSanctum",
+      "index": 640,
+      "columns": {
+        "Name": [
+          {
+            "en": "Doryani's Sanctum",
+            "zh": "多里亚尼的殿堂"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_A3JungleDepths",
+      "index": 641,
+      "columns": {
+        "Name": [
+          {
+            "en": "Jungle Depths",
+            "zh": "丛林深处"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_A3Machinarium",
+      "index": 642,
+      "columns": {
+        "Name": [
+          {
+            "en": "Machinarium",
+            "zh": "机械迷城"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_A3SandsweptMarsh",
+      "index": 643,
+      "columns": {
+        "Name": [
+          {
+            "en": "Sandswept Marsh",
+            "zh": "飞沙沼泽"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_A3SnakePit",
+      "index": 644,
+      "columns": {
+        "Name": [
+          {
+            "en": "Snake Pit",
+            "zh": "盘蛇巨坑"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_A3SunkenRuins",
+      "index": 645,
+      "columns": {
+        "Name": [
+          {
+            "en": "Sunken Ruins",
+            "zh": "沉没废墟"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_A3TreasureVault",
+      "index": 646,
+      "columns": {
+        "Name": [
+          {
+            "en": "Treasure Vault",
+            "zh": "藏宝库"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_A3Utzaal",
+      "index": 647,
+      "columns": {
+        "Name": [
+          {
+            "en": "Utzaal",
+            "zh": "乌扎尔"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_A3Waterways",
+      "index": 648,
+      "columns": {
+        "Name": [
+          {
+            "en": "Waterways",
+            "zh": "危机水道"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_A3Ziggurat",
+      "index": 649,
+      "columns": {
+        "Name": [
+          {
+            "en": "Ziggurat",
+            "zh": "塔庙"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_A3Blackfist",
+      "index": 650,
+      "columns": {
+        "Name": [
+          {
+            "en": "Blackfist",
+            "zh": "黑拳"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_A3Blackjaw",
+      "index": 651,
+      "columns": {
+        "Name": [
+          {
+            "en": "Blackjaw",
+            "zh": "黑颚"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_A3Chimera",
+      "index": 652,
+      "columns": {
+        "Name": [
+          {
+            "en": "Chimera",
+            "zh": "奇美拉"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_A3Doryani",
+      "index": 653,
+      "columns": {
+        "Name": [
+          {
+            "en": "Doryani",
+            "zh": "多里亚尼"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_A3Forgemaster",
+      "index": 654,
+      "columns": {
+        "Name": [
+          {
+            "en": "Mektul, the Forgemaster",
+            "zh": "梅克图尔，锻造大师"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_A3Ignagduk",
+      "index": 655,
+      "columns": {
+        "Name": [
+          {
+            "en": "Ignagduk",
+            "zh": "伊格纳杜克"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_A3QueenOfFilth",
+      "index": 656,
+      "columns": {
+        "Name": [
+          {
+            "en": "Queen Of Filth",
+            "zh": "污秽女王"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_A3Rootdredge",
+      "index": 657,
+      "columns": {
+        "Name": [
+          {
+            "en": "Rootdredge",
+            "zh": "根生污泥"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_A3SunWorshipper",
+      "index": 658,
+      "columns": {
+        "Name": [
+          {
+            "en": "Ketzuli, High Priest of the Sun",
+            "zh": "卡阿祖尔，烈阳先师"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_A3Viper",
+      "index": 659,
+      "columns": {
+        "Name": [
+          {
+            "en": "Viper Napuatzi",
+            "zh": "蝰蛇娜帕齐"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_A3Zicoatl",
+      "index": 660,
+      "columns": {
+        "Name": [
+          {
+            "en": "Zicoatl",
+            "zh": "吉柯塔尔"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_A3TheZigguratEncampment",
+      "index": 661,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Ziggurat Encampment",
+            "zh": "金字塔营地"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_MarakethTrialHub",
+      "index": 662,
+      "columns": {
+        "Name": [
+          {
+            "en": "Sekhema's Rest",
+            "zh": "丝克玛的安眠"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_MarakethTrialEncounter",
+      "index": 663,
+      "columns": {
+        "Name": [
+          {
+            "en": "Trial Of The Sekhema",
+            "zh": "丝克玛试炼"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_MarakethTrialBoss",
+      "index": 664,
+      "columns": {
+        "Name": [
+          {
+            "en": "Zarokh, the Temporal",
+            "zh": "扎洛卡，时空之灵"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_VaalTrialHub",
+      "index": 665,
+      "columns": {
+        "Name": [
+          {
+            "en": "Temple of Chaos",
+            "zh": "混沌神殿"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_VaalTrialTrialmaster",
+      "index": 666,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Trialmaster",
+            "zh": "试炼使者"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_VaalTrialEncounter",
+      "index": 667,
+      "columns": {
+        "Name": [
+          {
+            "en": "Vaal Trials",
+            "zh": "瓦尔试炼"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_SacredFlameBoss",
+      "index": 668,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Sacred Flame",
+            "zh": "神圣之火"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_Breach",
+      "index": 669,
+      "columns": {
+        "Name": [
+          {
+            "en": "Breach",
+            "zh": "裂隙"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_A4Arastas",
+      "index": 734,
+      "columns": {
+        "Name": [
+          {
+            "en": "Arastas",
+            "zh": "阿拉斯塔"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_A4Torvian",
+      "index": 735,
+      "columns": {
+        "Name": [
+          {
+            "en": "Torvian, Hand of the Saviour",
+            "zh": "托维安，救世主之手"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_A4Town",
+      "index": 736,
+      "columns": {
+        "Name": [
+          {
+            "en": "Kingsmarch",
+            "zh": "君锋镇"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_A4Excavation",
+      "index": 737,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Excavation",
+            "zh": "挖掘场"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_A4Overlord",
+      "index": 738,
+      "columns": {
+        "Name": [
+          {
+            "en": "Benedictus, First Herald of Utopia",
+            "zh": "本尼迪克图斯，乌托邦首席使徒"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_A4HallsOfTheDead",
+      "index": 739,
+      "columns": {
+        "Name": [
+          {
+            "en": "Halls of the Dead",
+            "zh": "亡者之境"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_A4HinekorasPassage",
+      "index": 740,
+      "columns": {
+        "Name": [
+          {
+            "en": "Hinekoras Passage",
+            "zh": "辛格拉通道"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_A4Yama",
+      "index": 741,
+      "columns": {
+        "Name": [
+          {
+            "en": "Yama the White",
+            "zh": "白之雅玛"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_A4IsleOfKin",
+      "index": 742,
+      "columns": {
+        "Name": [
+          {
+            "en": "Isle of Kin",
+            "zh": "亲眷岛"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_A4Volcano",
+      "index": 743,
+      "columns": {
+        "Name": [
+          {
+            "en": "Volcanic Warrens",
+            "zh": "熔火院落"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_A4BlindBeast",
+      "index": 744,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Blind Beast",
+            "zh": "盲眼凶兽"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_A4Krutog",
+      "index": 745,
+      "columns": {
+        "Name": [
+          {
+            "en": "Krutog, Lord of Kin",
+            "zh": "族裔之王克鲁托格"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_A4KedgeBay",
+      "index": 746,
+      "columns": {
+        "Name": [
+          {
+            "en": "Kedge Bay",
+            "zh": "落锚湾"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_A4Hartlin",
+      "index": 747,
+      "columns": {
+        "Name": [
+          {
+            "en": "Captain Hartlin",
+            "zh": "哈特林船长"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_A4Ngakanu",
+      "index": 748,
+      "columns": {
+        "Name": [
+          {
+            "en": "Ngakanu",
+            "zh": "纳卡努"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_A4BloodFever",
+      "index": 749,
+      "columns": {
+        "Name": [
+          {
+            "en": "Blood Fever",
+            "zh": "血热病"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_A4Tavakai",
+      "index": 750,
+      "columns": {
+        "Name": [
+          {
+            "en": "Tavakai",
+            "zh": "塔瓦凯"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_A4Prison",
+      "index": 751,
+      "columns": {
+        "Name": [
+          {
+            "en": "Abandoned Prison",
+            "zh": "废弃监牢"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_A4Prisoner",
+      "index": 752,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Prisoner",
+            "zh": "囚徒"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_A4ShrikeIsland",
+      "index": 753,
+      "columns": {
+        "Name": [
+          {
+            "en": "Shrike Island",
+            "zh": "百舌岛"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_A4Scourge",
+      "index": 754,
+      "columns": {
+        "Name": [
+          {
+            "en": "Scourge of the Skies",
+            "zh": "天空灾星"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_A4Whakapanu",
+      "index": 755,
+      "columns": {
+        "Name": [
+          {
+            "en": "Whakapanu Island",
+            "zh": "瓦卡帕努岛"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_A4Shark",
+      "index": 756,
+      "columns": {
+        "Name": [
+          {
+            "en": "Great White One",
+            "zh": "巨白鲨"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_A4SirenCave",
+      "index": 757,
+      "columns": {
+        "Name": [
+          {
+            "en": "Singing Caverns",
+            "zh": "冥曲洞窟"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_A4Siren",
+      "index": 758,
+      "columns": {
+        "Name": [
+          {
+            "en": "Diamora, Song of Death",
+            "zh": "葬歌之声戴娅摩菈"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_Holten",
+      "index": 759,
+      "columns": {
+        "Name": [
+          {
+            "en": "Holten Estate",
+            "zh": "霍尔顿庄园"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_HoltenBoss",
+      "index": 760,
+      "columns": {
+        "Name": [
+          {
+            "en": "Elswyth and Wulfric",
+            "zh": "艾尔斯威丝和乌弗瑞克"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_IncursionHub",
+      "index": 776,
+      "columns": {
+        "Name": [
+          {
+            "en": "Vaal Ruins",
+            "zh": "瓦尔遗迹"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_IncursionTemple",
+      "index": 777,
+      "columns": {
+        "Name": [
+          {
+            "en": "Atziri's Temple",
+            "zh": "阿兹里神庙"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_IncursionArchitect",
+      "index": 778,
+      "columns": {
+        "Name": [
+          {
+            "en": "Xipocado, Royal Architect",
+            "zh": "夏波卡多，皇家建筑师"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jukebox_IncursionAtziri",
+      "index": 779,
+      "columns": {
+        "Name": [
+          {
+            "en": "Atziri, the Red Queen",
+            "zh": "阿兹里，红女王"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HO_BreachHiveBoss",
+      "index": 826,
+      "columns": {
+        "Name": [
+          {
+            "en": "Esh & Tul",
+            "zh": "艾许和托沃"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HO_BreachHub",
+      "index": 827,
+      "columns": {
+        "Name": [
+          {
+            "en": "Monastery of the Pale Flame",
+            "zh": "苍焰修道院"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HO_BreachBomb",
+      "index": 828,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Hive",
+            "zh": "主巢"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HO_DeliriumMap",
+      "index": 829,
+      "columns": {
+        "Name": [
+          {
+            "en": "Delirium",
+            "zh": "惊悸迷雾"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HO_DeliriumHub",
+      "index": 830,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Withered Willow",
+            "zh": "萎败细柳"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HO_DeliriumSimulacrum",
+      "index": 831,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Simulacrum",
+            "zh": "梦魇拟像"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HO_DeliriumTangmazu",
+      "index": 832,
+      "columns": {
+        "Name": [
+          {
+            "en": "Tangmazu",
+            "zh": "唐玛祖"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HO_ExpeditionHub",
+      "index": 833,
+      "columns": {
+        "Name": [
+          {
+            "en": "Ruined Kingsmarch",
+            "zh": "君锋镇废墟"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HO_ExpeditionMedved",
+      "index": 834,
+      "columns": {
+        "Name": [
+          {
+            "en": "Medved",
+            "zh": "梅德维德"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HO_ExpeditionOlroth",
+      "index": 835,
+      "columns": {
+        "Name": [
+          {
+            "en": "Olroth",
+            "zh": "欧罗什"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HO_ExpeditionSpider",
+      "index": 836,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Aberration",
+            "zh": "畸变体"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HO_ExpeditionStarfallKnight",
+      "index": 837,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Black Knight",
+            "zh": "黑暗骑士"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HO_ExpeditionTomb",
+      "index": 838,
+      "columns": {
+        "Name": [
+          {
+            "en": "Tomb",
+            "zh": "陵墓"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HO_ExpeditionUhtred",
+      "index": 839,
+      "columns": {
+        "Name": [
+          {
+            "en": "Uhtred",
+            "zh": "乌崔德"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HO_ExpeditionVorana",
+      "index": 840,
+      "columns": {
+        "Name": [
+          {
+            "en": "Vorana",
+            "zh": "沃拉娜"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HO_RitualMistKing",
+      "index": 841,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Mist King",
+            "zh": "迷雾之王"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HO_RitualCaerTarth",
+      "index": 842,
+      "columns": {
+        "Name": [
+          {
+            "en": "Caer Tarth",
+            "zh": "赛尔塔斯"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HO_RitualBodach",
+      "index": 843,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Bodach",
+            "zh": "伯达克"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HO_RitualAoife",
+      "index": 844,
+      "columns": {
+        "Name": [
+          {
+            "en": "Aoife",
+            "zh": "艾欧菲"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HO_PrecursorDivinityBoss",
+      "index": 845,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Arbiter of Divinity",
+            "zh": "神圣仲裁官"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HO_PrecursorMothersoul",
+      "index": 846,
+      "columns": {
+        "Name": [
+          {
+            "en": "Mothersoul",
+            "zh": "原初之魂"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HO_PrecursorPowerstation",
+      "index": 847,
+      "columns": {
+        "Name": [
+          {
+            "en": "Powerstation",
+            "zh": "发电站"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HO_PrecursorScientistBoss",
+      "index": 848,
+      "columns": {
+        "Name": [
+          {
+            "en": "Precursor Sentinels",
+            "zh": "先驱"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HO_AbyssCity",
+      "index": 849,
+      "columns": {
+        "Name": [
+          {
+            "en": "Abyss",
+            "zh": "深渊"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HO_AbyssHub",
+      "index": 850,
+      "columns": {
+        "Name": [
+          {
+            "en": "Well of Souls",
+            "zh": "灵魂之井"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HO_AbyssKulemak",
+      "index": 851,
+      "columns": {
+        "Name": [
+          {
+            "en": "Kulemak",
+            "zh": "库勒马克"
+          }
+        ]
+      }
+    }
+  ]
+}

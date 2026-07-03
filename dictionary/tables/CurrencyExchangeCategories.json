@@ -1,0 +1,670 @@
+{
+  "table": "CurrencyExchangeCategories",
+  "key": "_index",
+  "columns": [
+    "Id",
+    "Name"
+  ],
+  "entries": [
+    {
+      "id": null,
+      "index": 0,
+      "columns": {
+        "Name": [
+          {
+            "en": "Currency",
+            "zh": "通货"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 1,
+      "columns": {
+        "Name": [
+          {
+            "en": "Quality Currency",
+            "zh": "品质通货"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 2,
+      "columns": {
+        "Name": [
+          {
+            "en": "Jewellers' Currency",
+            "zh": "工匠通货"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 3,
+      "columns": {
+        "Name": [
+          {
+            "en": "Identification Currency",
+            "zh": "鉴定通货"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 4,
+      "columns": {
+        "Name": [
+          {
+            "en": "Currency Shards",
+            "zh": "通货碎片"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 5,
+      "columns": {
+        "Name": [
+          {
+            "en": "Fragments",
+            "zh": "碎片"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 6,
+      "columns": {
+        "Name": [
+          {
+            "en": "Ritual",
+            "zh": "驱灵仪式"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 7,
+      "columns": {
+        "Name": [
+          {
+            "en": "Ultimatum Fragments",
+            "zh": "致命贪婪碎片"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 8,
+      "columns": {
+        "Name": [
+          {
+            "en": "Pinnacle Fragments",
+            "zh": "巅峰碎片"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 9,
+      "columns": {
+        "Name": [
+          {
+            "en": "Reliquary Keys",
+            "zh": "圣物厅钥匙"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 10,
+      "columns": {
+        "Name": [
+          {
+            "en": "Lesser Essences",
+            "zh": "次级精华"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 11,
+      "columns": {
+        "Name": [
+          {
+            "en": "Essences",
+            "zh": "精华"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 12,
+      "columns": {
+        "Name": [
+          {
+            "en": "Greater Essences",
+            "zh": "强效精华"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 13,
+      "columns": {
+        "Name": [
+          {
+            "en": "Perfect Essences",
+            "zh": "完美精华"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 14,
+      "columns": {
+        "Name": [
+          {
+            "en": "Corrupted Essences",
+            "zh": "腐化精华"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 15,
+      "columns": {
+        "Name": [
+          {
+            "en": "Breach",
+            "zh": "裂隙"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 16,
+      "columns": {
+        "Name": [
+          {
+            "en": "Breach Splinters",
+            "zh": "裂隙碎片"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 17,
+      "columns": {
+        "Name": [
+          {
+            "en": "Catalysts",
+            "zh": "催化剂"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 18,
+      "columns": {
+        "Name": [
+          {
+            "en": "Delirium",
+            "zh": "惊悸迷雾"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 19,
+      "columns": {
+        "Name": [
+          {
+            "en": "Simulacrum",
+            "zh": "梦魇拟像"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 20,
+      "columns": {
+        "Name": [
+          {
+            "en": "Liquid Emotions",
+            "zh": "液化情感"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 21,
+      "columns": {
+        "Name": [
+          {
+            "en": "Divination Cards",
+            "zh": "命运卡"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 22,
+      "columns": {
+        "Name": [
+          {
+            "en": "Divination Cards Rewarding Weapons or Armour",
+            "zh": "奖励武器或护甲的命运卡"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 23,
+      "columns": {
+        "Name": [
+          {
+            "en": "Divination Cards Rewarding Jewellery or Jewels",
+            "zh": "奖励饰品或珠宝的命运卡"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 24,
+      "columns": {
+        "Name": [
+          {
+            "en": "Divination Cards Rewarding Currency",
+            "zh": "奖励通货的命运卡"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 25,
+      "columns": {
+        "Name": [
+          {
+            "en": "Divination Cards Rewarding Gems",
+            "zh": "奖励宝石的命运卡"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 26,
+      "columns": {
+        "Name": [
+          {
+            "en": "Divination Cards Rewarding Maps or Fragments",
+            "zh": "奖励地图或碎片的命运卡"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 27,
+      "columns": {
+        "Name": [
+          {
+            "en": "Divination Cards Rewarding Flasks",
+            "zh": "奖励药剂的命运卡"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 28,
+      "columns": {
+        "Name": [
+          {
+            "en": "Other Divination Cards",
+            "zh": "其他命运卡"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 29,
+      "columns": {
+        "Name": [
+          {
+            "en": "Expedition",
+            "zh": "先祖秘藏"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 30,
+      "columns": {
+        "Name": [
+          {
+            "en": "Artifacts",
+            "zh": "神器"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 31,
+      "columns": {
+        "Name": [
+          {
+            "en": "Verisium",
+            "zh": "维金"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 32,
+      "columns": {
+        "Name": [
+          {
+            "en": "Alloys",
+            "zh": "合金"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 33,
+      "columns": {
+        "Name": [
+          {
+            "en": "Fluxes",
+            "zh": "溶剂"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 34,
+      "columns": {
+        "Name": [
+          {
+            "en": "Starlit Ore",
+            "zh": "星辉矿石"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 35,
+      "columns": {
+        "Name": [
+          {
+            "en": "Popular",
+            "zh": "热门"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 36,
+      "columns": {
+        "Name": [
+          {
+            "en": "Owned",
+            "zh": "已持有"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 37,
+      "columns": {
+        "Name": [
+          {
+            "en": "Runes",
+            "zh": "符文"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 38,
+      "columns": {
+        "Name": [
+          {
+            "en": "Perfect Runes",
+            "zh": "完美符文"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 39,
+      "columns": {
+        "Name": [
+          {
+            "en": "Greater Runes",
+            "zh": "强效符文"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 40,
+      "columns": {
+        "Name": [
+          {
+            "en": "Soul Cores",
+            "zh": "灵核"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 41,
+      "columns": {
+        "Name": [
+          {
+            "en": "Omens",
+            "zh": "预兆"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 42,
+      "columns": {
+        "Name": [
+          {
+            "en": "Special Omens",
+            "zh": "特殊预兆"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 43,
+      "columns": {
+        "Name": [
+          {
+            "en": "Idols",
+            "zh": "雕像"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 44,
+      "columns": {
+        "Name": [
+          {
+            "en": "Uncut Gems",
+            "zh": "未切割的宝石"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 45,
+      "columns": {
+        "Name": [
+          {
+            "en": "Uncut Support Gems",
+            "zh": "未切割的辅助宝石"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 46,
+      "columns": {
+        "Name": [
+          {
+            "en": "Uncut Skill Gems",
+            "zh": "未切割的技能宝石"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 47,
+      "columns": {
+        "Name": [
+          {
+            "en": "Uncut Reservation Gems",
+            "zh": "未切割的保留宝石"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 48,
+      "columns": {
+        "Name": [
+          {
+            "en": "Abyss",
+            "zh": "深渊"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 49,
+      "columns": {
+        "Name": [
+          {
+            "en": "Abyssal Bones",
+            "zh": "深渊骨骸"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 50,
+      "columns": {
+        "Name": [
+          {
+            "en": "Gems",
+            "zh": "宝石"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 51,
+      "columns": {
+        "Name": [
+          {
+            "en": "Lineage Support Gems",
+            "zh": "血脉辅助宝石"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 52,
+      "columns": {
+        "Name": [
+          {
+            "en": "Atziri's Temple",
+            "zh": "阿兹里神庙"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 53,
+      "columns": {
+        "Name": [
+          {
+            "en": "Abyssal Eyes",
+            "zh": "深渊之眼"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 54,
+      "columns": {
+        "Name": [
+          {
+            "en": "Favourites",
+            "zh": "收藏夹"
+          }
+        ]
+      }
+    }
+  ]
+}

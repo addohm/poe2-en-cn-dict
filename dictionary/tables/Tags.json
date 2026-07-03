@@ -1,0 +1,478 @@
+{
+  "table": "Tags",
+  "key": "Id",
+  "columns": [
+    "DisplayString",
+    "UiHints"
+  ],
+  "entries": [
+    {
+      "id": "armour",
+      "index": 7,
+      "columns": {
+        "DisplayString": [
+          {
+            "en": "Armour",
+            "zh": "护甲"
+          }
+        ]
+      }
+    },
+    {
+      "id": "gem",
+      "index": 27,
+      "columns": {
+        "DisplayString": [
+          {
+            "en": "Gem",
+            "zh": "宝石"
+          }
+        ]
+      }
+    },
+    {
+      "id": "caster",
+      "index": 34,
+      "columns": {
+        "DisplayString": [
+          {
+            "en": "Caster",
+            "zh": "施法"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fire",
+      "index": 311,
+      "columns": {
+        "DisplayString": [
+          {
+            "en": "Fire",
+            "zh": "火焰"
+          }
+        ]
+      }
+    },
+    {
+      "id": "cold",
+      "index": 312,
+      "columns": {
+        "DisplayString": [
+          {
+            "en": "Cold",
+            "zh": "冰霜"
+          }
+        ]
+      }
+    },
+    {
+      "id": "lightning",
+      "index": 313,
+      "columns": {
+        "DisplayString": [
+          {
+            "en": "Lightning",
+            "zh": "闪电"
+          }
+        ]
+      }
+    },
+    {
+      "id": "chaos",
+      "index": 314,
+      "columns": {
+        "DisplayString": [
+          {
+            "en": "Chaos",
+            "zh": "混沌"
+          }
+        ]
+      }
+    },
+    {
+      "id": "physical",
+      "index": 315,
+      "columns": {
+        "DisplayString": [
+          {
+            "en": "Physical",
+            "zh": "物理"
+          }
+        ]
+      }
+    },
+    {
+      "id": "life",
+      "index": 318,
+      "columns": {
+        "DisplayString": [
+          {
+            "en": "Life",
+            "zh": "生命"
+          }
+        ]
+      }
+    },
+    {
+      "id": "elemental",
+      "index": 320,
+      "columns": {
+        "DisplayString": [
+          {
+            "en": "Elemental",
+            "zh": "元素"
+          }
+        ]
+      }
+    },
+    {
+      "id": "attack",
+      "index": 321,
+      "columns": {
+        "DisplayString": [
+          {
+            "en": "Attack",
+            "zh": "攻击"
+          }
+        ]
+      }
+    },
+    {
+      "id": "minion",
+      "index": 322,
+      "columns": {
+        "DisplayString": [
+          {
+            "en": "Minion",
+            "zh": "召唤生物"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aura",
+      "index": 323,
+      "columns": {
+        "DisplayString": [
+          {
+            "en": "Aura",
+            "zh": "光环"
+          }
+        ]
+      }
+    },
+    {
+      "id": "mana",
+      "index": 325,
+      "columns": {
+        "DisplayString": [
+          {
+            "en": "Mana",
+            "zh": "魔力"
+          }
+        ]
+      }
+    },
+    {
+      "id": "speed",
+      "index": 326,
+      "columns": {
+        "DisplayString": [
+          {
+            "en": "Speed",
+            "zh": "速度"
+          }
+        ]
+      }
+    },
+    {
+      "id": "synthesised_monster",
+      "index": 416,
+      "columns": {
+        "UiHints": [
+          {
+            "en": "<rgb(175,238,238)>{Synthesised}",
+            "zh": "<rgb(175,238,238)>{虚空忆境}"
+          }
+        ]
+      }
+    },
+    {
+      "id": "synthesised_monster2",
+      "index": 437,
+      "columns": {
+        "UiHints": [
+          {
+            "en": "<rgb(175,238,238)>{Synthesised}",
+            "zh": "<rgb(175,238,238)>{虚空忆境}"
+          }
+        ]
+      }
+    },
+    {
+      "id": "rare_monster_pack",
+      "index": 453,
+      "columns": {
+        "UiHints": [
+          {
+            "en": "<rgb(255, 255, 0)>{Minion}",
+            "zh": "<rgb(255, 255, 0)>{召唤生物}"
+          }
+        ]
+      }
+    },
+    {
+      "id": "rare_monster_pack_empowered",
+      "index": 454,
+      "columns": {
+        "UiHints": [
+          {
+            "en": "<rgb(255, 255, 0)>{Empowered Minion}",
+            "zh": "<rgb(255, 255, 0)>{强化召唤生物}"
+          }
+        ]
+      }
+    },
+    {
+      "id": "blight_doesnt_engage",
+      "index": 469,
+      "columns": {
+        "UiHints": [
+          {
+            "en": "Doesn't engage nearby Enemies",
+            "zh": "并未与周围敌人交战"
+          }
+        ]
+      }
+    },
+    {
+      "id": "critical",
+      "index": 575,
+      "columns": {
+        "DisplayString": [
+          {
+            "en": "Critical",
+            "zh": "暴击"
+          }
+        ]
+      }
+    },
+    {
+      "id": "evasion",
+      "index": 577,
+      "columns": {
+        "DisplayString": [
+          {
+            "en": "Evasion",
+            "zh": "闪避"
+          }
+        ]
+      }
+    },
+    {
+      "id": "energy_shield",
+      "index": 578,
+      "columns": {
+        "DisplayString": [
+          {
+            "en": "Energy Shield",
+            "zh": "能量护盾"
+          }
+        ]
+      }
+    },
+    {
+      "id": "damage",
+      "index": 582,
+      "columns": {
+        "DisplayString": [
+          {
+            "en": "Damage",
+            "zh": "伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": "resistance",
+      "index": 583,
+      "columns": {
+        "DisplayString": [
+          {
+            "en": "Resistance",
+            "zh": "抗性"
+          }
+        ]
+      }
+    },
+    {
+      "id": "attribute",
+      "index": 584,
+      "columns": {
+        "DisplayString": [
+          {
+            "en": "Attribute",
+            "zh": "属性"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ailment",
+      "index": 589,
+      "columns": {
+        "DisplayString": [
+          {
+            "en": "Ailment",
+            "zh": "异常状态"
+          }
+        ]
+      }
+    },
+    {
+      "id": "curse",
+      "index": 593,
+      "columns": {
+        "DisplayString": [
+          {
+            "en": "Curse",
+            "zh": "诅咒"
+          }
+        ]
+      }
+    },
+    {
+      "id": "expedition_monster",
+      "index": 693,
+      "columns": {
+        "UiHints": [
+          {
+            "en": "<outlinecolour:rgb(14,46,85)>{<rgb(116,177,255)>{Runic}}",
+            "zh": "<outlinecolour:rgb(14,46,85)>{<rgb(116,177,255)>{符文}}"
+          }
+        ]
+      }
+    },
+    {
+      "id": "mirrored_monster",
+      "index": 969,
+      "columns": {
+        "UiHints": [
+          {
+            "en": "<outlinecolour:rgb(240,240,240)>{<rgb(20,20,20)>{Mirrored}}",
+            "zh": "<outlinecolour:rgb(240,240,240)>{<rgb(20,20,20)>{镜像}}"
+          }
+        ]
+      }
+    },
+    {
+      "id": "sanctum_guard",
+      "index": 970,
+      "columns": {
+        "UiHints": [
+          {
+            "en": "Sanctum Guard",
+            "zh": "圣所守卫"
+          }
+        ]
+      }
+    },
+    {
+      "id": "sanctum_braom_boss",
+      "index": 1003,
+      "columns": {
+        "UiHints": [
+          {
+            "en": "Grows or Shrinks based on Uzar's Life",
+            "zh": "根据乌扎尔的生命值长大或缩小"
+          }
+        ]
+      }
+    },
+    {
+      "id": "sanctum_uzar_boss",
+      "index": 1004,
+      "columns": {
+        "UiHints": [
+          {
+            "en": "Grows or Shrinks based on Braom's Life",
+            "zh": "根据布隆的生命值长大或缩小"
+          }
+        ]
+      }
+    },
+    {
+      "id": "RedbladeLeader",
+      "index": 1014,
+      "columns": {
+        "UiHints": [
+          {
+            "en": "Redblade Warlord",
+            "zh": "红刃霸主"
+          }
+        ]
+      }
+    },
+    {
+      "id": "azmeri_warden_dusted_monster",
+      "index": 1135,
+      "columns": {
+        "UiHints": [
+          {
+            "en": "<rgb(240,198,72)>{Vivid Empowered}",
+            "zh": "<rgb(240,198,72)>{活性强化}"
+          }
+        ]
+      }
+    },
+    {
+      "id": "azmeri_shaman_dusted_monster",
+      "index": 1136,
+      "columns": {
+        "UiHints": [
+          {
+            "en": "<rgb(184,72,224)>{Wild Empowered}",
+            "zh": "<rgb(184,72,224)>{荒野强化}"
+          }
+        ]
+      }
+    },
+    {
+      "id": "azmeri_primalist_dusted_monster",
+      "index": 1137,
+      "columns": {
+        "UiHints": [
+          {
+            "en": "<rgb(95,178,237)>{Primal Empowered}",
+            "zh": "<rgb(95,178,237)>{原始强化}"
+          }
+        ]
+      }
+    },
+    {
+      "id": "charm",
+      "index": 1154,
+      "columns": {
+        "DisplayString": [
+          {
+            "en": "Charm",
+            "zh": "咒符"
+          }
+        ]
+      }
+    },
+    {
+      "id": "hilda_great_beast",
+      "index": 1317,
+      "columns": {
+        "UiHints": [
+          {
+            "en": "<rgb(7, 171, 7)>{Great Beast}",
+            "zh": "<rgb(7, 171, 7)>{巨兽}"
+          }
+        ]
+      }
+    }
+  ]
+}

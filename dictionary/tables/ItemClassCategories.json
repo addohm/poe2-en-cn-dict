@@ -1,0 +1,873 @@
+{
+  "table": "ItemClassCategories",
+  "key": "Id",
+  "columns": [
+    "Text"
+  ],
+  "entries": [
+    {
+      "id": "Flask",
+      "index": 0,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Flask]",
+            "zh": "[Flask|药剂]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "One Hand Mace",
+      "index": 1,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Mace|One Hand Mace]",
+            "zh": "[Mace|单手锤]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "One Hand Sword",
+      "index": 2,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Sword|One Hand Sword]",
+            "zh": "[Sword|单手剑]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Dagger",
+      "index": 3,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Dagger]",
+            "zh": "[Dagger|匕首]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Staff",
+      "index": 4,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Staff]",
+            "zh": "[Staff|长杖]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Warstaff",
+      "index": 5,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Quarterstaff]",
+            "zh": "[Quarterstaff|节杖]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Currency",
+      "index": 6,
+      "columns": {
+        "Text": [
+          {
+            "en": "Currency",
+            "zh": "通货"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Amulet",
+      "index": 7,
+      "columns": {
+        "Text": [
+          {
+            "en": "Amulet",
+            "zh": "项链"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Ring",
+      "index": 8,
+      "columns": {
+        "Text": [
+          {
+            "en": "Ring",
+            "zh": "戒指"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Claw",
+      "index": 9,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Claw]",
+            "zh": "[Claw|爪类]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Wand",
+      "index": 10,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Wand]",
+            "zh": "[Wand|法杖]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "One Hand Axe",
+      "index": 11,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Axe|One Hand Axe]",
+            "zh": "[Axe|单手斧]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Bow",
+      "index": 12,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Bow]",
+            "zh": "[Bow|弓类]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Two Hand Sword",
+      "index": 13,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Sword|Two Hand Sword]",
+            "zh": "[Sword|双手剑]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Two Hand Axe",
+      "index": 14,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Axe|Two Hand Axe]",
+            "zh": "[Axe|双手斧]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Two Hand Mace",
+      "index": 15,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Mace|Two Hand Mace]",
+            "zh": "[Mace|双手锤]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Active Skill Gem",
+      "index": 16,
+      "columns": {
+        "Text": [
+          {
+            "en": "Skill Gem",
+            "zh": "技能宝石"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Support Skill Gem",
+      "index": 17,
+      "columns": {
+        "Text": [
+          {
+            "en": "Support Gem",
+            "zh": "辅助宝石"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Quiver",
+      "index": 18,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Quiver]",
+            "zh": "[Quiver|箭袋]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Belt",
+      "index": 19,
+      "columns": {
+        "Text": [
+          {
+            "en": "Belt",
+            "zh": "腰带"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Gloves",
+      "index": 20,
+      "columns": {
+        "Text": [
+          {
+            "en": "Gloves",
+            "zh": "手套"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Boots",
+      "index": 21,
+      "columns": {
+        "Text": [
+          {
+            "en": "Boots",
+            "zh": "鞋子"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Body Armour",
+      "index": 22,
+      "columns": {
+        "Text": [
+          {
+            "en": "Body Armour",
+            "zh": "护甲"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Helmet",
+      "index": 23,
+      "columns": {
+        "Text": [
+          {
+            "en": "Helmet",
+            "zh": "头盔"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Shield",
+      "index": 24,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Shield]",
+            "zh": "[Shield|盾牌]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "QuestItem",
+      "index": 25,
+      "columns": {
+        "Text": [
+          {
+            "en": "[QuestItem|Quest Item]",
+            "zh": "[QuestItem|任务物品]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Map",
+      "index": 26,
+      "columns": {
+        "Text": [
+          {
+            "en": "Waystone",
+            "zh": "引路石"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FishingRod",
+      "index": 27,
+      "columns": {
+        "Text": [
+          {
+            "en": "Fishing Rod",
+            "zh": "鱼竿"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MapFragment",
+      "index": 28,
+      "columns": {
+        "Text": [
+          {
+            "en": "Map Fragment",
+            "zh": "地图碎片"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jewel",
+      "index": 29,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Jewel]",
+            "zh": "[Jewel|珠宝]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DivinationCard",
+      "index": 30,
+      "columns": {
+        "Text": [
+          {
+            "en": "Divination Card",
+            "zh": "命运卡"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LabyrinthItem",
+      "index": 31,
+      "columns": {
+        "Text": [
+          {
+            "en": "Labyrinth Key",
+            "zh": "迷宫钥匙"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LabyrinthTrinket",
+      "index": 32,
+      "columns": {
+        "Text": [
+          {
+            "en": "Labyrinth Trinket",
+            "zh": "迷宫饰品"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Leaguestone",
+      "index": 34,
+      "columns": {
+        "Text": [
+          {
+            "en": "Leaguestone",
+            "zh": "赛季石"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PantheonSoul",
+      "index": 35,
+      "columns": {
+        "Text": [
+          {
+            "en": "Captured Soul",
+            "zh": "已捕获的灵魂"
+          }
+        ]
+      }
+    },
+    {
+      "id": "UniqueFragment",
+      "index": 36,
+      "columns": {
+        "Text": [
+          {
+            "en": "Unique Piece",
+            "zh": "传奇碎片"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AbyssJewel",
+      "index": 37,
+      "columns": {
+        "Text": [
+          {
+            "en": "Abyss Jewel",
+            "zh": "深渊珠宝"
+          }
+        ]
+      }
+    },
+    {
+      "id": "IncursionItem",
+      "index": 38,
+      "columns": {
+        "Text": [
+          {
+            "en": "Incursion Item",
+            "zh": "穿越物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DelveSocketableCurrency",
+      "index": 39,
+      "columns": {
+        "Text": [
+          {
+            "en": "Resonator",
+            "zh": "共振器"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Incubator",
+      "index": 40,
+      "columns": {
+        "Text": [
+          {
+            "en": "Incubator",
+            "zh": "孕育石"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AtlasUpgradeItem",
+      "index": 41,
+      "columns": {
+        "Text": [
+          {
+            "en": "Watchstone",
+            "zh": "守望石"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HeistContract",
+      "index": 42,
+      "columns": {
+        "Text": [
+          {
+            "en": "Contract",
+            "zh": "契约"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HeistEquipmentWeapon",
+      "index": 43,
+      "columns": {
+        "Text": [
+          {
+            "en": "Heist Gear",
+            "zh": "赏金猎人装备"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HeistEquipmentTool",
+      "index": 44,
+      "columns": {
+        "Text": [
+          {
+            "en": "Heist Tool",
+            "zh": "赏金猎人工具"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HeistEquipmentUtility",
+      "index": 45,
+      "columns": {
+        "Text": [
+          {
+            "en": "Heist Cloak",
+            "zh": "赏金猎人披风"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HeistEquipmentReward",
+      "index": 46,
+      "columns": {
+        "Text": [
+          {
+            "en": "Heist Brooch",
+            "zh": "赏金猎人胸针"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HeistBlueprint",
+      "index": 47,
+      "columns": {
+        "Text": [
+          {
+            "en": "Blueprint",
+            "zh": "宏图"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Trinket",
+      "index": 48,
+      "columns": {
+        "Text": [
+          {
+            "en": "Trinket",
+            "zh": "饰品"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HeistObjective",
+      "index": 49,
+      "columns": {
+        "Text": [
+          {
+            "en": "Heist Target",
+            "zh": "赏金目标"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ExpeditionLogbook",
+      "index": 50,
+      "columns": {
+        "Text": [
+          {
+            "en": "Expedition Logbook",
+            "zh": "先祖秘藏日志"
+          }
+        ]
+      }
+    },
+    {
+      "id": "InstanceLocalItem",
+      "index": 51,
+      "columns": {
+        "Text": [
+          {
+            "en": "Instance Local Item",
+            "zh": "本地物品实例"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SentinelDrone",
+      "index": 52,
+      "columns": {
+        "Text": [
+          {
+            "en": "Sentinel Drone",
+            "zh": "护卫傀儡"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Relic",
+      "index": 53,
+      "columns": {
+        "Text": [
+          {
+            "en": "Relic",
+            "zh": "遗物"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MemoryLine",
+      "index": 54,
+      "columns": {
+        "Text": [
+          {
+            "en": "Memory",
+            "zh": "回忆"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Breachstone",
+      "index": 55,
+      "columns": {
+        "Text": [
+          {
+            "en": "Breachstone",
+            "zh": "裂隙石"
+          }
+        ]
+      }
+    },
+    {
+      "id": "VaultKey",
+      "index": 56,
+      "columns": {
+        "Text": [
+          {
+            "en": "Vault Key",
+            "zh": "宝库钥匙"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Spear",
+      "index": 57,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Spear]",
+            "zh": "[Spear|战矛]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Crossbow",
+      "index": 58,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Crossbow]",
+            "zh": "[Crossbow|战弩]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Focus",
+      "index": 59,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Focus]",
+            "zh": "[Focus|法器]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Flail",
+      "index": 60,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Flail]",
+            "zh": "[Flail|连枷]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Sceptre",
+      "index": 61,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Sceptre]",
+            "zh": "[Sceptre|权杖]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Buckler",
+      "index": 62,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Buckler]",
+            "zh": "[Buckler|轻盾]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "TrapTool",
+      "index": 63,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Trap]",
+            "zh": "[Trap|陷阱]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Unarmed",
+      "index": 66,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Unarmed]",
+            "zh": "[Unarmed|徒手]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SoulCore",
+      "index": 67,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Augment]",
+            "zh": "[Augment|增幅器]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "TowerAugment",
+      "index": 68,
+      "columns": {
+        "Text": [
+          {
+            "en": "Tablet",
+            "zh": "石板"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Charm",
+      "index": 69,
+      "columns": {
+        "Text": [
+          {
+            "en": "Charm",
+            "zh": "咒符"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Omen",
+      "index": 70,
+      "columns": {
+        "Text": [
+          {
+            "en": "Omen",
+            "zh": "预兆"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PinnacleKey",
+      "index": 71,
+      "columns": {
+        "Text": [
+          {
+            "en": "Pinnacle Key",
+            "zh": "巅峰钥匙"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Talisman",
+      "index": 72,
+      "columns": {
+        "Text": [
+          {
+            "en": "[Talisman]",
+            "zh": "[Talisman|魔符]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "IncursionLimb",
+      "index": 73,
+      "columns": {
+        "Text": [
+          {
+            "en": "Transcendent Limb",
+            "zh": "超凡肢体"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BrequelFruit",
+      "index": 74,
+      "columns": {
+        "Text": [
+          {
+            "en": "Wombgift",
+            "zh": "孕育赠礼"
+          }
+        ]
+      }
+    }
+  ]
+}

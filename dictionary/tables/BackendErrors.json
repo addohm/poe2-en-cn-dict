@@ -1,0 +1,8553 @@
+{
+  "table": "BackendErrors",
+  "key": "Id",
+  "columns": [
+    "Text"
+  ],
+  "entries": [
+    {
+      "id": "AccountNameAlreadyExists",
+      "index": 0,
+      "columns": {
+        "Text": [
+          {
+            "en": "An account with this name already exists.",
+            "zh": "此账号已经存在。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AccountNameInvalid",
+      "index": 1,
+      "columns": {
+        "Text": [
+          {
+            "en": "Account name must be at least 3 characters in length and is restricted to the characters a-z, 0-9 and _",
+            "zh": "你输入的内容不可用，请重新输入。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EmailInvalid",
+      "index": 2,
+      "columns": {
+        "Text": [
+          {
+            "en": "This is not a valid email address.",
+            "zh": "无效的电子邮件地址。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EmailAlreadyExists",
+      "index": 3,
+      "columns": {
+        "Text": [
+          {
+            "en": "An account with this email address already exists.",
+            "zh": "该电子邮件已经与账号绑定。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AccountDoesNotExist",
+      "index": 4,
+      "columns": {
+        "Text": [
+          {
+            "en": "The specified account does not exist.",
+            "zh": "该账号不存在。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "InvalidPassword",
+      "index": 5,
+      "columns": {
+        "Text": [
+          {
+            "en": "The password is not correct for this account.",
+            "zh": "密码错误。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AlreadyLoggedOn",
+      "index": 6,
+      "columns": {
+        "Text": [
+          {
+            "en": "The operation could not be completed because this account was already logged on by someone else.",
+            "zh": "操作失败，该账户目前登录中。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "InvalidProtocolVersion",
+      "index": 7,
+      "columns": {
+        "Text": [
+          {
+            "en": "There has been a patch that you need to update to. Please restart Path of Exile.",
+            "zh": "我们已经推出了新的版本，请重启游戏来进行更新。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "NotAllowedGameLogin",
+      "index": 8,
+      "columns": {
+        "Text": [
+          {
+            "en": "Access to the game is not currently enabled on this account.",
+            "zh": "此账号目前无法登录游戏。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "OtherAccountLoggedOn",
+      "index": 9,
+      "columns": {
+        "Text": [
+          {
+            "en": "Another person has logged into this account.",
+            "zh": "此账号已被其他使用者登录。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AccountNotLoggedIn",
+      "index": 10,
+      "columns": {
+        "Text": [
+          {
+            "en": "This operation requires the account to be logged in.",
+            "zh": "此操作必须要该账号登录来完成。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Timeout",
+      "index": 11,
+      "columns": {
+        "Text": [
+          {
+            "en": "The operation timed out.",
+            "zh": "操作超时。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Disconnected",
+      "index": 12,
+      "columns": {
+        "Text": [
+          {
+            "en": "Disconnected from server.",
+            "zh": "服务器断线。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "TerrainGenerationOutOfSync",
+      "index": 13,
+      "columns": {
+        "Text": [
+          {
+            "en": "The terrain generator for the client is out of sync with the server. Please create a new instance and try again.",
+            "zh": "地形产生器与服务器无法连接。请尝试重新产生新的地图。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "UnexpectedDisconnect",
+      "index": 14,
+      "columns": {
+        "Text": [
+          {
+            "en": "An unexpected disconnection occurred.",
+            "zh": "发生无法预期的断线。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CharacterDoesNotExist",
+      "index": 15,
+      "columns": {
+        "Text": [
+          {
+            "en": "The specified character does not exist.",
+            "zh": "该角色不存在。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "NotCharacterOwner",
+      "index": 16,
+      "columns": {
+        "Text": [
+          {
+            "en": "An attempt was made to retreive a character that this account is not the owner of.",
+            "zh": "尝试取回的角色并非此账号所有。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LinkedItemDoesNotExist",
+      "index": 17,
+      "columns": {
+        "Text": [
+          {
+            "en": "The specified linked item does not exist.",
+            "zh": "指定连接的物品不存在。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DatabaseError",
+      "index": 18,
+      "columns": {
+        "Text": [
+          {
+            "en": "An unexpected database error occurred. Try again.",
+            "zh": "出现无法预期的数据库错误，请重试。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "TransferredToInstance",
+      "index": 19,
+      "columns": {
+        "Text": [
+          {
+            "en": "Account has been transfered to another instance.",
+            "zh": "此账号已经被转移到另一方。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CharacterNameAlreadyExists",
+      "index": 20,
+      "columns": {
+        "Text": [
+          {
+            "en": "A character with this name already exists.",
+            "zh": "此角色名称已被使用。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CharacterNameInvalid",
+      "index": 21,
+      "columns": {
+        "Text": [
+          {
+            "en": "The character name contains invalid characters. Valid names only contain letters and underscores.",
+            "zh": "角色名称包含无效字符。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CharacterNameTooShort",
+      "index": 22,
+      "columns": {
+        "Text": [
+          {
+            "en": "The character name is too short.",
+            "zh": "角色名称过短。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CharacterNameTooLong",
+      "index": 23,
+      "columns": {
+        "Text": [
+          {
+            "en": "The character name is too long.",
+            "zh": "名称过长。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CharacterInvalidClass",
+      "index": 24,
+      "columns": {
+        "Text": [
+          {
+            "en": "Invalid character class.",
+            "zh": "无效的职业。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LeagueDoesNotExist",
+      "index": 25,
+      "columns": {
+        "Text": [
+          {
+            "en": "This league does not exist.",
+            "zh": "此区并不存在。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "InvalidCharacterFlags",
+      "index": 26,
+      "columns": {
+        "Text": [
+          {
+            "en": "Invalid character flags.",
+            "zh": "无效的角色旗帜。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LeagueNameAlreadyExists",
+      "index": 27,
+      "columns": {
+        "Text": [
+          {
+            "en": "A league with this name already exists.",
+            "zh": "相同名称的区已经存在。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LeagueNameInvalid",
+      "index": 28,
+      "columns": {
+        "Text": [
+          {
+            "en": "This is not a valid league name.",
+            "zh": "这不是一个有效的区名称。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LeagueDescriptionInvalid",
+      "index": 29,
+      "columns": {
+        "Text": [
+          {
+            "en": "This is not a valid league description.",
+            "zh": "这不是一个有效的区描述。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AlreadyInParty",
+      "index": 30,
+      "columns": {
+        "Text": [
+          {
+            "en": "The operation could not be completed because you are already in a party.",
+            "zh": "这项指令无法被完成，因为你已经在队伍里了。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "NotItemOwner",
+      "index": 31,
+      "columns": {
+        "Text": [
+          {
+            "en": "Your character is not the owner of this item.",
+            "zh": "你并非该项掉落物的拥有者。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "NotAPartyMember",
+      "index": 32,
+      "columns": {
+        "Text": [
+          {
+            "en": "The target of this operation was not a party member.",
+            "zh": "这项操作的目标必须是队伍成员。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PartyPromotionRequired",
+      "index": 33,
+      "columns": {
+        "Text": [
+          {
+            "en": "You cannot perform this operation because you are not the party leader",
+            "zh": "您不是队长，不能进行该操作"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PartyDoesNotExist",
+      "index": 34,
+      "columns": {
+        "Text": [
+          {
+            "en": "The party does not exist.",
+            "zh": "队伍并不存在。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PartyLeaderOnlyCanOpenMapPortals",
+      "index": 35,
+      "columns": {
+        "Text": [
+          {
+            "en": "Only the Party Leader may open Map Portals. The Party Leader can promote other players to Party Leader from the Party UI.",
+            "zh": "只有队长才能开启异界之门。队长可以在队伍界面里将其他玩家晋升为队长。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ServiceDoesNotExist",
+      "index": 36,
+      "columns": {
+        "Text": [
+          {
+            "en": "The service does not exist.",
+            "zh": "服务器并不存在。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CommandInvalid",
+      "index": 37,
+      "columns": {
+        "Text": [
+          {
+            "en": "The service does not respond to this command, or there was an error in the syntax.",
+            "zh": "服务器无法响应此指令或指令语法有错误。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DestinationUnreachable",
+      "index": 38,
+      "columns": {
+        "Text": [
+          {
+            "en": "Unable to make contact with service.",
+            "zh": "无法连接至这个服务器。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "NotInPartyWith",
+      "index": 39,
+      "columns": {
+        "Text": [
+          {
+            "en": "You must be in a party with this player.",
+            "zh": "你必须跟该玩家在同一个队伍。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "NotInParty",
+      "index": 40,
+      "columns": {
+        "Text": [
+          {
+            "en": "You are not in this party.",
+            "zh": "你不在这个队伍中。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "InstanceFull",
+      "index": 41,
+      "columns": {
+        "Text": [
+          {
+            "en": "The instance is full.",
+            "zh": "地图已满。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "InvalidInstanceTransfer",
+      "index": 42,
+      "columns": {
+        "Text": [
+          {
+            "en": "Transfer to this instance is not allowed using this method.",
+            "zh": "用此方法进入地图并不允许。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PortalDoesNotExist",
+      "index": 43,
+      "columns": {
+        "Text": [
+          {
+            "en": "The other side of the portal disconnected.",
+            "zh": "传送门的另一端中断连接了。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "OutOfYourLeague",
+      "index": 44,
+      "columns": {
+        "Text": [
+          {
+            "en": "That character is in a different League.",
+            "zh": "该角色位于其他赛季区。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DownForMaintenance",
+      "index": 45,
+      "columns": {
+        "Text": [
+          {
+            "en": "The realm is currently down for maintenance. Try again later.",
+            "zh": "服务器关闭维护中，请稍后再试。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "InstanceAuthenticationInvalid",
+      "index": 46,
+      "columns": {
+        "Text": [
+          {
+            "en": "Your authentication for instance transfer was invalid.",
+            "zh": "你所输入的验证是无效的。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PartyFull",
+      "index": 47,
+      "columns": {
+        "Text": [
+          {
+            "en": "Your party is full.",
+            "zh": "你的队伍已满。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "TooManyCharacters",
+      "index": 48,
+      "columns": {
+        "Text": [
+          {
+            "en": "You have no character slots left.",
+            "zh": "已经达到角色数量的最大上限 。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "InvalidActivationKey",
+      "index": 49,
+      "columns": {
+        "Text": [
+          {
+            "en": "Invalid activation key.",
+            "zh": "无效的启动密钥。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EmailValidationRequired",
+      "index": 50,
+      "columns": {
+        "Text": [
+          {
+            "en": "An account has been created with this email address already. You must verify your account by email before logging in.",
+            "zh": "已将你的帐户与电子邮件绑定，在登录前必须先前往信箱进行验证。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MissingRequiredField",
+      "index": 51,
+      "columns": {
+        "Text": [
+          {
+            "en": "Please fill out all required fields.",
+            "zh": "请填写所有必要内容。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "InvalidArgument",
+      "index": 52,
+      "columns": {
+        "Text": [
+          {
+            "en": "An argument was invalid.",
+            "zh": "有一个项目是无效的。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GameComplete",
+      "index": 53,
+      "columns": {
+        "Text": [
+          {
+            "en": "The game has ended.",
+            "zh": "比赛已经结束。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LeagueHasEnded",
+      "index": 54,
+      "columns": {
+        "Text": [
+          {
+            "en": "The league has ended. You cannot create characters in it anymore.",
+            "zh": "该区已经关闭，你无法再选择该角色。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LeagueClosedForEntry",
+      "index": 55,
+      "columns": {
+        "Text": [
+          {
+            "en": "Entry to this league has closed.",
+            "zh": "该区入口已经关闭。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AlreadyOnIgnoreList",
+      "index": 56,
+      "columns": {
+        "Text": [
+          {
+            "en": "This account is already on your ignore list.",
+            "zh": "该账号已在黑名单中。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "NotOnIgnoreList",
+      "index": 57,
+      "columns": {
+        "Text": [
+          {
+            "en": "This account is not on your ignore list.",
+            "zh": "该账号不在黑名单中。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "IgnoreListFull",
+      "index": 58,
+      "columns": {
+        "Text": [
+          {
+            "en": "Your ignore list is full.",
+            "zh": "黑名单已满。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AddToIgnoreListFailed",
+      "index": 59,
+      "columns": {
+        "Text": [
+          {
+            "en": "Unable to add {0} to ignore list because: {1}",
+            "zh": "无法将 {0} 新增到黑名单，原因： {1}。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AddedToIgnoreList",
+      "index": 60,
+      "columns": {
+        "Text": [
+          {
+            "en": "{0} has been added to your ignore list.",
+            "zh": "{0} 已被加入到黑名单中。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "RemoveFromIgnoreListFailed",
+      "index": 61,
+      "columns": {
+        "Text": [
+          {
+            "en": "Unable to remove {0} from ignore list because: {1}",
+            "zh": "无法移除黑名单中的 {0}，原因： {1}。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "RemovedFromIgnoreList",
+      "index": 62,
+      "columns": {
+        "Text": [
+          {
+            "en": "{0} has been removed from your ignore list.",
+            "zh": "{0} 已经从黑名单中移除。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FailedToClearIgnoreList",
+      "index": 63,
+      "columns": {
+        "Text": [
+          {
+            "en": "Unable to clear ignore list because: {0}",
+            "zh": "无法移除黑名单，原因： {0}。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "IgnoreListCleared",
+      "index": 64,
+      "columns": {
+        "Text": [
+          {
+            "en": "Your ignore list has been cleared.",
+            "zh": "黑名单已经全部移除。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FailedToAddNamedFriend",
+      "index": 65,
+      "columns": {
+        "Text": [
+          {
+            "en": "Unable to add {0} to friends list because: {1}",
+            "zh": "无法将 {0} 新增至好友名单，原因： {1}。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FailedToAddUnnamedFriend",
+      "index": 66,
+      "columns": {
+        "Text": [
+          {
+            "en": "Unable to add account to friends list because: {0}",
+            "zh": "无法将该位玩家加入好友名单，原因： {0}。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FailedToAcceptFriend",
+      "index": 67,
+      "columns": {
+        "Text": [
+          {
+            "en": "Unable to accept friend request because: {0}",
+            "zh": "无法接受该位玩家的好友邀请，原因： {0}。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FailedToRemoveFriend",
+      "index": 68,
+      "columns": {
+        "Text": [
+          {
+            "en": "Unable to remove friend because: {0}",
+            "zh": "无法删除该位好友，原因： {0}。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "TriedToFriendSelf",
+      "index": 69,
+      "columns": {
+        "Text": [
+          {
+            "en": "You cannot add yourself as a friend.",
+            "zh": "无法将自己加入好友名单中。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AccountBanned",
+      "index": 70,
+      "columns": {
+        "Text": [
+          {
+            "en": "Your account has been banned by an administrator.",
+            "zh": "此账号已经被游戏管理者停权了。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AccountChildLocked",
+      "index": 71,
+      "columns": {
+        "Text": [
+          {
+            "en": "Your account has been locked by parents.",
+            "zh": "此账号已经被游戏管理者停权了。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LoginRateLimited",
+      "index": 72,
+      "columns": {
+        "Text": [
+          {
+            "en": "You have attempted to log in too often within a short time period. Try again later.",
+            "zh": "请勿短时间内连续尝试登录。请稍待后再尝试。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AccountLocked",
+      "index": 73,
+      "columns": {
+        "Text": [
+          {
+            "en": "Your account has been locked. Please contact support.",
+            "zh": "此账号已经被游戏管理者停权了。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "NotAccountOwner",
+      "index": 74,
+      "columns": {
+        "Text": [
+          {
+            "en": "Operation cannot be performed because this instance is not the owner of the account.",
+            "zh": "不能执行此项操作，因为你并非此账号的拥有者。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "TemporaryLockout",
+      "index": 75,
+      "columns": {
+        "Text": [
+          {
+            "en": "Your account has been temporarily locked while an administrator works with it.",
+            "zh": "此账号已经被游戏管理员暂时封锁了。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Kicked",
+      "index": 76,
+      "columns": {
+        "Text": [
+          {
+            "en": "You have been kicked from the server by an administrator.",
+            "zh": "游戏管理者员已暂时切断此账号与服务器的连接。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "StashTabDoesNotExist",
+      "index": 77,
+      "columns": {
+        "Text": [
+          {
+            "en": "The specified stash tab does not exist.",
+            "zh": "该仓库页面并不存在。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LeaguePasswordInvalid",
+      "index": 78,
+      "columns": {
+        "Text": [
+          {
+            "en": "The password is not correct for this league.",
+            "zh": "密码错误。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "InstanceRateLimited",
+      "index": 79,
+      "columns": {
+        "Text": [
+          {
+            "en": "You have been kicked for performing too many actions too fast.",
+            "zh": "由于在短时间内执行过多指令，因此被服务器暂时切断连接。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FriendsListFull",
+      "index": 80,
+      "columns": {
+        "Text": [
+          {
+            "en": "Your friends list has reached maximum size.",
+            "zh": "好友名单已经扩充到最大。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "NotOnFriendsList",
+      "index": 81,
+      "columns": {
+        "Text": [
+          {
+            "en": "This account is not on your friend list.",
+            "zh": "该账号不在好友名单中。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AlreadyOnFriendsList",
+      "index": 82,
+      "columns": {
+        "Text": [
+          {
+            "en": "This account is already on your friends list.",
+            "zh": "该账号已被你加入好友名单中。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LeagueUnavailableToNonBeta",
+      "index": 83,
+      "columns": {
+        "Text": [
+          {
+            "en": "This league is only available to Beta players.",
+            "zh": "该区只有测试玩家可以登录。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "InstanceDoesNotExist",
+      "index": 84,
+      "columns": {
+        "Text": [
+          {
+            "en": "The instance does not exist.",
+            "zh": "此分流并不存在。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Muted",
+      "index": 85,
+      "columns": {
+        "Text": [
+          {
+            "en": "You cannot do this action while muted.",
+            "zh": "在被禁言的情况下无法执行这项操作。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Ignored",
+      "index": 86,
+      "columns": {
+        "Text": [
+          {
+            "en": "You have been ignored by the target player.",
+            "zh": "你已经被该位玩家加入忽略名单。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PvPMatchDoesNotExist",
+      "index": 87,
+      "columns": {
+        "Text": [
+          {
+            "en": "This PvP match type does not exist.",
+            "zh": "此对战种类并不存在。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ItemDoesNotExist",
+      "index": 88,
+      "columns": {
+        "Text": [
+          {
+            "en": "The specified item does not exist.",
+            "zh": "该项道具并不存在。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "NeedNormalStashTab",
+      "index": 89,
+      "columns": {
+        "Text": [
+          {
+            "en": "You must have at least one normal stash tab to upgrade.",
+            "zh": "必须拥有最少一页普通仓库页来升级。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "NotEnoughCredit",
+      "index": 90,
+      "columns": {
+        "Text": [
+          {
+            "en": "You don't have enough credit to purchase this item.",
+            "zh": "没有足够的点数购买此道具。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PackagePurchaseIncomplete",
+      "index": 91,
+      "columns": {
+        "Text": [
+          {
+            "en": "Your purchase did not complete successfully. Please contact support.",
+            "zh": "购买并未成功，请与客服中心联络。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MultiplePurchasesNotAllowed",
+      "index": 92,
+      "columns": {
+        "Text": [
+          {
+            "en": "You may only purchase this microtransaction once.",
+            "zh": "只能购买此项商品一次。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CantDeleteWithMicrotransactions",
+      "index": 93,
+      "columns": {
+        "Text": [
+          {
+            "en": "Please remove all cosmetic effects from items on this character first. You can do this in the Microtransaction stash.",
+            "zh": "请先移除这只角色身上物品的所有特效。可以在商城置物箱进行此项动作。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "NotEnoughRoomForItem",
+      "index": 94,
+      "columns": {
+        "Text": [
+          {
+            "en": "Not enough room for item.",
+            "zh": "物品空间不足。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SavedCredentialsNewLocation",
+      "index": 95,
+      "columns": {
+        "Text": [
+          {
+            "en": "You are logging in from a new location. Please re-enter your password.",
+            "zh": "从一个新的地点登录游戏，请重新输入密码。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SavedCredentialsBad",
+      "index": 96,
+      "columns": {
+        "Text": [
+          {
+            "en": "Your saved credentials are out of date. Please re-enter your password.",
+            "zh": "储存的凭据已经过期，请重新输入密码。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LoginRequiresUnlockCode",
+      "index": 97,
+      "columns": {
+        "Text": [
+          {
+            "en": "Your account has been locked until you can provide an unlock code from your email.",
+            "zh": "此账号已被锁定，请至信箱确认解锁邮件中的解锁码并在此输入。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "UnlockCodeIncorrect",
+      "index": 98,
+      "columns": {
+        "Text": [
+          {
+            "en": "The unlock code you have provided is incorrect.",
+            "zh": "你所提供的解锁码是错误的。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "UnlockEmailTooSoon",
+      "index": 99,
+      "columns": {
+        "Text": [
+          {
+            "en": "It has been too soon since the last account unlock email was sent.",
+            "zh": "距离上一封账号解锁邮件发出的时间太近了。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DailyDealDoesNotExist",
+      "index": 100,
+      "columns": {
+        "Text": [
+          {
+            "en": "Deal does not exist.",
+            "zh": "此交易并不存在。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MicrotransactionDoesNotExist",
+      "index": 101,
+      "columns": {
+        "Text": [
+          {
+            "en": "Microtransaction does not exist.",
+            "zh": "此商城物品并不存在。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AccountNameDisallowed",
+      "index": 102,
+      "columns": {
+        "Text": [
+          {
+            "en": "Account name disallowed.",
+            "zh": "该账号名称不被允许。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BannedLoginIp",
+      "index": 103,
+      "columns": {
+        "Text": [
+          {
+            "en": "Your IP has been banned. Please contact support if you think this is a mistake.",
+            "zh": "此 IP 已被封锁。有任何疑问请与运营团队联系。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GeneralFailure",
+      "index": 104,
+      "columns": {
+        "Text": [
+          {
+            "en": "An unexpected problem has occurred.",
+            "zh": "发生了无法预期的问题。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CurrencyTradingPrevented",
+      "index": 105,
+      "columns": {
+        "Text": [
+          {
+            "en": "You cannot trade currency or unique items to other players until you have reached level 25 on at least one character on your account.",
+            "zh": "无法与他人交易通货和传奇装备，除非账号内拥有超过 25 等级的角色。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SteamAssociateEmailSent",
+      "index": 106,
+      "columns": {
+        "Text": [
+          {
+            "en": "An email has been sent to confirm that you own this account. Please click the link in your email to continue.",
+            "zh": "已发送一封确认邮件，用以验证您拥有此账户。请点击邮件中的链接继续。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EmailAlreadyInUse",
+      "index": 107,
+      "columns": {
+        "Text": [
+          {
+            "en": "This email address already has a Path of Exile account associated with it.",
+            "zh": "该电子邮箱地址已经关联了《流放之路》账户。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AccountAlreadyHasEmail",
+      "index": 108,
+      "columns": {
+        "Text": [
+          {
+            "en": "This account already has an email address associated with it.",
+            "zh": "该账户已经关联了电子邮箱地址。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "NoAssociatedEmail",
+      "index": 109,
+      "columns": {
+        "Text": [
+          {
+            "en": "This account does not have an email address associated with it.",
+            "zh": "该账户还没有关联电子邮箱地址。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SteamIdAlreadyInUse",
+      "index": 110,
+      "columns": {
+        "Text": [
+          {
+            "en": "This Steam account already has a Path of Exile account associated with it.",
+            "zh": "该 Steam 账号已跟其他游戏账号绑定。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AccountAlreadyHasSteam",
+      "index": 111,
+      "columns": {
+        "Text": [
+          {
+            "en": "This account already has a Steam account associated with it.",
+            "zh": "此账号已与 Steam 账号连接。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "NoAssociatedSteamId",
+      "index": 112,
+      "columns": {
+        "Text": [
+          {
+            "en": "This account does not have a Steam account associated with it.",
+            "zh": "此账号尚未与任何 Steam 账号连接。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EpicIdAlreadyInUse",
+      "index": 113,
+      "columns": {
+        "Text": [
+          {
+            "en": "This Epic account already has a Path of Exile account associated with it.",
+            "zh": "该 Epic 账户已经关联了《流放之路》账户。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AccountAlreadyHasEpic",
+      "index": 114,
+      "columns": {
+        "Text": [
+          {
+            "en": "This account already has an Epic account associated with it.",
+            "zh": "该账户已经关联了 Epic 账户。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "NoAssociatedEpicId",
+      "index": 115,
+      "columns": {
+        "Text": [
+          {
+            "en": "This account does not have an Epic account associated with it.",
+            "zh": "该账户还没有关联 Epic 账户。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "KakaoIdAlreadyInUse",
+      "index": 116,
+      "columns": {
+        "Text": [
+          {
+            "en": "This Kakao account already has a Path of Exile account associated with it.",
+            "zh": "该 Kakao 账户已经关联了《流放之路》账户。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AccountAlreadyHasKakao",
+      "index": 117,
+      "columns": {
+        "Text": [
+          {
+            "en": "This account already has a Kakao account associated with it.",
+            "zh": "该账户已经关联了 Kakao 账户。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "NoAssociatedKakaoId",
+      "index": 118,
+      "columns": {
+        "Text": [
+          {
+            "en": "This account does not have a Kakao account associated with it.",
+            "zh": "该账户还没有关联 Kakao 账户。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SonyIdAlreadyInUse",
+      "index": 119,
+      "columns": {
+        "Text": [
+          {
+            "en": "This Sony account already has a Path of Exile account associated with it.",
+            "zh": "该 Sony 账户已经关联了《流放之路》账户。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AccountAlreadyHasSony",
+      "index": 120,
+      "columns": {
+        "Text": [
+          {
+            "en": "This account already has a Sony account associated with it.",
+            "zh": "该账户已经关联了 Sony 账户。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "NoAssociatedSonyId",
+      "index": 121,
+      "columns": {
+        "Text": [
+          {
+            "en": "This account does not have a Sony account associated with it.",
+            "zh": "该账户还没有关联 Sony 账户。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "XboxIdAlreadyInUse",
+      "index": 122,
+      "columns": {
+        "Text": [
+          {
+            "en": "This Xbox account already has a Path of Exile account associated with it.",
+            "zh": "该 Xbox 账户已经关联了《流放之路》账户。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AccountAlreadyHasXbox",
+      "index": 123,
+      "columns": {
+        "Text": [
+          {
+            "en": "This account already has an Xbox account associated with it.",
+            "zh": "该账户已经关联了 Xbox 账户。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "NoAssociatedXboxId",
+      "index": 124,
+      "columns": {
+        "Text": [
+          {
+            "en": "This account does not have an Xbox account associated with it.",
+            "zh": "该账户还没有关联 Xbox 账户。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "QqNumberAlreadyInUse",
+      "index": 125,
+      "columns": {
+        "Text": [
+          {
+            "en": "This WeGame account already has a Path of Exile account associated with it.",
+            "zh": "该 WeGame 账户已经关联了《流放之路》账户。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AccountAlreadyHasQq",
+      "index": 126,
+      "columns": {
+        "Text": [
+          {
+            "en": "This account already has a WeGame account associated with it.",
+            "zh": "该账户已经关联了 WeGame 账户。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "NoAssociatedQqNumber",
+      "index": 127,
+      "columns": {
+        "Text": [
+          {
+            "en": "This account does not have a WeGame account associated with it.",
+            "zh": "该账户还没有关联 WeGame 账户。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MapDeviceBusy",
+      "index": 128,
+      "columns": {
+        "Text": [
+          {
+            "en": "Activation failed. The device is busy.",
+            "zh": "启动失败，装置忙碌中。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MapDeviceTooManyItems",
+      "index": 129,
+      "columns": {
+        "Text": [
+          {
+            "en": "Activation failed.",
+            "zh": "启动失败。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MapDeviceTooManyItemsSound",
+      "index": 130,
+      "columns": {
+        "Text": [
+          {
+            "en": "Activation failed. You hear a sound in the distance.",
+            "zh": "启动失败，你听到远方传来一阵声响。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MapDeviceNotMap",
+      "index": 131,
+      "columns": {
+        "Text": [
+          {
+            "en": "Activation failed. There is no map in the map device.",
+            "zh": "启动失败，装置里没有任何地图。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MapDeviceCreateInstanceFailed",
+      "index": 132,
+      "columns": {
+        "Text": [
+          {
+            "en": "Activation failed. Unable to open portals to area.",
+            "zh": "启动失败，无法开启地图传送门。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MapDeviceCancelled",
+      "index": 133,
+      "columns": {
+        "Text": [
+          {
+            "en": "Activation cancelled.",
+            "zh": "启动已被取消。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MapDeviceEmpty",
+      "index": 134,
+      "columns": {
+        "Text": [
+          {
+            "en": "Activation failed. The device requires a map.",
+            "zh": "启动失败，装置里需要一张地图。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PlayerDisconnected",
+      "index": 135,
+      "columns": {
+        "Text": [
+          {
+            "en": "{0} has left the area.",
+            "zh": "{0} 离开了此区域。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PlayerJoined",
+      "index": 136,
+      "columns": {
+        "Text": [
+          {
+            "en": "{0} has joined the area.",
+            "zh": "{0} 进入了此区域。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EnteredArea",
+      "index": 137,
+      "columns": {
+        "Text": [
+          {
+            "en": "You have entered {0}.",
+            "zh": "你已进入： {0}。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LeagueNotYetStarted",
+      "index": 138,
+      "columns": {
+        "Text": [
+          {
+            "en": "The league has not yet started and so you cannot move. Once the league has started, you will be able to move.",
+            "zh": "比赛尚未开始，因此目前无法移动。比赛开始之后即可自由行动。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LeagueAlreadyEnded",
+      "index": 139,
+      "columns": {
+        "Text": [
+          {
+            "en": "This league has already ended.",
+            "zh": "该区已经关闭。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LadderRankAlive",
+      "index": 140,
+      "columns": {
+        "Text": [
+          {
+            "en": "{1}. {0} Level {2} {3} Exp: {4}",
+            "zh": "{1}。名称： {0}，等级： {2}，职业： {3}，经验： {4}"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LadderRankDead",
+      "index": 141,
+      "columns": {
+        "Text": [
+          {
+            "en": "{1}. {0} (Dead) Level {2} {3} Exp: {4}",
+            "zh": "{1}。名称： {0}（已死亡），等级： {2}，职业： {3}，经验： {4}"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LadderRankTimed",
+      "index": 142,
+      "columns": {
+        "Text": [
+          {
+            "en": "{1}. {0} Level {2} {3} Time: {4}",
+            "zh": "{1} 。{0} 等级 {2} {3} 时间： {4}"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LevelUp",
+      "index": 143,
+      "columns": {
+        "Text": [
+          {
+            "en": "{0} ({1}) is now level {2}",
+            "zh": "{0}（{1}）目前等级： {2}"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AlreadyInPVPQueue",
+      "index": 144,
+      "columns": {
+        "Text": [
+          {
+            "en": "You must cancel your PvP queue first.",
+            "zh": "必须先取消对战排队队列。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MissingRequiredQuestState",
+      "index": 145,
+      "columns": {
+        "Text": [
+          {
+            "en": "You do not have the required quest state.",
+            "zh": "你尚未接受或完成必要的任务。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FailedToJoinAnyInstances",
+      "index": 146,
+      "columns": {
+        "Text": [
+          {
+            "en": "Error: Failed to join any instances.",
+            "zh": "错误： 无法进入。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FailedToJoinInstance",
+      "index": 147,
+      "columns": {
+        "Text": [
+          {
+            "en": "Error: Failed to join instance because: {0}",
+            "zh": "错误： 无法进入，原因： {0}。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FailedToConnectToInstance",
+      "index": 148,
+      "columns": {
+        "Text": [
+          {
+            "en": "Failed to connect to instance",
+            "zh": "连接副本服务器失败"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FailedToApplyCurrency",
+      "index": 149,
+      "columns": {
+        "Text": [
+          {
+            "en": "Failed to apply item: {0}",
+            "zh": "使用物品失败： {0}"
+          }
+        ]
+      }
+    },
+    {
+      "id": "TooManyGlobalItemLinks",
+      "index": 150,
+      "columns": {
+        "Text": [
+          {
+            "en": "You may not send more than {0} items in global chat.",
+            "zh": "无法在世界聊天频道内一次张贴超过{0}项道具的连接。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MutedUntilSeconds",
+      "index": 151,
+      "columns": {
+        "Text": [
+          {
+            "en": "Your account has been muted by a GM. You will be able to talk again in {0}.",
+            "zh": "此账号已被禁言，需在 {0} 之后才能再次发话。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MutedUntilSecondsConsole",
+      "index": 152,
+      "columns": {
+        "Text": [
+          {
+            "en": "Your account has been muted by a GM. You will be able to talk again in {0}. If you would like to discuss this, please send a PM to \"Support\" via the website.",
+            "zh": "您的账户已被 GM 禁言。您可以在 {0} 恢复权限。如您需要申诉，请在《流放之路》网站上给客服支持部门发送工单。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ObaPlayerJoined",
+      "index": 153,
+      "columns": {
+        "Text": [
+          {
+            "en": "You must be brave or stupid to think you might loot my treasure and live. Either way, I applaud you!",
+            "zh": "我真不知道你是勇敢还是愚蠢，居然以为能活着带走我的宝贝。怎么说呢，我看好你哟！"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ObaDoorUnlocked",
+      "index": 154,
+      "columns": {
+        "Text": [
+          {
+            "en": "Proceed, exile, and seize what you can, while you can.",
+            "zh": "加油啊，流放者，想拿就多拿点，趁你还拿得动。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ObaBeginDeathCount",
+      "index": 155,
+      "columns": {
+        "Text": [
+          {
+            "en": "The corruption is growing. Hurry now, before it consumes you as it did me.",
+            "zh": "腐坏在变强。快点，别让它把你也吞掉，落得我一样的下场。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ObaKillPlayer",
+      "index": 157,
+      "columns": {
+        "Text": [
+          {
+            "en": "Bah! You are unworthy to bear my legacy. Feed the corruption with your corpse. ",
+            "zh": "呸！你不配拿走我的遗产。用你的尸体去喂腐坏吧。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Oba75PercentOxygen",
+      "index": 158,
+      "columns": {
+        "Text": [
+          {
+            "en": "The Nightmare has your scent. Now it hungers for your flesh.",
+            "zh": "梦魇闻到了你的气味。它现在就想把你吃掉。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Oba50PercentOxygen",
+      "index": 159,
+      "columns": {
+        "Text": [
+          {
+            "en": "Is your cup half empty or half full, exile?",
+            "zh": "你现在进退两难了吧，流放者？"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Oba25PercentOxygen",
+      "index": 160,
+      "columns": {
+        "Text": [
+          {
+            "en": "Disappointing. It seems corruption will get the better of you after all. ",
+            "zh": "真扫兴啊。看来你最后还是会输给腐坏。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CowardsTrialNextWave",
+      "index": 161,
+      "columns": {
+        "Text": [
+          {
+            "en": "The darkness looms forebodingly...",
+            "zh": "在黑暗中隐约出现了奇怪的影子..."
+          }
+        ]
+      }
+    },
+    {
+      "id": "CowardsTrialRoomClear",
+      "index": 162,
+      "columns": {
+        "Text": [
+          {
+            "en": "The room grows still and quiet...",
+            "zh": "整个房间回复了寂静..."
+          }
+        ]
+      }
+    },
+    {
+      "id": "CowardsTrialLevelClear",
+      "index": 163,
+      "columns": {
+        "Text": [
+          {
+            "en": "The oppressive atmosphere slowly dissipates...",
+            "zh": "狂虐的气息慢慢消散..."
+          }
+        ]
+      }
+    },
+    {
+      "id": "VaalKillOversoul",
+      "index": 164,
+      "columns": {
+        "Text": [
+          {
+            "en": "You need to kill the Vaal Oversoul.",
+            "zh": "你必须先击败瓦尔超灵。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "VaalDeliverAmulets",
+      "index": 165,
+      "columns": {
+        "Text": [
+          {
+            "en": "You need to give the bandit amulets to Eramir and acquire the Apex.",
+            "zh": "你必须要将盗贼首领们的护身符交给艾米尔来获得顶尖之锥。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "VaalAcquireAmulets",
+      "index": 166,
+      "columns": {
+        "Text": [
+          {
+            "en": "You need to acquire the amulets of the bandit lords.",
+            "zh": "你必须要取回盗贼首领们的护身符。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "VaalGetApexDex",
+      "index": 167,
+      "columns": {
+        "Text": [
+          {
+            "en": "You need to take the Apex from Kraityn.",
+            "zh": "你必须从克雷顿那取得顶尖之锥。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "VaalGetApexStr",
+      "index": 168,
+      "columns": {
+        "Text": [
+          {
+            "en": "You need to take the Apex from Oak.",
+            "zh": "你必须从欧克那取得顶尖之锥。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "VaalGetApexInt",
+      "index": 169,
+      "columns": {
+        "Text": [
+          {
+            "en": "You need to take the Apex from Alira.",
+            "zh": "你必须从阿莉亚那取得顶尖之锥。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "VaalGetApexTown",
+      "index": 170,
+      "columns": {
+        "Text": [
+          {
+            "en": "You need to take the Apex from Eramir.",
+            "zh": "你必须从艾米尔那取得顶尖之锥。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MonsterRemaining1",
+      "index": 171,
+      "columns": {
+        "Text": [
+          {
+            "en": "1 monster remains.",
+            "zh": "剩余 1 只怪物。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MonstersRemainingN",
+      "index": 172,
+      "columns": {
+        "Text": [
+          {
+            "en": "{0} monsters remain.",
+            "zh": "剩余 {0} 只怪物。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MonstersRemainingMoreThan50",
+      "index": 173,
+      "columns": {
+        "Text": [
+          {
+            "en": "More than 50 monsters remain.",
+            "zh": "剩余超过 50 只怪物。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PlayerDeathCount1",
+      "index": 174,
+      "columns": {
+        "Text": [
+          {
+            "en": "You have died 1 time.",
+            "zh": "你一共死了 1 次。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PlayerDeathCountN",
+      "index": 175,
+      "columns": {
+        "Text": [
+          {
+            "en": "You have died {0} times.",
+            "zh": "你一共死了 {0} 次。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PlayerKillCountN",
+      "index": 176,
+      "columns": {
+        "Text": [
+          {
+            "en": "You have killed {0} monsters.",
+            "zh": "你一共消灭了 {0} 只怪物。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PvPStats1v1",
+      "index": 177,
+      "columns": {
+        "Text": [
+          {
+            "en": "1v1 W/L/D: {0}/{1}/{2}",
+            "zh": "1v1 胜 / 败 / 和： {0} / {1} / {2}"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PvPStats3v3",
+      "index": 178,
+      "columns": {
+        "Text": [
+          {
+            "en": "3v3 W/L/D: {0}/{1}/{2}",
+            "zh": "3v3 胜 / 败 / 和： {0} / {1} / {2}"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PvPPlayerJoinedTeam",
+      "index": 179,
+      "columns": {
+        "Text": [
+          {
+            "en": "{0} has joined the {1} team.",
+            "zh": "{0} 加入了 {1} 队。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PvPNotEnoughPlayers",
+      "index": 180,
+      "columns": {
+        "Text": [
+          {
+            "en": "Match failed to start. Not enough players joined.",
+            "zh": "比赛无法开始，因为加入的玩家数量不足。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PvPPlayerKilled",
+      "index": 181,
+      "columns": {
+        "Text": [
+          {
+            "en": "{0} has been killed by {1}.",
+            "zh": "{1} 击败了 {0}。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PvPPartyTooLarge",
+      "index": 182,
+      "columns": {
+        "Text": [
+          {
+            "en": "Unable to join PvP: too many party members for this PvP type.",
+            "zh": "队伍人数过多，因此无法加入此种对战类别。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PvPPlayerAlreadyInQueue",
+      "index": 183,
+      "columns": {
+        "Text": [
+          {
+            "en": "Unable to join PvP: You are already queued for PvP.",
+            "zh": "无法加入： 你已经在一个队列中。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PvPPartyMemberAlreadyInQueue",
+      "index": 184,
+      "columns": {
+        "Text": [
+          {
+            "en": "Unable to join PvP: A party member is already queued for PvP.",
+            "zh": "无法加入： 你的队伍成员已经在一个队列中。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PvPPlayerTooFarQuest",
+      "index": 185,
+      "columns": {
+        "Text": [
+          {
+            "en": "Unable to join PvP: You have progressed beyond the quest limit for this PvP type.",
+            "zh": "无法加入： 你已经超过了此对战类别的难度限制。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PvPPartyMemberTooFarQuest",
+      "index": 186,
+      "columns": {
+        "Text": [
+          {
+            "en": "Unable to join PvP: A party member has progressed beyond the quest limit for this PvP type.",
+            "zh": "无法加入： 你的队伍成员已经超过了此对战类别的难度限制。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PvPPlayerTooHighLevel",
+      "index": 187,
+      "columns": {
+        "Text": [
+          {
+            "en": "Unable to join PvP: You are above the level cap for this PvP type.",
+            "zh": "无法加入： 你已经超过了此对战类别的等级上限。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PvPPartyMemberTooHighLevel",
+      "index": 188,
+      "columns": {
+        "Text": [
+          {
+            "en": "Unable to join PvP: A party member is above the level cap for this PvP type.",
+            "zh": "无法加入： 你的队伍成员已经超过了此对战类别的等级上限。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PvPPlayerHasAscendancy",
+      "index": 189,
+      "columns": {
+        "Text": [
+          {
+            "en": "Unable to join PvP: You have chosen an Ascendancy class, which is not allowed for this PvP type.",
+            "zh": "无法加入： 你已经选择了升华职业。此对战类别不允许。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PvPPartyMemberHasAscendancy",
+      "index": 190,
+      "columns": {
+        "Text": [
+          {
+            "en": "Unable to join PvP: A party member has chosen an Ascendancy class, which is not allowed for this PvP type.",
+            "zh": "无法加入： 你的队伍成员已经选择了升华职业。此对战类别不允许。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PvPJoinFail",
+      "index": 191,
+      "columns": {
+        "Text": [
+          {
+            "en": "Unable to join PvP queue because: {0}",
+            "zh": "无法加入对战队列，原因： {0}。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PvPQueueCancelled",
+      "index": 192,
+      "columns": {
+        "Text": [
+          {
+            "en": "PvP Queue cancelled.",
+            "zh": "对战队列取消。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PvPQueueCancelledBy",
+      "index": 193,
+      "columns": {
+        "Text": [
+          {
+            "en": "PvP Queue cancelled by {0}.",
+            "zh": "对战队列已被 {0} 取消。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PvPMatchListUnreachable",
+      "index": 194,
+      "columns": {
+        "Text": [
+          {
+            "en": "Unable to get PvP match list because: {0}",
+            "zh": "无法取得对战名单，原因： {0}。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PvPDisabled",
+      "index": 195,
+      "columns": {
+        "Text": [
+          {
+            "en": "PvP is disabled here.",
+            "zh": "此处禁止 PvP 对战。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PlayerSuicide",
+      "index": 196,
+      "columns": {
+        "Text": [
+          {
+            "en": "{0} has committed suicide.",
+            "zh": "{0} 自己陨落了。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PlayerSlain",
+      "index": 197,
+      "columns": {
+        "Text": [
+          {
+            "en": "{0} has been slain.",
+            "zh": "{0} 被击败了。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "NoCharacterSpecified",
+      "index": 198,
+      "columns": {
+        "Text": [
+          {
+            "en": "Please specify a character name.",
+            "zh": "请输入一个玩家名称。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "WhoIsOffline",
+      "index": 199,
+      "columns": {
+        "Text": [
+          {
+            "en": "{0} is a level {2} {3} in the {1} league who is not currently online.",
+            "zh": "名称： {0}，职业： {3}，等级： {2}，区： {1}，状态： 不在线。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "WhoIsOnline",
+      "index": 200,
+      "columns": {
+        "Text": [
+          {
+            "en": "{0} is a level {2} {3} in the {1} league and is currently playing in {4}.",
+            "zh": "名称： {0}，职业： {3}，等级： {2}，区： {1}，状态： {4}。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ItemOnCursorLevel",
+      "index": 201,
+      "columns": {
+        "Text": [
+          {
+            "en": "Item on cursor is level {0}.",
+            "zh": "光标上的道具物品等级为： {0}。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "NoItemOnCursor",
+      "index": 202,
+      "columns": {
+        "Text": [
+          {
+            "en": "There is no item on the cursor.",
+            "zh": "光标上没有道具。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ItemOnCursorHasNoLevel",
+      "index": 203,
+      "columns": {
+        "Text": [
+          {
+            "en": "Item on cursor doesn't have a level (it needs to be one that can get mods).",
+            "zh": "光标上的道具没有物品等级（物品需要有等级才能获得属性）。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FixMyHelmetSuccess",
+      "index": 204,
+      "columns": {
+        "Text": [
+          {
+            "en": "Helmet updated.",
+            "zh": "头盔模块升级完毕。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "OperationFailed",
+      "index": 205,
+      "columns": {
+        "Text": [
+          {
+            "en": "Operation failed.",
+            "zh": "操作失败。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FixMyHelmetAlreadyFixed",
+      "index": 206,
+      "columns": {
+        "Text": [
+          {
+            "en": "That helmet already has the correct visual identity.",
+            "zh": "此头盔目前已是正确的模块。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FixMyHelmetUnique",
+      "index": 207,
+      "columns": {
+        "Text": [
+          {
+            "en": "The helmet on the cursor is Unique.",
+            "zh": "在光标上的头盔是传奇物品。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FixMyHelmetNotHelmet",
+      "index": 208,
+      "columns": {
+        "Text": [
+          {
+            "en": "The item on the cursor is not a helmet.",
+            "zh": "在光标上的道具并非头盔。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ItemHasMicrotransaction",
+      "index": 209,
+      "columns": {
+        "Text": [
+          {
+            "en": "You cannot do this to an item with a microtransaction effect. Please remove the microtransaction effect and try again.",
+            "zh": "无法对有商城特效的物品做此动作，请在移除特效之后再试一次。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BugReportNumber",
+      "index": 210,
+      "columns": {
+        "Text": [
+          {
+            "en": "Your bug report reference number is {0}.",
+            "zh": "你的 bug 回报编号是 {0}。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PlayedTime",
+      "index": 211,
+      "columns": {
+        "Text": [
+          {
+            "en": "You have played for {0}.",
+            "zh": "你一共玩了 {0}。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CharacterAge",
+      "index": 212,
+      "columns": {
+        "Text": [
+          {
+            "en": "Your character was created {0} ago.",
+            "zh": "你的角色于 {0} 前所创建。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CharacterAgeUnknown",
+      "index": 213,
+      "columns": {
+        "Text": [
+          {
+            "en": "Your character has no record of creation time.",
+            "zh": "无法找到角色的创建日期纪录。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HelpCtrlClick",
+      "index": 214,
+      "columns": {
+        "Text": [
+          {
+            "en": "Ctrl-click an area transition or waypoint to create a new area instance",
+            "zh": "按住Ctrl，然后再点选区域入口或传送点，即可创建新的区域副本。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ReceivedRespecPoint1",
+      "index": 215,
+      "columns": {
+        "Text": [
+          {
+            "en": "You have received a Passive Respec Point.",
+            "zh": "你得到了 1 点天赋重置点数。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ReceivedRespecPointN",
+      "index": 216,
+      "columns": {
+        "Text": [
+          {
+            "en": "You have received {0} Passive Respec Points.",
+            "zh": "你得到了 {0} 点天赋重置点数。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ReceivedPassivePoint1",
+      "index": 217,
+      "columns": {
+        "Text": [
+          {
+            "en": "You have received a Passive Skill Point.",
+            "zh": "你得到了 1 点天赋点数。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ReceivedPassivePointN",
+      "index": 218,
+      "columns": {
+        "Text": [
+          {
+            "en": "You have received {0} Passive Skill Points.",
+            "zh": "你得到了 {0} 点天赋点数。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ReceivedStatBonus",
+      "index": 219,
+      "columns": {
+        "Text": [
+          {
+            "en": "You have received {0}.",
+            "zh": "你得到了 {0}。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LeagueTradeDisabled",
+      "index": 220,
+      "columns": {
+        "Text": [
+          {
+            "en": "You cannot trade in this League.",
+            "zh": "在【禁止组队】模式下无法进行交易。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "TradeItemOnCursor",
+      "index": 221,
+      "columns": {
+        "Text": [
+          {
+            "en": "You cannot trade with an item on the cursor.",
+            "zh": "当光标选取了一件装备时无法进行交易。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "TradePlayerBusy",
+      "index": 222,
+      "columns": {
+        "Text": [
+          {
+            "en": "That player is currently busy.",
+            "zh": "该玩家忙碌中。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "TradeAccepted",
+      "index": 223,
+      "columns": {
+        "Text": [
+          {
+            "en": "Trade accepted.",
+            "zh": "完成交易。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "TradeCancelled",
+      "index": 224,
+      "columns": {
+        "Text": [
+          {
+            "en": "Trade cancelled.",
+            "zh": "取消交易。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "YouWereIgnored",
+      "index": 225,
+      "columns": {
+        "Text": [
+          {
+            "en": "That player has ignored you.",
+            "zh": "该玩家已将你加入黑名单。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AchievementServerUnreachable",
+      "index": 226,
+      "columns": {
+        "Text": [
+          {
+            "en": "Error: Unable to connect to achievement server.",
+            "zh": "错误： 无法连接到成就服务器。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DestroyCursorItem",
+      "index": 227,
+      "columns": {
+        "Text": [
+          {
+            "en": "Item on cursor destroyed.",
+            "zh": "鼠标所选取的物品已摧毁。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DestroyItemInTrade",
+      "index": 228,
+      "columns": {
+        "Text": [
+          {
+            "en": "You cannot destroy items in trade.",
+            "zh": "无法在交易时摧毁物品。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DestroyQuestItem",
+      "index": 229,
+      "columns": {
+        "Text": [
+          {
+            "en": "You cannot destroy quest items.",
+            "zh": "无法删除任务物品。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DestroyMicrotransactions",
+      "index": 230,
+      "columns": {
+        "Text": [
+          {
+            "en": "You cannot destroy items with microtransaction effects on them.",
+            "zh": "无法摧毁带有商城特效的物品。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DestroyBanditRespec",
+      "index": 231,
+      "columns": {
+        "Text": [
+          {
+            "en": "This item cannot be destroyed, but you can sell it to an NPC for a refund.",
+            "zh": "该物品无法摧毁，但你可以退还给 NPC。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CannotCreatePublicPartyYet",
+      "index": 232,
+      "columns": {
+        "Text": [
+          {
+            "en": "You must reach the first town before you can create public parties.",
+            "zh": "必须先到达第一个城镇才能成立公开队伍。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PublicPartyListUnreachable",
+      "index": 233,
+      "columns": {
+        "Text": [
+          {
+            "en": "Unable to get public party list because: {0}",
+            "zh": "无法取得公开队伍名单： 原因 {0} 。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FullPassiveSkillRefund",
+      "index": 234,
+      "columns": {
+        "Text": [
+          {
+            "en": "Your passive skills have been refunded.",
+            "zh": "你的天赋点数已被全部重置。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FullAtlasPassiveSkillRefund",
+      "index": 235,
+      "columns": {
+        "Text": [
+          {
+            "en": "Your Atlas passive skills have been refunded.",
+            "zh": "您的异界天赋已重置"
+          }
+        ]
+      }
+    },
+    {
+      "id": "TeleportFailed",
+      "index": 236,
+      "columns": {
+        "Text": [
+          {
+            "en": "Teleport failed: could not place player at destination.",
+            "zh": "传送失败： 玩家无法进入该区域。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "TutorialShowItems",
+      "index": 237,
+      "columns": {
+        "Text": [
+          {
+            "en": "Hold Alt to show items on the ground.",
+            "zh": "按住 Alt 以显示地上的物品。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FinishedDescent",
+      "index": 238,
+      "columns": {
+        "Text": [
+          {
+            "en": "Congratulations, you have conquered Descent!",
+            "zh": "恭喜你，你已经完成挑战！ "
+          }
+        ]
+      }
+    },
+    {
+      "id": "JoinedGlobalChannel",
+      "index": 239,
+      "columns": {
+        "Text": [
+          {
+            "en": "You have joined global chat channel {1} {0}.",
+            "zh": "当前聊天频道： 分流 {1} {0} 。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "JoinedTradeChannel",
+      "index": 240,
+      "columns": {
+        "Text": [
+          {
+            "en": "You have joined trade chat channel {1} {0}.",
+            "zh": "当前交易频道： 分流 {1} {0} 。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ShopPackageDoesNotExist",
+      "index": 241,
+      "columns": {
+        "Text": [
+          {
+            "en": "Shop package does not exist.",
+            "zh": "组合包不存在。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ShopPackagePurchaseFailed",
+      "index": 242,
+      "columns": {
+        "Text": [
+          {
+            "en": "Failed to purchase package.",
+            "zh": "购买组合包失败。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ShopPackageTransactionDoesNotExist",
+      "index": 243,
+      "columns": {
+        "Text": [
+          {
+            "en": "Shop transaction does not exist.",
+            "zh": "此交易不存在。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DownForMaintenanceTemp",
+      "index": 244,
+      "columns": {
+        "Text": [
+          {
+            "en": "The server you were on was brought down for maintenance. Please log in again.",
+            "zh": "目前所在的服务器正关闭维修中，请重新登录。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GuildNameTooLong",
+      "index": 245,
+      "columns": {
+        "Text": [
+          {
+            "en": "The guild name is too long.",
+            "zh": "公会名称过长。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GuildTagTooLong",
+      "index": 246,
+      "columns": {
+        "Text": [
+          {
+            "en": "The guild tag is too long.",
+            "zh": "公会标签过长。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AccountAlreadyInGuild",
+      "index": 247,
+      "columns": {
+        "Text": [
+          {
+            "en": "This account is already in a guild.",
+            "zh": "该账号已经加入公会或已经提交了申请。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GuildDoesNotExist",
+      "index": 248,
+      "columns": {
+        "Text": [
+          {
+            "en": "The specified guild was not found.",
+            "zh": "该公会不存在。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GuildMustBeOfficer",
+      "index": 249,
+      "columns": {
+        "Text": [
+          {
+            "en": "You must be a guild officer or leader to perform this action.",
+            "zh": "必须是公会元老才能使用此功能。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "NotInGuild",
+      "index": 250,
+      "columns": {
+        "Text": [
+          {
+            "en": "Account is not a member of this guild.",
+            "zh": "此账号并非公会成员。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GuildFull",
+      "index": 251,
+      "columns": {
+        "Text": [
+          {
+            "en": "The guild is full and can not have any more members added.",
+            "zh": "公会成员数量已达上限。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GuildMustBeLeader",
+      "index": 252,
+      "columns": {
+        "Text": [
+          {
+            "en": "You must be the guild leader to perform this action.",
+            "zh": "只有公会会长才能执行此操作。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DisallowedOnSelf",
+      "index": 253,
+      "columns": {
+        "Text": [
+          {
+            "en": "You can't do this to yourself.",
+            "zh": "无法对自己这么做。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "TooManyGuildInvites",
+      "index": 254,
+      "columns": {
+        "Text": [
+          {
+            "en": "This character is already invited to too many guilds.",
+            "zh": "这个角色已经收到太多公会邀请。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GuildStatusMessageTooLong",
+      "index": 255,
+      "columns": {
+        "Text": [
+          {
+            "en": "This guild status message is too long.",
+            "zh": "公会状态消息过长。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "NotEnoughPointsForTransaction",
+      "index": 256,
+      "columns": {
+        "Text": [
+          {
+            "en": "You don't have enough points to complete this transaction.",
+            "zh": "点数不足。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GuildMustBeMember",
+      "index": 257,
+      "columns": {
+        "Text": [
+          {
+            "en": "You must be a guild member to perform this action.",
+            "zh": "只有公会成员才能执行此操作。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "RemoteStashAlreadyLocked",
+      "index": 258,
+      "columns": {
+        "Text": [
+          {
+            "en": "The remote stash is already locked. Try again soon.",
+            "zh": "这个远程仓库页已经被锁定，请稍后在试。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "RemoteStashOperationRequiresLock",
+      "index": 259,
+      "columns": {
+        "Text": [
+          {
+            "en": "The remote stash requires a lock before this operation can be performed",
+            "zh": "执行远程仓库存取前必须先进行锁定。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BadGuildStashPermissions",
+      "index": 260,
+      "columns": {
+        "Text": [
+          {
+            "en": "You don't have permission to perform this action on this guild stash.",
+            "zh": "无法对这个公会仓库页进行此项操作。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MaximumGuildSlots",
+      "index": 261,
+      "columns": {
+        "Text": [
+          {
+            "en": "You are not allowed to have any more guild slots.",
+            "zh": "公会成员数已达上限。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GuildTagTooShort",
+      "index": 262,
+      "columns": {
+        "Text": [
+          {
+            "en": "Guild tag must be a minimum of 3 characters.",
+            "zh": "公会名称必须包含至少 3 个字符。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GuildKickDisabledForAccount",
+      "index": 263,
+      "columns": {
+        "Text": [
+          {
+            "en": "You can not kick this account from the guild because they have gifted microtransaction credit too recently.",
+            "zh": "无法将此账号移出公会，因为该账号最近有捐献公会点数。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FriendNoteTooLong",
+      "index": 264,
+      "columns": {
+        "Text": [
+          {
+            "en": "This friend note is too long.",
+            "zh": "这个好友注记过长。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "TooHighLevelForCap",
+      "index": 265,
+      "columns": {
+        "Text": [
+          {
+            "en": "This area has a level cap of {0}.",
+            "zh": "这个地区有等级上限： {0} 。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PlayerWins",
+      "index": 266,
+      "columns": {
+        "Text": [
+          {
+            "en": "{0} wins!",
+            "zh": "{0} 胜利！ "
+          }
+        ]
+      }
+    },
+    {
+      "id": "TooLowLevelToSendWhisper",
+      "index": 267,
+      "columns": {
+        "Text": [
+          {
+            "en": "You can't send whispers until you are level {0}",
+            "zh": "得要达到等级 {0} 之后才能传送密语。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "TooLowLevelToSendChat",
+      "index": 268,
+      "columns": {
+        "Text": [
+          {
+            "en": "You can't talk in {0} chat until you are level {1}",
+            "zh": "得要达到等级 {1} 之后才能在 {0} 频道发言。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ReachedRegularChatLimit",
+      "index": 269,
+      "columns": {
+        "Text": [
+          {
+            "en": "Please wait before sending another chat message.",
+            "zh": "请稍等一下再发送新的聊天信息。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ReachedTradeChatLimit",
+      "index": 270,
+      "columns": {
+        "Text": [
+          {
+            "en": "Please wait before sending another message in trade chat.",
+            "zh": "请稍等一下再在交易频道发送信息。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PortalEffectChanged",
+      "index": 271,
+      "columns": {
+        "Text": [
+          {
+            "en": "Your character will now use the {0}.",
+            "zh": "你已经使用了 {0}。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PortraitFrameChanged",
+      "index": 272,
+      "columns": {
+        "Text": [
+          {
+            "en": "Your character will now use the {0}. You must log out and in again for the change to take effect.",
+            "zh": "你已经使用了 {0}。必须先注销再重新登录以使此特效生效。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CharacterPortraitChanged",
+      "index": 273,
+      "columns": {
+        "Text": [
+          {
+            "en": "Your character will now use the {0}. You must log out and in again for the change to take effect.",
+            "zh": "你已经使用了 {0}。必须先注销再重新登录以使此特效生效。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "NoHideout",
+      "index": 274,
+      "columns": {
+        "Text": [
+          {
+            "en": "This player has no Hideout in this league.",
+            "zh": "此玩家在该赛季并未拥有藏身处。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FailedToUseItem",
+      "index": 275,
+      "columns": {
+        "Text": [
+          {
+            "en": "Failed to use item: {0}",
+            "zh": "使用物品失败： {0}"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ObaCompleted",
+      "index": 276,
+      "columns": {
+        "Text": [
+          {
+            "en": "Haha! You are a mighty adventurer indeed. Use what I have given you and spread my legacy throughout all of Wraeclast.",
+            "zh": "哈哈！ 你果然有一颗冒险家的心。带上我赠予你的财富，将其散播到瓦尔克拉斯的每一个角落吧！ "
+          }
+        ]
+      }
+    },
+    {
+      "id": "ArenaScoreTitle",
+      "index": 277,
+      "columns": {
+        "Text": [
+          {
+            "en": "Current rankings: (Kills/Deaths)",
+            "zh": "目前排名： （击败/死亡）"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ArenaScore",
+      "index": 278,
+      "columns": {
+        "Text": [
+          {
+            "en": "{1}: {0} ({2}/{3})",
+            "zh": "{1}： {0} （{2}/{3}）"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LostPassivePoint1",
+      "index": 279,
+      "columns": {
+        "Text": [
+          {
+            "en": "You have lost a Passive Skill Point.",
+            "zh": "你已失去 1 个天赋点数。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LostPassivePointN",
+      "index": 280,
+      "columns": {
+        "Text": [
+          {
+            "en": "You have lost {0} Passive Skill Points.",
+            "zh": "你已失去 {0} 个天赋点数。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LostStatBonus",
+      "index": 281,
+      "columns": {
+        "Text": [
+          {
+            "en": "You have lost {0}.",
+            "zh": "你已失去 {0}。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FFALadderUpdate",
+      "index": 282,
+      "columns": {
+        "Text": [
+          {
+            "en": "You are now #{0} in the arena.",
+            "zh": "你目前在竞技场中排名第 {0} 。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CraftingFailed",
+      "index": 283,
+      "columns": {
+        "Text": [
+          {
+            "en": "Crafting failed: {0}",
+            "zh": "赋予失败： {0}"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SpectatorJoined",
+      "index": 284,
+      "columns": {
+        "Text": [
+          {
+            "en": "{0} is now spectating.",
+            "zh": "{0} 正在观战中。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LeagueStartingSoonGlobal",
+      "index": 285,
+      "columns": {
+        "Text": [
+          {
+            "en": "The next race event starts in {1}. To enter, go to the character selection screen and click Join on the \"{0}\" league. Information about this event is available in the Events/Leagues forum.",
+            "zh": "下一场竞赛将在 {1} 后开始。欲参与者，请回到角色选择画面并点选【参加】。相关详细信息请前往论坛确认。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LeagueStartingSoonLocal",
+      "index": 286,
+      "columns": {
+        "Text": [
+          {
+            "en": "The league is starting in {0}.",
+            "zh": "竞赛将于 {0} 后开始。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LeagueStartingNow",
+      "index": 287,
+      "columns": {
+        "Text": [
+          {
+            "en": "The league has now started!",
+            "zh": "竞赛已开始！ "
+          }
+        ]
+      }
+    },
+    {
+      "id": "LeagueEndingMinutes",
+      "index": 288,
+      "columns": {
+        "Text": [
+          {
+            "en": "The league is ending in {0}.",
+            "zh": "竞赛将于 {0} 后结束。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LeagueFinished",
+      "index": 289,
+      "columns": {
+        "Text": [
+          {
+            "en": "The league has finished!",
+            "zh": "竞赛已结束！ "
+          }
+        ]
+      }
+    },
+    {
+      "id": "LeagueFirstToReachLevel",
+      "index": 290,
+      "columns": {
+        "Text": [
+          {
+            "en": "{0} is the first character to reach level {1}!",
+            "zh": "{0} 成为第一个达到等级 {1} 的流放者！ "
+          }
+        ]
+      }
+    },
+    {
+      "id": "LeagueFirstToEnterArea",
+      "index": 291,
+      "columns": {
+        "Text": [
+          {
+            "en": "{0} is the first character to enter {1}!",
+            "zh": "{0} 成为第一个进入 {1} 的流放者！ "
+          }
+        ]
+      }
+    },
+    {
+      "id": "LeagueFirstToEnterDelveLevelSolo",
+      "index": 292,
+      "columns": {
+        "Text": [
+          {
+            "en": "{0} is the first character to solo delve to depth {1}!",
+            "zh": "{0} 第一个独自达到地心探索等级 {1}！"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LeagueFirstToEnterDelveLevelParty",
+      "index": 293,
+      "columns": {
+        "Text": [
+          {
+            "en": "{0} is the first character to delve to depth {1}!",
+            "zh": "{0} 第一个达到地心探索等级 {1}！"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LeagueFirstToFullyClear",
+      "index": 294,
+      "columns": {
+        "Text": [
+          {
+            "en": "{0} is the first character to fully clear {1}!",
+            "zh": "{0} 成为第一个清光 {1} 的流放者！ "
+          }
+        ]
+      }
+    },
+    {
+      "id": "LeagueFirstToDoQuest",
+      "index": 295,
+      "columns": {
+        "Text": [
+          {
+            "en": "{0} is the first character to {1}!",
+            "zh": "{0} 成为第一个 {1} 的流放者！ "
+          }
+        ]
+      }
+    },
+    {
+      "id": "RealmRestartingSoon",
+      "index": 296,
+      "columns": {
+        "Text": [
+          {
+            "en": "The realm is restarting in {0}.",
+            "zh": "服务器将于 {0} 后关闭维护。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "RealmShuttingDownSown",
+      "index": 297,
+      "columns": {
+        "Text": [
+          {
+            "en": "The realm is shutting down in {0}.",
+            "zh": "服务器将于 {0} 后关闭维护。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "RealmRestarting",
+      "index": 298,
+      "columns": {
+        "Text": [
+          {
+            "en": "Beginning realm restart...",
+            "zh": "开始服务器重启..."
+          }
+        ]
+      }
+    },
+    {
+      "id": "RealmShuttingDown",
+      "index": 299,
+      "columns": {
+        "Text": [
+          {
+            "en": "Beginning realm shutdown...",
+            "zh": "开始服务器关闭..."
+          }
+        ]
+      }
+    },
+    {
+      "id": "RealmRestartDeployPatchNotification",
+      "index": 300,
+      "columns": {
+        "Text": [
+          {
+            "en": "We are restarting the realm to deploy the {0} update. Its patch notes are in the Patch Notes forum. Downtime will be approximately {2}. {1}",
+            "zh": "我们将重启服务器进行 {0} 更新。详细更新说明请在论坛上查阅。关闭时间大约在 {2}.{1}"
+          }
+        ]
+      }
+    },
+    {
+      "id": "RealmMaintenanceNotification",
+      "index": 301,
+      "columns": {
+        "Text": [
+          {
+            "en": "We are shutting the realm down for maintenance. Downtime will be approximately {1}. {0}",
+            "zh": "我们即将关闭服务器进行维护。关闭时间大约在 {2}.{1} "
+          }
+        ]
+      }
+    },
+    {
+      "id": "CharacterOffline",
+      "index": 302,
+      "columns": {
+        "Text": [
+          {
+            "en": "That character is not online.",
+            "zh": "该角色不在线。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CharacterNameOffline",
+      "index": 303,
+      "columns": {
+        "Text": [
+          {
+            "en": "{0} is not online.",
+            "zh": "{0} 没有在线。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CharacterDifferentLeague",
+      "index": 304,
+      "columns": {
+        "Text": [
+          {
+            "en": "That character is in a different league.",
+            "zh": "该角色位于其他赛季区。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "NotMutualFriends",
+      "index": 305,
+      "columns": {
+        "Text": [
+          {
+            "en": "That account has not accepted you as a friend.",
+            "zh": "此账号尚未接受你的交友邀请。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CharacterNotInPvP",
+      "index": 306,
+      "columns": {
+        "Text": [
+          {
+            "en": "That character is not currently engaged in PvP.",
+            "zh": "此角色并非在与玩家对战中。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SpectateFollow",
+      "index": 307,
+      "columns": {
+        "Text": [
+          {
+            "en": "You are now queued to spectate that account.",
+            "zh": "你进入了观战此账号的队列。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HideoutDoodadLimitReached",
+      "index": 308,
+      "columns": {
+        "Text": [
+          {
+            "en": "Cannot place another Hideout object. You are limited to 750 objects in your Hideout at one time.",
+            "zh": "无法再放置更多藏身处装饰物。目前藏身处最多只能放置 750 个装饰物。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HardcoreDeathAnnouncement",
+      "index": 309,
+      "columns": {
+        "Text": [
+          {
+            "en": "{0} (Level {1}) has died at position {2} on the ladder.",
+            "zh": "{0} (等级 {1}) 在天梯排名第 {2} 名死亡。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "InteractErrorIncaBossSpawner",
+      "index": 310,
+      "columns": {
+        "Text": [
+          {
+            "en": "It seems to require a triangular key.",
+            "zh": "似乎需要一个三角形的钥匙。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "InteractErrorMalachaiPortal",
+      "index": 311,
+      "columns": {
+        "Text": [
+          {
+            "en": "You have not killed Malachai, or were not in the area when he was killed.",
+            "zh": "你尚未击败玛拉凯，或是玛拉凯死亡时你不在区域中。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "InteractErrorMervielExit",
+      "index": 312,
+      "columns": {
+        "Text": [
+          {
+            "en": "You have not killed Merveil, or were not in the area when she was killed.",
+            "zh": "你尚未击败莫薇儿，或是玛拉凯死亡时你不在区域中。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "InteractErrorHillockGate",
+      "index": 313,
+      "columns": {
+        "Text": [
+          {
+            "en": "You must kill Hillock first.",
+            "zh": "你必须先击败西拉克。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "InteractErrorTowerTransition",
+      "index": 314,
+      "columns": {
+        "Text": [
+          {
+            "en": "You have not killed Dominus, or were not in the area when he was killed.",
+            "zh": "你尚未击败神主，或是玛拉凯死亡时你不在区域中。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "InteractErrorMineEntranceSeal",
+      "index": 315,
+      "columns": {
+        "Text": [
+          {
+            "en": "The entrance to the Mines is blocked by Deshret's Seal.",
+            "zh": "前往矿坑的入口已被迪虚瑞特封印阻挡。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "InteractErrorLockedDoor",
+      "index": 316,
+      "columns": {
+        "Text": [
+          {
+            "en": "The door is locked.",
+            "zh": "此门已上锁。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "InteractErrorTowerKey",
+      "index": 317,
+      "columns": {
+        "Text": [
+          {
+            "en": "The Tower Key has not been used to unlock the door.",
+            "zh": "尚未使用钥匙开启此门。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "InteractErrorPoisonTree",
+      "index": 318,
+      "columns": {
+        "Text": [
+          {
+            "en": "Tree roots block your path.\r\nPerhaps they can be opened\r\nat a later time.",
+            "zh": "树根挡住了你的去路。或许有什么方法可以搞定这些碍事的树根。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "InteractErrorUndyingBlockage",
+      "index": 319,
+      "columns": {
+        "Text": [
+          {
+            "en": "The way is blocked.",
+            "zh": "道路被堵住了。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "InteractErrorLocked",
+      "index": 320,
+      "columns": {
+        "Text": [
+          {
+            "en": "It's locked.",
+            "zh": "上着锁。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "InteractErrorBlockageTransition",
+      "index": 321,
+      "columns": {
+        "Text": [
+          {
+            "en": "The way is blocked.",
+            "zh": "道路被堵住了。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "InteractErrorSpikeBlockage",
+      "index": 322,
+      "columns": {
+        "Text": [
+          {
+            "en": "It seems to require some kind of key.",
+            "zh": "看起来需要某种钥匙。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "InteractErrorGlyphWall",
+      "index": 323,
+      "columns": {
+        "Text": [
+          {
+            "en": "This wall seems to require three strangely shaped objects.",
+            "zh": "这片墙上有着三个奇形怪状的凹洞。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "InteractErrorWaterCave",
+      "index": 324,
+      "columns": {
+        "Text": [
+          {
+            "en": "You must find a way to lower the water first.",
+            "zh": "你必须先想办法让水位降低。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "InteractErrorNotYourCraftingTable",
+      "index": 325,
+      "columns": {
+        "Text": [
+          {
+            "en": "You cannot use other people's crafting benches.",
+            "zh": "你无法使用他人的工艺器具"
+          }
+        ]
+      }
+    },
+    {
+      "id": "InteractErrorNotYourMapDevice",
+      "index": 326,
+      "columns": {
+        "Text": [
+          {
+            "en": "You cannot use other people's map devices.",
+            "zh": "你无法使用其他人的地图装置。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "InteractErrorCoreTransition",
+      "index": 327,
+      "columns": {
+        "Text": [
+          {
+            "en": "You must kill all three of Malachai's guardians to access the Black Core.",
+            "zh": "还有玛拉凯的守卫活着，你无法进入育灵之室。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "InteractErrorCoreTransitionOrgans",
+      "index": 328,
+      "columns": {
+        "Text": [
+          {
+            "en": "You must kill all three of Malachai's guardians and deliver the organs to Piety to access the Black Core.",
+            "zh": "你必须击败三个玛拉凯的守卫，并把三把钥匙交给派蒂开启进入育灵之室的通道."
+          }
+        ]
+      }
+    },
+    {
+      "id": "InteractErrorPietyGateTransition",
+      "index": 329,
+      "columns": {
+        "Text": [
+          {
+            "en": "You must deal with Piety first.",
+            "zh": "你必须先对付派蒂。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "InteractErrorVinktarSquareGateLocked",
+      "index": 330,
+      "columns": {
+        "Text": [
+          {
+            "en": "The gate is surging with the power of the Guardians.",
+            "zh": "大门不断地拥出守护者的力量。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "NotAllowedInPlayersHideout",
+      "index": 331,
+      "columns": {
+        "Text": [
+          {
+            "en": "You cannot currently access this player's area.",
+            "zh": "你目前无法进入这位玩家的藏身处。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CantChangeToHideoutFromHere",
+      "index": 332,
+      "columns": {
+        "Text": [
+          {
+            "en": "You can't go to this area from here.",
+            "zh": "你无法从此处前往一个藏身处。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "StrMissionStartPointRocks",
+      "index": 333,
+      "columns": {
+        "Text": [
+          {
+            "en": "The entrance has collapsed",
+            "zh": "入口已经倒塌。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LoginTokenExpired",
+      "index": 334,
+      "columns": {
+        "Text": [
+          {
+            "en": "Your credentials have expired. Please restart the game.",
+            "zh": "您的身份验证已经过期，请重新登录游戏。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "IgnoredPvP",
+      "index": 335,
+      "columns": {
+        "Text": [
+          {
+            "en": "You have been ignored.",
+            "zh": "你已经被忽略。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LocalChatDisabledWhileSpectating",
+      "index": 336,
+      "columns": {
+        "Text": [
+          {
+            "en": "Local chat is disabled while spectating PvP.",
+            "zh": "观战时无法使用区域频道。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AbandonDailyNotInHideout",
+      "index": 337,
+      "columns": {
+        "Text": [
+          {
+            "en": "You can only use this command inside your Hideout.",
+            "zh": "你只能在你的藏身处使用这项指令。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "NoDailyActive",
+      "index": 338,
+      "columns": {
+        "Text": [
+          {
+            "en": "You don't have a daily mission open.",
+            "zh": "你并没有在进行任何每日任务。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GrandmasterSaved",
+      "index": 339,
+      "columns": {
+        "Text": [
+          {
+            "en": "Grandmaster file has been saved. Grinding Gear Games staff will be notified.",
+            "zh": "你的资料已经被保存。此份资料将会转交给相关开发人员。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LeagueFinishTimeRaceCompleted",
+      "index": 340,
+      "columns": {
+        "Text": [
+          {
+            "en": "You completed the objective of this race. Check the ladder thread to see your ranking.",
+            "zh": "你已经完成此竞赛的目标。请至官网上确认你的排名。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LeagueFinishTimeRaceLogin",
+      "index": 341,
+      "columns": {
+        "Text": [
+          {
+            "en": "You've already completed this race's objective with this character.",
+            "zh": "你已经使用这个角色完成这个竞赛中的目标。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CharacterNotFriendOrGuildmate",
+      "index": 342,
+      "columns": {
+        "Text": [
+          {
+            "en": "That account is not a mutual friend or guildmate.",
+            "zh": "此账号并非共同朋友或是公会成员。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MapDeviceDisabled",
+      "index": 343,
+      "columns": {
+        "Text": [
+          {
+            "en": "The Map Device is disabled in this league.",
+            "zh": "该区中的地图装置已经失效。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PVPTeamDoesNotExist",
+      "index": 344,
+      "columns": {
+        "Text": [
+          {
+            "en": "This PvP team is not registered for this event",
+            "zh": "这个 PVP 队伍并无申请此项对战。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ForwardedToMasterShard",
+      "index": 345,
+      "columns": {
+        "Text": [
+          {
+            "en": "This request was forwarded to the master database. This request should be dropped with no response.",
+            "zh": "此请求已送往主数据库。此请求将无任何回应。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PVPTournamentFinished",
+      "index": 346,
+      "columns": {
+        "Text": [
+          {
+            "en": "The tournament is complete.",
+            "zh": "对战竞赛已经完成。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ErrorNotInHideout",
+      "index": 347,
+      "columns": {
+        "Text": [
+          {
+            "en": "You must be in your Hideout to do this.",
+            "zh": "你必须在你的藏身处进行此操作。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ErrorHideoutSuperceded",
+      "index": 348,
+      "columns": {
+        "Text": [
+          {
+            "en": "Hideout modifications are currently disabled. Please create a new Hideout instance and try again.",
+            "zh": "当前无法使用藏身处装饰物。请创建新的藏身处副本再尝试。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ErrorCannotModifyGuildHideout",
+      "index": 349,
+      "columns": {
+        "Text": [
+          {
+            "en": "You do not have permission to modify the Guild Hideout.",
+            "zh": "您没有修改公会藏身处的许可。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ClaimCraftingBenchSuccess",
+      "index": 350,
+      "columns": {
+        "Text": [
+          {
+            "en": "Adding crafting bench to Hideout stash.",
+            "zh": "取回一项工艺器具到置物箱中。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CharacterIsPVPOnly",
+      "index": 351,
+      "columns": {
+        "Text": [
+          {
+            "en": "PvP-only characters may not do this.",
+            "zh": "PvP 专用角色无法进行此操作。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "StoppedSpectateFollow",
+      "index": 352,
+      "columns": {
+        "Text": [
+          {
+            "en": "You are no longer queued to spectate.",
+            "zh": "你已退出了观战的队列。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CannotTradeItemLockedToCharacter",
+      "index": 353,
+      "columns": {
+        "Text": [
+          {
+            "en": "Item cannot be traded or modified.",
+            "zh": "此物品无法被交易或改变属性。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CannotTradeItemLockedToAccount",
+      "index": 354,
+      "columns": {
+        "Text": [
+          {
+            "en": "Item cannot be traded.",
+            "zh": "该物品已绑定，无法被交易。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PvPRelocatingArena",
+      "index": 355,
+      "columns": {
+        "Text": [
+          {
+            "en": "You are being moved to another PvP arena to rebalance player numbers.",
+            "zh": "你已经被移动到另外一个 PvP 竞技场以平衡参与者人数。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MapCraftingFailedCost",
+      "index": 356,
+      "columns": {
+        "Text": [
+          {
+            "en": "You don't have enough currency.",
+            "zh": "你没有足够的通货。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MapCraftingFailedTrade",
+      "index": 357,
+      "columns": {
+        "Text": [
+          {
+            "en": "Failed to open map. Cannot consume items while trade window is open.",
+            "zh": "开启地图失败。交易窗口开启时无法消耗物品。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PvPMustHaveFullParty",
+      "index": 358,
+      "columns": {
+        "Text": [
+          {
+            "en": "Your party isn't large enough to play in this PvP match.",
+            "zh": "你的队伍人数不足以参加此 PvP 对战"
+          }
+        ]
+      }
+    },
+    {
+      "id": "WithdrawnFromPVPTournament",
+      "index": 359,
+      "columns": {
+        "Text": [
+          {
+            "en": "You have withdrawn from this PvP tournament.",
+            "zh": "你已撤销了本次 PvP 竞赛"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SpectatingDisabled",
+      "index": 360,
+      "columns": {
+        "Text": [
+          {
+            "en": "Spectating is disabled for this match.",
+            "zh": "此对战不开放观战"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ChestLocked",
+      "index": 361,
+      "columns": {
+        "Text": [
+          {
+            "en": "This chest is locked.",
+            "zh": "这个箱子被锁住了。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HideoutPortalLocked",
+      "index": 362,
+      "columns": {
+        "Text": [
+          {
+            "en": "Map Portals have been locked.",
+            "zh": "异界之门已被锁定。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PVPCTFOwnFlag",
+      "index": 363,
+      "columns": {
+        "Text": [
+          {
+            "en": "Bring another team's flag back here to gain a point.",
+            "zh": "带着另外一队的旗帜回到此处以获得点数。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SpiderChestLocked",
+      "index": 364,
+      "columns": {
+        "Text": [
+          {
+            "en": "You hear skittering nearby...",
+            "zh": "你听到轻微的脚步声急速接近…"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AFKModeEnabled",
+      "index": 365,
+      "columns": {
+        "Text": [
+          {
+            "en": "AFK mode is now ON. Autoreply \"{0}\"",
+            "zh": "暂离模式启动。将自动回复 \"{0}\""
+          }
+        ]
+      }
+    },
+    {
+      "id": "AFKModeDisabled",
+      "index": 366,
+      "columns": {
+        "Text": [
+          {
+            "en": "AFK mode is now OFF.",
+            "zh": "暂离模式关闭。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DNDModeEnabled",
+      "index": 367,
+      "columns": {
+        "Text": [
+          {
+            "en": "DND mode is now ON. Autoreply \"{0}\"",
+            "zh": "勿扰模式启动。将自动回复 \"{0}\""
+          }
+        ]
+      }
+    },
+    {
+      "id": "DNDModeDisabled",
+      "index": 368,
+      "columns": {
+        "Text": [
+          {
+            "en": "DND mode is now OFF.",
+            "zh": "勿扰模式关闭。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AutoReplyEnabled",
+      "index": 369,
+      "columns": {
+        "Text": [
+          {
+            "en": "Autoreply set \"{0}\"",
+            "zh": "将自动回复 \"{0}\""
+          }
+        ]
+      }
+    },
+    {
+      "id": "IncaApexDoorLocked",
+      "index": 370,
+      "columns": {
+        "Text": [
+          {
+            "en": "This door cannot be opened at this time.",
+            "zh": "现在无法开启此门。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CharacterNameExistsButCanExpire",
+      "index": 371,
+      "columns": {
+        "Text": [
+          {
+            "en": "Creating this character would expire the character name of another character.",
+            "zh": "创建此角色将会使另一位过期角色的名称失效。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CharacterIsNotExpired",
+      "index": 372,
+      "columns": {
+        "Text": [
+          {
+            "en": "This character's name is not expired.",
+            "zh": "此角色名称尚未失效。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CharacterIsExpired",
+      "index": 373,
+      "columns": {
+        "Text": [
+          {
+            "en": "This character's name has been taken by another player due to inactivity on this account. It must be renamed.",
+            "zh": "此角色名称已失效，请重新命名。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "OrphanedInstance",
+      "index": 374,
+      "columns": {
+        "Text": [
+          {
+            "en": "Game server lost contact with the realm.",
+            "zh": "服务器已经与此分流断线。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ErrorLabyrinthLocked",
+      "index": 375,
+      "columns": {
+        "Text": [
+          {
+            "en": "This Labyrinth has already been opened, so it can no longer be joined. Visit a new Aspirants' Plaza to start a new Labyrinth.",
+            "zh": "此迷宫已被开启，无法再次进入。请前往一个新的试炼者广场来开启全新的迷宫。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ErrorZanaMissionLocked",
+      "index": 376,
+      "columns": {
+        "Text": [
+          {
+            "en": "You have already visited this unstable area before, and cannot access it again.",
+            "zh": "你已经进入过了这个不稳定区域，不能再次进入。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "InteractErrorDoorRequiresGoldenKey",
+      "index": 377,
+      "columns": {
+        "Text": [
+          {
+            "en": "This door is locked. You need a Golden Key to open it.",
+            "zh": "门被锁住了。你需要一把黄金钥匙来打开它。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "InteractErrorDoorRequiresSilverKey",
+      "index": 378,
+      "columns": {
+        "Text": [
+          {
+            "en": "This door is locked. You need a Silver Key to open it.",
+            "zh": "门被锁住了。你需要一把白银钥匙来打开它。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "InteractErrorDoorRequiresBronzeKey",
+      "index": 379,
+      "columns": {
+        "Text": [
+          {
+            "en": "This door is locked. You need a Bronze Key to open it.",
+            "zh": "门被锁住了。你需要一把青铜钥匙来打开它。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "TooManyCharacterSlots",
+      "index": 380,
+      "columns": {
+        "Text": [
+          {
+            "en": "You can not have more than 255 character slots on a single account.",
+            "zh": "你无法拥有超过 255 个角色"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ErrorCannotWhisperIgnored",
+      "index": 382,
+      "columns": {
+        "Text": [
+          {
+            "en": "You cannot whisper people on your ignore list.",
+            "zh": "你无法密语你忽略的玩家。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AccountIsOnline",
+      "index": 383,
+      "columns": {
+        "Text": [
+          {
+            "en": "This account is currently online.",
+            "zh": "此账号当前在线。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "IzaroChestLocked",
+      "index": 384,
+      "columns": {
+        "Text": [
+          {
+            "en": "This chest is locked. A Treasure Key is required to open it.",
+            "zh": "这个保险箱上锁了。你需要一个宝藏钥匙。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ProfanityCheckFailed",
+      "index": 385,
+      "columns": {
+        "Text": [
+          {
+            "en": "The text you entered contains profanity.",
+            "zh": "你输入的内容不可用，请重新输入。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ErrorCannotChangeAscendancyClass",
+      "index": 386,
+      "columns": {
+        "Text": [
+          {
+            "en": "You may not change your Ascendancy class in this League.",
+            "zh": "你在该区中无法改变升华职业。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "TencentAasLoginDenied",
+      "index": 387,
+      "columns": {
+        "Text": [
+          {
+            "en": "You are a minor and can't login.",
+            "zh": "您未满十八周岁，当前无法登录游戏"
+          }
+        ]
+      }
+    },
+    {
+      "id": "TencentAasNotification",
+      "index": 388,
+      "columns": {
+        "Text": [
+          {
+            "en": "You've been playing for {0} hours, please consider taking a rest.",
+            "zh": "您的账号已处于防沉迷状态，无法登陆游戏."
+          }
+        ]
+      }
+    },
+    {
+      "id": "TencentAasAlarm",
+      "index": 389,
+      "columns": {
+        "Text": [
+          {
+            "en": "You have played for more than three hours and are a minor. You can't login until you have had a five hour rest.",
+            "zh": "您的累积游戏时间已达到3小时，您必须休息5小时之后才能继续游戏。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LeagueDisallowsCharacterDeletion",
+      "index": 390,
+      "columns": {
+        "Text": [
+          {
+            "en": "This league doesn't allow character deletion at the moment.",
+            "zh": "您暂时无法在该区删除这个角色，请稍后再试."
+          }
+        ]
+      }
+    },
+    {
+      "id": "ErrorCannotAccessMapLabyrinth",
+      "index": 391,
+      "columns": {
+        "Text": [
+          {
+            "en": "You have not yet completed the Map Labyrinth Trials.",
+            "zh": "你尚未完成异界地图中的试炼迷宫。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ErrorCannotSealProphecy",
+      "index": 392,
+      "columns": {
+        "Text": [
+          {
+            "en": "Failed to seal Prophecy.",
+            "zh": "预言封印失败。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "InviteErrorAlreadyInParty",
+      "index": 393,
+      "columns": {
+        "Text": [
+          {
+            "en": "Party invite failed. That character is already in a party.",
+            "zh": "组队邀请失败，该玩家已经处于组队状态."
+          }
+        ]
+      }
+    },
+    {
+      "id": "TencentCannotAccessMapDevice",
+      "index": 394,
+      "columns": {
+        "Text": [
+          {
+            "en": "Complete The Lord's Labyrinth to gain access to the Map Device. Travel to the Sarn Encampment and click on the Ascendancy Plaque to find out more about the Labyrinth. Finish the Trials of Ascendancy and defeat Emperor Izaro in his Labyrinth to gain access to endgame maps.",
+            "zh": "你必须先完成任意难度下的帝王试炼迷宫后，才能使用地图装置。前往萨恩营地，点击营地中央的女神雕像可以获得关于帝王试炼迷宫的更多信息."
+          }
+        ]
+      }
+    },
+    {
+      "id": "DailyPortalBlocked",
+      "index": 395,
+      "columns": {
+        "Text": [
+          {
+            "en": "Cannot open daily mission: Portal location is blocked. Use Edit Mode to move the master to a new location and try again.",
+            "zh": "该通道无法到达，日常任务无法开启。请使用屏幕右下方【编辑】将大师移动到新的位置并重新尝试"
+          }
+        ]
+      }
+    },
+    {
+      "id": "OfferDoesNotExist",
+      "index": 396,
+      "columns": {
+        "Text": [
+          {
+            "en": "The offer no longer exists.",
+            "zh": "该竞标已经过期。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "OfferInWrongState",
+      "index": 397,
+      "columns": {
+        "Text": [
+          {
+            "en": "The offer is in an invalid state for this action.",
+            "zh": "在本次操作中，该竞标正处于非法状态。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "OfferContainsUntradeableItems",
+      "index": 398,
+      "columns": {
+        "Text": [
+          {
+            "en": "The offer can not be submitted because it contains untradeable items.",
+            "zh": "该竞标包含无法交易的物品，无法被提交。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "NoOffersOnYourOwnItems",
+      "index": 399,
+      "columns": {
+        "Text": [
+          {
+            "en": "You can not make an offer on this item because you already own it.",
+            "zh": "你已经拥有了该物品，无法自己的物品竞标。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PublicListingLockedDueToLevel",
+      "index": 400,
+      "columns": {
+        "Text": [
+          {
+            "en": "You cannot publicly list items for sale until you have had at least one character at level 25 on your account.",
+            "zh": "当账户内任意角色达到25级时才能解锁市集的出售功能。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "OffersLockedDueToLevel",
+      "index": 401,
+      "columns": {
+        "Text": [
+          {
+            "en": "You cannot make offers on items until you have had at least one character at level 25 on your account.",
+            "zh": "当账户内任意角色达到25级时才能解锁市集的竞标功能。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AccountNoLongerHasItem",
+      "index": 402,
+      "columns": {
+        "Text": [
+          {
+            "en": "The player no longer has the listed item.",
+            "zh": "你的角色已不再拥有此物品。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "TooManyBuyerOffers",
+      "index": 403,
+      "columns": {
+        "Text": [
+          {
+            "en": "You can only have 10 active offers at a time, please resolve active offers to create new ones.",
+            "zh": "你一次最多只能同时拥有 10 个活跃竞标，请先处理掉现有竞标，然后再创建新竞标。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "TooManySellerOffers",
+      "index": 404,
+      "columns": {
+        "Text": [
+          {
+            "en": "The seller has too many offers on thier items. Try again later.",
+            "zh": "卖家收到了过多的竞标。请稍后再次尝试。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AlreadyHaveOfferOnItem",
+      "index": 405,
+      "columns": {
+        "Text": [
+          {
+            "en": "You already have an offer in progress for this item.",
+            "zh": "你对该物品已经存在了一个有效竞标"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SentOfferTooRecently",
+      "index": 406,
+      "columns": {
+        "Text": [
+          {
+            "en": "You have submitted an offer to this account too recently.",
+            "zh": "你对该账户发送竞标的频率过高"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EventErrorLevelTooLow",
+      "index": 407,
+      "columns": {
+        "Text": [
+          {
+            "en": "You must be at least level {0} to enter this event.",
+            "zh": "必须达到 {0} 级才能参加该活动"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EnteredPathOfEnduranceLevel",
+      "index": 408,
+      "columns": {
+        "Text": [
+          {
+            "en": "You have reached Level {0}",
+            "zh": "你已进入求生之路 - 第 {0} 层"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EventEndsIn",
+      "index": 409,
+      "columns": {
+        "Text": [
+          {
+            "en": "This event ends in {0}",
+            "zh": "该活动将在 {0} 后结束"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GuildTagAlreadyExists",
+      "index": 410,
+      "columns": {
+        "Text": [
+          {
+            "en": "That guild tag is already in use.",
+            "zh": "该公会印记已被使用."
+          }
+        ]
+      }
+    },
+    {
+      "id": "GlobalChatOnCooldown",
+      "index": 411,
+      "columns": {
+        "Text": [
+          {
+            "en": "Please wait a few seconds before using Global Chat again.",
+            "zh": "请等待几秒再使用全体聊天。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "InteractErrorKaruiDoorLocked",
+      "index": 412,
+      "columns": {
+        "Text": [
+          {
+            "en": "The gate is locked, but it appears to be missing an eye...",
+            "zh": "大门锁住了，上面似乎缺了一只眼睛……"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LabyrinthErrorPartyTooBigTencent",
+      "index": 413,
+      "columns": {
+        "Text": [
+          {
+            "en": "You may only enter the Labyrinth with {0} or fewer players in your party.",
+            "zh": "组队人数等于或小于{0}人才可进入该帝王迷宫。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "InteractErrorNoSignOfPurity",
+      "index": 414,
+      "columns": {
+        "Text": [
+          {
+            "en": "You need the Sign of Purity to activate this.",
+            "zh": "你需要纯净之印才可启动此物。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "InteractErrorCannotAccessEndgame",
+      "index": 415,
+      "columns": {
+        "Text": [
+          {
+            "en": "You cannot access endgame content until you have completed the campaign.",
+            "zh": "你无法进入异界地图，必须先完成战役的内容。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CharacterNameContainsProfanity",
+      "index": 416,
+      "columns": {
+        "Text": [
+          {
+            "en": "This Character name is restricted.",
+            "zh": "该角色名称被禁止使用。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ConsoleDisconnectedBecauseActiveUserChanged",
+      "index": 417,
+      "columns": {
+        "Text": [
+          {
+            "en": "Disconnected because the active user signed out",
+            "zh": "当前用户已登出，连接断开"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ConsoleDisconnectedBecauseSuspending",
+      "index": 418,
+      "columns": {
+        "Text": [
+          {
+            "en": "Disconnected because the game was suspended",
+            "zh": "游戏已停止，连接断开"
+          }
+        ]
+      }
+    },
+    {
+      "id": "InteractErrorNeedSunMoonOrbs",
+      "index": 419,
+      "columns": {
+        "Text": [
+          {
+            "en": "You need the Sun and Moon Orbs to activate this.",
+            "zh": "你需要日耀法珠和月影法珠来激活此物。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "TheBeaconLever",
+      "index": 420,
+      "columns": {
+        "Text": [
+          {
+            "en": "The torch doesn't have enough fuel to ignite.",
+            "zh": "火炬没有足够的燃料点燃。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "OnlyOneAllowedInHideout",
+      "index": 421,
+      "columns": {
+        "Text": [
+          {
+            "en": "You can not place more than one of this type of item in your Hideout.",
+            "zh": "该类物品只能同时在你的藏身处中放置一个。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AccountLoggedInOnOtherRealm",
+      "index": 422,
+      "columns": {
+        "Text": [
+          {
+            "en": "You cannot be logged in on the beta and regular Path of Exile realms at the same time.",
+            "zh": "你无法同时登陆Beta服和正式服。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "KitavaArenaLocked",
+      "index": 423,
+      "columns": {
+        "Text": [
+          {
+            "en": "It is unsafe to portal to this area.",
+            "zh": "该区域非常危险，当前无法传送。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "InteractErrorBeaconMissingFlag",
+      "index": 424,
+      "columns": {
+        "Text": [
+          {
+            "en": "You need the Black Flag from the Cavern of Anger to use the Beacon.",
+            "zh": "你需要怨忿之窟深处的黑旗来开启灯塔。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "InteractErrorGreustShrine",
+      "index": 425,
+      "columns": {
+        "Text": [
+          {
+            "en": "An ancient Azmeri shrine. Maybe Helena knows something about it.",
+            "zh": "一个古老的阿兹莫里神殿。也许赫莲娜知道关于它的故事。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PantheonFailedToCreateSoulItem",
+      "index": 426,
+      "columns": {
+        "Text": [
+          {
+            "en": "The Captured Soul failed to generate in the Map Device.",
+            "zh": "已捕获的灵魂未能在地图装置中生成。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PantheonCannotConsumeVessel",
+      "index": 427,
+      "columns": {
+        "Text": [
+          {
+            "en": "Activation failed. The Boss in this map cannot have its Soul captured.",
+            "zh": "开启失败。该地图的BOSS灵魂无法被抓获。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PantheonCannotConsumeVesselAlreadyCaptured",
+      "index": 428,
+      "columns": {
+        "Text": [
+          {
+            "en": "Activation failed. You have already captured the Soul of this Map's Boss.",
+            "zh": "开启失败。你已经抓获了该地图的BOSS灵魂。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ExitToLoginFailed",
+      "index": 429,
+      "columns": {
+        "Text": [
+          {
+            "en": "Failed to connect to login server. Please login and try again.",
+            "zh": "连接到登陆服务器失败。请再次尝试。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MessageDoesNotExist",
+      "index": 430,
+      "columns": {
+        "Text": [
+          {
+            "en": "The specified message does not exist.",
+            "zh": "该信息不存在。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MessageTooLong",
+      "index": 431,
+      "columns": {
+        "Text": [
+          {
+            "en": "The message is too long.",
+            "zh": "该信息太长。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AreaErrorLevelTooLow",
+      "index": 432,
+      "columns": {
+        "Text": [
+          {
+            "en": "You must be at least Level {0} to access this area.",
+            "zh": "你必须达到 {0} 级才能进入该区域。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AreaErrorLevelTooLowGeneric",
+      "index": 433,
+      "columns": {
+        "Text": [
+          {
+            "en": "You have not reached a high enough Level to access this area.",
+            "zh": "你还没有达到足够的等级进入该区域。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "TradeMarketCloseOfferWithItems",
+      "index": 434,
+      "columns": {
+        "Text": [
+          {
+            "en": "You still have items present in the offer, remove these items to close the offer.",
+            "zh": "你的竞标中依然还有物品，请先移除物品然后关闭竞标。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "TradeMarketSendOfferWithNoItems",
+      "index": 435,
+      "columns": {
+        "Text": [
+          {
+            "en": "You cannot submit an offer without any currency items offered.",
+            "zh": "你无法提交不包含任何通货物品的竞标。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "XboxLoginErrorNoLiveAccess",
+      "index": 436,
+      "columns": {
+        "Text": [
+          {
+            "en": "Cannot log in because Xbox Live cannot be accessed.",
+            "zh": "无法连接到Xbox Live，无法登陆。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ConsoleLoginErrorNoInternetConnection",
+      "index": 437,
+      "columns": {
+        "Text": [
+          {
+            "en": "Cannot log in because there is no Internet connection.",
+            "zh": "没有网络连接，无法登录"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ErrorChatIsFull",
+      "index": 438,
+      "columns": {
+        "Text": [
+          {
+            "en": "Failed to join requested chat channel because it is full.",
+            "zh": "该聊天频道人数已满，无法加入。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LoginConnectionLimitReached",
+      "index": 439,
+      "columns": {
+        "Text": [
+          {
+            "en": "The login server is currently too busy. Please try again later.",
+            "zh": "登录服务器要被挤爆了，请稍后再次尝试。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "TooManyObjects",
+      "index": 440,
+      "columns": {
+        "Text": [
+          {
+            "en": "Too many objects requested, please contact support.",
+            "zh": "您请求了过多目标，请联系客服支持。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SubtabAlreadyExists",
+      "index": 441,
+      "columns": {
+        "Text": [
+          {
+            "en": "This subtab already exists.",
+            "zh": "该子分类已经存在。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MaxInventoryColumns",
+      "index": 442,
+      "columns": {
+        "Text": [
+          {
+            "en": "You have reached the maximum number of inventory columns allowed. CHINA ONLY NOT FOR WORLDWIDE REALM",
+            "zh": "你已经达到了允许的最大背包栏数。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "IncorrectInventoryColumnUpgrade",
+      "index": 443,
+      "columns": {
+        "Text": [
+          {
+            "en": "You are trying to purchase the inventory upgrade for the incorrect number of existing slots. CHINA ONLY NOT FOR WORLDWIDE REALM",
+            "zh": "你正尝试为背包进行升级，但是目前格子数量不正确。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GenericRateLimit",
+      "index": 444,
+      "columns": {
+        "Text": [
+          {
+            "en": "Requested failed because you have made too many requests in a short time.",
+            "zh": "请求失败：你在短时间内发起请求的频率过于频繁"
+          }
+        ]
+      }
+    },
+    {
+      "id": "RequestInProgress",
+      "index": 445,
+      "columns": {
+        "Text": [
+          {
+            "en": "A request is already in progress. Please try again soon.",
+            "zh": "您的请求已经在处理中，请稍后再试。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ItemNotInStash",
+      "index": 446,
+      "columns": {
+        "Text": [
+          {
+            "en": "The item is not in the given stash.",
+            "zh": "该物品不在指定的仓库页中。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BestiaryNetChanged",
+      "index": 447,
+      "columns": {
+        "Text": [
+          {
+            "en": "Your character will now use {0} to capture Beasts.",
+            "zh": "你的角色现在将使用  {0} 捕获魔物。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ErrorPlayerHasNoMenagerie",
+      "index": 448,
+      "columns": {
+        "Text": [
+          {
+            "en": "That player does not have a Menagerie.",
+            "zh": "该玩家未解锁魔物园。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MicrotransactionNotAvailableInLeague",
+      "index": 449,
+      "columns": {
+        "Text": [
+          {
+            "en": "You are not allowed to buy this microtransaction in this league.",
+            "zh": "此商品不能在当前世界购买"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CaptureMonsterSuccess",
+      "index": 450,
+      "columns": {
+        "Text": [
+          {
+            "en": "Captured Beast: {0}",
+            "zh": "已捕获魔物：{0}"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DeletedExcessBestiaryUnique",
+      "index": 451,
+      "columns": {
+        "Text": [
+          {
+            "en": "Your Menagerie was full so an older Beast ({0}) was removed to make space.",
+            "zh": "您的魔物园已经满了。我们移除了较老的魔物 ({0}) 来腾出空间。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DeletedExcessBestiaryRare",
+      "index": 452,
+      "columns": {
+        "Text": [
+          {
+            "en": "Your Menagerie was full so an older Beast ({0}; {1}) was removed to make space.",
+            "zh": "您的魔物园已经满了。我们移除了较老的魔物 ({0}; {1}) 来腾出空间。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PlayersRemainingN",
+      "index": 453,
+      "columns": {
+        "Text": [
+          {
+            "en": "{0} players remain.",
+            "zh": "剩余 {0} 名玩家。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AccountNotVerifiedChatError",
+      "index": 454,
+      "columns": {
+        "Text": [
+          {
+            "en": "You must verify your account before you can chat.",
+            "zh": "必须要验证账号后才能聊天。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "TooLowLevelToChooseChatIndex",
+      "index": 455,
+      "columns": {
+        "Text": [
+          {
+            "en": "You can't choose a specific chat channel until you are level {0}.",
+            "zh": "{0} 级前不能选择特定的聊天频道。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "IncursionLockedDoorError",
+      "index": 456,
+      "columns": {
+        "Text": [
+          {
+            "en": "You do not have the item required to open this passage.",
+            "zh": "你没有开启此通路的所需物品。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "IncursionDestructibleWallError",
+      "index": 457,
+      "columns": {
+        "Text": [
+          {
+            "en": "You have no explosives.",
+            "zh": "你没有炸药。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "InstanceExpiredError",
+      "index": 458,
+      "columns": {
+        "Text": [
+          {
+            "en": "Cannot connect to instance. That subarea has expired because it is no longer the most recent child instance for this area.",
+            "zh": "无法连接到副本。副区域已过期，因为该区域不再存在较新的子副本。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "InstanceTerminatedError",
+      "index": 459,
+      "columns": {
+        "Text": [
+          {
+            "en": "Cannot connect to instance. That subarea no longer exists.",
+            "zh": "无法连接到副本。副区域已不存在。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FailedToLoadDelveMap",
+      "index": 460,
+      "columns": {
+        "Text": [
+          {
+            "en": "Failed to load Delve map data: {0}",
+            "zh": "读取地心探索地图数据失败：{0}"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DelveInProgressError",
+      "index": 461,
+      "columns": {
+        "Text": [
+          {
+            "en": "You cannot join a Delve that is currently in progress.",
+            "zh": "你无法加入一个已经在进行中的地心探险。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LoginRequiresUnlockCodeStrict",
+      "index": 462,
+      "columns": {
+        "Text": [
+          {
+            "en": "Your account has been locked until you can provide an unlock code from your email (strict).",
+            "zh": "账号已被锁定，请提供电子邮件中的解锁码。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DelveSocketableCurrencySameFossilError",
+      "index": 463,
+      "columns": {
+        "Text": [
+          {
+            "en": "You cannot socket identical Fossils into the same Resonator",
+            "zh": "你无法在同一个共振器中镶嵌相同的化石"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GenericSocketError",
+      "index": 464,
+      "columns": {
+        "Text": [
+          {
+            "en": "You cannot socket the current item",
+            "zh": "你无法镶嵌当前物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": "OfferNotYetReadyForAccept",
+      "index": 465,
+      "columns": {
+        "Text": [
+          {
+            "en": "The offer is in a state where it is waiting for a previous submit to be resolved. Try again later.",
+            "zh": "当前订单需要等待上一个请求解决后才可继续。请稍后再试。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "InteractErrorEssence",
+      "index": 466,
+      "columns": {
+        "Text": [
+          {
+            "en": "Something else is keeping this Essence imprisoned.",
+            "zh": "还有什么东西在囚禁着精华。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "NotEnoughIngredients",
+      "index": 467,
+      "columns": {
+        "Text": [
+          {
+            "en": "You don't have enough ingredients for this action.",
+            "zh": "你的原料不足。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ConsoleDisconnectedBecauseActiveUserSignedOut",
+      "index": 468,
+      "columns": {
+        "Text": [
+          {
+            "en": "Disconnected because the active user signed out",
+            "zh": "当前用户已登出，连接断开"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PS4LoginErrorNoPSNAccess",
+      "index": 469,
+      "columns": {
+        "Text": [
+          {
+            "en": "Cannot log in because \"PlayStation Network\" cannot be reached.",
+            "zh": "无法登录，\"PlayStation Network\" 无法连接。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PS4LoginErrorOutOfMemory",
+      "index": 470,
+      "columns": {
+        "Text": [
+          {
+            "en": "Cannot log in because we are out of memory.",
+            "zh": "无法登录，内存不足。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PS4LoginErrorSignedOut",
+      "index": 471,
+      "columns": {
+        "Text": [
+          {
+            "en": "Cannot log in because you are signed out.",
+            "zh": "无法登录，你已登出。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PS4LoginErrorNotSignedUp",
+      "index": 472,
+      "columns": {
+        "Text": [
+          {
+            "en": "Cannot log in because you are not signed up.",
+            "zh": "无法登录，你尚未注册。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PS4LoginErrorAgeRestriction",
+      "index": 473,
+      "columns": {
+        "Text": [
+          {
+            "en": "Cannot log in because of an age restriction.",
+            "zh": "无法登录，你受到了年龄限制。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PS4LoginErrorLoggedOut",
+      "index": 474,
+      "columns": {
+        "Text": [
+          {
+            "en": "Cannot log in because you are logged out.",
+            "zh": "无法登录，你已登出。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PS4LoginErrorLatestSystemSoftwareExist",
+      "index": 475,
+      "columns": {
+        "Text": [
+          {
+            "en": "Cannot log in because a new version of the system software update file exists.",
+            "zh": "无法登录，最新的系统软件版本已下载，请更新。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PS4LoginErrorLatestSystemSoftwareExistForTitle",
+      "index": 476,
+      "columns": {
+        "Text": [
+          {
+            "en": "Cannot log in because a required new version of the system software update file exists for this application.",
+            "zh": "无法登录，请更新至最新的系统软件版本。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PS4LoginErrorLatestPatchPackageExists",
+      "index": 477,
+      "columns": {
+        "Text": [
+          {
+            "en": "Cannot log in because a new version of the patch package exists.",
+            "zh": "无法登录，请更新最新补丁包。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PS4LoginErrorLatestPatchPackageDownloaded",
+      "index": 478,
+      "columns": {
+        "Text": [
+          {
+            "en": "Cannot log in because a new version of the downloaded patch package exists.",
+            "zh": "无法登录，最新补丁包已下载，请更新。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PS4LoginErrorPatchNotChecked",
+      "index": 479,
+      "columns": {
+        "Text": [
+          {
+            "en": "Cannot log in because could not check if a new version update file is available.  Please try again.",
+            "zh": "无法登录，目前无法查验是否有最新版本，请再试一次。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HideoutExportFailed",
+      "index": 480,
+      "columns": {
+        "Text": [
+          {
+            "en": "You must be in a Hideout to export a Hideout template.",
+            "zh": "必须位于藏身处才能导出藏身处模板。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HideoutImportSuccess",
+      "index": 481,
+      "columns": {
+        "Text": [
+          {
+            "en": "Hideout template imported successfully.",
+            "zh": "藏身处模板已成功导入。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HideoutImportFailed",
+      "index": 482,
+      "columns": {
+        "Text": [
+          {
+            "en": "Failed to import Hideout template.",
+            "zh": "导入藏身处模板失败。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HideoutImportFailedMustBeInHideout",
+      "index": 483,
+      "columns": {
+        "Text": [
+          {
+            "en": "You must be in your Hideout to import a Hideout template.",
+            "zh": "必须位于你的藏身处才能导入藏身处模板。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HideoutImportFailedWrongHideout",
+      "index": 484,
+      "columns": {
+        "Text": [
+          {
+            "en": "You must first set your Hideout to {0} in order to import this Hideout template.",
+            "zh": "必须先将藏身处设置为 {0} 来导入该藏身处模板。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "TencentTradeMarketNotExactPrice",
+      "index": 485,
+      "columns": {
+        "Text": [
+          {
+            "en": "Your offer does not match the exact price for this item.",
+            "zh": "你的报价并不匹配该物品的精确价格。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "TencentTradeMarketTooManyCompletedOffers",
+      "index": 486,
+      "columns": {
+        "Text": [
+          {
+            "en": "You have too many completed trades in your Trade Market to make this offer.",
+            "zh": "你的市集中已完成的交易过多，无法进行此次报价。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "IncursionRecipeUnlockRejected",
+      "index": 487,
+      "columns": {
+        "Text": [
+          {
+            "en": "Crafting recipe already unlocked",
+            "zh": "工艺清单已解锁"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FailedToReclaimSomeHideoutDoodads",
+      "index": 488,
+      "columns": {
+        "Text": [
+          {
+            "en": "Failed to reclaim one or more Hideout doodads. Please create a new Hideout instance and try again.",
+            "zh": "无法回收更多装饰物。请创建一个新的藏身处副本，并再试一次。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FailedToLoadHideoutDoodads",
+      "index": 489,
+      "columns": {
+        "Text": [
+          {
+            "en": "Failed to load Hideout doodad list.",
+            "zh": "无法读取藏身处装饰列表。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HideoutImportWarningGeneric",
+      "index": 490,
+      "columns": {
+        "Text": [
+          {
+            "en": "Warning: {0} doodads could not be imported.",
+            "zh": "警告：有{0} 个装饰物无法导入。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HideoutImportWarningUnowned",
+      "index": 491,
+      "columns": {
+        "Text": [
+          {
+            "en": "Warning: {0} doodads could not be imported because you do not own any spare ones.",
+            "zh": "警告：有 {0} 个装饰物无法导入，因为你没有闲置物品。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HideoutImportWarningBlocked",
+      "index": 492,
+      "columns": {
+        "Text": [
+          {
+            "en": "Warning: {0} doodads could not be imported because the specified location was blocked.",
+            "zh": "警告：有 {0} 个装饰物无法导入，因为该地点已经有物品了。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HideoutReclaimAllSuccess",
+      "index": 493,
+      "columns": {
+        "Text": [
+          {
+            "en": "All Hideout doodads have been reclaimed.",
+            "zh": "所有藏身处的装饰物已全部回收完毕。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AreaTransitionPartyError",
+      "index": 494,
+      "columns": {
+        "Text": [
+          {
+            "en": "You must be in a party with the area owner to access this area.",
+            "zh": "你必须在该区域所有者的队伍中，才能进入此区域。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AreaTransitionOwnerError",
+      "index": 495,
+      "columns": {
+        "Text": [
+          {
+            "en": "The area owner must be present to access this area.",
+            "zh": "区域的所有者必须在场，才能进入此区域。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BestiaryErrorNoData",
+      "index": 496,
+      "columns": {
+        "Text": [
+          {
+            "en": "Failed to retrieve Bestiary data.",
+            "zh": "无法获取猎魔笔记数据。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BestiaryErrorFailedToCaptureMonster",
+      "index": 497,
+      "columns": {
+        "Text": [
+          {
+            "en": "Failed to save captured monster: {0}",
+            "zh": "存储已捕捉的魔物：{0} 失败。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PS4BadRedeemToken",
+      "index": 498,
+      "columns": {
+        "Text": [
+          {
+            "en": "Bad redeem token",
+            "zh": "兑换码无效"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CurrencyTradingPrevented2",
+      "index": 499,
+      "columns": {
+        "Text": [
+          {
+            "en": "You cannot trade currency or unique items to other players until you have verified your account.",
+            "zh": "完成账号验证前，你无法将货币或传奇物品交易给其他玩家。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PublicListingLockedDueToVerified",
+      "index": 500,
+      "columns": {
+        "Text": [
+          {
+            "en": "You cannot publicly list items for sale until you have verified your account.",
+            "zh": "在验证账号之前，你无法公开出售道具。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "OffersLockedDueToVerified",
+      "index": 501,
+      "columns": {
+        "Text": [
+          {
+            "en": "You cannot make offers on items until you have verified your account.",
+            "zh": "在验证账号之前，你无法为道具出价。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SynthesisPortalFullyDecayed",
+      "index": 502,
+      "columns": {
+        "Text": [
+          {
+            "en": "This area has decayed.",
+            "zh": "该区域已朽坏。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SynthesisTooManyMemories",
+      "index": 503,
+      "columns": {
+        "Text": [
+          {
+            "en": "You have placed too many memories, please remove some before attempting to place more.",
+            "zh": "你放置了太多回忆，请移除一些之后再放置。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SynthesisOtherMemoryInstance",
+      "index": 504,
+      "columns": {
+        "Text": [
+          {
+            "en": "You cannot place memories in another persons Memory Nexus or Memory Expanse.",
+            "zh": "你无法在其他人的回忆枢纽或回忆区域中放置回忆"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ConsoleDisconnectedBecauseNoInternetConnection",
+      "index": 505,
+      "columns": {
+        "Text": [
+          {
+            "en": "Disconnected because there is no Internet connection.",
+            "zh": "没有网络连接，游戏断开。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PS4DisconnectedBecauseNoPSNAccess",
+      "index": 506,
+      "columns": {
+        "Text": [
+          {
+            "en": "Disconnected because \"PlayStation Network\" cannot be reached.",
+            "zh": "无法连接 PlayStation Network，游戏断开。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "XboxDisconnectedBecauseNoXboxLiveAccess",
+      "index": 507,
+      "columns": {
+        "Text": [
+          {
+            "en": "Disconnected because Xbox Live cannot be accessed.",
+            "zh": "无法连接 Xbox Live，游戏断开。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PS4CannotLogInUGMRestriction",
+      "index": 508,
+      "columns": {
+        "Text": [
+          {
+            "en": "Cannot log in due to parental controls.",
+            "zh": "因家长管控功能，无法登陆。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SynthesisMaxGlobalModsReached",
+      "index": 509,
+      "columns": {
+        "Text": [
+          {
+            "en": "You have reached the maximum number of Memory Modifiers on your Synthesis Map.",
+            "zh": "在你的忆境地图中，你的回忆属性数量已达上限。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BetrayalCannotAccessLab",
+      "index": 510,
+      "columns": {
+        "Text": [
+          {
+            "en": "You have another Betrayal Job in progress. Complete the other encounter or make any remaining choices to enable this entrance.",
+            "zh": "你已经有另外一个背叛者任务在进行中。请完成其他遭遇战或作出全部剩余选择后，方可进入此通路。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SynthesisCannotApplyGlobalMod",
+      "index": 511,
+      "columns": {
+        "Text": [
+          {
+            "en": "The selected Memory and the Memories placed next to it cannot apply any more Memory Modifiers.",
+            "zh": "所选回忆和放置在它旁边的回忆无法再添加任何回忆属性。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "KakaoAPIError",
+      "index": 512,
+      "columns": {
+        "Text": [
+          {
+            "en": "Failed to authorise with Kakao authentication server.",
+            "zh": "无法从 Kakao 验证服务器通过验证。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "KakaoRequireLogin",
+      "index": 513,
+      "columns": {
+        "Text": [
+          {
+            "en": "You must log in to your Kakao account again.",
+            "zh": "你必须重新登录 Kakao 账号。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MapDeviceCannotUseFragmentWithMap",
+      "index": 514,
+      "columns": {
+        "Text": [
+          {
+            "en": "Activation failed. {0} cannot be used with a Map.",
+            "zh": "启动失败。{0} 不能和地图一起使用。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MapDeviceFragmentNeedsRecipe",
+      "index": 515,
+      "columns": {
+        "Text": [
+          {
+            "en": "Activation failed. {0} must be used with other Map Fragments from the same set.",
+            "zh": "启动失败。{0} 必须跟相同种类的地图碎片一起使用。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MapDeviceFragmentNeedsRecipeOrMap",
+      "index": 516,
+      "columns": {
+        "Text": [
+          {
+            "en": "Activation failed. {0} must be used with a Map, or with other Map Fragments from the same set.",
+            "zh": "启动失败。{0} 必须跟地图或其它相同种类的地图碎片一起使用。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MapDeviceDuplicateFragments",
+      "index": 517,
+      "columns": {
+        "Text": [
+          {
+            "en": "Activation failed. You cannot use multiple Map Fragments of the same type.",
+            "zh": "启动失败。你无法使用多个相同类型的地图碎片。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EmailLoginDisabledKakao",
+      "index": 518,
+      "columns": {
+        "Text": [
+          {
+            "en": "This login method has been disabled for this account. Please login via http://poe.game.daum.net",
+            "zh": "该账号的登录方式不可用。请通过 http://poe.game.daum.net 来登录。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EmailLoginDisabled",
+      "index": 519,
+      "columns": {
+        "Text": [
+          {
+            "en": "This login method has been disabled for this account.",
+            "zh": "该账号的登录方式不可用。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GatewayDisallowedForThisLoginType",
+      "index": 520,
+      "columns": {
+        "Text": [
+          {
+            "en": "This login gateway is not available for this login method.",
+            "zh": "该登录方式的途径不可用。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "UnacceptableChatMessage",
+      "index": 521,
+      "columns": {
+        "Text": [
+          {
+            "en": "Unacceptable message contents.",
+            "zh": "无法接受的信息内容。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ChannelOnlyAllowsASCII",
+      "index": 522,
+      "columns": {
+        "Text": [
+          {
+            "en": "Unacceptable message contents. Please use only standard ASCII characters in this channel.",
+            "zh": "无法接受的信息内容。请在频道内使用标准 ASCII 字符。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ActionRejectedDueToPerPlayerFreeze",
+      "index": 523,
+      "columns": {
+        "Text": [
+          {
+            "en": "You have died recently and cannot perform actions for {0}.",
+            "zh": "你最近刚刚死亡，无法对 {0} 执行动作。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PerPlayerDeathFreezeRemoved",
+      "index": 524,
+      "columns": {
+        "Text": [
+          {
+            "en": "You can now perform actions.",
+            "zh": "你无法执行动作。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LeagueDisallowsManualMigration",
+      "index": 525,
+      "columns": {
+        "Text": [
+          {
+            "en": "You cannot migrate from this league at the moment.",
+            "zh": "你目前无法合入该赛季区。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "RecycleMicroItemNotFound",
+      "index": 526,
+      "columns": {
+        "Text": [
+          {
+            "en": "Microtransaction can not be found.",
+            "zh": "无法找到商城物品。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "RecycleMicroCannotRemoveMicro",
+      "index": 527,
+      "columns": {
+        "Text": [
+          {
+            "en": "Microtransaction can not be removed.",
+            "zh": "无法移除商城物品。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "RecycleMicroNoValue",
+      "index": 528,
+      "columns": {
+        "Text": [
+          {
+            "en": "Microtransaction has no value.",
+            "zh": "商城物品没有价值。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "RecycleMicroGeneric",
+      "index": 529,
+      "columns": {
+        "Text": [
+          {
+            "en": "Cannot complete action at this time.",
+            "zh": "当前无法完成该行动。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "TradeBanError",
+      "index": 530,
+      "columns": {
+        "Text": [
+          {
+            "en": "You cannot do that at this time. Your account is banned from trade actions.",
+            "zh": "你当前无法进行该操作。你的账号已被禁止交易。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "InteractErrorCoreTransitionMap",
+      "index": 531,
+      "columns": {
+        "Text": [
+          {
+            "en": "You must kill all three of Eater of Souls' guardians to access the Black Core.",
+            "zh": "你必须将三名食魂者卫士全部击败才能进入黑灵核心。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CombineMTXTimeLimitedError",
+      "index": 532,
+      "columns": {
+        "Text": [
+          {
+            "en": "Cannot combine time-limited Microtransactions.",
+            "zh": "时限宠物无法升级"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SalvageMTXTimeLimitedError",
+      "index": 533,
+      "columns": {
+        "Text": [
+          {
+            "en": "Cannot salvage time-limited Microtransactions",
+            "zh": "无法回收时限物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ItemIsInLeagueInventory",
+      "index": 534,
+      "columns": {
+        "Text": [
+          {
+            "en": "You can't do this operation on an item in a league inventory",
+            "zh": "不能在赛季背包里执行该操作"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MetamorphosisCannotOpenUIError",
+      "index": 535,
+      "columns": {
+        "Text": [
+          {
+            "en": "Metamorph samples can only be combined by the instance owner.",
+            "zh": "只有副本发起人可以调和灾变样本。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PurchaseLimitReached",
+      "index": 536,
+      "columns": {
+        "Text": [
+          {
+            "en": "You've reached the purchase limit for this item.",
+            "zh": "你已达到此物品的购买上限。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EpicAssociateEmailSent",
+      "index": 537,
+      "columns": {
+        "Text": [
+          {
+            "en": "An email has been sent to confirm that you own this account. Please click the link in your email to continue.",
+            "zh": "已发送一封确认邮件，用以验证您拥有此账户。请点击邮件中的链接继续。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DestroyHarvestInfrastructure",
+      "index": 538,
+      "columns": {
+        "Text": [
+          {
+            "en": "You cannot destroy Harvest Infrastructure items.",
+            "zh": "你无法摧毁古灵庄园基建物品。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CharacterActionDeniedHarvestItems",
+      "index": 539,
+      "columns": {
+        "Text": [
+          {
+            "en": "You must remove all Harvest Infrastructure items from your character before performing this action.",
+            "zh": "在这之前你必须移除所有古灵庄园基建物品。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HarvestOshabiFightOnlyInMaps",
+      "index": 540,
+      "columns": {
+        "Text": [
+          {
+            "en": "The Encounter can only be started from a Map",
+            "zh": "遭遇战只能在地图中开始"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ConsoleGuildTagProfanityError",
+      "index": 541,
+      "columns": {
+        "Text": [
+          {
+            "en": "The guild tag you are trying to set contains a restricted phrase. Please retry with a different tag.",
+            "zh": "您取的公会页签包含受限语句。请重取新的页签名称。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ConsoleGuildNameProfanityError",
+      "index": 542,
+      "columns": {
+        "Text": [
+          {
+            "en": "The guild name you are trying to set contains a restricted phrase. Please retry with a different name.",
+            "zh": "您的公会名称包含受限语句。请重取新的公会名称。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ConsoleGuildStashTabProfanityError",
+      "index": 543,
+      "columns": {
+        "Text": [
+          {
+            "en": "The stash tab name you are trying to set contains a restricted phrase. Please retry with a different name.",
+            "zh": "您的仓库页签名称包含受限语句。请重取新的仓库页签名称。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "TradeErrorItemStolenFromHeist",
+      "index": 544,
+      "columns": {
+        "Text": [
+          {
+            "en": "Item cannot be traded.",
+            "zh": "无法交易该物品。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HeistAlarmError",
+      "index": 545,
+      "columns": {
+        "Text": [
+          {
+            "en": "Error: cannot join a Heist area that is in Lockdown",
+            "zh": "错误：无法加入已封锁的夺宝奇兵区域"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HeistHubAccessError",
+      "index": 546,
+      "columns": {
+        "Text": [
+          {
+            "en": "You must use a Rogue's Marker to access the Rogues' Harbour.",
+            "zh": "您必须使用【赏金猎人印记】才能前往【黄金港】。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "NotHeistOwner",
+      "index": 547,
+      "columns": {
+        "Text": [
+          {
+            "en": "Error: You are not the owner of this Heist",
+            "zh": "错误：你不是夺宝冒险发起人"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ReceivedAtlasRespecPoint1",
+      "index": 548,
+      "columns": {
+        "Text": [
+          {
+            "en": "You have received an Atlas Passive Respec Point.",
+            "zh": "你得到了一个异界图鉴天赋重置点"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ReceivedAtlasRespecPointN",
+      "index": 549,
+      "columns": {
+        "Text": [
+          {
+            "en": "You have received {0} Atlas Passive Respec Points.",
+            "zh": "你得到了 {0} 个异界图鉴天赋重置点"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ReceivedAtlasPassivePoint1",
+      "index": 550,
+      "columns": {
+        "Text": [
+          {
+            "en": "You have received an Atlas Skill Point.",
+            "zh": "您收回了异界天赋点"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ReceivedAtlasPassivePointN",
+      "index": 551,
+      "columns": {
+        "Text": [
+          {
+            "en": "You have received {0} Atlas Skill Points.",
+            "zh": "你得到了 {0} 异界图鉴技能。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MavenNotEnoughBosses",
+      "index": 552,
+      "columns": {
+        "Text": [
+          {
+            "en": "Activation failed. You have not collected enough bosses from this Atlas Region.",
+            "zh": "启用失败。你还没有在异界国度收集足够首领。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MavenCitadelNotUnlocked",
+      "index": 553,
+      "columns": {
+        "Text": [
+          {
+            "en": "Activation failed. You have not unlocked the Citadel for this Atlas Region.",
+            "zh": "启用失败。你还没有在该异界国度解锁要塞。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "StashAffinityFailedNoRoom",
+      "index": 554,
+      "columns": {
+        "Text": [
+          {
+            "en": "Your Stash Tab with the {0} Affinity does not have enough space for this item.",
+            "zh": "{0}偏好的仓库页空间不足，无法容纳该物品。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FailedToAddMavenToMap",
+      "index": 555,
+      "columns": {
+        "Text": [
+          {
+            "en": "Failed to add the Maven to Map because: {0}",
+            "zh": "无法在地图上添加贤主：{0}"
+          }
+        ]
+      }
+    },
+    {
+      "id": "RitualFragmentNotValidForUse",
+      "index": 556,
+      "columns": {
+        "Text": [
+          {
+            "en": "Activation failed. Blood-Soaked Effigies can only be used in Ritual League.",
+            "zh": "启用失败。浸血秘像不能在驱灵仪式赛季中使用。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MapDeviceInvalidQuestState",
+      "index": 557,
+      "columns": {
+        "Text": [
+          {
+            "en": "Activation failed. You do not have the required quest state.",
+            "zh": "启用失败。你的任务状态不正确。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MapDeviceFull",
+      "index": 558,
+      "columns": {
+        "Text": [
+          {
+            "en": "Your Map Device is full.",
+            "zh": "您的地图装置已经满了。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AccountNotVerified",
+      "index": 559,
+      "columns": {
+        "Text": [
+          {
+            "en": "Account is not verified.",
+            "zh": "未验证账号。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "UltimatumTrialStarted",
+      "index": 560,
+      "columns": {
+        "Text": [
+          {
+            "en": "You cannot join a trial that has already begun.",
+            "zh": "你不能加入已经开始的试炼。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "RoyaleMatchEndedWonReward",
+      "index": 561,
+      "columns": {
+        "Text": [
+          {
+            "en": "Winner winner, Rhoa Dinner!\n Tier {0} Rhoa Dinner has been added to your Hideout Decorations.",
+            "zh": "大吉大利，恐喙吃鸡！\n{0} 阶恐喙吃鸡大餐已加入您的藏身处装饰品。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "RoyaleMatchEndedWon",
+      "index": 562,
+      "columns": {
+        "Text": [
+          {
+            "en": "Winner winner, Rhoa Dinner!\n Next Hideout Decoration reward in {0} victories.",
+            "zh": "大吉大利，恐喙吃鸡！\n再胜利 {0} 场可继续获得藏身处装饰品。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "RoyaleMatchEndedWonMax",
+      "index": 563,
+      "columns": {
+        "Text": [
+          {
+            "en": "Winner winner, Rhoa Dinner!",
+            "zh": "大吉大利，恐喙吃鸡！"
+          }
+        ]
+      }
+    },
+    {
+      "id": "RoyaleMatchEnded",
+      "index": 564,
+      "columns": {
+        "Text": [
+          {
+            "en": "{0} has won the match!",
+            "zh": "{0} 获得了胜利！"
+          }
+        ]
+      }
+    },
+    {
+      "id": "RoyaleMatchEndedTeam",
+      "index": 565,
+      "columns": {
+        "Text": [
+          {
+            "en": "{0} and {1} have won the match!",
+            "zh": "{0} 和 {1} 赢得了比赛！"
+          }
+        ]
+      }
+    },
+    {
+      "id": "TradeNoteBlacklistedCharactersError",
+      "index": 566,
+      "columns": {
+        "Text": [
+          {
+            "en": "Your Trade Note contains illegal characters, please try again.",
+            "zh": "您的留言包含非法字符，请重试."
+          }
+        ]
+      }
+    },
+    {
+      "id": "ExpeditionDetonatorNotInstanceOwner",
+      "index": 567,
+      "columns": {
+        "Text": [
+          {
+            "en": "Only the player who is the instance owner can interact with explosives or the detonator.",
+            "zh": "只有副本发起人可以跟炸药或引爆装置互动。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ActionTemporarilyDisabled",
+      "index": 568,
+      "columns": {
+        "Text": [
+          {
+            "en": "This action has been temporarily disabled.",
+            "zh": "该行动已被临时性禁止。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CannotAccessGuildHideout",
+      "index": 569,
+      "columns": {
+        "Text": [
+          {
+            "en": "You cannot access that player's Guild Hideout because you are not a member of their Guild.",
+            "zh": "您不是该公会成员，不能进入该玩家的藏身处。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SettingDeliveryDetailsFailed",
+      "index": 570,
+      "columns": {
+        "Text": [
+          {
+            "en": "Failed to set Delivery Details: ",
+            "zh": "详情提供失败： "
+          }
+        ]
+      }
+    },
+    {
+      "id": "ExpeditionCurrencyNotification",
+      "index": 571,
+      "columns": {
+        "Text": [
+          {
+            "en": "Added {0}x {1} to your Expedition Locker",
+            "zh": "在你的先祖秘藏储物柜放入 {0}x {1}"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GuildStashDisabled",
+      "index": 572,
+      "columns": {
+        "Text": [
+          {
+            "en": "The guild stash has been temporarily disabled.",
+            "zh": "公会仓库已被临时性禁止。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "TencentItcServerError",
+      "index": 573,
+      "columns": {
+        "Text": [
+          {
+            "en": "The ITC server reported an error.",
+            "zh": "ITC服务器收到一个错误。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "OperationCancelled",
+      "index": 574,
+      "columns": {
+        "Text": [
+          {
+            "en": "Operation cancelled.",
+            "zh": "操作已取消。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ConvertMapsPartialSuccess",
+      "index": 575,
+      "columns": {
+        "Text": [
+          {
+            "en": "Some maps could not be converted either due to lack of space, or no valid conversion found.",
+            "zh": "由于缺乏空间或者没有找到可用转化，所以未能转化部分地图。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CannotPromoteEmptyStashToActive",
+      "index": 576,
+      "columns": {
+        "Text": [
+          {
+            "en": "You cannot promote an empty stash to active.",
+            "zh": "您不能启用空仓库页"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CannotFindActiveStashToReplace",
+      "index": 577,
+      "columns": {
+        "Text": [
+          {
+            "en": "Cannot find empty active stash of this type to replace. Please make sure you have loaded one and try again.",
+            "zh": "找不到此类空仓库页来替换。请确认是否载入了此类物品并重试。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "TencentUicServerError",
+      "index": 578,
+      "columns": {
+        "Text": [
+          {
+            "en": "Connection failed, please try again later.",
+            "zh": "网络连接失败，请稍后重试。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PlayerKillCount1",
+      "index": 579,
+      "columns": {
+        "Text": [
+          {
+            "en": "You have killed 1 monster.",
+            "zh": "你消灭了1只怪物。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PlayerKillCountCapped",
+      "index": 580,
+      "columns": {
+        "Text": [
+          {
+            "en": "You have killed an uncountable number of monsters.",
+            "zh": "你消灭了数不清的怪物。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "TencentActionFailedMarketBanned",
+      "index": 581,
+      "columns": {
+        "Text": [
+          {
+            "en": "Your actions have breached the terms of service and have negatively affected the normal operation of the game. You are banned from using the trade market for {0}.",
+            "zh": "你的行为违反了服务条款，并对游戏的正常运行产生了负面影响。你被禁止使用交易市场，持续{0}。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "TencentGlobalStatusError",
+      "index": 582,
+      "columns": {
+        "Text": [
+          {
+            "en": "System is under maintenance, please try again later.",
+            "zh": "系统维护中，请稍后重试。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "WhisperFailed",
+      "index": 583,
+      "columns": {
+        "Text": [
+          {
+            "en": "Failed to send whisper to {0} because: {1}",
+            "zh": "因为：{1}，无法向{0}传送密语。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HideoutExportFailedLackingPermission",
+      "index": 584,
+      "columns": {
+        "Text": [
+          {
+            "en": "You do not have permission to export this Hideout.",
+            "zh": "您没有导出这个藏身处的权限。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CurrencyTradingPreventedDueToReview",
+      "index": 585,
+      "columns": {
+        "Text": [
+          {
+            "en": "You cannot trade currency or unique items to other players until your account has been reviewed. This process can take up to 24 hours.",
+            "zh": "完成账号验证前，您无法将通货或传奇物品卖给其他玩家。这个过程可能需要24小时。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PublicListingLockedDueToReview",
+      "index": 586,
+      "columns": {
+        "Text": [
+          {
+            "en": "You cannot publicly list items for sale until your account has been reviewed. This process can take up to 24 hours.",
+            "zh": "完成账号验证前，您无法公开出售物品。这个过程可能需要24小时。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "InteractErrorNotYourLakeStampingDevice",
+      "index": 587,
+      "columns": {
+        "Text": [
+          {
+            "en": "You cannot use this Mirrored Tablet.",
+            "zh": "您不能使用这个镜像桌台。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SanctumStabilityError",
+      "index": 588,
+      "columns": {
+        "Text": [
+          {
+            "en": "Error: cannot join Sanctum area with no Resolve",
+            "zh": "错误：无法在没有坚毅时进入禁域区域"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FeedbackNumber",
+      "index": 589,
+      "columns": {
+        "Text": [
+          {
+            "en": "Thanks for your feedback! Your reference number is {0}",
+            "zh": "感谢你的反馈！你的回报编号是 {0}"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LootAllocationOptionDisabledInHardMode",
+      "index": 590,
+      "columns": {
+        "Text": [
+          {
+            "en": "Cannot set Item Allocation Mode in Ruthless leagues.",
+            "zh": "无法在无情模式赛季中设置物品拾取模式。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ExtraInventoryColumnsDisabledInHardMode",
+      "index": 591,
+      "columns": {
+        "Text": [
+          {
+            "en": "[DNT-UNUSED]Extra inventory columns are disabled in Ruthless leagues. CHINA ONLY NOT FOR WORLDWIDE REALM",
+            "zh": "[DNT-未使用]在无情模式赛季中无法使用额外背包栏数。仅限国服，不影响国际服"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PathOfEnduranceDisabledInHardMode",
+      "index": 592,
+      "columns": {
+        "Text": [
+          {
+            "en": "[DNT-UNUSED]Path of Endurance is disabled in Ruthless leagues.",
+            "zh": "[DNT-未使用]在无情模式赛季中无法使用求生之路。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "RelicCannotPlaceItemSanctumInProgressError",
+      "index": 593,
+      "columns": {
+        "Text": [
+          {
+            "en": "Relics cannot be changed while you have an active Sanctum.",
+            "zh": "激活禁域时无法更改遗物。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CoinFlipHeads",
+      "index": 594,
+      "columns": {
+        "Text": [
+          {
+            "en": "{0} flips Heads!",
+            "zh": "{0} 次正面朝上！"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CoinFlipTails",
+      "index": 595,
+      "columns": {
+        "Text": [
+          {
+            "en": "{0} flips Tails!",
+            "zh": "{0} 次反面朝上！"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HideoutPvpInvalidPosition",
+      "index": 596,
+      "columns": {
+        "Text": [
+          {
+            "en": "The PvP arena is too close to your waypoint, PvP is disabled.",
+            "zh": "该竞技场距离你的传送点过近，PvP已关闭。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HideoutPvpEnded",
+      "index": 597,
+      "columns": {
+        "Text": [
+          {
+            "en": "Match ended, {0} wins!",
+            "zh": "比赛结束，{0} 胜出！"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HideoutPvpEndedDraw",
+      "index": 598,
+      "columns": {
+        "Text": [
+          {
+            "en": "Match ended in a draw.",
+            "zh": "比赛以平手作收。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HideoutPvpCancelled",
+      "index": 599,
+      "columns": {
+        "Text": [
+          {
+            "en": "Match cancelled.",
+            "zh": "比赛取消。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HideoutPvpDefeated",
+      "index": 600,
+      "columns": {
+        "Text": [
+          {
+            "en": "{0} was defeated!",
+            "zh": "{0} 被击败了！"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AccountNeedsToBeOffline",
+      "index": 601,
+      "columns": {
+        "Text": [
+          {
+            "en": "This operation requires the account to be offline.",
+            "zh": "必须要离线账号来完成这项操作。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AccountTransferInProgress",
+      "index": 602,
+      "columns": {
+        "Text": [
+          {
+            "en": "This account is currently transferring between instances. Try again soon.",
+            "zh": "此账号目前正在副本间转移。请稍后再试。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SanctumAlreadyOpenedError",
+      "index": 603,
+      "columns": {
+        "Text": [
+          {
+            "en": "This Sanctum has already been opened, so it can no longer be joined.",
+            "zh": "这座禁域已被开启，无法加入。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CXInvalidRequest",
+      "index": 604,
+      "columns": {
+        "Text": [
+          {
+            "en": "Invalid request.",
+            "zh": "无效请求"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CXOrderDoesNotExist",
+      "index": 605,
+      "columns": {
+        "Text": [
+          {
+            "en": "Order does not exist.",
+            "zh": "订单不存在。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CXOrderAlreadyClosed",
+      "index": 606,
+      "columns": {
+        "Text": [
+          {
+            "en": "Order is already closed.",
+            "zh": "订单已关闭。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CXOrderIsNotClosed",
+      "index": 607,
+      "columns": {
+        "Text": [
+          {
+            "en": "Order must be closed first.",
+            "zh": "必须先关闭订单。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CXMarketDisabled",
+      "index": 608,
+      "columns": {
+        "Text": [
+          {
+            "en": "The market is closed.",
+            "zh": "市场已关闭。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CXPendingTransactionOpen",
+      "index": 609,
+      "columns": {
+        "Text": [
+          {
+            "en": "Pending transaction in progress.",
+            "zh": "待处理交易进行中。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CXPendingChangeRollback",
+      "index": 610,
+      "columns": {
+        "Text": [
+          {
+            "en": "Pending transaction rolled back.",
+            "zh": "待处理交易已回滚。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CXNoPendingCommit",
+      "index": 611,
+      "columns": {
+        "Text": [
+          {
+            "en": "No pending transaction found.",
+            "zh": "没有待处理交易。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CXTooManyOrders",
+      "index": 612,
+      "columns": {
+        "Text": [
+          {
+            "en": "You have too many orders.",
+            "zh": "你的订单太多了。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CXQueryOrderRateLimited",
+      "index": 613,
+      "columns": {
+        "Text": [
+          {
+            "en": "You must wait before querying more trades.",
+            "zh": "查询更多交易前请先等待。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CXGenericQueryFailure",
+      "index": 614,
+      "columns": {
+        "Text": [
+          {
+            "en": "Trade query failed.",
+            "zh": "交易查询失败。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CXGenericOrderFailure",
+      "index": 615,
+      "columns": {
+        "Text": [
+          {
+            "en": "Failed to place order.",
+            "zh": "下达交易订单失败。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CXCouldNotFindSellItems",
+      "index": 616,
+      "columns": {
+        "Text": [
+          {
+            "en": "Could not find the items you are trying to sell.",
+            "zh": "无法找到你尝试出售的物品。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "InstanceClosingSoon",
+      "index": 617,
+      "columns": {
+        "Text": [
+          {
+            "en": "This instance will close in a few minutes. Please move to another area to avoid being disconnected.",
+            "zh": "副本即将在几分钟后关闭。请移动至其他区域，以防止掉线。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "NotEnoughGoldStorage",
+      "index": 618,
+      "columns": {
+        "Text": [
+          {
+            "en": "You cannot store this amount of gold.",
+            "zh": "你无法储存这么多金币。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AccountNotAuthorizedOnServer",
+      "index": 619,
+      "columns": {
+        "Text": [
+          {
+            "en": "This account is not authorized to access this server.",
+            "zh": "此账户无权访问该服务器。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CharacterSentToVoidLeague",
+      "index": 620,
+      "columns": {
+        "Text": [
+          {
+            "en": "{0} (Level 100) was sent to the Void!",
+            "zh": "{0} (等级 100) 被送入了虚空！"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MustMigrateGarena",
+      "index": 621,
+      "columns": {
+        "Text": [
+          {
+            "en": "This account must first be migrated from Garena to Hotcool.",
+            "zh": "该账号必须先从Garena迁移至热酷。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GuildLeaderCannotLeave",
+      "index": 622,
+      "columns": {
+        "Text": [
+          {
+            "en": "You must promote another guild member to Leader before you can leave your guild.",
+            "zh": "在你离开公会前，必须将另一名公会成员晋升为会长。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "NoHideoutSet",
+      "index": 623,
+      "columns": {
+        "Text": [
+          {
+            "en": "You do not have a hideout.",
+            "zh": "你没有藏身处。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "NotImplemented",
+      "index": 624,
+      "columns": {
+        "Text": [
+          {
+            "en": "Not implemented.",
+            "zh": "未执行。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SonyWebApiBadRequest",
+      "index": 625,
+      "columns": {
+        "Text": [
+          {
+            "en": "Bad request.",
+            "zh": "请求错误。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SonyWebApiNotAuthorized",
+      "index": 626,
+      "columns": {
+        "Text": [
+          {
+            "en": "Not authorized.",
+            "zh": "没有权限。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SonyWebApiForbidden",
+      "index": 627,
+      "columns": {
+        "Text": [
+          {
+            "en": "Forbidden.",
+            "zh": "被禁止。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SonyWebApiAccessTokenExpired",
+      "index": 628,
+      "columns": {
+        "Text": [
+          {
+            "en": "Access token is expired.",
+            "zh": "访问令牌已过期。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SonyWebApiNotPermitted",
+      "index": 629,
+      "columns": {
+        "Text": [
+          {
+            "en": "No privileges to perform the operation.",
+            "zh": "没有执行操作的权限。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SonyWebApiContextIdAlreadyRegistered",
+      "index": 630,
+      "columns": {
+        "Text": [
+          {
+            "en": "The specified ContextId has already been registered.",
+            "zh": "指定的ContextId已被注册。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SonyWebApiServiceUnavailable",
+      "index": 631,
+      "columns": {
+        "Text": [
+          {
+            "en": "Service Unavailable.",
+            "zh": "服务不可用。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SonyWebApiSessionManagerAlreadyJoinedPlayerSession",
+      "index": 632,
+      "columns": {
+        "Text": [
+          {
+            "en": "Already a member of the Player Session.",
+            "zh": "已是玩家游戏中的成员。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SonyWebApiSessionManagerPlayerSessionDoesNotExist",
+      "index": 633,
+      "columns": {
+        "Text": [
+          {
+            "en": "Player Session does not exist.",
+            "zh": "玩家游戏不存在。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SonyWebApiSessionManagerBlockedUserExists",
+      "index": 634,
+      "columns": {
+        "Text": [
+          {
+            "en": "Blocked user exists.",
+            "zh": "存在被屏蔽的玩家。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SonyWebApiSessionManagerNotPermittedToJoinPlayerSession",
+      "index": 635,
+      "columns": {
+        "Text": [
+          {
+            "en": "Not permitted to join the session.",
+            "zh": "无法加入游戏进程。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SonyWebApiSessionManagerNotMemberOfSession",
+      "index": 636,
+      "columns": {
+        "Text": [
+          {
+            "en": "Member not joined session.",
+            "zh": "成员未加入游戏进程。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SonyWebApiSessionManagerBlocked",
+      "index": 637,
+      "columns": {
+        "Text": [
+          {
+            "en": "Blocked.",
+            "zh": "被屏蔽。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SonyWebApiSessionManagerSessionFull",
+      "index": 638,
+      "columns": {
+        "Text": [
+          {
+            "en": "\tThe session is full.",
+            "zh": "\t游戏进程已满。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MapDeviceMissingRecipeRequirement",
+      "index": 639,
+      "columns": {
+        "Text": [
+          {
+            "en": "Activation failed. To challenge the unleashed boss you must have defeated the regular version of this boss once before.",
+            "zh": "激活失败。要挑战释放全力的首领，你必须击败过普通版的对应首领。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ReliquaryVaultKeyMissing",
+      "index": 640,
+      "columns": {
+        "Text": [
+          {
+            "en": "This mechanism is locked, you need a key to open it.",
+            "zh": "机关被锁住了，你需要一把钥匙来打开它。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MapCraftingFailedCraftNoExtraContent",
+      "index": 641,
+      "columns": {
+        "Text": [
+          {
+            "en": "Activation failed. Extra Content cannot be added to this Map.",
+            "zh": "激活失败。额外内容无法对该地图添加。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "StopwatchElapsedTime",
+      "index": 642,
+      "columns": {
+        "Text": [
+          {
+            "en": "Elapsed Time: {0}",
+            "zh": "已持续时间：{0}"
+          }
+        ]
+      }
+    },
+    {
+      "id": "StopwatchSplitTime",
+      "index": 643,
+      "columns": {
+        "Text": [
+          {
+            "en": "This Split: {0}",
+            "zh": "该段用时：{0}"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AncestralTrialRosterFull",
+      "index": 644,
+      "columns": {
+        "Text": [
+          {
+            "en": "Maximum number of Warriors and Field Items reached. Please sell existing ones in order to purchase new ones.",
+            "zh": "战士和场地物品数量已达上限。出售已有物品以购买新物品。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AncestralTrialInventoryFull",
+      "index": 645,
+      "columns": {
+        "Text": [
+          {
+            "en": "Maximum number of Equipment Items reached. Please sell existing ones in order to purchase new ones.",
+            "zh": "装备物品数量已达上限。出售已有物品以购买新物品。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LeagueFirstToAncestorRank",
+      "index": 646,
+      "columns": {
+        "Text": [
+          {
+            "en": "{0} is the first character to reach {1} Ranking in the Trial of the Ancestors!",
+            "zh": "{0} 是首个在命运试炼中达到 {1} 积分的角色！"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AncestralTrialMatchInProgress",
+      "index": 647,
+      "columns": {
+        "Text": [
+          {
+            "en": "Cannot enter the Halls of the Dead while a Trial of the Ancestors is in progress.",
+            "zh": "命运试炼进行时无法进入亡者之境。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MapLethalAfterTimeBeginDeathCount",
+      "index": 648,
+      "columns": {
+        "Text": [
+          {
+            "en": "You must flee! The foundational memories of this place are dissolving!",
+            "zh": "快逃出去！支撑着这个地方的回忆正在消散！"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MapLethalAfterTimeKillPlayer",
+      "index": 650,
+      "columns": {
+        "Text": [
+          {
+            "en": "This place can no longer support life. I can only hope that you have already escaped.",
+            "zh": "这个地方已经没有生命的容身之地。但愿你已经逃出生天了。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MapLethalAfterTime75Percent",
+      "index": 651,
+      "columns": {
+        "Text": [
+          {
+            "en": "As I feared, this is not a stable map. You have already expended a quarter of your time here.",
+            "zh": "我的担心成真了，这张地图并不稳定。你能挥霍的时间已经过去了四分之一。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MapLethalAfterTime50Percent",
+      "index": 652,
+      "columns": {
+        "Text": [
+          {
+            "en": "The integrity of the area has fractured by half.",
+            "zh": "这个区域的完整结构已经崩塌了一半。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MapLethalAfterTime25Percent",
+      "index": 653,
+      "columns": {
+        "Text": [
+          {
+            "en": "Time is almost up. A mere quarter remains!",
+            "zh": "时间就要耗尽了，只剩下四分之一了！"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MapLethalAfterTimeCompletion",
+      "index": 654,
+      "columns": {
+        "Text": [
+          {
+            "en": "The danger has passed. This place is safe now... or as safe as the Atlas can be.",
+            "zh": "危机已经解除，这个地方安全了……可异界能有多安全呢？"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MapLethalAfterTimeEntrance",
+      "index": 655,
+      "columns": {
+        "Text": [
+          {
+            "en": "My dear Zana, you must not linger in this place. It is more dream than real. I will imprint what warnings I can.",
+            "zh": "我亲爱的札娜，你不能在这里久留。这个虚幻的梦境并不真实。我会将尽我所能给你留下警告。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MapDeviceCannotUseFragmentWithMapTier",
+      "index": 656,
+      "columns": {
+        "Text": [
+          {
+            "en": "Activation failed. {0} cannot apply to a Map of this tier.",
+            "zh": "激活失败。{0} 无法对该等阶的地图使用。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CharacterNotUsableInCouchCoop",
+      "index": 657,
+      "columns": {
+        "Text": [
+          {
+            "en": "This Character cannot be used in Couch Co-Op",
+            "zh": "该角色无法在本地联机中使用"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ReceivedWeaponSpecialisationPoint1",
+      "index": 658,
+      "columns": {
+        "Text": [
+          {
+            "en": "You have received a Weapon Set Passive Skill Point.",
+            "zh": "你得到了 1 点武器组天赋点。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ReceivedWeaponSpecialisationPointN",
+      "index": 659,
+      "columns": {
+        "Text": [
+          {
+            "en": "You have received {0} Weapon Set Passive Skill Points.",
+            "zh": "你得到了 {0} 点武器组天赋点。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DemoComplete",
+      "index": 660,
+      "columns": {
+        "Text": [
+          {
+            "en": "Congratulations, you have finished the demo! Thanks for playing!",
+            "zh": "恭喜您通关了试玩版！感谢您的游玩！"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DemoDisconnectWarning",
+      "index": 661,
+      "columns": {
+        "Text": [
+          {
+            "en": "You will be returned to the title screen in 20 seconds...",
+            "zh": "您将在 20 秒内回到标题界面……"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DemoTimeUp",
+      "index": 662,
+      "columns": {
+        "Text": [
+          {
+            "en": "Your time is up. Thanks for playing!",
+            "zh": "您的时间耗尽了。感谢您的游玩！"
+          }
+        ]
+      }
+    },
+    {
+      "id": "InteractErrorSacrificialHeart",
+      "index": 663,
+      "columns": {
+        "Text": [
+          {
+            "en": "It seems to require some kind of heart.",
+            "zh": "看起来需要某种心。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "InteractErrorSacrificialDagger",
+      "index": 664,
+      "columns": {
+        "Text": [
+          {
+            "en": "It seems to require some kind of dagger.",
+            "zh": "看起来需要某种匕首。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CannotRejoinAreaAfterDeath",
+      "index": 665,
+      "columns": {
+        "Text": [
+          {
+            "en": "You cannot rejoin this area after dying.",
+            "zh": "您被击败后无法重新进入该区域。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CannotRejoinAreaAfterLeaving",
+      "index": 666,
+      "columns": {
+        "Text": [
+          {
+            "en": "You cannot rejoin this area after leaving.",
+            "zh": "您离开后无法重新进入该区域。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "INTLFailedToGetLoginInfo",
+      "index": 667,
+      "columns": {
+        "Text": [
+          {
+            "en": "Failed to get login information",
+            "zh": "无法获取登录信息"
+          }
+        ]
+      }
+    },
+    {
+      "id": "InteractErrorDoorIsOneWay",
+      "index": 668,
+      "columns": {
+        "Text": [
+          {
+            "en": "The door does not open from this side.",
+            "zh": "这扇门无法从这一侧开启。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "InteractErrorDoorRequiresKey1",
+      "index": 669,
+      "columns": {
+        "Text": [
+          {
+            "en": "[DNT-UNUSED] The Martyr Relief is flecked with gold, as though it once held a golden sceptre.",
+            "zh": "[DNT-未使用]殉道者浮雕表面残留金屑，似乎曾镶嵌黄金权杖。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "InteractErrorDoorRequiresKey2",
+      "index": 670,
+      "columns": {
+        "Text": [
+          {
+            "en": "[DNT-UNUSED] The Painter Relief is flecked with gold, as though it once held a golden palette.",
+            "zh": "[DNT-未使用]画家浮雕表面残留金屑，似乎曾镶嵌黄金调色板。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "InteractErrorDoorRequiresKey3",
+      "index": 671,
+      "columns": {
+        "Text": [
+          {
+            "en": "[DNT-UNUSED] The Scholar relief is flecked with gold, as though it once held a golden tome.",
+            "zh": "[DNT-未使用]学者浮雕表面残留金屑，似乎曾镶嵌黄金典籍。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "InteractErrorDoorRequiresKey4",
+      "index": 672,
+      "columns": {
+        "Text": [
+          {
+            "en": "[DNT-UNUSED] The Bard relief is flecked with gold, as though it once held a golden lyre.",
+            "zh": "[DNT-未使用]吟游诗人浮雕表面残留金屑，似乎曾镶嵌黄金竖琴。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "InteractErrorDominusSecretPassage",
+      "index": 673,
+      "columns": {
+        "Text": [
+          {
+            "en": "[DNT-UNUSED] The bust of Dominus is flecked with gold, as though it once wore a golden crown.",
+            "zh": "[DNT-未使用]多米纳斯半身像表面残留金屑，似乎曾佩戴黄金冠冕。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "QuestRewardConsumeMessage",
+      "index": 674,
+      "columns": {
+        "Text": [
+          {
+            "en": "Removed from Inventory:\r\n{0}",
+            "zh": "从背包中移除：\r\n{0}"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CannotDisenchantEquippedItem",
+      "index": 675,
+      "columns": {
+        "Text": [
+          {
+            "en": "Cannot disenchant this item because it is equipped.",
+            "zh": "该物品已装备，无法对其进行分解。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CrossplayRequestRejected",
+      "index": 676,
+      "columns": {
+        "Text": [
+          {
+            "en": "Request rejected due to your cross platform limitations.",
+            "zh": "由于你的跨平台限制，请求被拒绝。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CrossplayRequestRejectedByCounterpart",
+      "index": 677,
+      "columns": {
+        "Text": [
+          {
+            "en": "Request rejected due to counterpart cross platform limitations.",
+            "zh": "由于对方的跨平台限制，请求被拒绝。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CrossplayRequestIgnored",
+      "index": 678,
+      "columns": {
+        "Text": [
+          {
+            "en": "Incoming request ignored due to your cross platform limitations.",
+            "zh": "由于你的跨平台限制，请求被忽略。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AccountMergeFailed",
+      "index": 679,
+      "columns": {
+        "Text": [
+          {
+            "en": "Failed to merge accounts.",
+            "zh": "无法合并账号。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AccountUnmergeFailed",
+      "index": 680,
+      "columns": {
+        "Text": [
+          {
+            "en": "Failed to unmerge accounts.",
+            "zh": "无法分离账号。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AccountNameUnavailable",
+      "index": 681,
+      "columns": {
+        "Text": [
+          {
+            "en": "This account name is unavailable.",
+            "zh": "该账号名称不可使用。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "NotEnoughPortalsForParty",
+      "index": 682,
+      "columns": {
+        "Text": [
+          {
+            "en": "Not enough portals for entry.",
+            "zh": "时空之门不足，无法进入。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "InvalidTrial",
+      "index": 683,
+      "columns": {
+        "Text": [
+          {
+            "en": "Your trial is in an invalid state. Please restart the instance to prevent further errors.",
+            "zh": "你的试炼无法进行。请重启副本，以免发生更多错误。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AccountLockedForGDPRDelete",
+      "index": 684,
+      "columns": {
+        "Text": [
+          {
+            "en": "Your account has been locked because it is pending deletion. Log into the website to prevent your account from being deleted.",
+            "zh": "您的账号处于待删除状态，已被锁定。请登录官网取消删除操作。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "VerificationCodeMessage",
+      "index": 685,
+      "columns": {
+        "Text": [
+          {
+            "en": "Your verification code is {0}, it has been copied to your clipboard",
+            "zh": "您的验证码是 {0}，已复制到剪贴板。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ReceivedStatBonusWithName",
+      "index": 686,
+      "columns": {
+        "Text": [
+          {
+            "en": "{0} has received {1}.",
+            "zh": "{0} 获得了 {1}。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LostStatBonusWithName",
+      "index": 687,
+      "columns": {
+        "Text": [
+          {
+            "en": "{0} has lost {1}.",
+            "zh": "{0} 失去了 {1}。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "TencentMSDKUpdatingCreateAccountUnavailable",
+      "index": 688,
+      "columns": {
+        "Text": [
+          {
+            "en": "Login is being upgraded. Please try again later.",
+            "zh": "登录互联升级中，请稍后再试"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AsyncTradeSellerIsBanned",
+      "index": 689,
+      "columns": {
+        "Text": [
+          {
+            "en": "The seller's account has been banned.",
+            "zh": "卖家帐号已被封禁。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AsyncTradeItemIsSold",
+      "index": 690,
+      "columns": {
+        "Text": [
+          {
+            "en": "The item has already been bought by another player.",
+            "zh": "该物品已被其他玩家购买。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AsyncTradeItemGone",
+      "index": 691,
+      "columns": {
+        "Text": [
+          {
+            "en": "The item is no longer for sale.",
+            "zh": "该物品不再出售。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AsyncTradeKickedFromHideout",
+      "index": 692,
+      "columns": {
+        "Text": [
+          {
+            "en": "You have been kicked from the Hideout because there are too many players in it, and someone else needed to join.",
+            "zh": "你已被移出藏身处，因为人数已满，需要为其他玩家让出空间。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AsyncTradeSoftFailureAlreadySecured",
+      "index": 693,
+      "columns": {
+        "Text": [
+          {
+            "en": "Another player has secured that item, but not purchased it yet.",
+            "zh": "该物品已被其他玩家预定，但尚未完成购买。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AsyncTradeSoftFailureLockout",
+      "index": 694,
+      "columns": {
+        "Text": [
+          {
+            "en": "You have secured another item from this seller recently and must wait before securing more items they are selling.",
+            "zh": "你最近已从该卖家处预定过物品，需要等待冷却时间才能继续预定其商品。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AsyncTradeAccountIsOnline",
+      "index": 695,
+      "columns": {
+        "Text": [
+          {
+            "en": "A Hideout trade session is currently active for this account.",
+            "zh": "该账户正在进行藏身处交易会话。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AsyncTradeAccountIsOffline",
+      "index": 696,
+      "columns": {
+        "Text": [
+          {
+            "en": "The Hideout trade session is offline.",
+            "zh": "藏身处交易会话已离线。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "NotAsyncTradeAccountOwner",
+      "index": 697,
+      "columns": {
+        "Text": [
+          {
+            "en": "Operation cannot be performed because this instance is not the owner of the Hideout trade session.",
+            "zh": "不能执行此项操作，因为当前实例并非该藏身处交易会话的拥有者。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AsyncTradeSessionWasRelinquished",
+      "index": 698,
+      "columns": {
+        "Text": [
+          {
+            "en": "This Hideout instance no longer allows trading. Please re-enter the Hideout to create a new instance.",
+            "zh": "此藏身处实例已禁用交易功能。请重新进入藏身处以创建新的实例。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FreeWeekendEnded",
+      "index": 699,
+      "columns": {
+        "Text": [
+          {
+            "en": "The free weekend has now finished, thanks for playing! Purchase access to continue playing from where you left off.",
+            "zh": "周末免费体验活动现已结束，感谢您的游玩！购买资格继续您的游戏进度吧。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AsyncTradeHideoutIsLoadingStash",
+      "index": 700,
+      "columns": {
+        "Text": [
+          {
+            "en": "The shop is still loading; please try again.",
+            "zh": "商店正在加载中，请稍后再试。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AsyncTradeOnlineInWrongLeague",
+      "index": 701,
+      "columns": {
+        "Text": [
+          {
+            "en": "You must be online in the same league as the seller in order to secure and purchase the item.",
+            "zh": "你必须与卖家在同一赛季且处于在线状态，才可预定和购买物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AsyncTradeYouAreTheSeller",
+      "index": 702,
+      "columns": {
+        "Text": [
+          {
+            "en": "You cannot secure items that you are selling yourself.",
+            "zh": "无法预定自己出售的物品。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AsyncTradeYouAreDead",
+      "index": 703,
+      "columns": {
+        "Text": [
+          {
+            "en": "You cannot secure items while dead.",
+            "zh": "死亡状态下无法预定物品。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AsyncTradeCannotTeleportFromHere",
+      "index": 704,
+      "columns": {
+        "Text": [
+          {
+            "en": "You must be in a town or Hideout area to secure items.",
+            "zh": "必须位于城镇或藏身处区域才能预定物品。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "TencentAccountFrozen",
+      "index": 705,
+      "columns": {
+        "Text": [
+          {
+            "en": "Your account has been frozen.",
+            "zh": "此账号已经被冻结了。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "TencentAccountAlreadyHasLongerPenalty",
+      "index": 706,
+      "columns": {
+        "Text": [
+          {
+            "en": "This account has already been given a longer penalty period.",
+            "zh": "此账号已经存在一个更长的处罚。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SonyWebApiEmptyResponse",
+      "index": 707,
+      "columns": {
+        "Text": [
+          {
+            "en": "Empty response.",
+            "zh": "未收到有效回复。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SonyWebApiFailedToParseResponse",
+      "index": 708,
+      "columns": {
+        "Text": [
+          {
+            "en": "Failed to parse response.",
+            "zh": "处理服务器数据时出错。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SonyWebApiUnexpectedStatusCode",
+      "index": 709,
+      "columns": {
+        "Text": [
+          {
+            "en": "Unexpected status code.",
+            "zh": "服务器返回了异常状态。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AreaExceedsLeagueActLimit",
+      "index": 710,
+      "columns": {
+        "Text": [
+          {
+            "en": "Cannot enter this area's Act because there is a progression limit in this League.",
+            "zh": "无法进入该区域的章节，因为此赛季中存在进度限制。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CannotAccessAreaWrongLeague",
+      "index": 711,
+      "columns": {
+        "Text": [
+          {
+            "en": "You are not in the correct League to access this area.",
+            "zh": "当前赛季无法进入此区域。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CharacterSacrificed",
+      "index": 712,
+      "columns": {
+        "Text": [
+          {
+            "en": "{0} has become the Martyr of the First Edict. All may claim a mote of their power.",
+            "zh": "{0} 已成为第一律令的殉道者。所有人都可以分得其一丝力量。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LeagueFlagAlreadySet",
+      "index": 713,
+      "columns": {
+        "Text": [
+          {
+            "en": "The specified league flag is already in the required state.",
+            "zh": "指定的赛季标记已处于所需状态。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CannotInitiateTradeAfterAsyncTradeTeleport",
+      "index": 714,
+      "columns": {
+        "Text": [
+          {
+            "en": "You cannot initiate trades with other players in this Hideout because you travelled here via the Trade Market.",
+            "zh": "你无法在此藏身处与其他玩家发起交易，因为你是通过交易市场传送至此的。"
+          }
+        ]
+      }
+    }
+  ]
+}

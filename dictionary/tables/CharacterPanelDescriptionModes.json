@@ -1,0 +1,71 @@
+{
+  "table": "CharacterPanelDescriptionModes",
+  "key": "Id",
+  "columns": [
+    "__col1",
+    "FormatString_Positive",
+    "FormatString_Negative"
+  ],
+  "entries": [
+    {
+      "id": "Yes",
+      "index": 4,
+      "columns": {
+        "FormatString_Positive": [
+          {
+            "en": "No",
+            "zh": "否"
+          }
+        ],
+        "FormatString_Negative": [
+          {
+            "en": "Yes",
+            "zh": "是"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PercentModifierFinal",
+      "index": 8,
+      "columns": {
+        "FormatString_Positive": [
+          {
+            "en": "{0}% more",
+            "zh": "总增 {0}% "
+          }
+        ],
+        "FormatString_Negative": [
+          {
+            "en": "{0}% less",
+            "zh": "总降 {0}% "
+          }
+        ]
+      }
+    },
+    {
+      "id": "Seconds",
+      "index": 9,
+      "columns": {
+        "FormatString_Positive": [
+          {
+            "en": "{0}s",
+            "zh": "{0} 秒"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PercentageValueWithMax",
+      "index": 12,
+      "columns": {
+        "FormatString_Positive": [
+          {
+            "en": "{0}% (max {1}%)",
+            "zh": "{0}% (最大 {1}%)"
+          }
+        ]
+      }
+    }
+  ]
+}

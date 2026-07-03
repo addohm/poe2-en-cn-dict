@@ -1,0 +1,25 @@
+{
+  "table": "MysteryBoxes",
+  "key": "_index",
+  "columns": [
+    "BK2File",
+    "BoxId",
+    "BundleId",
+    "Logo",
+    "Gradient"
+  ],
+  "entries": [
+    {
+      "id": null,
+      "index": 88,
+      "columns": {
+        "Gradient": [
+          {
+            "en": "<fg:rgb(243,236,218)>{<gradient:rgb(136,122,106)>{Mystery Box}}",
+            "zh": "<fg:rgb(243,236,218)>{<gradient:rgb(136,122,106)>{神秘宝箱}}"
+          }
+        ]
+      }
+    }
+  ]
+}

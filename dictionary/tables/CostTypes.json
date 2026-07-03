@@ -1,0 +1,225 @@
+{
+  "table": "CostTypes",
+  "key": "Id",
+  "columns": [
+    "FormatText"
+  ],
+  "entries": [
+    {
+      "id": "Mana",
+      "index": 0,
+      "columns": {
+        "FormatText": [
+          {
+            "en": "{0} Mana",
+            "zh": "{0} 点魔力"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Life",
+      "index": 1,
+      "columns": {
+        "FormatText": [
+          {
+            "en": "{0} Life",
+            "zh": "{0} 点生命"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ES",
+      "index": 2,
+      "columns": {
+        "FormatText": [
+          {
+            "en": "{0} Energy Shield",
+            "zh": "{0} 点能量护盾"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Rage",
+      "index": 3,
+      "columns": {
+        "FormatText": [
+          {
+            "en": "{0} Rage",
+            "zh": "{0} 点怒火"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Ward",
+      "index": 4,
+      "columns": {
+        "FormatText": [
+          {
+            "en": "{0} Ward",
+            "zh": "{0} 点结界"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ManaPercent",
+      "index": 5,
+      "columns": {
+        "FormatText": [
+          {
+            "en": "{0}% Mana",
+            "zh": "{0}% 魔力"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LifePercent",
+      "index": 6,
+      "columns": {
+        "FormatText": [
+          {
+            "en": "{0}% Life",
+            "zh": "{0}% 生命"
+          }
+        ]
+      }
+    },
+    {
+      "id": "WardPercent",
+      "index": 7,
+      "columns": {
+        "FormatText": [
+          {
+            "en": "{0}% Ward",
+            "zh": "{0}% 符文结界"
+          }
+        ]
+      }
+    },
+    {
+      "id": "UnreservedManaPercent",
+      "index": 8,
+      "columns": {
+        "FormatText": [
+          {
+            "en": "{0}% Unreserved Mana ",
+            "zh": "{0}% 未保留魔力 "
+          }
+        ]
+      }
+    },
+    {
+      "id": "ManaPerMinute",
+      "index": 9,
+      "columns": {
+        "FormatText": [
+          {
+            "en": "{0} Mana per second",
+            "zh": "魔力每秒 {0} 点"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LifePerMinute",
+      "index": 10,
+      "columns": {
+        "FormatText": [
+          {
+            "en": "{0} Life per second",
+            "zh": "生命每秒 {0} 点"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ManaPercentPerMinute",
+      "index": 11,
+      "columns": {
+        "FormatText": [
+          {
+            "en": "{0}% Mana per second",
+            "zh": "魔力每秒 {0}%"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LifePercentPerMinute",
+      "index": 12,
+      "columns": {
+        "FormatText": [
+          {
+            "en": "{0}% Life per second",
+            "zh": "生命每秒 {0}%"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ESPerMinute",
+      "index": 13,
+      "columns": {
+        "FormatText": [
+          {
+            "en": "{0} Energy Shield per second",
+            "zh": "能量护盾每秒 {0} 点"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ESPercentPerMinute",
+      "index": 14,
+      "columns": {
+        "FormatText": [
+          {
+            "en": "{0}% Energy Shield per second",
+            "zh": "能量护盾每秒 {0}%"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ESPercent",
+      "index": 15,
+      "columns": {
+        "FormatText": [
+          {
+            "en": "{0}% Energy Shield",
+            "zh": "{0}% 能量护盾"
+          }
+        ]
+      }
+    },
+    {
+      "id": "RagePerMinute",
+      "index": 16,
+      "columns": {
+        "FormatText": [
+          {
+            "en": "{0} Rage per second",
+            "zh": "{0} 点怒火/秒"
+          }
+        ]
+      }
+    },
+    {
+      "id": "WardPerMinute",
+      "index": 17,
+      "columns": {
+        "FormatText": [
+          {
+            "en": "{0} Ward per second",
+            "zh": "{0} 点结界/秒"
+          }
+        ]
+      }
+    }
+  ]
+}

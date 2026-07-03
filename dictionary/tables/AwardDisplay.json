@@ -1,0 +1,806 @@
+{
+  "table": "AwardDisplay",
+  "key": "Id",
+  "columns": [
+    "Text",
+    "BackgroundImage",
+    "__col6",
+    "__col7",
+    "ForegroundImage",
+    "AwardVideo"
+  ],
+  "entries": [
+    {
+      "id": "LegionMapDeviceAward",
+      "index": 0,
+      "columns": {
+        "Text": [
+          {
+            "en": "You have unlocked an additional item slot on the Map Device",
+            "zh": "你的地图装置解锁了一个额外物品槽"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AtlasMissionKirac",
+      "index": 1,
+      "columns": {
+        "Text": [
+          {
+            "en": "Atlas Mission from Kirac Received",
+            "zh": "接到奇拉克的异界图鉴任务"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AtlasMissionAlva",
+      "index": 2,
+      "columns": {
+        "Text": [
+          {
+            "en": "Atlas Mission from Alva Received",
+            "zh": "接到阿尔瓦的异界图鉴任务"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AtlasMissionNiko",
+      "index": 3,
+      "columns": {
+        "Text": [
+          {
+            "en": "Atlas Mission from Niko Received",
+            "zh": "接到尼克的异界图鉴任务"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AtlasMissionEinhar",
+      "index": 4,
+      "columns": {
+        "Text": [
+          {
+            "en": "Atlas Mission from Einhar Received",
+            "zh": "接到伊恩哈尔的异界图鉴任务"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AtlasMissionJun",
+      "index": 5,
+      "columns": {
+        "Text": [
+          {
+            "en": "Atlas Mission from Jun Received",
+            "zh": "接到琼的异界图鉴任务"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FavouredMapSlotUnlocked",
+      "index": 6,
+      "columns": {
+        "Text": [
+          {
+            "en": "Favoured Map Slot Unlocked",
+            "zh": "酷爱的地图槽已解锁"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HarvestCraftingBenchUnlocked",
+      "index": 7,
+      "columns": {
+        "Text": [
+          {
+            "en": "Horticrafting Station decoration now available in your Hideout",
+            "zh": "你可以用庄园工艺站装饰你的藏身处了。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HarvestSeedStashUnlocked",
+      "index": 8,
+      "columns": {
+        "Text": [
+          {
+            "en": "Seed Stockpile decoration now available in your Hideout",
+            "zh": "现在你可以用种子库装饰藏身处了"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HeistStashUnlocked",
+      "index": 9,
+      "columns": {
+        "Text": [
+          {
+            "en": "Heist Locker decoration now available in your Hideout",
+            "zh": "现在你可以用夺宝奇兵陈列柜装饰藏身处了"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ExpeditionStashUnlocked",
+      "index": 10,
+      "columns": {
+        "Text": [
+          {
+            "en": "Expedition Locker decoration now available in your Hideout",
+            "zh": "现在你可以用先祖秘藏展示柜装饰藏身处了"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FavouriteMapSlotUnlock1",
+      "index": 11,
+      "columns": {
+        "Text": [
+          {
+            "en": "Favoured Map Slot Unlocked",
+            "zh": "酷爱的地图槽已解锁"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FavouriteMapSlotUnlock2",
+      "index": 12,
+      "columns": {
+        "Text": [
+          {
+            "en": "Favoured Map Slot Unlocked",
+            "zh": "酷爱的地图槽已解锁"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FavouriteMapSlotUnlock3",
+      "index": 13,
+      "columns": {
+        "Text": [
+          {
+            "en": "Favoured Map Slot Unlocked",
+            "zh": "酷爱的地图槽已解锁"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FavouriteMapSlotUnlock4",
+      "index": 14,
+      "columns": {
+        "Text": [
+          {
+            "en": "Favoured Map Slot Unlocked",
+            "zh": "酷爱的地图槽已解锁"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FavouriteMapSlotUnlock5",
+      "index": 15,
+      "columns": {
+        "Text": [
+          {
+            "en": "Favoured Map Slot Unlocked",
+            "zh": "酷爱的地图槽已解锁"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FavouriteMapSlotUnlock6",
+      "index": 16,
+      "columns": {
+        "Text": [
+          {
+            "en": "Favoured Map Slot Unlocked",
+            "zh": "酷爱的地图槽已解锁"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FavouriteMapSlotUnlock7",
+      "index": 17,
+      "columns": {
+        "Text": [
+          {
+            "en": "Favoured Map Slot Unlocked",
+            "zh": "酷爱的地图槽已解锁"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FavouriteMapSlotUnlock8",
+      "index": 18,
+      "columns": {
+        "Text": [
+          {
+            "en": "Favoured Map Slot Unlocked",
+            "zh": "酷爱的地图槽已解锁"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FavouriteMapSlotUnlock9",
+      "index": 19,
+      "columns": {
+        "Text": [
+          {
+            "en": "Favoured Map Slot Unlocked",
+            "zh": "酷爱的地图槽已解锁"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FavouriteMapSlotUnlock10",
+      "index": 20,
+      "columns": {
+        "Text": [
+          {
+            "en": "Favoured Map Slot Unlocked",
+            "zh": "酷爱的地图槽已解锁"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FavouriteMapSlotUnlock11",
+      "index": 21,
+      "columns": {
+        "Text": [
+          {
+            "en": "Favoured Map Slot Unlocked",
+            "zh": "酷爱的地图槽已解锁"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FavouriteMapSlotUnlock12",
+      "index": 22,
+      "columns": {
+        "Text": [
+          {
+            "en": "Favoured Map Slot Unlocked",
+            "zh": "酷爱的地图槽已解锁"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ArchnemesisModPanelUnlocked",
+      "index": 23,
+      "columns": {
+        "Text": [
+          {
+            "en": "Archnemesis Inventory now available",
+            "zh": "罪恶枷锁背包现在可用"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AtlasMissionGeneric",
+      "index": 24,
+      "columns": {
+        "Text": [
+          {
+            "en": "Craft Received",
+            "zh": "工艺取得"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SentinelStashUnlocked",
+      "index": 25,
+      "columns": {
+        "Text": [
+          {
+            "en": "Sentinel Locker decoration now available in your Hideout",
+            "zh": "现在你可以用近卫陈列柜装饰藏身处了"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LakeQuestMetaOption1",
+      "index": 26,
+      "columns": {
+        "Text": [
+          {
+            "en": "Mirrored Tablet can now Reroll a set of Choices",
+            "zh": "镜像桌台现在可以重置一组选项。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LakeQuestMetaOption2",
+      "index": 27,
+      "columns": {
+        "Text": [
+          {
+            "en": "Mirrored Tablet can now Reroll a set of Choices",
+            "zh": "镜像桌台现在可以重置一组选项。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LakeQuestMetaOption3",
+      "index": 28,
+      "columns": {
+        "Text": [
+          {
+            "en": "Mirrored Tablet can now Reroll a set of Choices",
+            "zh": "镜像桌台现在可以重置一组选项。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LakeQuestMetaOption4",
+      "index": 29,
+      "columns": {
+        "Text": [
+          {
+            "en": "Mirrored Tablet can now Skip a Choice",
+            "zh": "镜像桌台现在可以跳过一个选项。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LakeQuestMetaOption5",
+      "index": 30,
+      "columns": {
+        "Text": [
+          {
+            "en": "Mirrored Tablet can now Skip a Choice",
+            "zh": "镜像桌台现在可以跳过一个选项。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LakeQuestMetaOption6",
+      "index": 31,
+      "columns": {
+        "Text": [
+          {
+            "en": "Mirrored Tablet can now Skip a Choice",
+            "zh": "镜像桌台现在可以跳过一个选项。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LakeQuestMetaOption7",
+      "index": 32,
+      "columns": {
+        "Text": [
+          {
+            "en": "Mirrored Tablet can now Exile a Reflection",
+            "zh": "镜像桌台现在可以屏蔽一个镜像。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LakeQuestMetaOption8",
+      "index": 33,
+      "columns": {
+        "Text": [
+          {
+            "en": "Mirrored Tablet can now Exile a Reflection",
+            "zh": "镜像桌台现在可以屏蔽一个镜像。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LakeQuestMetaOption9",
+      "index": 34,
+      "columns": {
+        "Text": [
+          {
+            "en": "Mirrored Tablet can now Exile a Reflection",
+            "zh": "镜像桌台现在可以屏蔽一个镜像。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SanctumRelicSlotUnlock1",
+      "index": 35,
+      "columns": {
+        "Text": [
+          {
+            "en": "Relic Altar Slots Unlocked",
+            "zh": "解锁遗物之殿插槽"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SanctumRelicSlotUnlock3",
+      "index": 36,
+      "columns": {
+        "Text": [
+          {
+            "en": "Relic Altar Slots Unlocked",
+            "zh": "解锁遗物之殿插槽"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SanctumRelicSlotUnlock5",
+      "index": 37,
+      "columns": {
+        "Text": [
+          {
+            "en": "Relic Altar Slots Unlocked",
+            "zh": "解锁遗物之殿插槽"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SanctumRelicSlotUnlock7",
+      "index": 38,
+      "columns": {
+        "Text": [
+          {
+            "en": "Relic Altar Slots Unlocked",
+            "zh": "解锁遗物之殿插槽"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SanctumRelicSlotUnlock9",
+      "index": 39,
+      "columns": {
+        "Text": [
+          {
+            "en": "Relic Altar Slot Unlocked",
+            "zh": "解锁遗物之殿插槽"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SanctumRelicSlotUnlock10",
+      "index": 40,
+      "columns": {
+        "Text": [
+          {
+            "en": "Relic Altar Slot Unlocked",
+            "zh": "解锁遗物之殿插槽"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SanctumRelicSlotUnlock11",
+      "index": 41,
+      "columns": {
+        "Text": [
+          {
+            "en": "Relic Altar Slot Unlocked",
+            "zh": "解锁遗物之殿插槽"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SanctumRelicSlotUnlock12",
+      "index": 42,
+      "columns": {
+        "Text": [
+          {
+            "en": "Relic Altar Slot Unlocked",
+            "zh": "解锁遗物之殿插槽"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SanctumSpecialRelicSlotUnlocked",
+      "index": 43,
+      "columns": {
+        "Text": [
+          {
+            "en": "Sanctified Relic Altar Slot Unlocked",
+            "zh": "解锁圣洁遗物之殿插槽"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SanctumRelicLockerUnlocked",
+      "index": 44,
+      "columns": {
+        "Text": [
+          {
+            "en": "Relic Locker decoration now available in your Hideout",
+            "zh": "现在你可以用遗物陈列柜装饰藏身处了"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SanctumMerchantUnlocked",
+      "index": 45,
+      "columns": {
+        "Text": [
+          {
+            "en": "Divinia can appear within the Sanctum as a Merchant",
+            "zh": "蒂芬妮亚可以作为永生禁域的商人了"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SanctumPactsUnlocked",
+      "index": 46,
+      "columns": {
+        "Text": [
+          {
+            "en": "Accursed Pacts can appear within the Sanctum",
+            "zh": "永生禁域会出现遭诅契约"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SalvageBenchUnlocked",
+      "index": 47,
+      "columns": {
+        "Text": [
+          {
+            "en": "Salvage Bench Unlocked",
+            "zh": "分解台已解锁"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ReforgingBenchUnlocked",
+      "index": 48,
+      "columns": {
+        "Text": [
+          {
+            "en": "Reforging Bench Unlocked",
+            "zh": "重铸台已解锁"
+          }
+        ]
+      }
+    },
+    {
+      "id": "RecombinatorUnlocked",
+      "index": 49,
+      "columns": {
+        "Text": [
+          {
+            "en": "Recombinator Unlocked",
+            "zh": "重组器已解锁"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DeliriumEndgameHubUnlocked",
+      "index": 50,
+      "columns": {
+        "Text": [
+          {
+            "en": "Location Discovered\n<smaller>{The Withered Willow}",
+            "zh": "发现地点\n<smaller>{萎败细柳}"
+          }
+        ]
+      }
+    },
+    {
+      "id": "RitualEndgameHubUnlocked",
+      "index": 51,
+      "columns": {
+        "Text": [
+          {
+            "en": "Location Discovered\n<smaller>{Caer Tarth}",
+            "zh": "发现地点\n<smaller>{赛尔塔斯}"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BreachEndgameHubUnlocked",
+      "index": 52,
+      "columns": {
+        "Text": [
+          {
+            "en": "Location Discovered\n<smaller>{Monastery of the Keepers}",
+            "zh": "发现地点\n<smaller>{守护者修道院}"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AbyssEndgameHubUnlocked",
+      "index": 53,
+      "columns": {
+        "Text": [
+          {
+            "en": "Location Discovered\n<smaller>{The Well of Souls}",
+            "zh": "发现地点\n<smaller>{灵魂之井}"
+          }
+        ]
+      }
+    },
+    {
+      "id": "IncursionEndgameHubUnlocked",
+      "index": 54,
+      "columns": {
+        "Text": [
+          {
+            "en": "Location Discovered\n<smaller>{Vaal Ruins}",
+            "zh": "发现地点\n<smaller>{瓦尔遗迹}"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ExpeditionEndgameHubUnlocked",
+      "index": 55,
+      "columns": {
+        "Text": [
+          {
+            "en": "Location Discovered\n<smaller>{Ruins of Kingsmarch}",
+            "zh": "发现地点\n<smaller>{君锋镇废墟}"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DeliriumGigaMirrorMapSpawned",
+      "index": 56,
+      "columns": {
+        "Text": [
+          {
+            "en": "A Grand Mirror is now accessible on your Atlas",
+            "zh": "你的异界图鉴上出现了一座恢宏之镜"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ExpeditionUIUnlocked",
+      "index": 57,
+      "columns": {
+        "Text": [
+          {
+            "en": "Runeshape Tome Unlocked\n<smaller>{Open with <N>{<normal>{<<keybind:open_expedition_panel>>}}}",
+            "zh": "符文法典已解锁\n<smaller>{按 <N>{<normal>{<<keybind:open_expedition_panel>>}} 打开}"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ExpeditionCraftingBench1Unlocked",
+      "index": 58,
+      "columns": {
+        "Text": [
+          {
+            "en": "Verisium Anvil Unlocked\n<smaller>{Runeforged Armours}",
+            "zh": "维金锻砧已解锁\n<smaller>{符文护甲}"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ExpeditionCraftingBench2Unlocked",
+      "index": 59,
+      "columns": {
+        "Text": [
+          {
+            "en": "Runic Inscriptions Unlocked\n<smaller>{Alloys}",
+            "zh": "符刻铭文已解锁\n<smaller>{合金}"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ExpeditionAct3CraftingKnowledgeUnlocked",
+      "index": 60,
+      "columns": {
+        "Text": [
+          {
+            "en": "Runeforging Recipe Unlocked\n<smaller>{Unique Weapons and Armour}",
+            "zh": "符文锻造配方已解锁\n<smaller>{传奇武器与护甲}"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ExpeditionAct4CraftingKnowledgeUnlocked",
+      "index": 61,
+      "columns": {
+        "Text": [
+          {
+            "en": "Runic Inscriptions Unlocked\n<smaller>{Ancient Runes}",
+            "zh": "符刻铭文已解锁\n<smaller>{远古符文}"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ExpeditionLogbookKalguuranWeaponCraftingUnlocked",
+      "index": 62,
+      "columns": {
+        "Text": [
+          {
+            "en": "Runeforging Recipe Unlocked\n<smaller>{Kalguuran Unique Weapons}",
+            "zh": "符文锻造配方已解锁\n<smaller>{卡古兰传奇武器}"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ExpeditionLogbookKalguuranArmourCraftingUnlocked",
+      "index": 63,
+      "columns": {
+        "Text": [
+          {
+            "en": "Runeforging Recipe Unlocked\n<smaller>{Kalguuran Unique Armours}",
+            "zh": "符文锻造配方已解锁\n<smaller>{卡古兰传奇护甲}"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ExpeditionLogbookKalguuranJewelleryCraftingUnlocked",
+      "index": 64,
+      "columns": {
+        "Text": [
+          {
+            "en": "Runeforging Recipe Unlocked\n<smaller>{Kalguuran Unique Jewellery}",
+            "zh": "符文锻造配方已解锁\n<smaller>{卡古兰传奇首饰}"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ExpeditionLogbookLevel20InherentCraftingUnlocked",
+      "index": 65,
+      "columns": {
+        "Text": [
+          {
+            "en": "Crafting Knowledge Unlocked\n<smaller>{Item Skill Upgrades}",
+            "zh": "工艺知识已解锁\n<smaller>{物品技能升级}"
+          }
+        ]
+      }
+    }
+  ]
+}

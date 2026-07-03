@@ -1,0 +1,57 @@
+{
+  "table": "EndgameSplinterInfoDisplay",
+  "key": "Id",
+  "columns": [
+    "Text"
+  ],
+  "entries": [
+    {
+      "id": "Breach",
+      "index": 0,
+      "columns": {
+        "Text": [
+          {
+            "en": "<<MiniIconBreach>> The Twisted Domain",
+            "zh": "<<MiniIconBreach>>扭曲领域"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Simulacrum",
+      "index": 1,
+      "columns": {
+        "Text": [
+          {
+            "en": "<<MiniIconDelirium>> The Simulacrum",
+            "zh": "<<MiniIconDelirium>>拟像"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Expedition",
+      "index": 2,
+      "columns": {
+        "Text": [
+          {
+            "en": "<<MiniIconExpedition>> The Kalguuran Tomb",
+            "zh": "<<MiniIconExpedition>>卡古兰遗址"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Ritual",
+      "index": 3,
+      "columns": {
+        "Text": [
+          {
+            "en": "<<MiniIconRitual>> The Crux of Nothingness",
+            "zh": "<<MiniIconRitual>>虚无之症"
+          }
+        ]
+      }
+    }
+  ]
+}

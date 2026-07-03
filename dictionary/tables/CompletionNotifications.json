@@ -1,0 +1,343 @@
+{
+  "table": "CompletionNotifications",
+  "key": "_index",
+  "columns": [
+    "Id",
+    "Title",
+    "Description",
+    "UIArt",
+    "Video"
+  ],
+  "entries": [
+    {
+      "id": null,
+      "index": 0,
+      "columns": {
+        "Title": [
+          {
+            "en": "Map Completed",
+            "zh": "地图已完成"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 1,
+      "columns": {
+        "Title": [
+          {
+            "en": "Map Completed",
+            "zh": "地图已完成"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 2,
+      "columns": {
+        "Title": [
+          {
+            "en": "Nexus of Corruption\nCleansed",
+            "zh": "腐化枢纽\n已净化"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 3,
+      "columns": {
+        "Title": [
+          {
+            "en": "Room Completed",
+            "zh": "房间已完成"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 4,
+      "columns": {
+        "Title": [
+          {
+            "en": "Room Completed",
+            "zh": "房间已完成"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 5,
+      "columns": {
+        "Title": [
+          {
+            "en": "Trial Completed",
+            "zh": "试炼完成"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 6,
+      "columns": {
+        "Title": [
+          {
+            "en": "Map Boss Available",
+            "zh": "可挑战地图首领"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 7,
+      "columns": {
+        "Title": [
+          {
+            "en": "Abyssal Overrun",
+            "zh": "深渊沦陷"
+          }
+        ],
+        "Description": [
+          {
+            "en": "A nearby map has been overrun",
+            "zh": "一张附近的地图已被深渊势力攻占。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 8,
+      "columns": {
+        "Title": [
+          {
+            "en": "Abyssal Overrun",
+            "zh": "深渊沦陷"
+          }
+        ],
+        "Description": [
+          {
+            "en": "An adjacent map has been overrun",
+            "zh": "一张邻近地图已被深渊势力攻占。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 9,
+      "columns": {
+        "Title": [
+          {
+            "en": "Room Completed",
+            "zh": "房间已完成"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 10,
+      "columns": {
+        "Title": [
+          {
+            "en": "Temple Complete",
+            "zh": "神庙已完成"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 11,
+      "columns": {
+        "Title": [
+          {
+            "en": "Grand Mirror Revealed",
+            "zh": "已揭示恢宏之镜"
+          }
+        ],
+        "Description": [
+          {
+            "en": "The Raven Trickster's curse spreads",
+            "zh": "黑鸦欺诈者的诅咒在蔓延"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 12,
+      "columns": {
+        "Title": [
+          {
+            "en": "2 Ascendancy Points Gained",
+            "zh": "已获得 2 点升华点数"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Open the passive skill tree to spend them",
+            "zh": "前往天赋树以使用"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 13,
+      "columns": {
+        "Title": [
+          {
+            "en": "Expedition Complete",
+            "zh": "先祖秘藏已完成"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 14,
+      "columns": {
+        "Title": [
+          {
+            "en": "Logbook Complete",
+            "zh": "日志已完成"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 15,
+      "columns": {
+        "Title": [
+          {
+            "en": "Doryani's Science Point Gained",
+            "zh": "已获得多里亚尼的科学之道点数"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 16,
+      "columns": {
+        "Title": [
+          {
+            "en": "Hilda's Hunting Point Gained",
+            "zh": "已获得希尔达的狩猎之道点数"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 17,
+      "columns": {
+        "Title": [
+          {
+            "en": "Jado's Spycraft Point Gained",
+            "zh": "已获得贾多的间谍之道点数"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 18,
+      "columns": {
+        "Title": [
+          {
+            "en": "Breach Hive",
+            "zh": "裂隙巢穴"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Established in a nearby map",
+            "zh": "已在一张附近的地图生成"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 19,
+      "columns": {
+        "Title": [
+          {
+            "en": "Simulacrum Unlocked",
+            "zh": "已解锁梦魇拟像"
+          }
+        ],
+        "Description": [
+          {
+            "en": "His madness flows through you - Seek the Raven Trickster",
+            "zh": "他的疯狂在你体内流淌——找到黑鸦欺诈者"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 20,
+      "columns": {
+        "Title": [
+          {
+            "en": "Hidden Map Revealed",
+            "zh": "已揭示隐藏地图"
+          }
+        ],
+        "Description": [
+          {
+            "en": "View on the World Map",
+            "zh": "在世界地图上查看"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 21,
+      "columns": {
+        "Title": [
+          {
+            "en": "Citadel Map Revealed",
+            "zh": "已揭示城塞地图"
+          }
+        ],
+        "Description": [
+          {
+            "en": "View on the World Map",
+            "zh": "在世界地图上查看"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 22,
+      "columns": {
+        "Title": [
+          {
+            "en": "Ancient Modifier Discovered",
+            "zh": "已发现远古词缀"
+          }
+        ],
+        "Description": [
+          {
+            "en": "View on the World Map",
+            "zh": "在世界地图上查看"
+          }
+        ]
+      }
+    }
+  ]
+}

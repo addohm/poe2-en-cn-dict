@@ -1,0 +1,71 @@
+{
+  "table": "ExpeditionCategory",
+  "key": "_index",
+  "columns": [
+    "Id",
+    "Art",
+    "Name"
+  ],
+  "entries": [
+    {
+      "id": null,
+      "index": 0,
+      "columns": {
+        "Name": [
+          {
+            "en": "Currency",
+            "zh": "通货"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 1,
+      "columns": {
+        "Name": [
+          {
+            "en": "Runes",
+            "zh": "符文"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 2,
+      "columns": {
+        "Name": [
+          {
+            "en": "Gems",
+            "zh": "宝石"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 3,
+      "columns": {
+        "Name": [
+          {
+            "en": "Alloys",
+            "zh": "合金"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 4,
+      "columns": {
+        "Name": [
+          {
+            "en": "Uniques",
+            "zh": "传奇"
+          }
+        ]
+      }
+    }
+  ]
+}

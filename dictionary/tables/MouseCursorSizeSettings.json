@@ -1,0 +1,46 @@
+{
+  "table": "MouseCursorSizeSettings",
+  "key": "_index",
+  "columns": [
+    "Size",
+    "Description"
+  ],
+  "entries": [
+    {
+      "id": null,
+      "index": 0,
+      "columns": {
+        "Description": [
+          {
+            "en": "Small",
+            "zh": "小"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 1,
+      "columns": {
+        "Description": [
+          {
+            "en": "Medium",
+            "zh": "中"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 2,
+      "columns": {
+        "Description": [
+          {
+            "en": "Large",
+            "zh": "大"
+          }
+        ]
+      }
+    }
+  ]
+}

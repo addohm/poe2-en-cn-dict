@@ -1,0 +1,322 @@
+{
+  "table": "AlternateQualityTypes",
+  "key": "_index",
+  "columns": [
+    "Id",
+    "Description"
+  ],
+  "entries": [
+    {
+      "id": null,
+      "index": 0,
+      "columns": {
+        "Description": [
+          {
+            "en": "Quality (Life Modifiers)",
+            "zh": "品质（生命词缀）"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 1,
+      "columns": {
+        "Description": [
+          {
+            "en": "Quality (Mana Modifiers)",
+            "zh": "品质（魔力词缀）"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 2,
+      "columns": {
+        "Description": [
+          {
+            "en": "Quality (Defence Modifiers)",
+            "zh": "品质（防御词缀）"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 3,
+      "columns": {
+        "Description": [
+          {
+            "en": "Quality (Physical Modifiers)",
+            "zh": "品质（物理词缀）"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 4,
+      "columns": {
+        "Description": [
+          {
+            "en": "Quality (Fire Modifiers)",
+            "zh": "品质（火焰词缀）"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 5,
+      "columns": {
+        "Description": [
+          {
+            "en": "Quality (Cold Modifiers)",
+            "zh": "品质（冰霜词缀）"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 6,
+      "columns": {
+        "Description": [
+          {
+            "en": "Quality (Lightning Modifiers)",
+            "zh": "品质（闪电词缀）"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 7,
+      "columns": {
+        "Description": [
+          {
+            "en": "Quality (Chaos Modifiers)",
+            "zh": "品质（混沌词缀）"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 8,
+      "columns": {
+        "Description": [
+          {
+            "en": "Quality (Attack Modifiers)",
+            "zh": "品质（攻击词缀）"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 9,
+      "columns": {
+        "Description": [
+          {
+            "en": "Quality (Caster Modifiers)",
+            "zh": "品质（施法词缀）"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 10,
+      "columns": {
+        "Description": [
+          {
+            "en": "Quality (Speed Modifiers)",
+            "zh": "品质（速度词缀）"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 11,
+      "columns": {
+        "Description": [
+          {
+            "en": "Quality (Attribute Modifiers)",
+            "zh": "品质（属性词缀）"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 12,
+      "columns": {
+        "Description": [
+          {
+            "en": "Quality (Minion Modifiers)",
+            "zh": "品质（召唤生物词缀）"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 13,
+      "columns": {
+        "Description": [
+          {
+            "en": "Quality (Life Modifiers)",
+            "zh": "品质（生命词缀）"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 14,
+      "columns": {
+        "Description": [
+          {
+            "en": "Quality (Mana Modifiers)",
+            "zh": "品质（魔力词缀）"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 15,
+      "columns": {
+        "Description": [
+          {
+            "en": "Quality (Defence Modifiers)",
+            "zh": "品质（防御词缀）"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 16,
+      "columns": {
+        "Description": [
+          {
+            "en": "Quality (Physical Modifiers)",
+            "zh": "品质（物理词缀）"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 17,
+      "columns": {
+        "Description": [
+          {
+            "en": "Quality (Fire Modifiers)",
+            "zh": "品质（火焰词缀）"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 18,
+      "columns": {
+        "Description": [
+          {
+            "en": "Quality (Cold Modifiers)",
+            "zh": "品质（冰霜词缀）"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 19,
+      "columns": {
+        "Description": [
+          {
+            "en": "Quality (Lightning Modifiers)",
+            "zh": "品质（闪电词缀）"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 20,
+      "columns": {
+        "Description": [
+          {
+            "en": "Quality (Chaos Modifiers)",
+            "zh": "品质（混沌词缀）"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 21,
+      "columns": {
+        "Description": [
+          {
+            "en": "Quality (Attack Modifiers)",
+            "zh": "品质（攻击词缀）"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 22,
+      "columns": {
+        "Description": [
+          {
+            "en": "Quality (Caster Modifiers)",
+            "zh": "品质（施法词缀）"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 23,
+      "columns": {
+        "Description": [
+          {
+            "en": "Quality (Speed Modifiers)",
+            "zh": "品质（速度词缀）"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 24,
+      "columns": {
+        "Description": [
+          {
+            "en": "Quality (Attribute Modifiers)",
+            "zh": "品质（属性词缀）"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 25,
+      "columns": {
+        "Description": [
+          {
+            "en": "Quality (Minion Modifiers)",
+            "zh": "品质（召唤生物词缀）"
+          }
+        ]
+      }
+    }
+  ]
+}

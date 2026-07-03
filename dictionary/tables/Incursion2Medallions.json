@@ -1,0 +1,228 @@
+{
+  "table": "Incursion2Medallions",
+  "key": "Id",
+  "columns": [
+    "Name",
+    "FlavourText",
+    "Icon_DDSFile",
+    "Description"
+  ],
+  "entries": [
+    {
+      "id": "PreventDeletionOfRoom",
+      "index": 1,
+      "columns": {
+        "Name": [
+          {
+            "en": "Juatalotli's Medallion",
+            "zh": "华塔洛蒂的纹章"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "The Architect of the Hoard gathered every piece of Vaal\r\nhistory he could, hoping to preserve them against the end.\r\nShe allowed him this, for it served her ends as well.",
+            "zh": "窖藏建筑师搜罗尽瓦尔的每一段历史，\r\n渴望在终焉降临前将其保存。\r\n她默许了他此举，因这亦遂她心愿。"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Use to prevent the next [IncursionDestabilization|Destabilisation] of a Room",
+            "zh": "使用以可防止一个房间下次发生[IncursionDestabilization|瓦解]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "RerollRewardRoom",
+      "index": 2,
+      "columns": {
+        "Name": [
+          {
+            "en": "Hayoxi's Medallion",
+            "zh": "海幽夏的纹章"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "The Architect of Destruction ensured his own demise in an\r\n'accidental' explosion. She ordered his pieces gathered, his\r\nbody reassembled and transcended. Death was no escape.",
+            "zh": "毁灭建筑师在一场“意外”爆炸中\r\n亲手葬送了自己。她却下令拾其碎躯，重\r\n组并超脱其肉身——死亡亦无处可逃。"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Use to reroll a [IncursionRestrictedRoom|Restricted Room] in the Temple",
+            "zh": "使用以重掷神庙中的[IncursionRestrictedRoom|秘藏房间]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LevelUpRoom",
+      "index": 3,
+      "columns": {
+        "Name": [
+          {
+            "en": "Quipolatl's Medallion",
+            "zh": "奎波拉特尔的纹章"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "The Architect of the Nexus proposed the Temple of Atzoatl as a prototype. He thought the project would keep him safe. Instead all he achieved was building her another seat of power.",
+            "zh": "枢纽建筑师将阿佐亚特神庙奉为原型提出。他以为这工程能保全自己。到头来，不过是又为她筑起一座权座罢了。"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Use to increase the Tier of a Room (does not stack)",
+            "zh": "使用以提升一个房间的等阶（无法叠加）"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BonusRoom",
+      "index": 4,
+      "columns": {
+        "Name": [
+          {
+            "en": "Uromoti's Medallion",
+            "zh": "武罗摩提的纹章"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "The Architect of Expansion was always distant, working on\r\nprojects at the edge of the Empire. His excuses vanished soon\r\nafter his daughter was... given... a position at the Royal Temple.",
+            "zh": "扩充建筑师总在远方，于帝国边陲经营着他的工程。\r\n直到他的女儿被……授予……皇家神庙的职位后，\r\n他的种种托辞，便很快消散无踪了。"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Use to add Room: {0}",
+            "zh": "使用以添加房间: {0}"
+          }
+        ]
+      }
+    },
+    {
+      "id": "IncreaseMaxTokens_DEPRECATED",
+      "index": 5,
+      "columns": {
+        "Name": [
+          {
+            "en": "Xopec's Medallion",
+            "zh": "肖佩克的纹章"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "The Architect of Power chose to bury himself in his work,\r\nseeking freedom of the mind. She followed him even there,\r\nlearning the theories, ensuring he did not stray in his intent.",
+            "zh": "能量建筑师选择埋首于工作，寻求心灵的自由。\r\n她却连此地也紧随而至，研习理论，\r\n确保他永不偏离她既定的旨意。"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Use to increase Maximum [IncursionCrystal|Crystal] Capacity by 6 (up to 60)",
+            "zh": "使用以使[IncursionCrystal|水晶]最大容量增加 6（上限为 60 ）"
+          }
+        ]
+      }
+    },
+    {
+      "id": "IncreaseMaxMedallions_DEPRECATED",
+      "index": 6,
+      "columns": {
+        "Name": [
+          {
+            "en": "Azcapa's Medallion",
+            "zh": "阿兹卡帕的纹章"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "The Architect of the Guild was more than happy to create a\r\ncontinual stream of trinkets and baubles to distract the\r\nQueen, but, in truth, she barely looked at any of them.",
+            "zh": "公会建筑师极乐意造出源源不断的小玩意儿，\r\n以供女王分心消遣——\r\n可实际上，她几乎不曾瞥上其中任何一件。"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Use to increase Maximum Medallion Capacity by 1 (up to 6)",
+            "zh": "使用以使纹章最大容量增加 1（上限为 6 ）"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ExtraRewardRoom",
+      "index": 7,
+      "columns": {
+        "Name": [
+          {
+            "en": "Estazunti's Medallion",
+            "zh": "埃斯塔祖提的纹章"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "The Architect of the Vault pleaded with nobles and suitors,\r\nbegging them to stop sending treasure to the Queen. He\r\ncould never go home until his task was complete...",
+            "zh": "宝库建筑师曾向贵族与追求者们苦苦哀求，\r\n恳请他们停止向女王进献珍宝。\r\n使命未完，他便永无归期……"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Use to place an additional [IncursionRestrictedRoom|Restricted Room Card] after defeating the Architect",
+            "zh": "使用以在击败建筑师后额外放置一张[IncursionRestrictedRoom|秘藏房间卡牌]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "RerollHand",
+      "index": 8,
+      "columns": {
+        "Name": [
+          {
+            "en": "Puhuarte's Medallion",
+            "zh": "普华特的纹章"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "The Architect of the Forge kept his hearth busy,\r\nfor the Queen's eye lingered on the idle. Her halls stood\r\nadorned with his desperate artisanship.",
+            "zh": "熔炉建筑师，炉火不息，\r\n因女王目光所及，不容懈怠。殿堂巍峨，\r\n尽饰其呕心沥血之艺。"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Use to reroll the Room Cards available for placement\r\n[IncursionRestrictedRoom|Restricted Room Cards] may not be rerolled this way",
+            "zh": "使用以重掷可供放置的房间卡牌\r\n[IncursionRestrictedRoom|秘藏房间卡牌]无法通过此方式重掷"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AddTempleMod",
+      "index": 9,
+      "columns": {
+        "Name": [
+          {
+            "en": "Zantipi's Medallion",
+            "zh": "赞提佩的纹章"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "The Architect of Concealment wove secrets into stone,\r\nwith passages and powers none were meant to see.\r\nHis renown rose in the shadows of his designs.",
+            "zh": "匿影建筑师，将秘密织入石中，\r\n通道与威能，无人得见其踪。\r\n他的声名，在设计之影中崛起。"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Use to add one to the number of random [Waystone] Modifiers added to your Temple. This number reduces by 1 for every 10 Temples opened. \r\nModifiers will be randomised each time you open a new Temple. Temples can be affected by up to 8 Modifiers.",
+            "zh": "使用以使你的神庙增加一个随机[Waystone|引路石]词缀数量。每开启 10 座神庙，此数量减少 1 。\r\n每次开启新神庙时，词缀将重新随机生成。神庙最多可受 8 个词缀影响。"
+          }
+        ]
+      }
+    }
+  ]
+}

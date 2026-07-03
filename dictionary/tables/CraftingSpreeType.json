@@ -1,0 +1,177 @@
+{
+  "table": "CraftingSpreeType",
+  "key": "Id",
+  "columns": [
+    "Text"
+  ],
+  "entries": [
+    {
+      "id": "AltSpam",
+      "index": 0,
+      "columns": {
+        "Text": [
+          {
+            "en": "<whiteitem>{Normal} Item",
+            "zh": "<whiteitem>{普通}物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Essences",
+      "index": 1,
+      "columns": {
+        "Text": [
+          {
+            "en": "<whiteitem>{Normal} Essence craftable Item",
+            "zh": "<whiteitem>{普通}精华可锻造物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ChaosSpam",
+      "index": 2,
+      "columns": {
+        "Text": [
+          {
+            "en": "<whiteitem>{Normal} Item",
+            "zh": "<whiteitem>{普通}物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ExaltAnnul",
+      "index": 3,
+      "columns": {
+        "Text": [
+          {
+            "en": "<whiteitem>{Normal} Item",
+            "zh": "<whiteitem>{普通}物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HardModeShieldCraft",
+      "index": 4,
+      "columns": {
+        "Text": [
+          {
+            "en": "<whiteitem>{Normal} Shield",
+            "zh": "<whiteitem>{普通}盾牌"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HardModeBeltCraft",
+      "index": 5,
+      "columns": {
+        "Text": [
+          {
+            "en": "<whiteitem>{Normal} Belt",
+            "zh": "<whiteitem>{普通}腰带"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HardModeGloveCraft",
+      "index": 6,
+      "columns": {
+        "Text": [
+          {
+            "en": "<whiteitem>{Normal} Gloves item",
+            "zh": "<whiteitem>{普通}手部物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HardModeBodyArmourCraft",
+      "index": 7,
+      "columns": {
+        "Text": [
+          {
+            "en": "<whiteitem>{Normal} Body Armour",
+            "zh": "<whiteitem>{普通}护甲"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HardModeHelmetCraft",
+      "index": 8,
+      "columns": {
+        "Text": [
+          {
+            "en": "<whiteitem>{Normal} Helmet",
+            "zh": "<whiteitem>{普通}头盔"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HardModeRingCraft",
+      "index": 9,
+      "columns": {
+        "Text": [
+          {
+            "en": "<whiteitem>{Normal} Ring",
+            "zh": "<whiteitem>{普通}戒指"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HardModeBootsCraft",
+      "index": 10,
+      "columns": {
+        "Text": [
+          {
+            "en": "<whiteitem>{Normal} Boots item",
+            "zh": "<whiteitem>{普通}脚部物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HardModeWeaponCraft",
+      "index": 11,
+      "columns": {
+        "Text": [
+          {
+            "en": "<whiteitem>{Normal} Weapon",
+            "zh": "<whiteitem>{普通}武器"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HardModeAmuletCraft",
+      "index": 12,
+      "columns": {
+        "Text": [
+          {
+            "en": "<whiteitem>{Normal} Amulet",
+            "zh": "<whiteitem>{普通}项链"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HardModeJewelCraft",
+      "index": 13,
+      "columns": {
+        "Text": [
+          {
+            "en": "<magicitem>{Magic} Jewel",
+            "zh": "<magicitem>{魔法}珠宝"
+          }
+        ]
+      }
+    }
+  ]
+}

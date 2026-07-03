@@ -1,0 +1,1366 @@
+{
+  "table": "Quest",
+  "key": "Id",
+  "columns": [
+    "Name",
+    "Icon_DDSFile"
+  ],
+  "entries": [
+    {
+      "id": "TheMiller",
+      "index": 0,
+      "columns": {
+        "Name": [
+          {
+            "en": "Reaching Clearfell",
+            "zh": "抵达克里费尔"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MudBurrower",
+      "index": 1,
+      "columns": {
+        "Name": [
+          {
+            "en": "Treacherous Ground",
+            "zh": "四野皆危"
+          }
+        ]
+      }
+    },
+    {
+      "id": "TreeOfSouls",
+      "index": 2,
+      "columns": {
+        "Name": [
+          {
+            "en": "Secrets in the Dark",
+            "zh": "黑暗中的秘密"
+          }
+        ]
+      }
+    },
+    {
+      "id": "TreeOfSouls2",
+      "index": 3,
+      "columns": {
+        "Name": [
+          {
+            "en": "Secrets in the Dark",
+            "zh": "黑暗中的秘密"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ReviveHoodedMentor",
+      "index": 4,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Mysterious Shade",
+            "zh": "神秘阴影"
+          }
+        ]
+      }
+    },
+    {
+      "id": "RenlysTools",
+      "index": 5,
+      "columns": {
+        "Name": [
+          {
+            "en": "Finding the Forge",
+            "zh": "寻找熔炉"
+          }
+        ]
+      }
+    },
+    {
+      "id": "UnaLute",
+      "index": 6,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Lost Lute",
+            "zh": "丢失的鲁特琴"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GraveyardFight",
+      "index": 7,
+      "columns": {
+        "Name": [
+          {
+            "en": "Sorrow Among Stones",
+            "zh": "石中哀泣"
+          }
+        ]
+      }
+    },
+    {
+      "id": "TheOutcast",
+      "index": 8,
+      "columns": {
+        "Name": [
+          {
+            "en": "Ominous Altars",
+            "zh": "不祥雕像"
+          }
+        ]
+      }
+    },
+    {
+      "id": "TheExecutioner",
+      "index": 9,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Trail of Corruption",
+            "zh": "腐化的痕迹"
+          }
+        ]
+      }
+    },
+    {
+      "id": "TheIronCount",
+      "index": 10,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Mad Wolf of Ogham",
+            "zh": "欧甘的疯狼"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CaravanRescue",
+      "index": 16,
+      "columns": {
+        "Name": [
+          {
+            "en": "Earning Passage",
+            "zh": "勇者可得前"
+          }
+        ]
+      }
+    },
+    {
+      "id": "OpenTheDesertGates",
+      "index": 17,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Trail of Corruption",
+            "zh": "腐化的痕迹"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BurnTheWaterGoddess",
+      "index": 18,
+      "columns": {
+        "Name": [
+          {
+            "en": "The City of Seven Waters",
+            "zh": "七水之城"
+          }
+        ]
+      }
+    },
+    {
+      "id": "StealTheMastodonTusks",
+      "index": 19,
+      "columns": {
+        "Name": [
+          {
+            "en": "A Theft of Ivory",
+            "zh": "拯救遗物"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PryTheFlameRuby",
+      "index": 20,
+      "columns": {
+        "Name": [
+          {
+            "en": "A Crown of Stone",
+            "zh": "宝石冠冕"
+          }
+        ]
+      }
+    },
+    {
+      "id": "KillTheTraitor",
+      "index": 21,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Forgotten Prisoner",
+            "zh": "遗忘的囚徒"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DjinnHunter",
+      "index": 22,
+      "columns": {
+        "Name": [
+          {
+            "en": "Back in the Bottle",
+            "zh": "复归瓶中"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FindTheSuicideNote",
+      "index": 23,
+      "columns": {
+        "Name": [
+          {
+            "en": "Tradition's Toll",
+            "zh": "传统的重负"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MysteriousRelics",
+      "index": 24,
+      "columns": {
+        "Name": [
+          {
+            "en": "Ancient Vows",
+            "zh": "远古誓言"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AscentToPower",
+      "index": 25,
+      "columns": {
+        "Name": [
+          {
+            "en": "Ascent to Power",
+            "zh": "大权在握"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SearchForTheVaalRepository",
+      "index": 26,
+      "columns": {
+        "Name": [
+          {
+            "en": "Legacy of the Vaal",
+            "zh": "瓦尔之遗"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CleanseTheSnakePit",
+      "index": 28,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Slithering Dead",
+            "zh": "蠕动与逝去"
+          }
+        ]
+      }
+    },
+    {
+      "id": "RaidTheTreasureVault",
+      "index": 29,
+      "columns": {
+        "Name": [
+          {
+            "en": "Treasures of Utzaal",
+            "zh": "乌扎尔的宝藏"
+          }
+        ]
+      }
+    },
+    {
+      "id": "KillTheBogWitch",
+      "index": 30,
+      "columns": {
+        "Name": [
+          {
+            "en": "Tribal Vengeance",
+            "zh": "部族之恨"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FindTheSpearPieces",
+      "index": 31,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Search",
+            "zh": "搜寻"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act4KillGoblinBeast",
+      "index": 32,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Blind Beast",
+            "zh": "盲眼凶兽"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act4ScourgeSkies",
+      "index": 33,
+      "columns": {
+        "Name": [
+          {
+            "en": "Shrike Island",
+            "zh": "百舌岛"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act4KillGoblinGiant",
+      "index": 34,
+      "columns": {
+        "Name": [
+          {
+            "en": "Land of the Kin",
+            "zh": "亲族之地"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act4VisitArastas",
+      "index": 35,
+      "columns": {
+        "Name": [
+          {
+            "en": "Utopia",
+            "zh": "乌托邦"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act4KillSiren",
+      "index": 36,
+      "columns": {
+        "Name": [
+          {
+            "en": "Whakapanu Island",
+            "zh": "瓦卡帕努岛"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act4KillPrisoner",
+      "index": 37,
+      "columns": {
+        "Name": [
+          {
+            "en": "Abandoned Prison",
+            "zh": "废弃监牢"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act4KillPrisonerLocalQuest",
+      "index": 38,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Prisoner",
+            "zh": "囚徒"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act4RescueMedicineWoman",
+      "index": 39,
+      "columns": {
+        "Name": [
+          {
+            "en": "Tribal Medicine",
+            "zh": "部落医术"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act4DeliriumUnlock",
+      "index": 40,
+      "columns": {
+        "Name": [
+          {
+            "en": "Dark Mists",
+            "zh": "黑雾弥漫"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act4DeliriumUnlockEmotions",
+      "index": 41,
+      "columns": {
+        "Name": [
+          {
+            "en": "Dark Mists",
+            "zh": "黑雾弥漫"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act4TreasureMap",
+      "index": 42,
+      "columns": {
+        "Name": [
+          {
+            "en": "Forgotten Bounty",
+            "zh": "遗忘厚赏"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act4TreasureMapExpedition",
+      "index": 43,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Runeseeker",
+            "zh": "符文猎手"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act4KaruiElder",
+      "index": 44,
+      "columns": {
+        "Name": [
+          {
+            "en": "Trial of the Ancestors",
+            "zh": "命运试炼"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act5SiegeOfOriath",
+      "index": 45,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Siege of Oriath",
+            "zh": "奥瑞亚围城"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act5GetToDominusEstate",
+      "index": 46,
+      "columns": {
+        "Name": [
+          {
+            "en": "Infiltrating Oriath",
+            "zh": "潜入奥瑞亚"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act5WaterWheel",
+      "index": 47,
+      "columns": {
+        "Name": [
+          {
+            "en": "Plumbing the Depths",
+            "zh": "深渊垂降"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act5TrarthanGladiator",
+      "index": 48,
+      "columns": {
+        "Name": [
+          {
+            "en": "Trarthan Gladiator",
+            "zh": "特拉特斯角斗士"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act5EstatesRescueTibbsAndTullina",
+      "index": 49,
+      "columns": {
+        "Name": [
+          {
+            "en": "Pinned Down",
+            "zh": "寸步难行"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act5DenOfPleasure",
+      "index": 50,
+      "columns": {
+        "Name": [
+          {
+            "en": "Pleasure and Pain",
+            "zh": "欢愉与痛楚"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act5BlightedGraveyard",
+      "index": 51,
+      "columns": {
+        "Name": [
+          {
+            "en": "No Rest for the Blighted",
+            "zh": "肆虐菌潮"
+          }
+        ]
+      }
+    },
+    {
+      "id": "sanctum_timer_arena",
+      "index": 52,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Trial of the Sekhemas",
+            "zh": "丝克玛试炼"
+          }
+        ]
+      }
+    },
+    {
+      "id": "sanctum_portal_arena",
+      "index": 53,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Trial of the Sekhemas",
+            "zh": "丝克玛试炼"
+          }
+        ]
+      }
+    },
+    {
+      "id": "sanctum_explore",
+      "index": 54,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Trial of the Sekhemas",
+            "zh": "丝克玛试炼"
+          }
+        ]
+      }
+    },
+    {
+      "id": "sanctum_kill_monsters",
+      "index": 55,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Trial of the Sekhemas",
+            "zh": "丝克玛试炼"
+          }
+        ]
+      }
+    },
+    {
+      "id": "sanctum_rare_lair",
+      "index": 56,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Trial of the Sekhemas",
+            "zh": "丝克玛试炼"
+          }
+        ]
+      }
+    },
+    {
+      "id": "sanctum_puzzle",
+      "index": 57,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Trial of the Sekhemas",
+            "zh": "丝克玛试炼"
+          }
+        ]
+      }
+    },
+    {
+      "id": "sanctum_boss",
+      "index": 58,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Trial of the Sekhemas",
+            "zh": "丝克玛试炼"
+          }
+        ]
+      }
+    },
+    {
+      "id": "sanctum_floor_boss",
+      "index": 59,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Trial of the Sekhemas",
+            "zh": "丝克玛试炼"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ultimatum_encounter",
+      "index": 60,
+      "columns": {
+        "Name": [
+          {
+            "en": "Trialmaster's Challenge",
+            "zh": "试炼使者的挑战"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Ultimatum",
+      "index": 61,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Trials of Chaos",
+            "zh": "混沌试炼"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EndgameQuestline",
+      "index": 62,
+      "columns": {
+        "Name": [
+          {
+            "en": "Cataclysm's Wake",
+            "zh": "灾变余生"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EndgameQuestInvestigateTower",
+      "index": 63,
+      "columns": {
+        "Name": [
+          {
+            "en": "Legacy of the Precursors",
+            "zh": "先驱者的遗产"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EndgameQuestObtainKey1",
+      "index": 64,
+      "columns": {
+        "Name": [
+          {
+            "en": "Ezomyte Infiltration",
+            "zh": "艾兹麦的渗透"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EndgameQuestObtainKey2",
+      "index": 65,
+      "columns": {
+        "Name": [
+          {
+            "en": "Faridun Foray",
+            "zh": "法里顿的进犯"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EndgameQuestObtainKey3",
+      "index": 66,
+      "columns": {
+        "Name": [
+          {
+            "en": "Vaal Incursion",
+            "zh": "瓦尔的穿越"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EndgameLeagueDelirium1",
+      "index": 67,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Shadow Trickster",
+            "zh": "暗影欺诈者"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EndgameLeagueDelirium2",
+      "index": 68,
+      "columns": {
+        "Name": [
+          {
+            "en": "Facing the Simulacrum",
+            "zh": "直面拟像"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EndgameLeagueRitual1",
+      "index": 69,
+      "columns": {
+        "Name": [
+          {
+            "en": "Mysterious Altars",
+            "zh": "神秘的祭坛"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EndgameLeagueRitual2",
+      "index": 70,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Edge of Nothingness",
+            "zh": "虚无临界"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EndgameLeagueExpedition1",
+      "index": 71,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Grand Quest",
+            "zh": "伟大的使命"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EndgameLeagueExpedition2",
+      "index": 72,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Fallen Hero",
+            "zh": "陨落的英雄"
+          }
+        ]
+      }
+    },
+    {
+      "id": "TormentedSpirits",
+      "index": 73,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Hunt Begins",
+            "zh": "狩猎开始"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EndgameCastaway",
+      "index": 74,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Captain's Hideaway",
+            "zh": "队长的藏身处"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EndgameUniqueMaps",
+      "index": 75,
+      "columns": {
+        "Name": [
+          {
+            "en": "Endgame Unique Quest",
+            "zh": "终局传奇任务"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EndgameMapBoss",
+      "index": 76,
+      "columns": {
+        "Name": [
+          {
+            "en": "Powerful Foe",
+            "zh": "强敌"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EndgamePrecursorTower",
+      "index": 77,
+      "columns": {
+        "Name": [
+          {
+            "en": "Precursor Towers",
+            "zh": "先驱高塔"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EndgameBreachAtlasSkillBooks",
+      "index": 78,
+      "columns": {
+        "Name": [
+          {
+            "en": "Breach Atlas Skill Books",
+            "zh": "裂隙异界技能之书"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EndgameRitualAtlasSkillBooks",
+      "index": 79,
+      "columns": {
+        "Name": [
+          {
+            "en": "Ritual Atlas Skill Books",
+            "zh": "驱灵仪式异界技能之书"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EndgameExpeditionAtlasSkillBooks",
+      "index": 80,
+      "columns": {
+        "Name": [
+          {
+            "en": "Expedition Atlas Skill Books",
+            "zh": "先祖秘藏异界技能之书"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EndgameDeliriumAtlasSkillBooks",
+      "index": 81,
+      "columns": {
+        "Name": [
+          {
+            "en": "Delirium Atlas Skill Books",
+            "zh": "惊悸迷雾异界技能之书"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EndgameMapBossAtlasSkillBooks",
+      "index": 82,
+      "columns": {
+        "Name": [
+          {
+            "en": "Map Boss Atlas Skill Books",
+            "zh": "地图首领异界技能之书"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EndgameArbiterBossAtlasSkillBooks",
+      "index": 83,
+      "columns": {
+        "Name": [
+          {
+            "en": "Arbiter Boss Atlas Skill Books",
+            "zh": "仲裁官首领异界技能之书"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EndgameTimeBossStandInHourglass",
+      "index": 84,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Trial of Time",
+            "zh": "时光试炼"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BlankRuneQuest",
+      "index": 85,
+      "columns": {
+        "Name": [
+          {
+            "en": "Blank Runes",
+            "zh": "空白符文"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GreaterBlankRuneQuest",
+      "index": 86,
+      "columns": {
+        "Name": [
+          {
+            "en": "Greater Blank Runes",
+            "zh": "高级空白符文"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HallsOfTheDeadBlankTattoo1",
+      "index": 87,
+      "columns": {
+        "Name": [
+          {
+            "en": "Tawhoa's Test",
+            "zh": "塔赫亚的考验"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HallsOfTheDeadBlankTattoo2",
+      "index": 88,
+      "columns": {
+        "Name": [
+          {
+            "en": "Tasalio's Test",
+            "zh": "塔萨里奥的考验"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HallsOfTheDeadBlankTattoo3",
+      "index": 89,
+      "columns": {
+        "Name": [
+          {
+            "en": "Ngamahu's Test",
+            "zh": "努葛玛呼的考验"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act4SirenPearl",
+      "index": 90,
+      "columns": {
+        "Name": [
+          {
+            "en": "Siren Pearl",
+            "zh": "海妖珍珠"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AbyssQuest",
+      "index": 91,
+      "columns": {
+        "Name": [
+          {
+            "en": "Cracks in the Earth",
+            "zh": "大地裂隙"
+          }
+        ]
+      }
+    },
+    {
+      "id": "InterludePart1",
+      "index": 92,
+      "columns": {
+        "Name": [
+          {
+            "en": "Recruit the Ezomytes",
+            "zh": "招募艾兹麦族人"
+          }
+        ]
+      }
+    },
+    {
+      "id": "InterludePart2",
+      "index": 93,
+      "columns": {
+        "Name": [
+          {
+            "en": "Recruit the Maraketh",
+            "zh": "招募马拉克斯族人"
+          }
+        ]
+      }
+    },
+    {
+      "id": "InterludePart3",
+      "index": 94,
+      "columns": {
+        "Name": [
+          {
+            "en": "Recruit the Vaal",
+            "zh": "招募瓦尔族人"
+          }
+        ]
+      }
+    },
+    {
+      "id": "InterludeToEndgameConnector",
+      "index": 95,
+      "columns": {
+        "Name": [
+          {
+            "en": "Siege of Oriath",
+            "zh": "奥瑞亚围城"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HideoutUnlock",
+      "index": 96,
+      "columns": {
+        "Name": [
+          {
+            "en": "Hostile Takeover",
+            "zh": "恶意夺权"
+          }
+        ]
+      }
+    },
+    {
+      "id": "InterludePart2ScorpionAndWorm",
+      "index": 97,
+      "columns": {
+        "Name": [
+          {
+            "en": "Clearing the Way",
+            "zh": "扫清道路"
+          }
+        ]
+      }
+    },
+    {
+      "id": "InterludePart3YetiQuadrilla",
+      "index": 98,
+      "columns": {
+        "Name": [
+          {
+            "en": "Howling Winds",
+            "zh": "咆哮之风"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AbyssTutorial",
+      "index": 99,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Well of Souls",
+            "zh": "灵魂之井"
+          }
+        ]
+      }
+    },
+    {
+      "id": "A4BossFightPhase1To2ChaseLocalQuest",
+      "index": 106,
+      "columns": {
+        "Name": [
+          {
+            "en": "Follow Tavakai",
+            "zh": "跟随塔瓦凯"
+          }
+        ]
+      }
+    },
+    {
+      "id": "IncursionQuest1_Act1",
+      "index": 108,
+      "columns": {
+        "Name": [
+          {
+            "en": "Ancient Beacons",
+            "zh": "远古灯塔"
+          }
+        ]
+      }
+    },
+    {
+      "id": "IncursionQuest1_Act2",
+      "index": 109,
+      "columns": {
+        "Name": [
+          {
+            "en": "Ancient Beacons",
+            "zh": "远古灯塔"
+          }
+        ]
+      }
+    },
+    {
+      "id": "IncursionQuest1_Act3",
+      "index": 110,
+      "columns": {
+        "Name": [
+          {
+            "en": "Ancient Beacons",
+            "zh": "远古灯塔"
+          }
+        ]
+      }
+    },
+    {
+      "id": "IncursionQuest2",
+      "index": 111,
+      "columns": {
+        "Name": [
+          {
+            "en": "Fate of the Vaal",
+            "zh": "瓦尔的宿命"
+          }
+        ]
+      }
+    },
+    {
+      "id": "IncursionTemple",
+      "index": 112,
+      "columns": {
+        "Name": [
+          {
+            "en": "Explore the Temple",
+            "zh": "探索神庙"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EndgameLeagueAbyss",
+      "index": 113,
+      "columns": {
+        "Name": [
+          {
+            "en": "Abyssal Power",
+            "zh": "深渊之力"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EndgameLeagueBreach",
+      "index": 114,
+      "columns": {
+        "Name": [
+          {
+            "en": "Keepers of the Flame",
+            "zh": "苍焰守护者"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EndgameLeagueDelirium",
+      "index": 115,
+      "columns": {
+        "Name": [
+          {
+            "en": "Strange Reflection",
+            "zh": "奇异的倒影"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EndgameLeagueRitual",
+      "index": 116,
+      "columns": {
+        "Name": [
+          {
+            "en": "Legacy of the Maji",
+            "zh": "众神的遗产"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EndgameLeagueExpedition",
+      "index": 117,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Grand Expedition",
+            "zh": "宏大先祖秘藏"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EndgameClassQuestJado",
+      "index": 118,
+      "columns": {
+        "Name": [
+          {
+            "en": "Jado's Spycraft",
+            "zh": "贾多的间谍之道"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EndgameClassQuestDoryani",
+      "index": 119,
+      "columns": {
+        "Name": [
+          {
+            "en": "Doryani's Science",
+            "zh": "多里亚尼的科学之道"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EndgameClassQuestHilda",
+      "index": 120,
+      "columns": {
+        "Name": [
+          {
+            "en": "Hilda's Hunting",
+            "zh": "希尔达的狩猎之道"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Expedition2Act1",
+      "index": 121,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Runeseeker",
+            "zh": "符文猎手"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Expedition2Act2",
+      "index": 122,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Runeseeker",
+            "zh": "符文猎手"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Expedition2Act3",
+      "index": 123,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Runeseeker",
+            "zh": "符文猎手"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EndgameArbiterOfDivinityLocalQuest",
+      "index": 125,
+      "columns": {
+        "Name": [
+          {
+            "en": "Arbiter of Divinity",
+            "zh": "神圣仲裁官"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EndgameArbiterOfDivinityUseTowersQuest",
+      "index": 126,
+      "columns": {
+        "Name": [
+          {
+            "en": "Arbiter of Divinity",
+            "zh": "神圣仲裁官"
+          }
+        ]
+      }
+    }
+  ]
+}

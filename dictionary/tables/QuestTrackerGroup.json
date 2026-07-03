@@ -1,0 +1,33 @@
+{
+  "table": "QuestTrackerGroup",
+  "key": "Id",
+  "columns": [
+    "Name"
+  ],
+  "entries": [
+    {
+      "id": "Maven",
+      "index": 0,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Maven",
+            "zh": "贤主"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AtlasExiles",
+      "index": 1,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Elderslayers",
+            "zh": "裂界毁灭者"
+          }
+        ]
+      }
+    }
+  ]
+}

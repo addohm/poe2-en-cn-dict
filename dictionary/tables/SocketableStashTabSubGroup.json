@@ -1,0 +1,72 @@
+{
+  "table": "SocketableStashTabSubGroup",
+  "key": "_index",
+  "columns": [
+    "Id",
+    "Name",
+    "Icon",
+    "PageArt"
+  ],
+  "entries": [
+    {
+      "id": null,
+      "index": 0,
+      "columns": {
+        "Name": [
+          {
+            "en": "Runes",
+            "zh": "符文"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 1,
+      "columns": {
+        "Name": [
+          {
+            "en": "Kalguuran Runes",
+            "zh": "卡古兰符文"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 2,
+      "columns": {
+        "Name": [
+          {
+            "en": "Soul Cores",
+            "zh": "灵核"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 3,
+      "columns": {
+        "Name": [
+          {
+            "en": "Idols",
+            "zh": "雕像"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 4,
+      "columns": {
+        "Name": [
+          {
+            "en": "Ancient Augments",
+            "zh": "远古增幅器"
+          }
+        ]
+      }
+    }
+  ]
+}

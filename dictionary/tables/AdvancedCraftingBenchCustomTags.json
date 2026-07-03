@@ -1,0 +1,130 @@
+{
+  "table": "AdvancedCraftingBenchCustomTags",
+  "key": "_index",
+  "columns": [
+    "Id",
+    "Tag"
+  ],
+  "entries": [
+    {
+      "id": null,
+      "index": 0,
+      "columns": {
+        "Tag": [
+          {
+            "en": "[Str|Str]",
+            "zh": "[Str|力量]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 1,
+      "columns": {
+        "Tag": [
+          {
+            "en": "[Dex|Dex]",
+            "zh": "[Dex|敏捷]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 2,
+      "columns": {
+        "Tag": [
+          {
+            "en": "[Int|Int]",
+            "zh": "[Int|智慧]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 3,
+      "columns": {
+        "Tag": [
+          {
+            "en": "[StrDex|Str/Dex]",
+            "zh": "[StrDex|力量/敏捷]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 4,
+      "columns": {
+        "Tag": [
+          {
+            "en": "[StrInt|Str/Int]",
+            "zh": "[StrInt|力量/智慧]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 5,
+      "columns": {
+        "Tag": [
+          {
+            "en": "[DexInt|Dex/Int]",
+            "zh": "[DexInt|敏捷/智慧]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 6,
+      "columns": {
+        "Tag": [
+          {
+            "en": "[StrDexInt|Str/Dex/Int]",
+            "zh": "[StrDexInt|力量/敏捷/智慧]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 7,
+      "columns": {
+        "Tag": [
+          {
+            "en": "[OneHanded|One-Handed]",
+            "zh": "[OneHanded|单手]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 8,
+      "columns": {
+        "Tag": [
+          {
+            "en": "[TwoHanded|Two-Handed]",
+            "zh": "[TwoHanded|双手]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 9,
+      "columns": {
+        "Tag": [
+          {
+            "en": "[AttackWeapons|Attack Weapons]",
+            "zh": "[AttackWeapons|攻击武器]"
+          }
+        ]
+      }
+    }
+  ]
+}

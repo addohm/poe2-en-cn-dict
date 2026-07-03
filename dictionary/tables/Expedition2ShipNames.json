@@ -1,0 +1,21 @@
+{
+  "table": "Expedition2ShipNames",
+  "key": "_index",
+  "columns": [
+    "Description"
+  ],
+  "entries": [
+    {
+      "id": null,
+      "index": 0,
+      "columns": {
+        "Description": [
+          {
+            "en": "Use a logbook to chart the area",
+            "zh": "使用一本日志绘制该区域的地图"
+          }
+        ]
+      }
+    }
+  ]
+}

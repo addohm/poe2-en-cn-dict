@@ -1,0 +1,153 @@
+{
+  "table": "AtlasFavouredMapSlots",
+  "key": "_index",
+  "columns": [
+    "Unlock"
+  ],
+  "entries": [
+    {
+      "id": null,
+      "index": 0,
+      "columns": {
+        "Unlock": [
+          {
+            "en": "Complete a Tier 16 Map",
+            "zh": "完成一个 16 阶地图"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 1,
+      "columns": {
+        "Unlock": [
+          {
+            "en": "Defeat an Elder Guardian",
+            "zh": "击败一个裂界守卫"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 2,
+      "columns": {
+        "Unlock": [
+          {
+            "en": "Defeat a Shaper Guardian",
+            "zh": "击败一个塑界守卫"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 3,
+      "columns": {
+        "Unlock": [
+          {
+            "en": "Defeat a Conqueror of the Atlas",
+            "zh": "击败一个异界征服者"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 4,
+      "columns": {
+        "Unlock": [
+          {
+            "en": "Defeat Sirus, Awakener of Worlds",
+            "zh": "击败诸界觉者希鲁斯"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 5,
+      "columns": {
+        "Unlock": [
+          {
+            "en": "Defeat Venarius in the Cortex",
+            "zh": "击败脑层中的神主维纳留斯"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 6,
+      "columns": {
+        "Unlock": [
+          {
+            "en": "Defeat The Shaper",
+            "zh": "击败塑界者"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 7,
+      "columns": {
+        "Unlock": [
+          {
+            "en": "Defeat The Elder in The Shaper's Realm",
+            "zh": "击败裂界者国度的塑界者"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 8,
+      "columns": {
+        "Unlock": [
+          {
+            "en": "Defeat The Maven",
+            "zh": "击败贤主"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 9,
+      "columns": {
+        "Unlock": [
+          {
+            "en": "Defeat The Eater of Worlds",
+            "zh": "击败世界吞噬者"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 10,
+      "columns": {
+        "Unlock": [
+          {
+            "en": "Defeat The Searing Exarch",
+            "zh": "击败灼督"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 11,
+      "columns": {
+        "Unlock": [
+          {
+            "en": "Complete Maven's Invitation: The Feared",
+            "zh": "完成贤主之邀：恐惧"
+          }
+        ]
+      }
+    }
+  ]
+}

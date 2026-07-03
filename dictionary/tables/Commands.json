@@ -1,0 +1,815 @@
+{
+  "table": "Commands",
+  "key": "Id",
+  "columns": [
+    "Command",
+    "EnglishCommand",
+    "Description"
+  ],
+  "entries": [
+    {
+      "id": "ShowTimePlayed",
+      "index": 1,
+      "columns": {
+        "Command": [
+          {
+            "en": "played",
+            "zh": "游戏时间"
+          }
+        ],
+        "Description": [
+          {
+            "en": "/played displays how long you have played this character for",
+            "zh": "/游戏时间（/played）显示总游玩时间。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ShowCharacterAge",
+      "index": 2,
+      "columns": {
+        "Command": [
+          {
+            "en": "age",
+            "zh": "创角时间"
+          }
+        ],
+        "Description": [
+          {
+            "en": "/age displays how long ago you created this character",
+            "zh": "/创角时间（/age）显示这个角色是在多久之前创立的。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ShowMonstersRemaining",
+      "index": 3,
+      "columns": {
+        "Command": [
+          {
+            "en": "remaining",
+            "zh": "剩余怪物"
+          }
+        ],
+        "Description": [
+          {
+            "en": "/remaining displays the number of monsters remaining in the area",
+            "zh": "/剩余怪物（/remaining）显示所在区域中剩余怪物的数量。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ShowDeaths",
+      "index": 4,
+      "columns": {
+        "Command": [
+          {
+            "en": "deaths",
+            "zh": "死亡次数"
+          }
+        ],
+        "Description": [
+          {
+            "en": "/deaths displays how many deaths you have incurred",
+            "zh": "/死亡次数（/deaths）显示你一共死了多少次。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ShowLadder",
+      "index": 6,
+      "columns": {
+        "Command": [
+          {
+            "en": "ladder",
+            "zh": "天梯"
+          }
+        ],
+        "Description": [
+          {
+            "en": "/ladder shows the top ten characters on the current ladder",
+            "zh": "/天梯（/ladder）显示该区前十名最高等级的玩家。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DestroyCursorItem",
+      "index": 8,
+      "columns": {
+        "Command": [
+          {
+            "en": "destroy",
+            "zh": "摧毁"
+          }
+        ],
+        "Description": [
+          {
+            "en": "/destroy destroys the item on your cursor (be careful!)",
+            "zh": "/摧毁（destroy）删除你鼠标所选取的道具（请注意，删除的道具无法复原）。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Whois",
+      "index": 9,
+      "columns": {
+        "Command": [
+          {
+            "en": "whois",
+            "zh": "查询玩家"
+          }
+        ],
+        "Description": [
+          {
+            "en": "/whois displays some information about a character by name",
+            "zh": "/查询玩家（/whois）查询指定玩家。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ShowHelp",
+      "index": 10,
+      "columns": {
+        "Command": [
+          {
+            "en": "help",
+            "zh": "帮助"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ShowCursorItemLevel",
+      "index": 11,
+      "columns": {
+        "Command": [
+          {
+            "en": "itemlevel",
+            "zh": "物品等级"
+          }
+        ],
+        "Description": [
+          {
+            "en": "/itemlevel displays the level of an item on your cursor",
+            "zh": "/物品等级（/itemlevel）显示光标所选取的道具之物品等级。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ReportBug",
+      "index": 13,
+      "columns": {
+        "Command": [
+          {
+            "en": "bug",
+            "zh": "回报"
+          }
+        ],
+        "Description": [
+          {
+            "en": "/bug reports a bug and gives you the report reference number",
+            "zh": "/回报（/bug）回报一个错误，并给予一个纪录用的代码。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Debug",
+      "index": 14,
+      "columns": {
+        "Command": [
+          {
+            "en": "debug",
+            "zh": "除错"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Ignore1",
+      "index": 15,
+      "columns": {
+        "Command": [
+          {
+            "en": "ignore",
+            "zh": "忽略"
+          }
+        ],
+        "Description": [
+          {
+            "en": "/ignore ignores an account by character name",
+            "zh": "/黑名单（/ignore）将该玩家加入黑名单。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Ignore2",
+      "index": 16,
+      "columns": {
+        "Command": [
+          {
+            "en": "squelch",
+            "zh": "忽略"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Unignore1",
+      "index": 17,
+      "columns": {
+        "Command": [
+          {
+            "en": "unignore",
+            "zh": "解除忽略"
+          }
+        ],
+        "Description": [
+          {
+            "en": "/unignore stops ignoring an account by character name",
+            "zh": "/解除黑名单（/unignore）将该玩家移出黑名单。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Unignore2",
+      "index": 18,
+      "columns": {
+        "Command": [
+          {
+            "en": "unsquelch",
+            "zh": "解除忽略"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ClearIgnoreList",
+      "index": 19,
+      "columns": {
+        "Command": [
+          {
+            "en": "clear_ignore_list",
+            "zh": "清空忽略名单"
+          }
+        ],
+        "Description": [
+          {
+            "en": "/clear_ignore_list removes all accounts from your ignore list",
+            "zh": "/清除黑名单（/clear_ignore_list）移除黑名单内所有的玩家。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SetStatus",
+      "index": 20,
+      "columns": {
+        "Command": [
+          {
+            "en": "status",
+            "zh": "状态"
+          }
+        ]
+      }
+    },
+    {
+      "id": "InviteToParty",
+      "index": 21,
+      "columns": {
+        "Command": [
+          {
+            "en": "invite",
+            "zh": "邀请"
+          }
+        ],
+        "Description": [
+          {
+            "en": "/invite invites someone to your party by name",
+            "zh": "/邀请（/invite）将该玩家邀请至队伍里。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AddFriend",
+      "index": 22,
+      "columns": {
+        "Command": [
+          {
+            "en": "friend",
+            "zh": "加为好友"
+          }
+        ],
+        "Description": [
+          {
+            "en": "/friend adds a friend to your list by name",
+            "zh": "/加为好友（/friend）将该玩家加入好友名单。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "RemoveFriend",
+      "index": 23,
+      "columns": {
+        "Command": [
+          {
+            "en": "unfriend",
+            "zh": "解除好友"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AcceptFriend",
+      "index": 24,
+      "columns": {
+        "Command": [
+          {
+            "en": "accept",
+            "zh": "同意好友申请"
+          }
+        ]
+      }
+    },
+    {
+      "id": "KickPartyMember",
+      "index": 25,
+      "columns": {
+        "Command": [
+          {
+            "en": "kick",
+            "zh": "移出队伍"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SetPartyDescription",
+      "index": 26,
+      "columns": {
+        "Command": [
+          {
+            "en": "party_description",
+            "zh": "队伍描述"
+          }
+        ]
+      }
+    },
+    {
+      "id": "InitiateTrade",
+      "index": 27,
+      "columns": {
+        "Command": [
+          {
+            "en": "tradewith",
+            "zh": "交易"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ClearMessage1",
+      "index": 28,
+      "columns": {
+        "Command": [
+          {
+            "en": "cls",
+            "zh": "清除对话"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ClearMessage2",
+      "index": 29,
+      "columns": {
+        "Command": [
+          {
+            "en": "clear",
+            "zh": "清除对话"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ToggleNoChat1",
+      "index": 30,
+      "columns": {
+        "Command": [
+          {
+            "en": "nochat",
+            "zh": "关闭聊天"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ToggleNoChat2",
+      "index": 31,
+      "columns": {
+        "Command": [
+          {
+            "en": "togglenochat",
+            "zh": "聊天关闭"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AutoReply",
+      "index": 32,
+      "columns": {
+        "Command": [
+          {
+            "en": "autoreply",
+            "zh": "自动回复"
+          }
+        ],
+        "Description": [
+          {
+            "en": "/autoreply [message] Autoreply to whispers with a custom message.",
+            "zh": "/autoreply [message] 设定自动信息回复私信你的玩家"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SetAFK",
+      "index": 33,
+      "columns": {
+        "Command": [
+          {
+            "en": "afk",
+            "zh": "暂离"
+          }
+        ],
+        "Description": [
+          {
+            "en": "/afk [message] Autoreply to whispers that you are AFK. Performing any action, including chatting, will cancel AFK mode.",
+            "zh": "输入 /afk 或 /暂离 + [信息] 可以自动回复私信你的玩家.任何操作包括聊天都会使你离开afk状态. "
+          }
+        ]
+      }
+    },
+    {
+      "id": "DoNotDisturb1",
+      "index": 34,
+      "columns": {
+        "Command": [
+          {
+            "en": "dnd",
+            "zh": "勿扰"
+          }
+        ],
+        "Description": [
+          {
+            "en": "/dnd [message] Autoreply to whispers that you are DND and ignore all incoming messages.",
+            "zh": "输入 /dnd 或 /勿扰 + [信息] 可以自动回复私信你的玩家，并忽略所有收到的信息。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DoNotDisturb2",
+      "index": 35,
+      "columns": {
+        "Command": [
+          {
+            "en": "donotdisturb",
+            "zh": "勿扰模式"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ExitToCharacterSelection",
+      "index": 36,
+      "columns": {
+        "Command": [
+          {
+            "en": "exit",
+            "zh": "回到角色选择菜单"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SpectatePvP",
+      "index": 37,
+      "columns": {
+        "Command": [
+          {
+            "en": "spectate",
+            "zh": "观战"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SpectatePvPReturn",
+      "index": 38,
+      "columns": {
+        "Command": [
+          {
+            "en": "town",
+            "zh": "离开观战"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SetGlobalChatChannel",
+      "index": 39,
+      "columns": {
+        "Command": [
+          {
+            "en": "global",
+            "zh": "世界频道"
+          }
+        ],
+        "Description": [
+          {
+            "en": "/global [X] changes to global chat channel X.",
+            "zh": "/global [X] 将世界频道切换至指定分流 X。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SetTradeChatChannel",
+      "index": 40,
+      "columns": {
+        "Command": [
+          {
+            "en": "trade",
+            "zh": "交易频道"
+          }
+        ],
+        "Description": [
+          {
+            "en": "/trade [X] changes to trade chat channel X.",
+            "zh": "/trade [X] 将交易频道切换至指定分流 X。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "RecheckAchievements",
+      "index": 41,
+      "columns": {
+        "Command": [
+          {
+            "en": "recheck_achievements",
+            "zh": "重新检查成就"
+          }
+        ],
+        "Description": [
+          {
+            "en": "/recheck_achievements Forces a recheck of certain achievements",
+            "zh": "输入 /重新检查成就 强制重新检查某些成就。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "WarpToHideout",
+      "index": 42,
+      "columns": {
+        "Command": [
+          {
+            "en": "hideout",
+            "zh": "藏身处"
+          }
+        ],
+        "Description": [
+          {
+            "en": "/hideout warps you to your personal Hideout.",
+            "zh": "/hideout会将你传送到私人藏身处。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "WarpToGuildHideout",
+      "index": 43,
+      "columns": {
+        "Command": [
+          {
+            "en": "guild",
+            "zh": "公会"
+          }
+        ],
+        "Description": [
+          {
+            "en": "/guild warps you to your Guild's Hideout.",
+            "zh": "/guild会将你传送到公会藏身处。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ResetExperiencePerHour",
+      "index": 44,
+      "columns": {
+        "Command": [
+          {
+            "en": "reset_xp",
+            "zh": "重置经验计算"
+          }
+        ],
+        "Description": [
+          {
+            "en": "/reset_xp Resets your experience per hour calculation.",
+            "zh": "/reset_xp 重置的的每小时获得经验计算。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SaveHideout",
+      "index": 47,
+      "columns": {
+        "Description": [
+          {
+            "en": "/save_hideout Saves the current Hideout layout to a file that can be later loaded or shared.",
+            "zh": "/save_hideout 保存当前藏身处的布局，该文件日后可读取或分享。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SetItemFilter",
+      "index": 50,
+      "columns": {
+        "Command": [
+          {
+            "en": "itemfilter",
+            "zh": "物品过滤器"
+          }
+        ],
+        "Description": [
+          {
+            "en": "/itemfilter allows you to specify a filter by name to instantly switch to using it",
+            "zh": "/你可以输入指定的物品过滤器名称来切换到它"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ShowKills",
+      "index": 52,
+      "columns": {
+        "Command": [
+          {
+            "en": "kills",
+            "zh": "击败数"
+          }
+        ],
+        "Description": [
+          {
+            "en": "/kills displays how many experience granting kills you have accrued",
+            "zh": "“/kills”显示你获得了多少消灭经验"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Feedback",
+      "index": 53,
+      "columns": {
+        "Description": [
+          {
+            "en": "/feedback submits feedback to the dev team",
+            "zh": "/反馈 将反馈提交给开发团队"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Flip",
+      "index": 54,
+      "columns": {
+        "Command": [
+          {
+            "en": "flip",
+            "zh": "翻转"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LeaveParty",
+      "index": 55,
+      "columns": {
+        "Command": [
+          {
+            "en": "leave",
+            "zh": "离开"
+          }
+        ],
+        "Description": [
+          {
+            "en": "/leave Leaves the current party",
+            "zh": "/离开当前队伍"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ReloadItemFilter",
+      "index": 56,
+      "columns": {
+        "Command": [
+          {
+            "en": "reloaditemfilter",
+            "zh": "重载物品筛选"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ResetAtlas",
+      "index": 58,
+      "columns": {
+        "Command": [
+          {
+            "en": "resetatlas",
+            "zh": "重置异界"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ConvertRaceRewardToMicro",
+      "index": 59,
+      "columns": {
+        "Command": [
+          {
+            "en": "convertracereward",
+            "zh": "转化竞赛奖励"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ReclaimJewels",
+      "index": 60,
+      "columns": {
+        "Command": [
+          {
+            "en": "reclaimjewels",
+            "zh": "回收珠宝"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ReclaimExpeditionInventories",
+      "index": 61,
+      "columns": {
+        "Command": [
+          {
+            "en": "reclaimexpeditioninventories",
+            "zh": "回收先祖秘藏物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Verify",
+      "index": 62,
+      "columns": {
+        "Command": [
+          {
+            "en": "verify",
+            "zh": "验证"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Emote",
+      "index": 63,
+      "columns": {
+        "Description": [
+          {
+            "en": "/emote [X] Has your character play the X emote animation. Leaving X blank will provide the list of emotes available to you.",
+            "zh": "/emote [X] - 使你的角色播放X表情动画。若未输入X，将显示你可使用的表情列表。"
+          }
+        ]
+      }
+    }
+  ]
+}

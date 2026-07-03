@@ -1,0 +1,34 @@
+{
+  "table": "StatisticTrackingMicrotransactionCounterType",
+  "key": "Id",
+  "columns": [
+    "__col1",
+    "Name"
+  ],
+  "entries": [
+    {
+      "id": "Normal",
+      "index": 0,
+      "columns": {
+        "Name": [
+          {
+            "en": "Global",
+            "zh": "全局"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CurrentLeagueCategoryOnly",
+      "index": 1,
+      "columns": {
+        "Name": [
+          {
+            "en": "Challenge League",
+            "zh": "挑战赛季"
+          }
+        ]
+      }
+    }
+  ]
+}

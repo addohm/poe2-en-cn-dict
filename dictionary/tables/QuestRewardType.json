@@ -1,0 +1,695 @@
+{
+  "table": "QuestRewardType",
+  "key": "Id",
+  "columns": [
+    "Icon_DDSFile",
+    "Name",
+    "Description"
+  ],
+  "entries": [
+    {
+      "id": "GoldReward",
+      "index": 0,
+      "columns": {
+        "Name": [
+          {
+            "en": "Gold",
+            "zh": "金币"
+          }
+        ],
+        "Description": [
+          {
+            "en": "This quest will give you gold.",
+            "zh": "此任务将奖励金币。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GoldRewardTreasureVault",
+      "index": 1,
+      "columns": {
+        "Name": [
+          {
+            "en": "Gold",
+            "zh": "金币"
+          }
+        ],
+        "Description": [
+          {
+            "en": "This quest will give you gold.",
+            "zh": "此任务将奖励金币。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ArtificersOrb",
+      "index": 2,
+      "columns": {
+        "Name": [
+          {
+            "en": "Artificer's Orb",
+            "zh": "巧匠石"
+          }
+        ],
+        "Description": [
+          {
+            "en": "This quest will reward you with an Artificer's Orb",
+            "zh": "此任务将奖励一颗巧匠石。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ArtificersOrbTreasureVault",
+      "index": 3,
+      "columns": {
+        "Name": [
+          {
+            "en": "Artificer's Orb",
+            "zh": "巧匠石"
+          }
+        ],
+        "Description": [
+          {
+            "en": "This quest will reward you with an Artificer's Orb",
+            "zh": "此任务将奖励一颗巧匠石。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BookOfSpecialiation",
+      "index": 4,
+      "columns": {
+        "Name": [
+          {
+            "en": "Book of Specialisation",
+            "zh": "专精之书"
+          }
+        ],
+        "Description": [
+          {
+            "en": "This quest will reward you with a Book of Specialiation.",
+            "zh": "此任务将奖励一本专精之书。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "UncutSkillGem",
+      "index": 5,
+      "columns": {
+        "Name": [
+          {
+            "en": "Uncut Skill Gem",
+            "zh": "未切割的技能宝石"
+          }
+        ],
+        "Description": [
+          {
+            "en": "This quest will reward you with an Uncut Skill Gem.",
+            "zh": "此任务将奖励一颗未切割的技能宝石。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "UncutSkillGemTreasureVault",
+      "index": 6,
+      "columns": {
+        "Name": [
+          {
+            "en": "Uncut Skill Gem",
+            "zh": "未切割的技能宝石"
+          }
+        ],
+        "Description": [
+          {
+            "en": "This quest will reward you with an Uncut Skill Gem.",
+            "zh": "此任务将奖励一颗未切割的技能宝石。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "UncutSupportGem",
+      "index": 7,
+      "columns": {
+        "Name": [
+          {
+            "en": "Uncut Support Gem",
+            "zh": "未切割的辅助宝石"
+          }
+        ],
+        "Description": [
+          {
+            "en": "This quest will reward you with an Uncut Support Gem.",
+            "zh": "此任务将奖励一颗未切割的辅助宝石。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "UncutBuffSkillGem",
+      "index": 8,
+      "columns": {
+        "Name": [
+          {
+            "en": "Uncut Buff Skill Gem",
+            "zh": "未切割的增益技能宝石"
+          }
+        ],
+        "Description": [
+          {
+            "en": "This quest will reward you with an Uncut Buff Skill Gem.",
+            "zh": "此任务将奖励一颗未切割的增益技能宝石。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ConsumablePermanentBenefit",
+      "index": 9,
+      "columns": {
+        "Name": [
+          {
+            "en": "Permanent Benefit Consumable",
+            "zh": "永久增益消耗品"
+          }
+        ],
+        "Description": [
+          {
+            "en": "This quest will reward you with a consumable that can be used to grant you a permanent benefit.",
+            "zh": "此任务会奖励你一个消耗品，可以用来给你带来永久增益。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "RingMagic",
+      "index": 10,
+      "columns": {
+        "Name": [
+          {
+            "en": "Magic Ring",
+            "zh": "魔法戒指"
+          }
+        ],
+        "Description": [
+          {
+            "en": "This quest will reward you with a magic Ring.",
+            "zh": "此任务将奖励一枚魔法戒指。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "RingRare",
+      "index": 11,
+      "columns": {
+        "Name": [
+          {
+            "en": "Rare Ring",
+            "zh": "稀有戒指"
+          }
+        ],
+        "Description": [
+          {
+            "en": "This quest will reward you with a rare Ring.",
+            "zh": "此任务将奖励一枚稀有戒指。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AmuletMagic",
+      "index": 12,
+      "columns": {
+        "Name": [
+          {
+            "en": "Magic Amulet",
+            "zh": "魔法项链"
+          }
+        ],
+        "Description": [
+          {
+            "en": "This quest will reward you with a magic Amulet.",
+            "zh": "此任务将奖励一串魔法项链。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FlaskMagic",
+      "index": 13,
+      "columns": {
+        "Name": [
+          {
+            "en": "Magic Utility Flask",
+            "zh": "魔法功能药剂"
+          }
+        ],
+        "Description": [
+          {
+            "en": "This quest will reward you with a magic Utility Flask.",
+            "zh": "此任务将奖励一瓶魔法功能药剂。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BootsMagic",
+      "index": 14,
+      "columns": {
+        "Name": [
+          {
+            "en": "Magic Boots",
+            "zh": "魔法靴子"
+          }
+        ],
+        "Description": [
+          {
+            "en": "This quest will reward you with a pair of magic Boots.",
+            "zh": "此任务将奖励一双魔法靴子。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GlovesMagic",
+      "index": 15,
+      "columns": {
+        "Name": [
+          {
+            "en": "Magic Gloves",
+            "zh": "魔法手套"
+          }
+        ],
+        "Description": [
+          {
+            "en": "This quest will reward you with a pair of magic Gloves.",
+            "zh": "此任务将奖励一副魔法手套。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GlovesRare",
+      "index": 16,
+      "columns": {
+        "Name": [
+          {
+            "en": "Rare Gloves",
+            "zh": "稀有手套"
+          }
+        ],
+        "Description": [
+          {
+            "en": "This quest will reward you with a pair of rare Gloves.",
+            "zh": "此任务将奖励一副稀有手套。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Helmet",
+      "index": 17,
+      "columns": {
+        "Name": [
+          {
+            "en": "Helmet",
+            "zh": "头盔"
+          }
+        ],
+        "Description": [
+          {
+            "en": "This quest will reward you with a Helmet.",
+            "zh": "此任务将奖励一顶头盔。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Gear",
+      "index": 18,
+      "columns": {
+        "Name": [
+          {
+            "en": "Equippable Item",
+            "zh": "可装备物品"
+          }
+        ],
+        "Description": [
+          {
+            "en": "This quest will reward you with an equippable item.",
+            "zh": "此任务将奖励一个可装备物品。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Weapons",
+      "index": 19,
+      "columns": {
+        "Name": [
+          {
+            "en": "Weapon",
+            "zh": "武器"
+          }
+        ],
+        "Description": [
+          {
+            "en": "This quest will reward you with a Weapon.",
+            "zh": "此任务将奖励一把武器。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MapMagic",
+      "index": 20,
+      "columns": {
+        "Name": [
+          {
+            "en": "Waystone",
+            "zh": "引路石"
+          }
+        ],
+        "Description": [
+          {
+            "en": "This quest will reward you with a magic Waystone.",
+            "zh": "此任务将奖励一个魔法引路石。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CraftingBench",
+      "index": 21,
+      "columns": {
+        "Name": [
+          {
+            "en": "Salvage Bench Unlock",
+            "zh": "解锁分解台"
+          }
+        ],
+        "Description": [
+          {
+            "en": "This quest will unlock use of the Salvage Bench.",
+            "zh": "此任务将解锁分解台。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AtlasPassivePoints",
+      "index": 22,
+      "columns": {
+        "Name": [
+          {
+            "en": "Atlas Passive Points",
+            "zh": "异界天赋点数"
+          }
+        ],
+        "Description": [
+          {
+            "en": "This quest will reward you with Atlas Passive Points.",
+            "zh": "此任务将奖励异界天赋点数。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Charm",
+      "index": 23,
+      "columns": {
+        "Name": [
+          {
+            "en": "Charm",
+            "zh": "咒符"
+          }
+        ],
+        "Description": [
+          {
+            "en": "This quest will reward you with a Charm.",
+            "zh": "此任务将奖励一个咒符。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SpiritDraught1",
+      "index": 24,
+      "columns": {
+        "Name": [
+          {
+            "en": "Spirit Draught",
+            "zh": "精魂饮剂"
+          }
+        ],
+        "Description": [
+          {
+            "en": "This quest will reward you with a Spirit Draught.",
+            "zh": "此任务将奖励一个精魂饮剂。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SpiritDraught2",
+      "index": 25,
+      "columns": {
+        "Name": [
+          {
+            "en": "Spirit Draught",
+            "zh": "精魂饮剂"
+          }
+        ],
+        "Description": [
+          {
+            "en": "This quest will reward you with a Spirit Draught.",
+            "zh": "此任务将奖励一个精魂饮剂。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SpiritDraught3",
+      "index": 26,
+      "columns": {
+        "Name": [
+          {
+            "en": "Spirit Draught",
+            "zh": "精魂饮剂"
+          }
+        ],
+        "Description": [
+          {
+            "en": "This quest will reward you with a Spirit Draught.",
+            "zh": "此任务将奖励一个精魂饮剂。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PrecursorTablet",
+      "index": 27,
+      "columns": {
+        "Name": [
+          {
+            "en": "Tablet",
+            "zh": "石板"
+          }
+        ],
+        "Description": [
+          {
+            "en": "This quest will reward you with a Tablet.",
+            "zh": "此任务将奖励一个石板。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DistilledEmotion1",
+      "index": 28,
+      "columns": {
+        "Name": [
+          {
+            "en": "Distilled Emotion",
+            "zh": "净化的情感"
+          }
+        ],
+        "Description": [
+          {
+            "en": "This quest will reward you with a Distilled Emotion.",
+            "zh": "此任务将奖励一个净化的情感。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DistilledEmotion2",
+      "index": 29,
+      "columns": {
+        "Name": [
+          {
+            "en": "Distilled Emotion",
+            "zh": "净化的情感"
+          }
+        ],
+        "Description": [
+          {
+            "en": "This quest will reward you with a Distilled Emotion.",
+            "zh": "此任务将奖励一个净化的情感。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DistilledEmotion3",
+      "index": 30,
+      "columns": {
+        "Name": [
+          {
+            "en": "Distilled Emotion",
+            "zh": "净化的情感"
+          }
+        ],
+        "Description": [
+          {
+            "en": "This quest will reward you with a Distilled Emotion.",
+            "zh": "此任务将奖励一个净化的情感。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DistilledEmotion4",
+      "index": 31,
+      "columns": {
+        "Name": [
+          {
+            "en": "Distilled Emotion",
+            "zh": "净化的情感"
+          }
+        ],
+        "Description": [
+          {
+            "en": "This quest will reward you with a Distilled Emotion.",
+            "zh": "此任务将奖励一个净化的情感。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DistilledEmotion5",
+      "index": 32,
+      "columns": {
+        "Name": [
+          {
+            "en": "Distilled Emotion",
+            "zh": "净化的情感"
+          }
+        ],
+        "Description": [
+          {
+            "en": "This quest will reward you with a Distilled Emotion.",
+            "zh": "此任务将奖励一个净化的情感。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BookOfSpecialisation1",
+      "index": 33,
+      "columns": {
+        "Name": [
+          {
+            "en": "Book of Specialisation",
+            "zh": "专精之书"
+          }
+        ],
+        "Description": [
+          {
+            "en": "This quest will reward you with a Book of Specialisation.",
+            "zh": "此任务将奖励一本专精之书。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BookOfSpecialisation2",
+      "index": 34,
+      "columns": {
+        "Name": [
+          {
+            "en": "Book of Specialisation",
+            "zh": "专精之书"
+          }
+        ],
+        "Description": [
+          {
+            "en": "This quest will reward you with a Book of Specialisation.",
+            "zh": "此任务将奖励一本专精之书。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BookOfSpecialisation4",
+      "index": 35,
+      "columns": {
+        "Name": [
+          {
+            "en": "Book of Specialisation",
+            "zh": "专精之书"
+          }
+        ],
+        "Description": [
+          {
+            "en": "This quest will reward you with a Book of Specialisation.",
+            "zh": "此任务将奖励一本专精之书。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BookOfSpecialisation5",
+      "index": 36,
+      "columns": {
+        "Name": [
+          {
+            "en": "Book of Specialisation",
+            "zh": "专精之书"
+          }
+        ],
+        "Description": [
+          {
+            "en": "This quest will reward you with a Book of Specialisation.",
+            "zh": "此任务将奖励一本专精之书。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BookOfSpecialisation6",
+      "index": 37,
+      "columns": {
+        "Name": [
+          {
+            "en": "Book of Specialisation",
+            "zh": "专精之书"
+          }
+        ],
+        "Description": [
+          {
+            "en": "This quest will reward you with a Book of Specialisation.",
+            "zh": "此任务将奖励一本专精之书。"
+          }
+        ]
+      }
+    }
+  ]
+}

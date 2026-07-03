@@ -1,0 +1,256 @@
+{
+  "table": "MapSeries",
+  "key": "Id",
+  "columns": [
+    "Name",
+    "BaseIcon_DDSFile",
+    "Infected_DDSFile",
+    "Shaper_DDSFile",
+    "Elder_DDSFile",
+    "Drawn_DDSFile",
+    "Delirious_DDSFile",
+    "UberBlight_DDSFile"
+  ],
+  "entries": [
+    {
+      "id": "Map",
+      "index": 0,
+      "columns": {
+        "Name": [
+          {
+            "en": "Original",
+            "zh": "初代"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Map2",
+      "index": 1,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Awakening",
+            "zh": "大觉醒"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MapAtlas",
+      "index": 2,
+      "columns": {
+        "Name": [
+          {
+            "en": "Atlas of Worlds",
+            "zh": "异界图鉴"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MapWorlds",
+      "index": 3,
+      "columns": {
+        "Name": [
+          {
+            "en": "War for the Atlas",
+            "zh": "异界争夺战"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Betrayal",
+      "index": 4,
+      "columns": {
+        "Name": [
+          {
+            "en": "Betrayal",
+            "zh": "毁灭不朽"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Synthesis",
+      "index": 5,
+      "columns": {
+        "Name": [
+          {
+            "en": "Synthesis",
+            "zh": "虚空忆境"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Legion",
+      "index": 6,
+      "columns": {
+        "Name": [
+          {
+            "en": "Legion",
+            "zh": "军团"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Blight",
+      "index": 7,
+      "columns": {
+        "Name": [
+          {
+            "en": "Blight",
+            "zh": "菌潮"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Metamorphosis",
+      "index": 8,
+      "columns": {
+        "Name": [
+          {
+            "en": "Metamorph",
+            "zh": "灾变"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Delirium",
+      "index": 9,
+      "columns": {
+        "Name": [
+          {
+            "en": "Delirium",
+            "zh": "惊悸迷雾"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Harvest",
+      "index": 10,
+      "columns": {
+        "Name": [
+          {
+            "en": "Harvest",
+            "zh": "古灵庄园"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Heist",
+      "index": 11,
+      "columns": {
+        "Name": [
+          {
+            "en": "Heist",
+            "zh": "夺宝奇兵"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Ritual",
+      "index": 12,
+      "columns": {
+        "Name": [
+          {
+            "en": "Ritual",
+            "zh": "驱灵仪式"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Expedition",
+      "index": 13,
+      "columns": {
+        "Name": [
+          {
+            "en": "Expedition",
+            "zh": "先祖秘藏"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Hellscape",
+      "index": 14,
+      "columns": {
+        "Name": [
+          {
+            "en": "Scourge",
+            "zh": "异度天灾"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Archnemesis",
+      "index": 15,
+      "columns": {
+        "Name": [
+          {
+            "en": "Archnemesis",
+            "zh": "罪恶枷锁"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Sentinel",
+      "index": 16,
+      "columns": {
+        "Name": [
+          {
+            "en": "Sentinel",
+            "zh": "近卫"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Lake",
+      "index": 17,
+      "columns": {
+        "Name": [
+          {
+            "en": "Kalandra",
+            "zh": "卡兰德"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Sanctum",
+      "index": 18,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Forbidden Sanctum",
+            "zh": "禁忌圣所"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Crucible",
+      "index": 19,
+      "columns": {
+        "Name": [
+          {
+            "en": "Crucible",
+            "zh": "古神熔炉"
+          }
+        ]
+      }
+    }
+  ]
+}

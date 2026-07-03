@@ -1,0 +1,767 @@
+{
+  "table": "BestiaryGenus",
+  "key": "Id",
+  "columns": [
+    "Name",
+    "Name2",
+    "Icon"
+  ],
+  "entries": [
+    {
+      "id": "Gargantuans",
+      "index": 0,
+      "columns": {
+        "Name": [
+          {
+            "en": "Gargantuans",
+            "zh": "野兽"
+          }
+        ],
+        "Name2": [
+          {
+            "en": "Gargantuan",
+            "zh": "野兽"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Goatmen",
+      "index": 1,
+      "columns": {
+        "Name": [
+          {
+            "en": "Goatmen",
+            "zh": "羊人"
+          }
+        ],
+        "Name2": [
+          {
+            "en": "Goatman",
+            "zh": "羊人"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GoatShamans",
+      "index": 2,
+      "columns": {
+        "Name": [
+          {
+            "en": "Goat Shamans",
+            "zh": "羊人萨满"
+          }
+        ],
+        "Name2": [
+          {
+            "en": "Goat Shaman",
+            "zh": "羊人萨满"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Hellions",
+      "index": 3,
+      "columns": {
+        "Name": [
+          {
+            "en": "Hellions",
+            "zh": "地狱犬"
+          }
+        ],
+        "Name2": [
+          {
+            "en": "Hellion",
+            "zh": "地狱犬"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Wolves",
+      "index": 4,
+      "columns": {
+        "Name": [
+          {
+            "en": "Wolves",
+            "zh": "狼"
+          }
+        ],
+        "Name2": [
+          {
+            "en": "Wolf",
+            "zh": "狼"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Apes",
+      "index": 5,
+      "columns": {
+        "Name": [
+          {
+            "en": "Apes",
+            "zh": "猴"
+          }
+        ],
+        "Name2": [
+          {
+            "en": "Ape",
+            "zh": "猴"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Rhoas",
+      "index": 6,
+      "columns": {
+        "Name": [
+          {
+            "en": "Rhoas",
+            "zh": "恐喙鸟"
+          }
+        ],
+        "Name2": [
+          {
+            "en": "Rhoa",
+            "zh": "恐喙鸟"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SandSpitters",
+      "index": 7,
+      "columns": {
+        "Name": [
+          {
+            "en": "Sand Spitters",
+            "zh": "喷砂爪蟹"
+          }
+        ],
+        "Name2": [
+          {
+            "en": "Sand Spitter",
+            "zh": "喷砂爪蟹"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SeaWitches",
+      "index": 8,
+      "columns": {
+        "Name": [
+          {
+            "en": "Sea Witches",
+            "zh": "海妖"
+          }
+        ],
+        "Name2": [
+          {
+            "en": "Sea Witch",
+            "zh": "海妖"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ShieldCrabs",
+      "index": 9,
+      "columns": {
+        "Name": [
+          {
+            "en": "Shield Crabs",
+            "zh": "附壳巨蟹"
+          }
+        ],
+        "Name2": [
+          {
+            "en": "Shield Crab",
+            "zh": "附壳巨蟹"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Snakes",
+      "index": 10,
+      "columns": {
+        "Name": [
+          {
+            "en": "Snakes",
+            "zh": "蛇"
+          }
+        ],
+        "Name2": [
+          {
+            "en": "Snake",
+            "zh": "蛇"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Spawn",
+      "index": 11,
+      "columns": {
+        "Name": [
+          {
+            "en": "Spawn",
+            "zh": "邪口"
+          }
+        ],
+        "Name2": [
+          {
+            "en": "Spawn",
+            "zh": "邪口"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Spiders",
+      "index": 12,
+      "columns": {
+        "Name": [
+          {
+            "en": "Spiders",
+            "zh": "蜘蛛"
+          }
+        ],
+        "Name2": [
+          {
+            "en": "Spider",
+            "zh": "蜘蛛"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Maws",
+      "index": 13,
+      "columns": {
+        "Name": [
+          {
+            "en": "Maws",
+            "zh": "裂齿兽"
+          }
+        ],
+        "Name2": [
+          {
+            "en": "Maw",
+            "zh": "裂齿兽"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Chimerals",
+      "index": 14,
+      "columns": {
+        "Name": [
+          {
+            "en": "Chimerals",
+            "zh": "蜥蜴"
+          }
+        ],
+        "Name2": [
+          {
+            "en": "Chimeral",
+            "zh": "蜥蜴"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CarrionQueens",
+      "index": 15,
+      "columns": {
+        "Name": [
+          {
+            "en": "Carrion Queens",
+            "zh": "食腐虫后"
+          }
+        ],
+        "Name2": [
+          {
+            "en": "Carrion Queen",
+            "zh": "食腐虫后"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CarrionInsects",
+      "index": 16,
+      "columns": {
+        "Name": [
+          {
+            "en": "Carrion Insects",
+            "zh": "食腐虫"
+          }
+        ],
+        "Name2": [
+          {
+            "en": "Carrion Insect",
+            "zh": "食腐虫"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Retches",
+      "index": 17,
+      "columns": {
+        "Name": [
+          {
+            "en": "Retches",
+            "zh": "反刍鸟"
+          }
+        ],
+        "Name2": [
+          {
+            "en": "Retch",
+            "zh": "反刍鸟"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Goliaths",
+      "index": 18,
+      "columns": {
+        "Name": [
+          {
+            "en": "Goliaths",
+            "zh": "歌利亚"
+          }
+        ],
+        "Name2": [
+          {
+            "en": "Goliath",
+            "zh": "歌利亚"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Devourers",
+      "index": 19,
+      "columns": {
+        "Name": [
+          {
+            "en": "Devourers",
+            "zh": "吞噬者"
+          }
+        ],
+        "Name2": [
+          {
+            "en": "Devourer",
+            "zh": "吞噬者"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Watchers",
+      "index": 20,
+      "columns": {
+        "Name": [
+          {
+            "en": "Watchers",
+            "zh": "守望者"
+          }
+        ],
+        "Name2": [
+          {
+            "en": "Watcher",
+            "zh": "守望者"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PlummetingUrsae",
+      "index": 21,
+      "columns": {
+        "Name": [
+          {
+            "en": "Plummeting Ursae",
+            "zh": "堕落之爪"
+          }
+        ],
+        "Name2": [
+          {
+            "en": "Plummeting Ursa",
+            "zh": "堕落之爪"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Vultures",
+      "index": 22,
+      "columns": {
+        "Name": [
+          {
+            "en": "Vultures",
+            "zh": "秃鹰"
+          }
+        ],
+        "Name2": [
+          {
+            "en": "Vulture",
+            "zh": "秃鹰"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Leapers",
+      "index": 23,
+      "columns": {
+        "Name": [
+          {
+            "en": "Leapers",
+            "zh": "拨尘者"
+          }
+        ],
+        "Name2": [
+          {
+            "en": "Leaper",
+            "zh": "拨尘者"
+          }
+        ]
+      }
+    },
+    {
+      "id": "KaruiHounds",
+      "index": 24,
+      "columns": {
+        "Name": [
+          {
+            "en": "Karui Hounds",
+            "zh": "猎犬"
+          }
+        ],
+        "Name2": [
+          {
+            "en": "Karui Hound",
+            "zh": "猎犬"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Pitbulls",
+      "index": 25,
+      "columns": {
+        "Name": [
+          {
+            "en": "Pitbulls",
+            "zh": "斗牛犬"
+          }
+        ],
+        "Name2": [
+          {
+            "en": "Pitbull",
+            "zh": "斗牛犬"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Cockerels",
+      "index": 26,
+      "columns": {
+        "Name": [
+          {
+            "en": "Cockerels",
+            "zh": "斗鸡"
+          }
+        ],
+        "Name2": [
+          {
+            "en": "Cockerel",
+            "zh": "斗鸡"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Bulls",
+      "index": 27,
+      "columns": {
+        "Name": [
+          {
+            "en": "Bulls",
+            "zh": "牛"
+          }
+        ],
+        "Name2": [
+          {
+            "en": "Bull",
+            "zh": "牛"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ApeChieftains",
+      "index": 28,
+      "columns": {
+        "Name": [
+          {
+            "en": "Ape Chieftains",
+            "zh": "狂猿酋长"
+          }
+        ],
+        "Name2": [
+          {
+            "en": "Ape Chieftain",
+            "zh": "狂猿酋长"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Parasites",
+      "index": 29,
+      "columns": {
+        "Name": [
+          {
+            "en": "Parasites",
+            "zh": "寄生物"
+          }
+        ],
+        "Name2": [
+          {
+            "en": "Parasite",
+            "zh": "寄生物"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Crabs",
+      "index": 30,
+      "columns": {
+        "Name": [
+          {
+            "en": "Crabs",
+            "zh": "蟹"
+          }
+        ],
+        "Name2": [
+          {
+            "en": "Crab",
+            "zh": "蟹"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Hounds",
+      "index": 31,
+      "columns": {
+        "Name": [
+          {
+            "en": "Hounds",
+            "zh": "猎犬"
+          }
+        ],
+        "Name2": [
+          {
+            "en": "Hound",
+            "zh": "猎犬"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Lurchers",
+      "index": 32,
+      "columns": {
+        "Name": [
+          {
+            "en": "Lurchers",
+            "zh": "混种"
+          }
+        ],
+        "Name2": [
+          {
+            "en": "Lurcher",
+            "zh": "混种"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Arachnoscorpions",
+      "index": 33,
+      "columns": {
+        "Name": [
+          {
+            "en": "Arachnoscorpions",
+            "zh": "坚毅蝎子"
+          }
+        ],
+        "Name2": [
+          {
+            "en": "Arachnoscorpion",
+            "zh": "坚毅蝎子"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Rhexes",
+      "index": 34,
+      "columns": {
+        "Name": [
+          {
+            "en": "Rhexes",
+            "zh": "凶鸟"
+          }
+        ],
+        "Name2": [
+          {
+            "en": "Rhex",
+            "zh": "凶鸟"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Scorpions",
+      "index": 35,
+      "columns": {
+        "Name": [
+          {
+            "en": "Scorpions",
+            "zh": "蝎"
+          }
+        ],
+        "Name2": [
+          {
+            "en": "Scorpion",
+            "zh": "蝎"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Lynxes",
+      "index": 36,
+      "columns": {
+        "Name": [
+          {
+            "en": "Lynxes",
+            "zh": "猞猁"
+          }
+        ],
+        "Name2": [
+          {
+            "en": "Lynx",
+            "zh": "猞猁"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Tigers",
+      "index": 37,
+      "columns": {
+        "Name": [
+          {
+            "en": "Tigers",
+            "zh": "虎"
+          }
+        ],
+        "Name2": [
+          {
+            "en": "Tiger",
+            "zh": "虎"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SpiderCrabs",
+      "index": 38,
+      "columns": {
+        "Name": [
+          {
+            "en": "Spider Crabs",
+            "zh": "蜘蛛蟹"
+          }
+        ],
+        "Name2": [
+          {
+            "en": "Spider Crab",
+            "zh": "蜘蛛蟹"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Octopuses",
+      "index": 39,
+      "columns": {
+        "Name": [
+          {
+            "en": "Octopuses",
+            "zh": "章鱼"
+          }
+        ],
+        "Name2": [
+          {
+            "en": "Octopus",
+            "zh": "章鱼"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GemFrog",
+      "index": 40,
+      "columns": {
+        "Name": [
+          {
+            "en": "Gem Frogs",
+            "zh": "宝石蛙"
+          }
+        ],
+        "Name2": [
+          {
+            "en": "Gem Frog",
+            "zh": "宝石蛙"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Frog",
+      "index": 41,
+      "columns": {
+        "Name": [
+          {
+            "en": "Frogs",
+            "zh": "蛙"
+          }
+        ],
+        "Name2": [
+          {
+            "en": "Frog",
+            "zh": "蛙"
+          }
+        ]
+      }
+    }
+  ]
+}

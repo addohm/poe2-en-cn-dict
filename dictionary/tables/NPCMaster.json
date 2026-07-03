@@ -1,0 +1,70 @@
+{
+  "table": "NPCMaster",
+  "key": "_index",
+  "columns": [
+    "Id",
+    "AreaDescription"
+  ],
+  "entries": [
+    {
+      "id": null,
+      "index": 1,
+      "columns": {
+        "AreaDescription": [
+          {
+            "en": "Area will contain powerful beasts, which Einhar will help you hunt.",
+            "zh": "该区域会出现强大的怪物，伊恩哈尔会助你狩猎。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 2,
+      "columns": {
+        "AreaDescription": [
+          {
+            "en": "Area will contain Incursions to the Temple of Atzoatl, which Alva will open.",
+            "zh": "该区域会出现阿佐亚特神庙的穿越间，阿尔瓦会帮你打开。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 4,
+      "columns": {
+        "AreaDescription": [
+          {
+            "en": "Area will contain masses of Voltaxic Sulphite, which Niko will extract for you.",
+            "zh": "该区域会出现大量魔暴亚硫酸，尼克会帮你提炼。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 5,
+      "columns": {
+        "AreaDescription": [
+          {
+            "en": "Area will contain Immortal Syndicate activity, which Jun will help you combat.",
+            "zh": "该区域会有不朽辛迪加活动，琼会助你一臂之力。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 6,
+      "columns": {
+        "AreaDescription": [
+          {
+            "en": "Kirac Mission",
+            "zh": "奇拉克任务"
+          }
+        ]
+      }
+    }
+  ]
+}

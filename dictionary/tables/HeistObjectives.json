@@ -1,0 +1,897 @@
+{
+  "table": "HeistObjectives",
+  "key": "_index",
+  "columns": [
+    "Name"
+  ],
+  "entries": [
+    {
+      "id": null,
+      "index": 0,
+      "columns": {
+        "Name": [
+          {
+            "en": "Bazira",
+            "zh": "贝兹拉"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 1,
+      "columns": {
+        "Name": [
+          {
+            "en": "Tsvet Matvei",
+            "zh": "茨维特·马维"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 2,
+      "columns": {
+        "Name": [
+          {
+            "en": "Bazira",
+            "zh": "贝兹拉"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 3,
+      "columns": {
+        "Name": [
+          {
+            "en": "Count Geonor",
+            "zh": "吉恩诺伯爵"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 4,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Crimson Scribe",
+            "zh": "红衣书吏"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 5,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Midnight Tinkerer",
+            "zh": "午夜修补匠"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 6,
+      "columns": {
+        "Name": [
+          {
+            "en": "Aline Koltz",
+            "zh": "艾琳·科尔茨"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 7,
+      "columns": {
+        "Name": [
+          {
+            "en": "Tsvet Matvei",
+            "zh": "茨维特·马维"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 8,
+      "columns": {
+        "Name": [
+          {
+            "en": "Administrator Qotra",
+            "zh": "科塔拉总管"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 9,
+      "columns": {
+        "Name": [
+          {
+            "en": "Count Geonor",
+            "zh": "吉恩诺伯爵"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 10,
+      "columns": {
+        "Name": [
+          {
+            "en": "Nishem",
+            "zh": "尼色姆"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 11,
+      "columns": {
+        "Name": [
+          {
+            "en": "Aline Koltz",
+            "zh": "艾琳·科尔茨"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 12,
+      "columns": {
+        "Name": [
+          {
+            "en": "Count Geonor",
+            "zh": "吉恩诺伯爵"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 13,
+      "columns": {
+        "Name": [
+          {
+            "en": "Marcine Clavus",
+            "zh": "马凯恩·克拉乌斯"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 14,
+      "columns": {
+        "Name": [
+          {
+            "en": "Marcine Clavus",
+            "zh": "马凯恩·克拉乌斯"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 15,
+      "columns": {
+        "Name": [
+          {
+            "en": "Marcine Clavus",
+            "zh": "马凯恩·克拉乌斯"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 16,
+      "columns": {
+        "Name": [
+          {
+            "en": "Marcine Clavus",
+            "zh": "马凯恩·克拉乌斯"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 17,
+      "columns": {
+        "Name": [
+          {
+            "en": "Marcine Clavus",
+            "zh": "马凯恩·克拉乌斯"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 18,
+      "columns": {
+        "Name": [
+          {
+            "en": "Selwyn Eddard",
+            "zh": "塞尔温·艾德"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 19,
+      "columns": {
+        "Name": [
+          {
+            "en": "Kondor Larcius",
+            "zh": "康多·拉修斯"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 20,
+      "columns": {
+        "Name": [
+          {
+            "en": "Grond Ironeye",
+            "zh": "格隆德·铁眼"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 21,
+      "columns": {
+        "Name": [
+          {
+            "en": "Bazira",
+            "zh": "贝兹拉"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 22,
+      "columns": {
+        "Name": [
+          {
+            "en": "Bazira",
+            "zh": "贝兹拉"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 23,
+      "columns": {
+        "Name": [
+          {
+            "en": "Kondor Larcius",
+            "zh": "康多·拉修斯"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 24,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Crimson Scribe",
+            "zh": "红衣书吏"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 25,
+      "columns": {
+        "Name": [
+          {
+            "en": "Administrator Qotra",
+            "zh": "科塔拉总管"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 26,
+      "columns": {
+        "Name": [
+          {
+            "en": "Administrator Qotra",
+            "zh": "科塔拉总管"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 27,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Crimson Scribe",
+            "zh": "红衣书吏"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 28,
+      "columns": {
+        "Name": [
+          {
+            "en": "Remus Hestor",
+            "zh": "拉姆斯·赫斯托"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 29,
+      "columns": {
+        "Name": [
+          {
+            "en": "Nishem",
+            "zh": "尼色姆"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 30,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Crimson Scribe",
+            "zh": "红衣书吏"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 31,
+      "columns": {
+        "Name": [
+          {
+            "en": "Anton Laffrey",
+            "zh": "安东·拉弗里"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 32,
+      "columns": {
+        "Name": [
+          {
+            "en": "Tsvet Matvei",
+            "zh": "茨维特·马维"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 33,
+      "columns": {
+        "Name": [
+          {
+            "en": "Kondor Larcius",
+            "zh": "康多·拉修斯"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 34,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Midnight Tinkerer",
+            "zh": "午夜修补匠"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 35,
+      "columns": {
+        "Name": [
+          {
+            "en": "Bazira",
+            "zh": "贝兹拉"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 36,
+      "columns": {
+        "Name": [
+          {
+            "en": "Kondor Larcius",
+            "zh": "康多·拉修斯"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 37,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Crimson Scribe",
+            "zh": "红衣书吏"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 38,
+      "columns": {
+        "Name": [
+          {
+            "en": "Administrator Qotra",
+            "zh": "科塔拉总管"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 39,
+      "columns": {
+        "Name": [
+          {
+            "en": "Cardinal Uthelius",
+            "zh": "枢机主教乌特留斯"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 40,
+      "columns": {
+        "Name": [
+          {
+            "en": "Castor Pollinius III",
+            "zh": "卡斯特·波利留斯三世"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 47,
+      "columns": {
+        "Name": [
+          {
+            "en": "Karst",
+            "zh": "卡斯特"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 48,
+      "columns": {
+        "Name": [
+          {
+            "en": "Karst",
+            "zh": "卡斯特"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 49,
+      "columns": {
+        "Name": [
+          {
+            "en": "Karst",
+            "zh": "卡斯特"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 50,
+      "columns": {
+        "Name": [
+          {
+            "en": "Tibbs",
+            "zh": "特卜斯"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 51,
+      "columns": {
+        "Name": [
+          {
+            "en": "Tibbs",
+            "zh": "特卜斯"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 52,
+      "columns": {
+        "Name": [
+          {
+            "en": "Huck",
+            "zh": "哈克"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 53,
+      "columns": {
+        "Name": [
+          {
+            "en": "Huck",
+            "zh": "哈克"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 54,
+      "columns": {
+        "Name": [
+          {
+            "en": "Vinderi",
+            "zh": "温德利"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 55,
+      "columns": {
+        "Name": [
+          {
+            "en": "Vinderi",
+            "zh": "温德利"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 56,
+      "columns": {
+        "Name": [
+          {
+            "en": "Gianna",
+            "zh": "吉安娜"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 57,
+      "columns": {
+        "Name": [
+          {
+            "en": "Gianna",
+            "zh": "吉安娜"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 58,
+      "columns": {
+        "Name": [
+          {
+            "en": "Tullina",
+            "zh": "图林娜"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 59,
+      "columns": {
+        "Name": [
+          {
+            "en": "Tullina",
+            "zh": "图林娜"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 60,
+      "columns": {
+        "Name": [
+          {
+            "en": "Niles",
+            "zh": "奈尔斯"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 61,
+      "columns": {
+        "Name": [
+          {
+            "en": "Niles",
+            "zh": "奈尔斯"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 62,
+      "columns": {
+        "Name": [
+          {
+            "en": "Nenet",
+            "zh": "奈尼特"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 63,
+      "columns": {
+        "Name": [
+          {
+            "en": "Nenet",
+            "zh": "奈尼特"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 64,
+      "columns": {
+        "Name": [
+          {
+            "en": "Isla",
+            "zh": "伊斯拉"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 65,
+      "columns": {
+        "Name": [
+          {
+            "en": "Isla",
+            "zh": "伊斯拉"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 66,
+      "columns": {
+        "Name": [
+          {
+            "en": "Isla",
+            "zh": "伊斯拉"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 67,
+      "columns": {
+        "Name": [
+          {
+            "en": "Adiyah",
+            "zh": "艾蒂娅"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 68,
+      "columns": {
+        "Name": [
+          {
+            "en": "Adiyah",
+            "zh": "艾蒂娅"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 69,
+      "columns": {
+        "Name": [
+          {
+            "en": "Adiyah",
+            "zh": "艾蒂娅"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 70,
+      "columns": {
+        "Name": [
+          {
+            "en": "Whakano",
+            "zh": "瓦卡诺"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 71,
+      "columns": {
+        "Name": [
+          {
+            "en": "Whakano",
+            "zh": "瓦卡诺"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 72,
+      "columns": {
+        "Name": [
+          {
+            "en": "Whakano",
+            "zh": "瓦卡诺"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 73,
+      "columns": {
+        "Name": [
+          {
+            "en": "Faustus",
+            "zh": "浮士德"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 74,
+      "columns": {
+        "Name": [
+          {
+            "en": "Faustus",
+            "zh": "浮士德"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 75,
+      "columns": {
+        "Name": [
+          {
+            "en": "Faustus",
+            "zh": "浮士德"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 76,
+      "columns": {
+        "Name": [
+          {
+            "en": "Kurai",
+            "zh": "科莱"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 77,
+      "columns": {
+        "Name": [
+          {
+            "en": "Kurai",
+            "zh": "科莱"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 78,
+      "columns": {
+        "Name": [
+          {
+            "en": "Kurai",
+            "zh": "科莱"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 79,
+      "columns": {
+        "Name": [
+          {
+            "en": "Kurai",
+            "zh": "科莱"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "table": "AtlasUpgradesInventoryLayout",
+  "key": "_index",
+  "columns": [
+    "Id",
+    "Objective"
+  ],
+  "entries": [
+    {
+      "id": null,
+      "index": 0,
+      "columns": {
+        "Objective": [
+          {
+            "en": "Defeat The Maven",
+            "zh": "击败贤主"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 1,
+      "columns": {
+        "Objective": [
+          {
+            "en": "Defeat The Elder in\r\nThe Shaper's Realm",
+            "zh": "在塑界者国度\r\n击败裂界者"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 2,
+      "columns": {
+        "Objective": [
+          {
+            "en": "Defeat\r\nThe Eater of Worlds",
+            "zh": "击败\r\n世界吞噬者"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 3,
+      "columns": {
+        "Objective": [
+          {
+            "en": "Defeat\r\nThe Searing Exarch",
+            "zh": "击败\r\n灼督"
+          }
+        ]
+      }
+    }
+  ]
+}

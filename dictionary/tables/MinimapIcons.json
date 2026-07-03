@@ -1,0 +1,2230 @@
+{
+  "table": "MinimapIcons",
+  "key": "_index",
+  "columns": [
+    "Id",
+    "Name"
+  ],
+  "entries": [
+    {
+      "id": null,
+      "index": 9,
+      "columns": {
+        "Name": [
+          {
+            "en": "Waypoint",
+            "zh": "传送点"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 163,
+      "columns": {
+        "Name": [
+          {
+            "en": "Map Device",
+            "zh": "地图装置"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 168,
+      "columns": {
+        "Name": [
+          {
+            "en": "Stash",
+            "zh": "储物箱"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 622,
+      "columns": {
+        "Name": [
+          {
+            "en": "Well",
+            "zh": "水井"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 623,
+      "columns": {
+        "Name": [
+          {
+            "en": "Checkpoint",
+            "zh": "记录点"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 625,
+      "columns": {
+        "Name": [
+          {
+            "en": "Checkpoint",
+            "zh": "记录点"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 626,
+      "columns": {
+        "Name": [
+          {
+            "en": "Besieged Encampment",
+            "zh": "困顿营地"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 628,
+      "columns": {
+        "Name": [
+          {
+            "en": "Frostblood Ritual",
+            "zh": "霜血仪式"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 630,
+      "columns": {
+        "Name": [
+          {
+            "en": "Vile Nest",
+            "zh": "邪恶巢穴"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 632,
+      "columns": {
+        "Name": [
+          {
+            "en": "Obelisk of Rust",
+            "zh": "锈蚀尖碑"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 634,
+      "columns": {
+        "Name": [
+          {
+            "en": "Heart of the Mausoleum",
+            "zh": "倾颓王陵之心"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 636,
+      "columns": {
+        "Name": [
+          {
+            "en": "Heart of the Tomb",
+            "zh": "砌骨圣墓之心"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 638,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Hunt Stone",
+            "zh": "狩猎石"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 640,
+      "columns": {
+        "Name": [
+          {
+            "en": "Executioner's Block",
+            "zh": "惩罚者的路障"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 642,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Fallen Altar",
+            "zh": "堕落的礼坛"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 644,
+      "columns": {
+        "Name": [
+          {
+            "en": "Throne of the Wolf",
+            "zh": "狼之王座"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 646,
+      "columns": {
+        "Name": [
+          {
+            "en": "Raider's Cliffs",
+            "zh": "劫掠者峭壁"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 648,
+      "columns": {
+        "Name": [
+          {
+            "en": "Prison of the Disgraced",
+            "zh": "羞辱者的监狱"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 650,
+      "columns": {
+        "Name": [
+          {
+            "en": "Gate Mechanism",
+            "zh": "雄关装置"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 652,
+      "columns": {
+        "Name": [
+          {
+            "en": "Forward Command Tents",
+            "zh": "前沿营帐"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 654,
+      "columns": {
+        "Name": [
+          {
+            "en": "Infested Tower",
+            "zh": "滋孽高塔"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 656,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Venom Pit",
+            "zh": "剧毒深坑"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 658,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Galleria",
+            "zh": "拱廊"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 660,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Vestibule ",
+            "zh": "内殿门厅 "
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 662,
+      "columns": {
+        "Name": [
+          {
+            "en": "Blackrib Pit",
+            "zh": "黑肋深坑"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 664,
+      "columns": {
+        "Name": [
+          {
+            "en": "Ancient Seal",
+            "zh": "古代封印"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 668,
+      "columns": {
+        "Name": [
+          {
+            "en": "Dais of Reckoning",
+            "zh": "清算平台"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 670,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Defiled Spire",
+            "zh": "亵渎尖峰"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 672,
+      "columns": {
+        "Name": [
+          {
+            "en": "Munitions Bunker",
+            "zh": "地下军火库"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 674,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Faridun Throne",
+            "zh": "法里顿王座"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 677,
+      "columns": {
+        "Name": [
+          {
+            "en": "Mysterious Campsite",
+            "zh": "神秘营地"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 679,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Moving Bramble",
+            "zh": "活动的荆棘"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 682,
+      "columns": {
+        "Name": [
+          {
+            "en": "Forgotten Riches",
+            "zh": "被遗忘的财富"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 684,
+      "columns": {
+        "Name": [
+          {
+            "en": "Ancient Ruin",
+            "zh": "远古废墟"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 686,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Gallows",
+            "zh": "惩戒绳台"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 688,
+      "columns": {
+        "Name": [
+          {
+            "en": "Dryadic Ritual",
+            "zh": "树精法阵"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 690,
+      "columns": {
+        "Name": [
+          {
+            "en": "Crop Circle",
+            "zh": "农田怪圈"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 694,
+      "columns": {
+        "Name": [
+          {
+            "en": "Embattled Trove",
+            "zh": "森严宝库"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 696,
+      "columns": {
+        "Name": [
+          {
+            "en": "Elemental Offering",
+            "zh": "元素供品"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 698,
+      "columns": {
+        "Name": [
+          {
+            "en": "Golden Tomb",
+            "zh": "鎏金密室"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 700,
+      "columns": {
+        "Name": [
+          {
+            "en": "Hanging Tree",
+            "zh": "绞刑树"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 702,
+      "columns": {
+        "Name": [
+          {
+            "en": "Foul Ritual",
+            "zh": "污秽仪式"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 704,
+      "columns": {
+        "Name": [
+          {
+            "en": "Temple Ruins",
+            "zh": "神殿废墟"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 706,
+      "columns": {
+        "Name": [
+          {
+            "en": "Den of the Serpent Priestess",
+            "zh": "毒蛇代言人的巢穴"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 708,
+      "columns": {
+        "Name": [
+          {
+            "en": "Deadly Nest",
+            "zh": "致命巢穴"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 710,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Oubliette",
+            "zh": "地下密牢"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 712,
+      "columns": {
+        "Name": [
+          {
+            "en": "Grand Soul Core Nexus",
+            "zh": "宏伟灵核枢纽"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 714,
+      "columns": {
+        "Name": [
+          {
+            "en": "Gor-gor Mog",
+            "zh": "戈尔戈摩格"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 716,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Aureaduct",
+            "zh": "鎏金管路"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 718,
+      "columns": {
+        "Name": [
+          {
+            "en": "Stenchpools",
+            "zh": "恶臭之池"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 720,
+      "columns": {
+        "Name": [
+          {
+            "en": "Altar of the Sun",
+            "zh": "烈日祭坛"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 722,
+      "columns": {
+        "Name": [
+          {
+            "en": "Legion Blockade",
+            "zh": "军团封锁线"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 724,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Testing Pit",
+            "zh": "试验之坑"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 726,
+      "columns": {
+        "Name": [
+          {
+            "en": "Flameskin Ritual",
+            "zh": "焰肤仪式"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 728,
+      "columns": {
+        "Name": [
+          {
+            "en": "Relic Locker",
+            "zh": "遗物陈列柜"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 732,
+      "columns": {
+        "Name": [
+          {
+            "en": "Altar of Ascendancy",
+            "zh": "升华之殿"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 733,
+      "columns": {
+        "Name": [
+          {
+            "en": "Jungle Grave",
+            "zh": "丛林石碑"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 735,
+      "columns": {
+        "Name": [
+          {
+            "en": "Azak Campfire",
+            "zh": "阿扎卡营火"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 739,
+      "columns": {
+        "Name": [
+          {
+            "en": "Paquate's Mechanism",
+            "zh": "帕夸特的机关"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 741,
+      "columns": {
+        "Name": [
+          {
+            "en": "Supply Room",
+            "zh": "物资厅"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 743,
+      "columns": {
+        "Name": [
+          {
+            "en": "Larva Hollow",
+            "zh": "幼虫穴窟"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 745,
+      "columns": {
+        "Name": [
+          {
+            "en": "Troubled Camp",
+            "zh": "困厄营地"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 747,
+      "columns": {
+        "Name": [
+          {
+            "en": "Ravaged Camp",
+            "zh": "被清洗的营地"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 749,
+      "columns": {
+        "Name": [
+          {
+            "en": "Raided Camp",
+            "zh": "被掳掠的营地"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 751,
+      "columns": {
+        "Name": [
+          {
+            "en": "Shaman's Hut",
+            "zh": "萨满小屋"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 753,
+      "columns": {
+        "Name": [
+          {
+            "en": "Bubbling Respite",
+            "zh": "冒泡的休憩所"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 755,
+      "columns": {
+        "Name": [
+          {
+            "en": "Swarming Nest",
+            "zh": "群拥巢穴"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 757,
+      "columns": {
+        "Name": [
+          {
+            "en": "Salvage Bench",
+            "zh": "分解台"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 758,
+      "columns": {
+        "Name": [
+          {
+            "en": "Renly's Workshop",
+            "zh": "蓝礼的工坊"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 760,
+      "columns": {
+        "Name": [
+          {
+            "en": "Priesthood Crypt",
+            "zh": "代言人地窟"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 762,
+      "columns": {
+        "Name": [
+          {
+            "en": "Toxic Bloom",
+            "zh": "剧毒花群"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 764,
+      "columns": {
+        "Name": [
+          {
+            "en": "Shinies",
+            "zh": "闪亮饰品"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 766,
+      "columns": {
+        "Name": [
+          {
+            "en": "Sisters of Garukhan",
+            "zh": "格鲁坎的姐妹"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 768,
+      "columns": {
+        "Name": [
+          {
+            "en": "Keth Forge",
+            "zh": "克斯熔炉"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 770,
+      "columns": {
+        "Name": [
+          {
+            "en": "Peculiar Fortunes",
+            "zh": "奇珍异宝"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 772,
+      "columns": {
+        "Name": [
+          {
+            "en": "Blood Sacrifice",
+            "zh": "生命的奉献"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 774,
+      "columns": {
+        "Name": [
+          {
+            "en": "Trialmaster's Challenge",
+            "zh": "试炼使者的挑战"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 776,
+      "columns": {
+        "Name": [
+          {
+            "en": "Reforging Bench",
+            "zh": "重铸台"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 780,
+      "columns": {
+        "Name": [
+          {
+            "en": "Trial Rewards",
+            "zh": "试炼奖励"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 782,
+      "columns": {
+        "Name": [
+          {
+            "en": "Hushed Urn",
+            "zh": "寂静之罐"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 784,
+      "columns": {
+        "Name": [
+          {
+            "en": "Fossilised Memorial",
+            "zh": "化石纪念碑"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 786,
+      "columns": {
+        "Name": [
+          {
+            "en": "Areagne's Hut",
+            "zh": "阿莉格涅的小屋"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 788,
+      "columns": {
+        "Name": [
+          {
+            "en": "Abandoned Prayer",
+            "zh": "被遗弃的念辞"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 790,
+      "columns": {
+        "Name": [
+          {
+            "en": "Suspicious Sarcophagus",
+            "zh": "可疑的石箱"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 792,
+      "columns": {
+        "Name": [
+          {
+            "en": "Forgotten Corpses",
+            "zh": "被遗忘者"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 794,
+      "columns": {
+        "Name": [
+          {
+            "en": "Hatchery",
+            "zh": "孵化场"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 796,
+      "columns": {
+        "Name": [
+          {
+            "en": "Den of the Druid",
+            "zh": "德鲁伊的巢穴"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 798,
+      "columns": {
+        "Name": [
+          {
+            "en": "Memorial of the Lost",
+            "zh": "迷失者的纪念碑"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 806,
+      "columns": {
+        "Name": [
+          {
+            "en": "Haunted Treasure",
+            "zh": "纠缠的宝藏"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 808,
+      "columns": {
+        "Name": [
+          {
+            "en": "Una's Home",
+            "zh": "乌娜的家"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 810,
+      "columns": {
+        "Name": [
+          {
+            "en": "Vaal Soul Core",
+            "zh": "瓦尔灵核"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 821,
+      "columns": {
+        "Name": [
+          {
+            "en": "Primal Arena",
+            "zh": "原始斗技场"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 823,
+      "columns": {
+        "Name": [
+          {
+            "en": "Beast Pen",
+            "zh": "兽栏"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 825,
+      "columns": {
+        "Name": [
+          {
+            "en": "Voltaxic Spire",
+            "zh": "魔暴尖塔"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 827,
+      "columns": {
+        "Name": [
+          {
+            "en": "Abandoned Delving Site",
+            "zh": "废弃的地心探险营地"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 829,
+      "columns": {
+        "Name": [
+          {
+            "en": "Smuggler's Stash",
+            "zh": "旅人的仓库"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 831,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Tyrant's Throne",
+            "zh": "暴君的王座"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 833,
+      "columns": {
+        "Name": [
+          {
+            "en": "Volcanic Nest",
+            "zh": "熔火巢穴"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 835,
+      "columns": {
+        "Name": [
+          {
+            "en": "Checkpoint",
+            "zh": "记录点"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 838,
+      "columns": {
+        "Name": [
+          {
+            "en": "Recombinator",
+            "zh": "重组器"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 839,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Forgotten Hollow",
+            "zh": "被遗忘的躯壳"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 841,
+      "columns": {
+        "Name": [
+          {
+            "en": "Faridun War Cache",
+            "zh": "法里顿战争储备"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 843,
+      "columns": {
+        "Name": [
+          {
+            "en": "Titan's Sword",
+            "zh": "泰坦之剑"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 845,
+      "columns": {
+        "Name": [
+          {
+            "en": "Forsaken Deep",
+            "zh": "遭遗深渊"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 849,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Chapel",
+            "zh": "教堂"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 852,
+      "columns": {
+        "Name": [
+          {
+            "en": "Abandoned Ship",
+            "zh": "废弃船只"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 857,
+      "columns": {
+        "Name": [
+          {
+            "en": "Tawhoa's Test",
+            "zh": "塔赫亚的考验"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 859,
+      "columns": {
+        "Name": [
+          {
+            "en": "Tasalio's Test",
+            "zh": "塔萨里奥的考验"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 861,
+      "columns": {
+        "Name": [
+          {
+            "en": "Ngamahu's Test",
+            "zh": "努葛玛呼的考验"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 863,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Silent Hall",
+            "zh": "沉默厅堂"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 865,
+      "columns": {
+        "Name": [
+          {
+            "en": "Shrouded Falls",
+            "zh": "迷雾瀑布"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 868,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Armoury",
+            "zh": "军械库"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 870,
+      "columns": {
+        "Name": [
+          {
+            "en": "Sirens' Eggs",
+            "zh": "海妖之卵"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 872,
+      "columns": {
+        "Name": [
+          {
+            "en": "Beckoning Clam",
+            "zh": "唤声蛤蜊"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 877,
+      "columns": {
+        "Name": [
+          {
+            "en": "Kaom's Test of Mettle",
+            "zh": "冈姆的勇气考验"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 879,
+      "columns": {
+        "Name": [
+          {
+            "en": "Rakiata's Test of Mettle",
+            "zh": "拉其塔的勇气考验"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 881,
+      "columns": {
+        "Name": [
+          {
+            "en": "Maata's Test of Mettle",
+            "zh": "玛塔的勇气考验"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 883,
+      "columns": {
+        "Name": [
+          {
+            "en": "Tidal Cay",
+            "zh": "潮汐礁"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 891,
+      "columns": {
+        "Name": [
+          {
+            "en": "Morning Bell",
+            "zh": "黎明铃铛"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 893,
+      "columns": {
+        "Name": [
+          {
+            "en": "Evening Bell",
+            "zh": "黄昏铃铛"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 895,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Captain's Chair",
+            "zh": "船长的椅子"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 897,
+      "columns": {
+        "Name": [
+          {
+            "en": "Crabshell Cavern",
+            "zh": "蟹壳洞穴"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 899,
+      "columns": {
+        "Name": [
+          {
+            "en": "Shark Pit",
+            "zh": "鲨鱼水渊"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 901,
+      "columns": {
+        "Name": [
+          {
+            "en": "Chamber of Echoes",
+            "zh": "回响之殿"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 903,
+      "columns": {
+        "Name": [
+          {
+            "en": "Yama's Test",
+            "zh": "雅玛的考验"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 905,
+      "columns": {
+        "Name": [
+          {
+            "en": "Forgotten Cells",
+            "zh": "被遗忘的牢笼"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 907,
+      "columns": {
+        "Name": [
+          {
+            "en": "Warden's Chamber",
+            "zh": "典狱长的房间"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 909,
+      "columns": {
+        "Name": [
+          {
+            "en": "Corrupted Nests",
+            "zh": "腐化巢穴"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 911,
+      "columns": {
+        "Name": [
+          {
+            "en": "Grim Nest",
+            "zh": "阴冷巢穴"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 913,
+      "columns": {
+        "Name": [
+          {
+            "en": "Impaled Karui",
+            "zh": "刺穿的卡鲁人"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 915,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Precursor Forge",
+            "zh": "先驱熔炉"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 917,
+      "columns": {
+        "Name": [
+          {
+            "en": "Medicine Circle",
+            "zh": "治愈之环"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 919,
+      "columns": {
+        "Name": [
+          {
+            "en": "Sacred Interior",
+            "zh": "神圣内环"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 921,
+      "columns": {
+        "Name": [
+          {
+            "en": "Meeting House",
+            "zh": "会议厅"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 923,
+      "columns": {
+        "Name": [
+          {
+            "en": "Petrified Pirate",
+            "zh": "石化海盗"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 924,
+      "columns": {
+        "Name": [
+          {
+            "en": "Corpse Nest",
+            "zh": "灵柩之巢"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 925,
+      "columns": {
+        "Name": [
+          {
+            "en": "Wrecked Boat",
+            "zh": "沉船"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 926,
+      "columns": {
+        "Name": [
+          {
+            "en": "Excavated Pit",
+            "zh": "发掘的巨坑"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 930,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Well of Souls",
+            "zh": "灵魂之井"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 931,
+      "columns": {
+        "Name": [
+          {
+            "en": "Titan's Head Anvil",
+            "zh": "泰坦之首之砧"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 933,
+      "columns": {
+        "Name": [
+          {
+            "en": "Draiocht Hengestone",
+            "zh": "德莱契石阵"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 934,
+      "columns": {
+        "Name": [
+          {
+            "en": "Karui Beacon",
+            "zh": "卡鲁信标"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 935,
+      "columns": {
+        "Name": [
+          {
+            "en": "Temporal Tether",
+            "zh": "时光套索"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 938,
+      "columns": {
+        "Name": [
+          {
+            "en": "Vessel of Estazunti",
+            "zh": "埃斯塔祖提的容器"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 939,
+      "columns": {
+        "Name": [
+          {
+            "en": "Royal Access Chamber",
+            "zh": "皇家谒见厅"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 941,
+      "columns": {
+        "Name": [
+          {
+            "en": "Chamber of Souls",
+            "zh": "灵魂熔炉"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 943,
+      "columns": {
+        "Name": [
+          {
+            "en": "Architect's Chamber",
+            "zh": "筑师殿堂"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 945,
+      "columns": {
+        "Name": [
+          {
+            "en": "Depot",
+            "zh": "仓库"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 947,
+      "columns": {
+        "Name": [
+          {
+            "en": "Atziri's Chamber",
+            "zh": "阿兹里的殿堂"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 949,
+      "columns": {
+        "Name": [
+          {
+            "en": "Commander's Chamber",
+            "zh": "指挥官密室"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 951,
+      "columns": {
+        "Name": [
+          {
+            "en": "Crimson Hall",
+            "zh": "猩红大厅"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 953,
+      "columns": {
+        "Name": [
+          {
+            "en": "Surgeon's Ward",
+            "zh": "外科病房"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 955,
+      "columns": {
+        "Name": [
+          {
+            "en": "Guardhouse",
+            "zh": "护卫间"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 957,
+      "columns": {
+        "Name": [
+          {
+            "en": "Dynamo",
+            "zh": "动力核心"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 959,
+      "columns": {
+        "Name": [
+          {
+            "en": "Workshop",
+            "zh": "工坊"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 961,
+      "columns": {
+        "Name": [
+          {
+            "en": "Kishara's Vault",
+            "zh": "琪莎拉的宝库"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 963,
+      "columns": {
+        "Name": [
+          {
+            "en": "Vault of Reverence",
+            "zh": "敬畏宝库"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 965,
+      "columns": {
+        "Name": [
+          {
+            "en": "Jiquani's Vault",
+            "zh": "佳华尼的宝库"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 967,
+      "columns": {
+        "Name": [
+          {
+            "en": "Tablet Research Vault",
+            "zh": "石板研究宝库"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 969,
+      "columns": {
+        "Name": [
+          {
+            "en": "Ancient Reliquary Vault",
+            "zh": "古藏宝库"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 971,
+      "columns": {
+        "Name": [
+          {
+            "en": "Altar of Sacrifice",
+            "zh": "牺牲祭坛"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 973,
+      "columns": {
+        "Name": [
+          {
+            "en": "Bronzeworks",
+            "zh": "青铜工坊"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 975,
+      "columns": {
+        "Name": [
+          {
+            "en": "Prosthetic Research",
+            "zh": "义体研究所"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 977,
+      "columns": {
+        "Name": [
+          {
+            "en": "Thaumaturge's Laboratory",
+            "zh": "奇术实验室"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 979,
+      "columns": {
+        "Name": [
+          {
+            "en": "Steelflesh Quarters",
+            "zh": "钢肤营区"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 981,
+      "columns": {
+        "Name": [
+          {
+            "en": "Sealed Vault",
+            "zh": "封印宝库"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 983,
+      "columns": {
+        "Name": [
+          {
+            "en": "Viper's Loyals",
+            "zh": "毒蛇亲卫"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 985,
+      "columns": {
+        "Name": [
+          {
+            "en": "Spymaster's Study",
+            "zh": "密探书房"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 987,
+      "columns": {
+        "Name": [
+          {
+            "en": "Extraction Chamber",
+            "zh": "萃取厅"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 989,
+      "columns": {
+        "Name": [
+          {
+            "en": "Atziri's Vault",
+            "zh": "阿兹里的宝库"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 991,
+      "columns": {
+        "Name": [
+          {
+            "en": "Workbench",
+            "zh": "工作台"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 992,
+      "columns": {
+        "Name": [
+          {
+            "en": "Medallion",
+            "zh": "纹章"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 1009,
+      "columns": {
+        "Name": [
+          {
+            "en": "Molten Flow",
+            "zh": "熔岩之流"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 1011,
+      "columns": {
+        "Name": [
+          {
+            "en": "Verisium Anvil",
+            "zh": "维金锻砧"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 1012,
+      "columns": {
+        "Name": [
+          {
+            "en": "Runesmithing Knowledge",
+            "zh": "符文锻造知识"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 1013,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Genesis Tree",
+            "zh": "起源之树"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 1014,
+      "columns": {
+        "Name": [
+          {
+            "en": "Runesmithing Knowledge",
+            "zh": "符文锻造知识"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 1018,
+      "columns": {
+        "Name": [
+          {
+            "en": "Runestone",
+            "zh": "符文石"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 1019,
+      "columns": {
+        "Name": [
+          {
+            "en": "Runestone",
+            "zh": "符文石"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 1020,
+      "columns": {
+        "Name": [
+          {
+            "en": "Runestone",
+            "zh": "符文石"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 1021,
+      "columns": {
+        "Name": [
+          {
+            "en": "Runestone",
+            "zh": "符文石"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 1022,
+      "columns": {
+        "Name": [
+          {
+            "en": "Runestone",
+            "zh": "符文石"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 1023,
+      "columns": {
+        "Name": [
+          {
+            "en": "Runestone",
+            "zh": "符文石"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 1024,
+      "columns": {
+        "Name": [
+          {
+            "en": "Verisium Geode",
+            "zh": "维金晶洞"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 1026,
+      "columns": {
+        "Name": [
+          {
+            "en": "Decanter Of Madness",
+            "zh": "疯魔之瓶"
+          }
+        ]
+      }
+    }
+  ]
+}

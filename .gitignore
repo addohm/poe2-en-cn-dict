@@ -1,0 +1,16 @@
+# Python impl (root)
+# Local test interpreter (users install their own Python + requirements.txt)
+tools/
+__pycache__/
+*.pyc
+
+# Node impl (nodejs/) — portable Node, installed deps, and fetched schema cache
+nodejs/tools/
+nodejs/extract/node_modules/
+nodejs/extract/package-lock.json
+nodejs/extract/cache/
+nodejs/extract/tables/
+
+# The dictionary/ output is committed as the deliverable. To treat it as
+# generated-only, uncomment:
+# dictionary/

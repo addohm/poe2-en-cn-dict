@@ -1,0 +1,60 @@
+{
+  "table": "SanctumFloors",
+  "key": "_index",
+  "columns": [
+    "Id",
+    "RoomIcon",
+    "BossIcon",
+    "Description"
+  ],
+  "entries": [
+    {
+      "id": null,
+      "index": 0,
+      "columns": {
+        "Description": [
+          {
+            "en": "Contains Rattlecage, the Earthbreaker",
+            "zh": "包含惊响囚笼，裂地之灵"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 1,
+      "columns": {
+        "Description": [
+          {
+            "en": "Contains the Terracotta Sentinels",
+            "zh": "包含土俑哨兵"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 2,
+      "columns": {
+        "Description": [
+          {
+            "en": "Contains Ashar, the Sand Mother",
+            "zh": "包含阿莎尔，流沙主母"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 3,
+      "columns": {
+        "Description": [
+          {
+            "en": "Contains Zarokh, the Temporal",
+            "zh": "包含扎洛卡，时空之灵"
+          }
+        ]
+      }
+    }
+  ]
+}

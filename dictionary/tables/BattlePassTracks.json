@@ -1,0 +1,33 @@
+{
+  "table": "BattlePassTracks",
+  "key": "Id",
+  "columns": [
+    "Description"
+  ],
+  "entries": [
+    {
+      "id": "Free",
+      "index": 0,
+      "columns": {
+        "Description": [
+          {
+            "en": "Free Track",
+            "zh": "免费路线"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Basic",
+      "index": 1,
+      "columns": {
+        "Description": [
+          {
+            "en": "Premium Track",
+            "zh": "高级路线"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,1186 @@
+{
+  "table": "UITalkText",
+  "key": "Id",
+  "columns": [
+    "OGGFile",
+    "Text"
+  ],
+  "entries": [
+    {
+      "id": "Incursion_FirstIncursionGreeting",
+      "index": 0,
+      "columns": {
+        "Text": [
+          {
+            "en": "I've found a way to blaze a trail to the legendary temple of Atzoatl. A spell cast upon these ancient waystones, triggered by the blood of the Vaal. I've got some in me, you see. This spell will take you into days past. Once there, keep the portal open by slitting a few deserving throats. The longer you stay, the more I learn about the location of the present day temple. \r\n\r\nOnce we find it, we'll have all the time in the world to collect its many treasures. That's why we need to find the temple in the here and now. Be careful what you do while you're there, however. Any move you make ripples through time, changing things in this day and age. Well, what are you waiting for? ...Go make history!",
+            "zh": "我找到了一个办法，可以开辟出一条通往被遗忘神庙的道路。那是一道由瓦尔之血触发的咒语。你瞧，这种血液我身上也有不少。咒语可以让你回到过去。穿越时空之后，干掉几个命中注定要完蛋的家伙，就可以让传送门一直开着。你待得越久，我就越有可能掌握神庙在今天的所在位置。\r\n\r\n等我们找到它之后，就可以尽情地搜刮其中的众多财宝了。所以必须在此时此刻找到神庙才行。不过，你在过去历险的时候要小心自己的一举一动。你所有的行动都会对时间产生影响，让这个时代发生改变。那么，你还在等什么？去创造历史吧！  "
+          }
+        ]
+      }
+    },
+    {
+      "id": "Incursion_FirstIncursionComplete",
+      "index": 1,
+      "columns": {
+        "Text": [
+          {
+            "en": "Good to see you survived your first Incursion. ",
+            "zh": "很高兴你没有在第一次穿越的时候送命。    "
+          }
+        ]
+      }
+    },
+    {
+      "id": "Incursion_FirstIncursionFarewell",
+      "index": 2,
+      "columns": {
+        "Text": [
+          {
+            "en": "Listen, these blood spells are fickle things. They must be performed under certain conditions - days of the week, stars aligned... that sort of thing. I'll scout out a new location to perform the next ritual. Find me and we'll continue our venture!",
+            "zh": "听着，这些血魔法变幻莫测。它们只能在特定的条件下才能施放：比如在一周的某一天，或是星星排在一起的时候……我要把举行下一次仪式的新地点给找出来。来我这儿，我们继续进行冒险！  "
+          }
+        ]
+      }
+    },
+    {
+      "id": "Incursion_SecondIncursionGreeting",
+      "index": 3,
+      "columns": {
+        "Text": [
+          {
+            "en": "I knew you'd find me. You and I, we're two coins in the same purse. Your last foray got us a little closer to finding the temple, but we have a ways to go. Hope you're ready for another!",
+            "zh": "我就知道你会来找我。你我就像是一根绳子上的蚂蚱。你的上一次历险让我们找到神庙的希望又多了一分。然而前面还有很长一段路要走。但愿你做好了再次穿越的准备！　　  "
+          }
+        ]
+      }
+    },
+    {
+      "id": "Incursion_SecondIncursionPortal",
+      "index": 4,
+      "columns": {
+        "Text": [
+          {
+            "en": "Look familiar? This is the temple as you left it last time. Every new Incursion changes this map of mine. With enough under our belt, perhaps the Temple's current location will be revealed!",
+            "zh": "看起来眼熟吗？这是你上次离开时神庙的样子。每一次新的穿越，都会让我的这张地图发生变化。只要能够掌握足够的情报，也许我们就能找到神庙目前的位置！  "
+          }
+        ]
+      }
+    },
+    {
+      "id": "Incursion_GenericIncursionGreeting",
+      "index": 5,
+      "columns": {
+        "Text": [
+          {
+            "en": "Ah there you are. Ready to revisit the past? The more you kill, the more you change my map, and the closer we get to finding the Temple in the present day.",
+            "zh": "啊，你来了。准备好再次回到过去了吗？你击败的建筑师越多，我的地图上就会发生更多变化，我们在如今找到神庙的希望也就越大。  "
+          }
+        ]
+      }
+    },
+    {
+      "id": "Incursion_GenericIncursionPortal_1",
+      "index": 6,
+      "columns": {
+        "Text": [
+          {
+            "en": "Here's the plan.",
+            "zh": "计划是这样的。  "
+          }
+        ]
+      }
+    },
+    {
+      "id": "Incursion_GenericIncursionPortal_2",
+      "index": 7,
+      "columns": {
+        "Text": [
+          {
+            "en": "Let's have a look at the layout.",
+            "zh": "我们来看一看规划图。  "
+          }
+        ]
+      }
+    },
+    {
+      "id": "Incursion_GenericIncursionPortal_3",
+      "index": 8,
+      "columns": {
+        "Text": [
+          {
+            "en": "Every Incursion needs proper preparations.",
+            "zh": "每次穿越都需要进行万全的准备。  "
+          }
+        ]
+      }
+    },
+    {
+      "id": "Incursion_GenericIncursionPortal_4",
+      "index": 9,
+      "columns": {
+        "Text": [
+          {
+            "en": "Have a look at where you're going.",
+            "zh": "好好观察一下你要去的地方。  "
+          }
+        ]
+      }
+    },
+    {
+      "id": "Incursion_GenericIncursionComplete_1",
+      "index": 10,
+      "columns": {
+        "Text": [
+          {
+            "en": "Good job.",
+            "zh": "干的好。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Incursion_GenericIncursionComplete_2",
+      "index": 11,
+      "columns": {
+        "Text": [
+          {
+            "en": "Good job, exile.",
+            "zh": "干的好，流放者。   "
+          }
+        ]
+      }
+    },
+    {
+      "id": "Incursion_GenericIncursionFarewell",
+      "index": 12,
+      "columns": {
+        "Text": [
+          {
+            "en": "The temple looms closer with each new step! Find me again and we'll continue our task.",
+            "zh": "每当我们踏出新的一步，神庙的位置就愈发清晰！再来找我，我们把任务继续下去。  "
+          }
+        ]
+      }
+    },
+    {
+      "id": "Incursion_TempleIsOpenFarewell",
+      "index": 13,
+      "columns": {
+        "Text": [
+          {
+            "en": "The location of the Temple is now clear. Make sure you've got enough supplies. Let me know when you're ready, and we can go. I'll open another portal to get us there.",
+            "zh": "神庙的位置弄清楚了。记得带上足够的补给。准备好了就通知我，咱们好出发。我会再打开一扇传送门，把咱们给送过去。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Incursion_TempleOpenGreeting",
+      "index": 14,
+      "columns": {
+        "Text": [
+          {
+            "en": "I did it! I mean, we did it. The location of the Temple is now clear! Remember to watch your step, exile. We may have helped build this layout, but a lot can change in two thousand years. There's no telling what kind of things have taken up residence in those ruins...",
+            "zh": "我成了！我是说，我们成功了。我已经掌握了神庙的位置！记得留神脚下，流放者。这个地方或许是我们帮忙造起来的，然而历经千年足以改变很多事情。说不准会有什么东西在那些废墟里安了家……"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Incursion_TemplePortal",
+      "index": 15,
+      "columns": {
+        "Text": [
+          {
+            "en": "Hope you've made some bag space. Today we make off with a king's ransom!",
+            "zh": "但愿你把背包里的地方给腾了出来。今天我们要赚的比绑架国王还要多！"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Incursion_ArmourRoom1",
+      "index": 16,
+      "columns": {
+        "Text": [
+          {
+            "en": "The Architect of Iron has established a smithing setup in that room. Take care you don't run afoul of their metal carapaces.",
+            "zh": "钢铁建筑师在那个房间里架起了冶金装置。别被他们的金属外壳撞到了。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Incursion_ArmourRoom2",
+      "index": 17,
+      "columns": {
+        "Text": [
+          {
+            "en": "Atmohua's got himself a very nice armoury thanks to you, and everyone else is sure to benefit from his protection.",
+            "zh": "阿特莫瓦给自己弄了个特别棒的装备库，你或是任何人都能被他所保护。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Incursion_ArmourRoom3",
+      "index": 18,
+      "columns": {
+        "Text": [
+          {
+            "en": "You've paved the way for a heavily armoured defensive force to take up residence. I'm not exactly sure why you'd want that, but maybe we can sell the armour for scrap.",
+            "zh": "你给一支重甲防御军队驻扎在这里铺平了道路。我不确定你为什么要这么多，不过也许我们可以把护甲当废品卖了换钱。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Incursion_BreachRoom1",
+      "index": 19,
+      "columns": {
+        "Text": [
+          {
+            "en": "You've decided to keep the Architect of the Breach alive. I... honestly don't know what he'll do in that room.",
+            "zh": "你决定饶裂隙建筑师一命。我……说真的不知道他会在那房间里干什么。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Incursion_BreachRoom2",
+      "index": 20,
+      "columns": {
+        "Text": [
+          {
+            "en": "Whatever Zilquapa found in that room, you're letting him keep it? Bit of a risk, but no risk, no reward. ",
+            "zh": "不管齐尔夸帕在那个房间里找到了什么，你都得让他保管着。有点冒险，不过不入虎穴焉得虎子。 "
+          }
+        ]
+      }
+    },
+    {
+      "id": "Incursion_BreachRoom3",
+      "index": 21,
+      "columns": {
+        "Text": [
+          {
+            "en": "Great, Zilquapa's madness has given eldritch... <italic>{things}... ingress to the temple. Was that your intention, or should I applaud you for your foolhardiness?",
+            "zh": "很好，齐尔夸帕的疯狂对神庙……<italic>{发展}……影响太大了。你是故意的？还是我应该为你的愚蠢拍手叫好？"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Incursion_BreedingRoom1",
+      "index": 22,
+      "columns": {
+        "Text": [
+          {
+            "en": "Wise idea, handing the room over to this architect. More blood to shed means more time in the great temple. Behold! The spoils of war!",
+            "zh": "不错的主意，从这个建筑师手中接管这个房间。血流的越多就意味着逗留在这伟大的神庙越久。看啊！战利品！"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Incursion_BreedingRoom2",
+      "index": 23,
+      "columns": {
+        "Text": [
+          {
+            "en": "Without a rival, Cholotl's sure to step up his recruitment efforts. Not a problem for you, I'm sure.",
+            "zh": "没有了对手，查罗特肯定会继续招募他的部下。我觉得对你来说不是个问题。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Incursion_BreedingRoom3",
+      "index": 24,
+      "columns": {
+        "Text": [
+          {
+            "en": "You've let Cholotl turn that chamber into a sanctuary for the most war-mad Vaal out there. I hope this doesn't come back to bite us.",
+            "zh": "你让查罗特把那个房间变成了瓦尔好战狂的圣坛。我希望有朝一日别让我们吃不了兜着走。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Incursion_CartographyRoom1",
+      "index": 25,
+      "columns": {
+        "Text": [
+          {
+            "en": "Now the Architect of Expansion has a base of operations from which to begin exploring Wraeclast.",
+            "zh": "现在扩充建筑师有了一个指挥基地，开始要探索瓦尔克拉斯了。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Incursion_CartographyRoom2",
+      "index": 26,
+      "columns": {
+        "Text": [
+          {
+            "en": "With Uromoti's rival dead, his resources will be put to good use, furthering the Vaal's prodigious exploration efforts.",
+            "zh": "当武罗摩提的对手死掉，他的资源就会被加以利用，来扩大瓦尔族的疯狂探索。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Incursion_CartographyRoom3",
+      "index": 27,
+      "columns": {
+        "Text": [
+          {
+            "en": "Uromoti's exploration is on a scale like I've never seen. What are they looking for? What could <italic>{possibly} be left to explore?",
+            "zh": "武罗摩提的探索规模我前所未见。他们在找什么？什么<italic>{可能}值得这样去寻找呢？"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Incursion_ChestsRoom1",
+      "index": 28,
+      "columns": {
+        "Text": [
+          {
+            "en": "You've made space for the Architect of the Hoard to keep his \"finds\". ",
+            "zh": "你给窖藏建筑师弄了个存储他的“发现”的好地方。 "
+          }
+        ]
+      }
+    },
+    {
+      "id": "Incursion_ChestsRoom2",
+      "index": 29,
+      "columns": {
+        "Text": [
+          {
+            "en": "Juatalotli's got a lot more room to store his strange collection with his rival out of the way.",
+            "zh": "没了对手，华塔洛蒂现在有大把的房间来存储他那些奇怪的收藏了。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Incursion_ChestsRoom3",
+      "index": 30,
+      "columns": {
+        "Text": [
+          {
+            "en": "With another rival dead, the Architect of the Hoard's going to fill that room with all sorts of valuables. Good thinking.",
+            "zh": "当另一个对手死掉，窖藏建筑师会用各种奇珍异宝来堆满那个房间。主意不错。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Incursion_CorruptionRoom1",
+      "index": 31,
+      "columns": {
+        "Text": [
+          {
+            "en": "The Architect of Corruption has claimed that room for his nefarious experiments.",
+            "zh": "腐化建筑师已经将那个房间据为己有，用来进行他邪恶的实验。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Incursion_CorruptionRoom2",
+      "index": 32,
+      "columns": {
+        "Text": [
+          {
+            "en": "Paquate's used his growing influence to funnel more corrupting energies into that room.",
+            "zh": "帕夸特在使用他日渐增长的影响力来将更多腐化能量灌注进那个房间。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Incursion_CorruptionRoom3",
+      "index": 33,
+      "columns": {
+        "Text": [
+          {
+            "en": "The influence of his corruption continues to build. But you already knew that, right?",
+            "zh": "他腐化的影响在日益增加。我猜你不是看不到，对吧？"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Incursion_CurrencyRoom1",
+      "index": 34,
+      "columns": {
+        "Text": [
+          {
+            "en": "The Architect of the Vault has taken that room? This is <italic>{excellent} news!",
+            "zh": "宝库建筑师占据了那个房间？这真是个<italic>{精彩}的消息！"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Incursion_CurrencyRoom2",
+      "index": 35,
+      "columns": {
+        "Text": [
+          {
+            "en": "Since you've killed his rival, we can probably bank on Estazunti stashing even more delectable wealth in that room.",
+            "zh": "当你击败了他的对手，埃斯塔祖提就可能存下更棒的宝物，让我们日后获益。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Incursion_CurrencyRoom3",
+      "index": 36,
+      "columns": {
+        "Text": [
+          {
+            "en": "Shall we make a bet exile? I bet Estazunti has flooded that room with finery and treasure by this point. An exciting thought isn't it?",
+            "zh": "要打个赌吗流放者？我打赌埃斯塔祖提肯定会把那个房间装满珍宝。想想就激动是不是？"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Incursion_HatcheryRoom1",
+      "index": 37,
+      "columns": {
+        "Text": [
+          {
+            "en": "Because of your actions, and shadowed by those... creeping experiments, Citaqualotl, Architect of the Swarm now resides.",
+            "zh": "正因为你的举动，和那些恐怖的实验，虫群建筑师奇塔夸雷特现在进驻了这个房间。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Incursion_HatcheryRoom2",
+      "index": 38,
+      "columns": {
+        "Text": [
+          {
+            "en": "With all fear removed, Citaqualotl seems to have turned his tinkering to moving devices of strange metals.",
+            "zh": "消除了恐惧之后，奇塔夸雷特看来要开始摆弄那些奇怪金属做成的装置了。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Incursion_HatcheryRoom3",
+      "index": 39,
+      "columns": {
+        "Text": [
+          {
+            "en": "So the crazed scientist thought to combine both metal and insect? Hopefully they're long gone by the time we come back.",
+            "zh": "所以这个疯子科学家要把昆虫和金属合二为一？希望等我们回来时那玩意早就不在了。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Incursion_FlameRoom1",
+      "index": 40,
+      "columns": {
+        "Text": [
+          {
+            "en": "In that chamber, the Architect of the Forge now hammers away in sparks and steam.",
+            "zh": "在那个房间，熔炉建筑师正在蒸汽和火花中挥舞着铸锤呢。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Incursion_FlameRoom2",
+      "index": 41,
+      "columns": {
+        "Text": [
+          {
+            "en": "Puhuarte's hammer will continue to echo through the dark, I trust you have a reason for this? ",
+            "zh": "普华特的锤子会继续在黑暗中发出回响，我相信你这么做一定有自己的原因吧？ "
+          }
+        ]
+      }
+    },
+    {
+      "id": "Incursion_FlameRoom3",
+      "index": 42,
+      "columns": {
+        "Text": [
+          {
+            "en": "Your actions have allowed Puhuarte's imaginings to run free. What kinds of horrible devices were forged here within the flames?",
+            "zh": "你的举动让普华特的想法开始天马行空。他会在这些烈焰中铸造出什么样的恐怖装置呢？"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Incursion_LightningRoom1",
+      "index": 43,
+      "columns": {
+        "Text": [
+          {
+            "en": "That room now radiates with energy, Xopec, the Architect of Power has taken it.",
+            "zh": "那个房间如今充斥着能量，正因能量建筑师肖佩克占据了它。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Incursion_LightningRoom2",
+      "index": 44,
+      "columns": {
+        "Text": [
+          {
+            "en": "Xopec's experiments into electrical lifebloods came to crescendo in that room.",
+            "zh": "肖佩克会在那个房间里将生命与闪电的实验更进一步。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Incursion_LightningRoom3",
+      "index": 45,
+      "columns": {
+        "Text": [
+          {
+            "en": "The powers you've let grow in Xopec, I wonder, how will they grow into the present?",
+            "zh": "你纵容肖佩克对能量的追逐，我在想，回到现今，该会是何等的强大呢？"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Incursion_EmpoweringRoom1",
+      "index": 46,
+      "columns": {
+        "Text": [
+          {
+            "en": "Ah, giving that room to Quipolatl - an interesting choice. Must you always seek out a challenge, exile?",
+            "zh": "啊，把那个房间交给奎波拉特尔，有趣的选择。你肯定是个喜欢挑战的人吧，流放者？"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Incursion_EmpoweringRoom2",
+      "index": 47,
+      "columns": {
+        "Text": [
+          {
+            "en": "Quipolatl has a mind for the nexus, and with this action of yours, that mind continues to grow.",
+            "zh": "奎波拉特尔痴迷于铸造枢纽，有了你的帮助，他可要变本加厉了。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Incursion_EmpoweringRoom3",
+      "index": 48,
+      "columns": {
+        "Text": [
+          {
+            "en": "Gods, exile! You really want to make things difficult for us! Who knows what this part of the temple will be like in the future?",
+            "zh": "神啊，流放者！你真的在给我们制造难题！谁知道这神庙未来会变成什么样？"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Incursion_ExplosivesRoom1",
+      "index": 49,
+      "columns": {
+        "Text": [
+          {
+            "en": "Hayoxi just wants to make things go <italic>{boom!} Instating them in that room... could be helpful to us.",
+            "zh": "海幽夏只想让东西<italic>{爆炸！} 给他那个房间……会对我们有什么好处？"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Incursion_ExplosivesRoom2",
+      "index": 50,
+      "columns": {
+        "Text": [
+          {
+            "en": "Anyone would think you harbour the same lust for chaos as Hayoxi. Well, setting them up like this only increases their explosive arsenal.",
+            "zh": "大家都会觉得你和海幽夏有着同样的欲望。好吧，这么安置他们只会丰富他们的炸药库。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Incursion_ExplosivesRoom3",
+      "index": 51,
+      "columns": {
+        "Text": [
+          {
+            "en": "At this rate, the mad bastard will have rigged the whole temple to blow.",
+            "zh": "这么下去，那个疯狂的家伙很可能会把整个神庙炸上天。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Incursion_GemRoom1",
+      "index": 52,
+      "columns": {
+        "Text": [
+          {
+            "en": "Zalatl will surely reward us, if inadvertently, for placing them in control of that room.",
+            "zh": "扎拉迪肯定会奖励我们的，如果能故意把那个房间交给他们的话。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Incursion_GemRoom2",
+      "index": 53,
+      "columns": {
+        "Text": [
+          {
+            "en": "Both you and the Architect of Thaumaturgy share a love for gems, I see.",
+            "zh": "我看出来了，你和奇术建筑师都酷爱宝石。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Incursion_GemRoom3",
+      "index": 54,
+      "columns": {
+        "Text": [
+          {
+            "en": "They should call that room Zalatl's jewellery box! Imagine what their value will be today!",
+            "zh": "他们应该叫那个房间为扎拉迪的珠宝匣！哇，回到现今，估计要价值连城了！"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Incursion_HealingRoom1",
+      "index": 55,
+      "columns": {
+        "Text": [
+          {
+            "en": "Such beautiful streams run through that room. It will be a shame to see Guatelitzi sully them, but all for the greater good, I suppose.",
+            "zh": "那个房间里流转的光真好看。要让古铁雷兹玷污了就真的可惜，不过我想你这么做应该另有深意。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Incursion_HealingRoom2",
+      "index": 56,
+      "columns": {
+        "Text": [
+          {
+            "en": "What a lovely room of drowning... Ah, the Vaal and their charm... Still, having the Architect of Flesh here shall prove interesting in the future.",
+            "zh": "哇，这个房间用来做溺刑太棒了……呃，我是说瓦尔和他们的教徒……还有，把血肉建筑师安排在这里，未来肯定会很有趣。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Incursion_HealingRoom3",
+      "index": 57,
+      "columns": {
+        "Text": [
+          {
+            "en": "Guatelitzi has really made those pools his home. Let's hope this plays out well in the present day.",
+            "zh": "古铁雷兹真把这些池塘当家了。希望他在未来能给我们带来好的收益。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Incursion_PoisonRoom1",
+      "index": 58,
+      "columns": {
+        "Text": [
+          {
+            "en": "Ugh, the Architect of Toxins - not my first choice to let thrive in this part of the temple...",
+            "zh": "呃，剧毒建筑师，要是我，肯定不会让他活在这个神庙里。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Incursion_PoisonRoom2",
+      "index": 59,
+      "columns": {
+        "Text": [
+          {
+            "en": "Sounds like Tacati's plants are growing out of control. I hope to the gods you know what you're doing...",
+            "zh": "听上去塔卡提的植物开始疯长了。真希望你知道自己在做什么……"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Incursion_PoisonRoom3",
+      "index": 60,
+      "columns": {
+        "Text": [
+          {
+            "en": "You've freed Tacati of opposition. Now he's free to fiddle with all his nasty poisons. All I'm saying is, this better not make me ill.",
+            "zh": "你放走了塔卡提。现在他可以肆意鼓弄那些毒物了。我要说的是，可别让我为此生病。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Incursion_QueenRoom1",
+      "index": 61,
+      "columns": {
+        "Text": [
+          {
+            "en": "The Royal Architect has claimed that room for his Queen.",
+            "zh": "皇家建筑师已经为他的女王占据了那个房间。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Incursion_QueenRoom2",
+      "index": 62,
+      "columns": {
+        "Text": [
+          {
+            "en": "Xipocado seems fixated on making that room some sort of regal chamber, and you've just made it easier for him.",
+            "zh": "夏波卡多一直想要把那个房间弄成皇家大厅什么的，你倒是帮了他一把。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Incursion_QueenRoom3",
+      "index": 63,
+      "columns": {
+        "Text": [
+          {
+            "en": "Want to guess whose buttocks will grace the Throne Room you've let the Royal Architect establish?",
+            "zh": "你让皇家建筑师打造的这个王座厅，最终谁会坐在上面？你猜猜看啊。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Incursion_SacrificeRoom1",
+      "index": 64,
+      "columns": {
+        "Text": [
+          {
+            "en": "You've... let the Architect of Ceremonies, the man who led <italic>{countless} human sacrifices, take that chamber?",
+            "zh": "你……你让仪式建筑师，那个会拿<italic>{无数}人命来献祭的家伙占据了那个房间？"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Incursion_SacrificeRoom2",
+      "index": 65,
+      "columns": {
+        "Text": [
+          {
+            "en": "Ahuana's rival is dead, and now he's funnelling resources to even bloodier sacrifices in honour of his false gods and his silly Queen.",
+            "zh": "阿华纳的对手死了，现在他正在把资源输送来做更血腥的祭祀，用来献祭他的伪神和那个病态的女王。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Incursion_SacrificeRoom3",
+      "index": 66,
+      "columns": {
+        "Text": [
+          {
+            "en": "The blood of Ahuana's sacrifices is on your hands, Exile. And now there will be a lot of them.",
+            "zh": "阿华纳献祭的鲜血，流放者，现在已经流淌在整个房间了。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Incursion_TempestRoom1",
+      "index": 67,
+      "columns": {
+        "Text": [
+          {
+            "en": "A tempestuous character, Topotante. By all accounts. But if you want them in that room, who am I to disagree?",
+            "zh": "托钵塔特可是个暴脾气的人。不过要是你想让他去那个房间，我又能怎么办？"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Incursion_TempestRoom2",
+      "index": 68,
+      "columns": {
+        "Text": [
+          {
+            "en": "The winds of change billow through that room. The Architect of Storms will happily build on your fury.",
+            "zh": "变革之风在那个房间里鼓荡。风暴建筑师现在估计笑声有如雷鸣吧。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Incursion_TempestRoom3",
+      "index": 69,
+      "columns": {
+        "Text": [
+          {
+            "en": "The storm of the millennium was it? Let's hope it doesn't ruin anything for us in the future.",
+            "zh": "那是千年的风暴是吗？希望未来它不会把咱们的宝贝吹个稀巴烂。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Incursion_TrapsRoom1",
+      "index": 70,
+      "columns": {
+        "Text": [
+          {
+            "en": "You've gone and let the Architect of Fortifications take that chamber. You know what fortifications are, don't you? We're literally planning on <italic>{raiding} that temple.",
+            "zh": "你就这么走了，让防御建筑师马塔特尔占据了那个房间。你知道什么是防御吗？嗯？咱们这以后可怎么<italic>{洗劫}这个神庙！"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Incursion_TrapsRoom2",
+      "index": 71,
+      "columns": {
+        "Text": [
+          {
+            "en": "You've slain Matatl's rival. That's going to give him the resources he needs to fill the temple with traps. Traps we'll then need to avoid.",
+            "zh": "你击败了马塔特尔的对手。这让他有资源可以在神庙里装满陷阱。咱们可千万别踩上了。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Incursion_TrapsRoom3",
+      "index": 72,
+      "columns": {
+        "Text": [
+          {
+            "en": "You've allowed Matatl to live, and as thanks he's put traps everywhere. I'm not entirely sure you've thought this through...",
+            "zh": "你让马塔特尔活着，他为了感谢你，在神庙里装满了陷阱。说实话我真不知道你是怎么想的……"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Incursion_TrinketsRoom1",
+      "index": 73,
+      "columns": {
+        "Text": [
+          {
+            "en": "The Architect of the Guild was a notoriously talented jeweller. With him around, Atzoatl is sure to glitter.",
+            "zh": "公会建筑师是个臭名昭著的珠宝爱好者。有他在，阿佐亚特肯定要珠光熠熠了。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Incursion_TrinketsRoom2",
+      "index": 74,
+      "columns": {
+        "Text": [
+          {
+            "en": "Azcapa's rival is dead? I can hear the jewels raining down from here. I cannot wait to find this temple!",
+            "zh": "阿兹卡帕的对手死了？我都能听见珠宝哗哗流淌的声音了。别拦我，我要赶紧找到它。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Incursion_TrinketsRoom3",
+      "index": 75,
+      "columns": {
+        "Text": [
+          {
+            "en": "Azcapa yet lives? Exile, you're going to make me a <italic>{very} happy woman. Happy and rich.",
+            "zh": "阿兹卡帕还活着？流放者，你让我成为了这世界上最<italic>{幸福}的女人。幸福而富有！"
+          }
+        ]
+      }
+    },
+    {
+      "id": "IncursionWeaponsRoom1",
+      "index": 76,
+      "columns": {
+        "Text": [
+          {
+            "en": "Ticaba did love his gladiator battles. Historical records aside, I suppose allowing him to live might make weapons easier to come by.",
+            "zh": "提卡巴热爱他的角斗士事业。撇开史书不说，我猜让他或者可能会让以后弄点武器更容易了。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "IncursionWeaponsRoom2",
+      "index": 77,
+      "columns": {
+        "Text": [
+          {
+            "en": "No better place to spill Vaal blood than in the arena. And no better architect to leave in control there than Ticaba.",
+            "zh": "没有比什么在角斗场里洒下瓦尔人鲜血更棒的了。所以留下提卡巴也绝对是最优选择。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "IncursionWeaponsRoom3",
+      "index": 78,
+      "columns": {
+        "Text": [
+          {
+            "en": "So you left Ticaba to reminisce in the shadow of his arena champions... Hopefully eternity will reward your actions.",
+            "zh": "所以你让提卡巴继续在角斗场里培养他的死士……希望最后你能得到应有的报偿吧。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "IncursionWorkshopRoom1",
+      "index": 79,
+      "columns": {
+        "Text": [
+          {
+            "en": "Jiquani was obsessed with finding new and creative ways to get things done. Keeping him in there will surely result in a reward, right?",
+            "zh": "佳华尼着迷于寻找全新和有创意的方式来搞定事情。让他留在这里肯定会有惊喜的，对吧？"
+          }
+        ]
+      }
+    },
+    {
+      "id": "IncursionWorkshopRoom2",
+      "index": 80,
+      "columns": {
+        "Text": [
+          {
+            "en": "Jiquani doesn't get his title for nothing I see. He's been very \"industrious\" in keeping himself alive and in business.",
+            "zh": "佳华尼可是个唯利是图的人。他能活着，就会很努力的开展业务的啦。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "IncursionWorkshopRoom3",
+      "index": 81,
+      "columns": {
+        "Text": [
+          {
+            "en": "I have to say exile, I'm desperate to see what your plan was in keeping this bastard breathing. I guess we'll see soon enough.",
+            "zh": "我得说，流放者。我真的想知道你让那个混蛋活着的原因。等着瞧吧，很快就会有分晓了。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Incursion_ConnectionsChanged1",
+      "index": 82,
+      "columns": {
+        "Text": [
+          {
+            "en": "You've forged some new connections!",
+            "zh": "你打通了一些新的通道！"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Incursion_ConnectionsChanged2",
+      "index": 83,
+      "columns": {
+        "Text": [
+          {
+            "en": "Oh, you've opened new paths!",
+            "zh": "哦，你打开了新的通道！"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Incursion_ConnectionsChanged3",
+      "index": 84,
+      "columns": {
+        "Text": [
+          {
+            "en": "You've made getting around the temple easier!",
+            "zh": "在神庙里走动更加方便了！"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Incursion_ConnectionsChanged4",
+      "index": 85,
+      "columns": {
+        "Text": [
+          {
+            "en": "The paths you've opened will help us later.",
+            "zh": "你开启的通道以后会对我们很有帮助。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Incursion_GenericNothingChanged1",
+      "index": 86,
+      "columns": {
+        "Text": [
+          {
+            "en": "Hmm... No luck this time I'm afraid. Nothing's changed on the map. Not a bad thing... perhaps not a good thing either? Keep trying.",
+            "zh": "嗯……恐怕这次不走运。地图上没有出现变化。这不是什么坏事，但可能也不是什么好事？继续加油吧。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Incursion_GenericNothingChanged2",
+      "index": 87,
+      "columns": {
+        "Text": [
+          {
+            "en": "Nope! Nothing changed this time. Keep trying. The more you change, the more we know.",
+            "zh": "不成！这次没变化。继续努力。你造成的影响越大，我们能掌握的内容就越多。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Incursion_GenericNothingChanged3",
+      "index": 88,
+      "columns": {
+        "Text": [
+          {
+            "en": "Hmm, no change. Hope that's what you wanted!",
+            "zh": "嗯，没有变化。但愿这也在你的计划之中！"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Incursion_StrongboxRoom1",
+      "index": 89,
+      "columns": {
+        "Text": [
+          {
+            "en": "Zantipi was my kind of architect! He was fixated on filling chests with valuables then rigging them with all sorts of traps. ",
+            "zh": "赞提佩就是我要的建筑师！他一直想要把箱子都装满财宝，再用各种陷阱保护它们。 "
+          }
+        ]
+      }
+    },
+    {
+      "id": "Incursion_StrongboxRoom2",
+      "index": 90,
+      "columns": {
+        "Text": [
+          {
+            "en": "With Zantipi's growing influence, there are certain to be even more dangerous -- and lucrative -- chests around.",
+            "zh": "随着赞提佩的影响力提升，环境也就越来越危险，当然奖励也越来越吸引人。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Incursion_StrongboxRoom3",
+      "index": 91,
+      "columns": {
+        "Text": [
+          {
+            "en": "A whole room filled with dangerous strongboxes packed to the brim with treasure. You're my favourite person, Exile.",
+            "zh": "整个房间都摆满了危险的保险箱，里面装满了财宝。你让我很满意，流放者。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Incursion_TormentRoom1",
+      "index": 92,
+      "columns": {
+        "Text": [
+          {
+            "en": "Tzamoto had a twisted sense of justice. Executions were saved for the particularly brutal crimes... He'd just imprison lower criminals for the rest of their lives.",
+            "zh": "提扎墨脱的正义感很扭曲。刑罚都留给了那些特别残暴的重犯……而普通的囚犯会被他关到死。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Incursion_TormentRoom2",
+      "index": 93,
+      "columns": {
+        "Text": [
+          {
+            "en": "I suppose you have your reasons for wanting Tzamoto's prison to grow, but I can't for the life of me see why.",
+            "zh": "我猜你让提扎墨脱的监狱扩大肯定是有原因的，但我不能为此搭上自己的性命。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Incursion_TormentRoom3",
+      "index": 94,
+      "columns": {
+        "Text": [
+          {
+            "en": "Tzamoto's prison is enormous and brimming with criminals. Notoriously poor criminals. Wonderful. Thanks for that, Exile.",
+            "zh": "提扎墨脱的监狱越来越大，囚犯也越来越多。都是些臭名昭著的人。很好，感谢你，流放者。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Incursion_LegionRoom1",
+      "index": 95,
+      "columns": {
+        "Text": [
+          {
+            "en": "Opiloti took that room? He was a brutally violent warlord. I hope you know what you're doing, for my sake!",
+            "zh": "欧佩罗蒂霸占了那个房间？他曾经是个冷血的督军。真希望你知道自己有多少斤两，想想吧！"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Incursion_LegionRoom2",
+      "index": 96,
+      "columns": {
+        "Text": [
+          {
+            "en": "The Vaal were considered peaceful by today's standards, but there were still people who took joy in violence. And you just gave one of those people exactly what he wanted.",
+            "zh": "即使按照今天的标准，瓦尔也曾经一度爱好和平。不过到哪儿都有喜欢暴力的家伙。而你又恰好投其所好。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Incursion_LegionRoom3",
+      "index": 97,
+      "columns": {
+        "Text": [
+          {
+            "en": "Opiloti used to spill the blood of his greatest warriors. He believed it would grant them immortality. I guess we'll soon see if he was right!",
+            "zh": "欧佩罗蒂曾经把他最强武士的血放个干净。他坚信那能使他们不朽。我猜咱们很快就能验证一番了！"
+          }
+        ]
+      }
+    }
+  ]
+}

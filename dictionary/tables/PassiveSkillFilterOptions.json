@@ -1,0 +1,3160 @@
+{
+  "table": "PassiveSkillFilterOptions",
+  "key": "Id",
+  "columns": [
+    "Filters",
+    "Name"
+  ],
+  "entries": [
+    {
+      "id": "life",
+      "index": 0,
+      "columns": {
+        "Filters": [
+          {
+            "en": "life",
+            "zh": "生命"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Life",
+            "zh": "生命"
+          }
+        ]
+      }
+    },
+    {
+      "id": "mana",
+      "index": 1,
+      "columns": {
+        "Filters": [
+          {
+            "en": "mana",
+            "zh": "魔力"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Mana",
+            "zh": "魔力"
+          }
+        ]
+      }
+    },
+    {
+      "id": "spirit",
+      "index": 2,
+      "columns": {
+        "Filters": [
+          {
+            "en": "spirit",
+            "zh": "精魂"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Spirit",
+            "zh": "精魂"
+          }
+        ]
+      }
+    },
+    {
+      "id": "energy_shield",
+      "index": 3,
+      "columns": {
+        "Filters": [
+          {
+            "en": "energy shield",
+            "zh": "能量护盾"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Energy Shield",
+            "zh": "能量护盾"
+          }
+        ]
+      }
+    },
+    {
+      "id": "attribute",
+      "index": 4,
+      "columns": {
+        "Filters": [
+          {
+            "en": "attribute",
+            "zh": "属性"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Attribute",
+            "zh": "属性"
+          }
+        ]
+      }
+    },
+    {
+      "id": "dexterity",
+      "index": 5,
+      "columns": {
+        "Filters": [
+          {
+            "en": "dexterity",
+            "zh": "敏捷"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Dexterity",
+            "zh": "敏捷"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intelligence",
+      "index": 6,
+      "columns": {
+        "Filters": [
+          {
+            "en": "intelligence",
+            "zh": "智慧"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Intelligence",
+            "zh": "智慧"
+          }
+        ]
+      }
+    },
+    {
+      "id": "strength",
+      "index": 7,
+      "columns": {
+        "Filters": [
+          {
+            "en": "strength",
+            "zh": "力量"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Strength",
+            "zh": "力量"
+          }
+        ]
+      }
+    },
+    {
+      "id": "spell",
+      "index": 8,
+      "columns": {
+        "Filters": [
+          {
+            "en": "spell",
+            "zh": "法术"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Spell",
+            "zh": "法术"
+          }
+        ]
+      }
+    },
+    {
+      "id": "cast",
+      "index": 9,
+      "columns": {
+        "Filters": [
+          {
+            "en": "cast",
+            "zh": "施放"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Cast",
+            "zh": "施放"
+          }
+        ]
+      }
+    },
+    {
+      "id": "skill_effect",
+      "index": 10,
+      "columns": {
+        "Filters": [
+          {
+            "en": "skill effect",
+            "zh": "技能效果"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Skill Effect",
+            "zh": "技能效果"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aura",
+      "index": 11,
+      "columns": {
+        "Filters": [
+          {
+            "en": "aura",
+            "zh": "光环"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Aura",
+            "zh": "光环"
+          }
+        ]
+      }
+    },
+    {
+      "id": "minion",
+      "index": 12,
+      "columns": {
+        "Filters": [
+          {
+            "en": "minion",
+            "zh": "召唤生物"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Minion",
+            "zh": "召唤生物"
+          }
+        ]
+      }
+    },
+    {
+      "id": "herald",
+      "index": 13,
+      "columns": {
+        "Filters": [
+          {
+            "en": "herald",
+            "zh": "捷"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Herald",
+            "zh": "捷"
+          }
+        ]
+      }
+    },
+    {
+      "id": "totem",
+      "index": 14,
+      "columns": {
+        "Filters": [
+          {
+            "en": "totem",
+            "zh": "图腾"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Totem",
+            "zh": "图腾"
+          }
+        ]
+      }
+    },
+    {
+      "id": "curse",
+      "index": 15,
+      "columns": {
+        "Filters": [
+          {
+            "en": "curse",
+            "zh": "诅咒"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Curse",
+            "zh": "诅咒"
+          }
+        ]
+      }
+    },
+    {
+      "id": "mark",
+      "index": 16,
+      "columns": {
+        "Filters": [
+          {
+            "en": "mark",
+            "zh": "印记"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Mark",
+            "zh": "印记"
+          }
+        ]
+      }
+    },
+    {
+      "id": "debuff",
+      "index": 17,
+      "columns": {
+        "Filters": [
+          {
+            "en": "debuff",
+            "zh": "减益状态"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Debuff",
+            "zh": "减益状态"
+          }
+        ]
+      }
+    },
+    {
+      "id": "buff_effect",
+      "index": 18,
+      "columns": {
+        "Filters": [
+          {
+            "en": "buff effect",
+            "zh": "增益状态效果"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Buff Effect",
+            "zh": "增益状态效果"
+          }
+        ]
+      }
+    },
+    {
+      "id": "meta_skill",
+      "index": 19,
+      "columns": {
+        "Filters": [
+          {
+            "en": "meta skill",
+            "zh": "非凡技能"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Meta Skill",
+            "zh": "非凡技能"
+          }
+        ]
+      }
+    },
+    {
+      "id": "trigger",
+      "index": 20,
+      "columns": {
+        "Filters": [
+          {
+            "en": "trigger",
+            "zh": "触发"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Trigger",
+            "zh": "触发"
+          }
+        ]
+      }
+    },
+    {
+      "id": "link_skills",
+      "index": 21,
+      "columns": {
+        "Filters": [
+          {
+            "en": "link skills",
+            "zh": "羁绊技能"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Link Skills",
+            "zh": "羁绊技能"
+          }
+        ]
+      }
+    },
+    {
+      "id": "axe",
+      "index": 22,
+      "columns": {
+        "Filters": [
+          {
+            "en": "axe",
+            "zh": "斧"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Axe",
+            "zh": "斧"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bow",
+      "index": 23,
+      "columns": {
+        "Filters": [
+          {
+            "en": "bow",
+            "zh": "弓类"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Bow",
+            "zh": "弓类"
+          }
+        ]
+      }
+    },
+    {
+      "id": "claw",
+      "index": 24,
+      "columns": {
+        "Filters": [
+          {
+            "en": "claw",
+            "zh": "爪"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Claw",
+            "zh": "爪"
+          }
+        ]
+      }
+    },
+    {
+      "id": "crossbow",
+      "index": 25,
+      "columns": {
+        "Filters": [
+          {
+            "en": "crossbow",
+            "zh": "战弩"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Crossbow",
+            "zh": "战弩"
+          }
+        ]
+      }
+    },
+    {
+      "id": "dagger",
+      "index": 26,
+      "columns": {
+        "Filters": [
+          {
+            "en": "dagger",
+            "zh": "匕首"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Dagger",
+            "zh": "匕首"
+          }
+        ]
+      }
+    },
+    {
+      "id": "flail",
+      "index": 27,
+      "columns": {
+        "Filters": [
+          {
+            "en": "flail",
+            "zh": "连枷"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Flail",
+            "zh": "连枷"
+          }
+        ]
+      }
+    },
+    {
+      "id": "mace",
+      "index": 28,
+      "columns": {
+        "Filters": [
+          {
+            "en": "mace",
+            "zh": "锤"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Mace",
+            "zh": "锤"
+          }
+        ]
+      }
+    },
+    {
+      "id": "quarterstaff",
+      "index": 29,
+      "columns": {
+        "Filters": [
+          {
+            "en": "quarterstaff|quarterstaves",
+            "zh": "节杖"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Quarterstaff",
+            "zh": "节杖"
+          }
+        ]
+      }
+    },
+    {
+      "id": "spear",
+      "index": 30,
+      "columns": {
+        "Filters": [
+          {
+            "en": "spear",
+            "zh": "战矛"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Spear",
+            "zh": "战矛"
+          }
+        ]
+      }
+    },
+    {
+      "id": "sword",
+      "index": 31,
+      "columns": {
+        "Filters": [
+          {
+            "en": "sword",
+            "zh": "剑"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Sword",
+            "zh": "剑"
+          }
+        ]
+      }
+    },
+    {
+      "id": "shield",
+      "index": 32,
+      "columns": {
+        "Filters": [
+          {
+            "en": "shield",
+            "zh": "盾牌"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Shield",
+            "zh": "盾牌"
+          }
+        ]
+      }
+    },
+    {
+      "id": "trap",
+      "index": 33,
+      "columns": {
+        "Filters": [
+          {
+            "en": "trap",
+            "zh": "陷阱"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Trap",
+            "zh": "陷阱"
+          }
+        ]
+      }
+    },
+    {
+      "id": "one_handed",
+      "index": 34,
+      "columns": {
+        "Filters": [
+          {
+            "en": "one handed",
+            "zh": "单手"
+          }
+        ],
+        "Name": [
+          {
+            "en": "One Handed",
+            "zh": "单手"
+          }
+        ]
+      }
+    },
+    {
+      "id": "two_handed",
+      "index": 35,
+      "columns": {
+        "Filters": [
+          {
+            "en": "two handed",
+            "zh": "双手"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Two Handed",
+            "zh": "双手"
+          }
+        ]
+      }
+    },
+    {
+      "id": "unarmed",
+      "index": 36,
+      "columns": {
+        "Filters": [
+          {
+            "en": "unarmed",
+            "zh": "徒手"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Unarmed",
+            "zh": "徒手"
+          }
+        ]
+      }
+    },
+    {
+      "id": "physical",
+      "index": 37,
+      "columns": {
+        "Filters": [
+          {
+            "en": "physical",
+            "zh": "物理"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Physical",
+            "zh": "物理"
+          }
+        ]
+      }
+    },
+    {
+      "id": "elemental",
+      "index": 38,
+      "columns": {
+        "Filters": [
+          {
+            "en": "elemental",
+            "zh": "元素"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Elemental",
+            "zh": "元素"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fire",
+      "index": 39,
+      "columns": {
+        "Filters": [
+          {
+            "en": "fire",
+            "zh": "火焰"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Fire",
+            "zh": "火焰"
+          }
+        ]
+      }
+    },
+    {
+      "id": "cold",
+      "index": 40,
+      "columns": {
+        "Filters": [
+          {
+            "en": "cold",
+            "zh": "冰霜"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Cold",
+            "zh": "冰霜"
+          }
+        ]
+      }
+    },
+    {
+      "id": "lightning",
+      "index": 41,
+      "columns": {
+        "Filters": [
+          {
+            "en": "lightning",
+            "zh": "闪电"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Lightning",
+            "zh": "闪电"
+          }
+        ]
+      }
+    },
+    {
+      "id": "chaos",
+      "index": 42,
+      "columns": {
+        "Filters": [
+          {
+            "en": "chaos",
+            "zh": "混沌"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Chaos",
+            "zh": "混沌"
+          }
+        ]
+      }
+    },
+    {
+      "id": "damage",
+      "index": 43,
+      "columns": {
+        "Filters": [
+          {
+            "en": "damage",
+            "zh": "伤害"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Damage",
+            "zh": "伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": "attack",
+      "index": 44,
+      "columns": {
+        "Filters": [
+          {
+            "en": "attack",
+            "zh": "攻击"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Attack",
+            "zh": "攻击"
+          }
+        ]
+      }
+    },
+    {
+      "id": "critical",
+      "index": 45,
+      "columns": {
+        "Filters": [
+          {
+            "en": "critical",
+            "zh": "暴击"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Critical",
+            "zh": "暴击"
+          }
+        ]
+      }
+    },
+    {
+      "id": "accuracy",
+      "index": 46,
+      "columns": {
+        "Filters": [
+          {
+            "en": "accuracy",
+            "zh": "命中"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Accuracy",
+            "zh": "命中"
+          }
+        ]
+      }
+    },
+    {
+      "id": "melee",
+      "index": 47,
+      "columns": {
+        "Filters": [
+          {
+            "en": "melee",
+            "zh": "近战"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Melee",
+            "zh": "近战"
+          }
+        ]
+      }
+    },
+    {
+      "id": "projectile",
+      "index": 48,
+      "columns": {
+        "Filters": [
+          {
+            "en": "projectile",
+            "zh": "投射物"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Projectile",
+            "zh": "投射物"
+          }
+        ]
+      }
+    },
+    {
+      "id": "area_of_effect",
+      "index": 49,
+      "columns": {
+        "Filters": [
+          {
+            "en": "area of effect",
+            "zh": "影响范围"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Area Of Effect",
+            "zh": "影响范围"
+          }
+        ]
+      }
+    },
+    {
+      "id": "penetrates",
+      "index": 50,
+      "columns": {
+        "Filters": [
+          {
+            "en": "penetrates|penetration",
+            "zh": "穿透"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Penetrates",
+            "zh": "穿透"
+          }
+        ]
+      }
+    },
+    {
+      "id": "exposure",
+      "index": 51,
+      "columns": {
+        "Filters": [
+          {
+            "en": "exposure",
+            "zh": "曝露"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Exposure",
+            "zh": "曝露"
+          }
+        ]
+      }
+    },
+    {
+      "id": "magnitude",
+      "index": 52,
+      "columns": {
+        "Filters": [
+          {
+            "en": "magnitude",
+            "zh": "强度"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Magnitude",
+            "zh": "强度"
+          }
+        ]
+      }
+    },
+    {
+      "id": "grenade",
+      "index": 53,
+      "columns": {
+        "Filters": [
+          {
+            "en": "grenade",
+            "zh": "榴弹"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Grenade",
+            "zh": "榴弹"
+          }
+        ]
+      }
+    },
+    {
+      "id": "strike",
+      "index": 54,
+      "columns": {
+        "Filters": [
+          {
+            "en": "strike",
+            "zh": "打击"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Strike",
+            "zh": "打击"
+          }
+        ]
+      }
+    },
+    {
+      "id": "slam",
+      "index": 55,
+      "columns": {
+        "Filters": [
+          {
+            "en": "slam",
+            "zh": "猛击"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Slam",
+            "zh": "猛击"
+          }
+        ]
+      }
+    },
+    {
+      "id": "warcry",
+      "index": 56,
+      "columns": {
+        "Filters": [
+          {
+            "en": "warcry",
+            "zh": "战吼"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Warcry",
+            "zh": "战吼"
+          }
+        ]
+      }
+    },
+    {
+      "id": "rage",
+      "index": 57,
+      "columns": {
+        "Filters": [
+          {
+            "en": "rage",
+            "zh": "怒火"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Rage",
+            "zh": "怒火"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aftershock",
+      "index": 58,
+      "columns": {
+        "Filters": [
+          {
+            "en": "aftershock",
+            "zh": "余震"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Aftershock",
+            "zh": "余震"
+          }
+        ]
+      }
+    },
+    {
+      "id": "break",
+      "index": 59,
+      "columns": {
+        "Filters": [
+          {
+            "en": "break|broken",
+            "zh": "粉碎|破损"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Break",
+            "zh": "粉碎"
+          }
+        ]
+      }
+    },
+    {
+      "id": "thorns",
+      "index": 60,
+      "columns": {
+        "Filters": [
+          {
+            "en": "thorns",
+            "zh": "荆棘"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Thorns",
+            "zh": "荆棘"
+          }
+        ]
+      }
+    },
+    {
+      "id": "armour",
+      "index": 61,
+      "columns": {
+        "Filters": [
+          {
+            "en": "armour",
+            "zh": "护甲"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Armour",
+            "zh": "护甲"
+          }
+        ]
+      }
+    },
+    {
+      "id": "evasion",
+      "index": 62,
+      "columns": {
+        "Filters": [
+          {
+            "en": "evade|evasion",
+            "zh": "闪避"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Evasion",
+            "zh": "闪避"
+          }
+        ]
+      }
+    },
+    {
+      "id": "block",
+      "index": 63,
+      "columns": {
+        "Filters": [
+          {
+            "en": "block",
+            "zh": "格挡"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Block",
+            "zh": "格挡"
+          }
+        ]
+      }
+    },
+    {
+      "id": "parry",
+      "index": 64,
+      "columns": {
+        "Filters": [
+          {
+            "en": "parry|parried",
+            "zh": "招架|被招架"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Parry",
+            "zh": "招架"
+          }
+        ]
+      }
+    },
+    {
+      "id": "regen",
+      "index": 65,
+      "columns": {
+        "Filters": [
+          {
+            "en": "regeneration|regenerate",
+            "zh": "再生"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Regeneration",
+            "zh": "再生"
+          }
+        ]
+      }
+    },
+    {
+      "id": "recovery",
+      "index": 66,
+      "columns": {
+        "Filters": [
+          {
+            "en": "recover",
+            "zh": "回复"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Recovery",
+            "zh": "回复"
+          }
+        ]
+      }
+    },
+    {
+      "id": "recoup",
+      "index": 67,
+      "columns": {
+        "Filters": [
+          {
+            "en": "recoup",
+            "zh": "吸纳"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Recoup",
+            "zh": "吸纳"
+          }
+        ]
+      }
+    },
+    {
+      "id": "resistance",
+      "index": 68,
+      "columns": {
+        "Filters": [
+          {
+            "en": "resistance",
+            "zh": "抗性"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Resistance",
+            "zh": "抗性"
+          }
+        ]
+      }
+    },
+    {
+      "id": "leech",
+      "index": 69,
+      "columns": {
+        "Filters": [
+          {
+            "en": "leech",
+            "zh": "偷取"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Leech",
+            "zh": "偷取"
+          }
+        ]
+      }
+    },
+    {
+      "id": "threshold",
+      "index": 70,
+      "columns": {
+        "Filters": [
+          {
+            "en": "threshold",
+            "zh": "阈值"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Threshold",
+            "zh": "阈值"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ailment",
+      "index": 71,
+      "columns": {
+        "Filters": [
+          {
+            "en": "ailment",
+            "zh": "异常状态"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Ailment",
+            "zh": "异常状态"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ignite",
+      "index": 72,
+      "columns": {
+        "Filters": [
+          {
+            "en": "ignite",
+            "zh": "点燃"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Ignite",
+            "zh": "点燃"
+          }
+        ]
+      }
+    },
+    {
+      "id": "burning",
+      "index": 73,
+      "columns": {
+        "Filters": [
+          {
+            "en": "burning",
+            "zh": "燃烧"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Burning",
+            "zh": "燃烧"
+          }
+        ]
+      }
+    },
+    {
+      "id": "chill",
+      "index": 74,
+      "columns": {
+        "Filters": [
+          {
+            "en": "chill",
+            "zh": "冰缓"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Chill",
+            "zh": "冰缓"
+          }
+        ]
+      }
+    },
+    {
+      "id": "freeze",
+      "index": 75,
+      "columns": {
+        "Filters": [
+          {
+            "en": "freeze",
+            "zh": "冻结"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Freeze",
+            "zh": "冻结"
+          }
+        ]
+      }
+    },
+    {
+      "id": "shock",
+      "index": 76,
+      "columns": {
+        "Filters": [
+          {
+            "en": "shock",
+            "zh": "感电"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Shock",
+            "zh": "感电"
+          }
+        ]
+      }
+    },
+    {
+      "id": "electrocute",
+      "index": 77,
+      "columns": {
+        "Filters": [
+          {
+            "en": "electrocute",
+            "zh": "触电"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Electrocute",
+            "zh": "触电"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bleed",
+      "index": 78,
+      "columns": {
+        "Filters": [
+          {
+            "en": "bleed",
+            "zh": "流血"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Bleed",
+            "zh": "流血"
+          }
+        ]
+      }
+    },
+    {
+      "id": "poison",
+      "index": 79,
+      "columns": {
+        "Filters": [
+          {
+            "en": "poison",
+            "zh": "中毒"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Poison",
+            "zh": "中毒"
+          }
+        ]
+      }
+    },
+    {
+      "id": "stun",
+      "index": 80,
+      "columns": {
+        "Filters": [
+          {
+            "en": "stun",
+            "zh": "晕眩"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Stun",
+            "zh": "晕眩"
+          }
+        ]
+      }
+    },
+    {
+      "id": "daze",
+      "index": 81,
+      "columns": {
+        "Filters": [
+          {
+            "en": "daze",
+            "zh": "恍惚"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Daze",
+            "zh": "恍惚"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aggravate",
+      "index": 82,
+      "columns": {
+        "Filters": [
+          {
+            "en": "aggravate",
+            "zh": "恶性"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Aggravate",
+            "zh": "恶性"
+          }
+        ]
+      }
+    },
+    {
+      "id": "slow",
+      "index": 83,
+      "columns": {
+        "Filters": [
+          {
+            "en": "slow",
+            "zh": "减速"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Slow",
+            "zh": "减速"
+          }
+        ]
+      }
+    },
+    {
+      "id": "hinder",
+      "index": 84,
+      "columns": {
+        "Filters": [
+          {
+            "en": "hinder",
+            "zh": "缓速"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Hinder",
+            "zh": "缓速"
+          }
+        ]
+      }
+    },
+    {
+      "id": "maim",
+      "index": 85,
+      "columns": {
+        "Filters": [
+          {
+            "en": "maim",
+            "zh": "瘫痪"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Maim",
+            "zh": "瘫痪"
+          }
+        ]
+      }
+    },
+    {
+      "id": "knockback",
+      "index": 86,
+      "columns": {
+        "Filters": [
+          {
+            "en": "knockback",
+            "zh": "击退"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Knockback",
+            "zh": "击退"
+          }
+        ]
+      }
+    },
+    {
+      "id": "jagged_ground",
+      "index": 87,
+      "columns": {
+        "Filters": [
+          {
+            "en": "jagged ground",
+            "zh": "崎岖之地"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Jagged Ground",
+            "zh": "崎岖之地"
+          }
+        ]
+      }
+    },
+    {
+      "id": "power_charge",
+      "index": 88,
+      "columns": {
+        "Filters": [
+          {
+            "en": "power charge",
+            "zh": "暴击球"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Power Charge",
+            "zh": "暴击球"
+          }
+        ]
+      }
+    },
+    {
+      "id": "frenzy_charge",
+      "index": 89,
+      "columns": {
+        "Filters": [
+          {
+            "en": "frenzy charge",
+            "zh": "狂怒球"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Frenzy Charge",
+            "zh": "狂怒球"
+          }
+        ]
+      }
+    },
+    {
+      "id": "endurance_charge",
+      "index": 90,
+      "columns": {
+        "Filters": [
+          {
+            "en": "endurance charge",
+            "zh": "耐力球"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Endurance Charge",
+            "zh": "耐力球"
+          }
+        ]
+      }
+    },
+    {
+      "id": "cooldown",
+      "index": 91,
+      "columns": {
+        "Filters": [
+          {
+            "en": "cooldown",
+            "zh": "冷却"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Cooldown",
+            "zh": "冷却"
+          }
+        ]
+      }
+    },
+    {
+      "id": "maximum",
+      "index": 92,
+      "columns": {
+        "Filters": [
+          {
+            "en": "maximum",
+            "zh": "最大"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Maximum",
+            "zh": "最大"
+          }
+        ]
+      }
+    },
+    {
+      "id": "dodge_roll",
+      "index": 93,
+      "columns": {
+        "Filters": [
+          {
+            "en": "dodge roll",
+            "zh": "闪避翻滚"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Dodge Roll",
+            "zh": "闪避翻滚"
+          }
+        ]
+      }
+    },
+    {
+      "id": "flask",
+      "index": 94,
+      "columns": {
+        "Filters": [
+          {
+            "en": "flask",
+            "zh": "药剂"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Flask",
+            "zh": "药剂"
+          }
+        ]
+      }
+    },
+    {
+      "id": "charm",
+      "index": 95,
+      "columns": {
+        "Filters": [
+          {
+            "en": "charm",
+            "zh": "咒符"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Charm",
+            "zh": "咒符"
+          }
+        ]
+      }
+    },
+    {
+      "id": "charge",
+      "index": 96,
+      "columns": {
+        "Filters": [
+          {
+            "en": "charge",
+            "zh": "充能"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Charge",
+            "zh": "充能"
+          }
+        ]
+      }
+    },
+    {
+      "id": "faster",
+      "index": 97,
+      "columns": {
+        "Filters": [
+          {
+            "en": "faster",
+            "zh": "加快"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Faster",
+            "zh": "加快"
+          }
+        ]
+      }
+    },
+    {
+      "id": "slower",
+      "index": 98,
+      "columns": {
+        "Filters": [
+          {
+            "en": "slower",
+            "zh": "减慢"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Slower",
+            "zh": "减慢"
+          }
+        ]
+      }
+    },
+    {
+      "id": "duration",
+      "index": 99,
+      "columns": {
+        "Filters": [
+          {
+            "en": "duration",
+            "zh": "持续时间"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Duration",
+            "zh": "持续时间"
+          }
+        ]
+      }
+    },
+    {
+      "id": "taken",
+      "index": 100,
+      "columns": {
+        "Filters": [
+          {
+            "en": "taken",
+            "zh": "受到的"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Taken",
+            "zh": "受到的"
+          }
+        ]
+      }
+    },
+    {
+      "id": "movement",
+      "index": 101,
+      "columns": {
+        "Filters": [
+          {
+            "en": "movement",
+            "zh": "移动"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Movement",
+            "zh": "移动"
+          }
+        ]
+      }
+    },
+    {
+      "id": "speed",
+      "index": 102,
+      "columns": {
+        "Filters": [
+          {
+            "en": "speed",
+            "zh": "速度"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Speed",
+            "zh": "速度"
+          }
+        ]
+      }
+    },
+    {
+      "id": "range",
+      "index": 103,
+      "columns": {
+        "Filters": [
+          {
+            "en": "range",
+            "zh": "范围"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Range",
+            "zh": "范围"
+          }
+        ]
+      }
+    },
+    {
+      "id": "you",
+      "index": 104,
+      "columns": {
+        "Filters": [
+          {
+            "en": "you",
+            "zh": "你"
+          }
+        ],
+        "Name": [
+          {
+            "en": "You",
+            "zh": "你"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ally",
+      "index": 105,
+      "columns": {
+        "Filters": [
+          {
+            "en": "allies|ally",
+            "zh": "友军"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Ally",
+            "zh": "友军"
+          }
+        ]
+      }
+    },
+    {
+      "id": "enemy",
+      "index": 106,
+      "columns": {
+        "Filters": [
+          {
+            "en": "enemies|enemy",
+            "zh": "敌人"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Enemy",
+            "zh": "敌人"
+          }
+        ]
+      }
+    },
+    {
+      "id": "recently",
+      "index": 107,
+      "columns": {
+        "Filters": [
+          {
+            "en": "recently",
+            "zh": "近期"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Recently",
+            "zh": "近期"
+          }
+        ]
+      }
+    },
+    {
+      "id": "lucky",
+      "index": 108,
+      "columns": {
+        "Filters": [
+          {
+            "en": "lucky",
+            "zh": "幸运"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Lucky",
+            "zh": "幸运"
+          }
+        ]
+      }
+    },
+    {
+      "id": "unlucky",
+      "index": 109,
+      "columns": {
+        "Filters": [
+          {
+            "en": "unlucky",
+            "zh": "不幸"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Unlucky",
+            "zh": "不幸"
+          }
+        ]
+      }
+    },
+    {
+      "id": "reduce",
+      "index": 110,
+      "columns": {
+        "Filters": [
+          {
+            "en": "reduce",
+            "zh": "降低"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Reduce",
+            "zh": "降低"
+          }
+        ]
+      }
+    },
+    {
+      "id": "increase",
+      "index": 111,
+      "columns": {
+        "Filters": [
+          {
+            "en": "increase",
+            "zh": "提高"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Increase",
+            "zh": "提高"
+          }
+        ]
+      }
+    },
+    {
+      "id": "cost",
+      "index": 112,
+      "columns": {
+        "Filters": [
+          {
+            "en": "cost",
+            "zh": "消耗"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Cost",
+            "zh": "消耗"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bonus",
+      "index": 113,
+      "columns": {
+        "Filters": [
+          {
+            "en": "bonus",
+            "zh": "加成"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Bonus",
+            "zh": "加成"
+          }
+        ]
+      }
+    },
+    {
+      "id": "extra",
+      "index": 114,
+      "columns": {
+        "Filters": [
+          {
+            "en": "extra",
+            "zh": "额外"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Extra",
+            "zh": "额外"
+          }
+        ]
+      }
+    },
+    {
+      "id": "heavy",
+      "index": 115,
+      "columns": {
+        "Filters": [
+          {
+            "en": "heavy",
+            "zh": "重度"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Heavy",
+            "zh": "重度"
+          }
+        ]
+      }
+    },
+    {
+      "id": "on_hit",
+      "index": 116,
+      "columns": {
+        "Filters": [
+          {
+            "en": "on hit",
+            "zh": "击中时"
+          }
+        ],
+        "Name": [
+          {
+            "en": "On Hit",
+            "zh": "击中时"
+          }
+        ]
+      }
+    },
+    {
+      "id": "on_kill",
+      "index": 117,
+      "columns": {
+        "Filters": [
+          {
+            "en": "on kill",
+            "zh": "击败时"
+          }
+        ],
+        "Name": [
+          {
+            "en": "On Kill",
+            "zh": "击败时"
+          }
+        ]
+      }
+    },
+    {
+      "id": "distance",
+      "index": 118,
+      "columns": {
+        "Filters": [
+          {
+            "en": "distance",
+            "zh": "距离"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Distance",
+            "zh": "距离"
+          }
+        ]
+      }
+    },
+    {
+      "id": "weapon_swap",
+      "index": 119,
+      "columns": {
+        "Filters": [
+          {
+            "en": "weapon swap",
+            "zh": "武器切换"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Weapon Swap",
+            "zh": "武器切换"
+          }
+        ]
+      }
+    },
+    {
+      "id": "chance",
+      "index": 120,
+      "columns": {
+        "Filters": [
+          {
+            "en": "chance",
+            "zh": "几率"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Chance",
+            "zh": "几率"
+          }
+        ]
+      }
+    },
+    {
+      "id": "notable",
+      "index": 121,
+      "columns": {
+        "Filters": [
+          {
+            "en": "notable",
+            "zh": "核心天赋"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Notable",
+            "zh": "核心天赋"
+          }
+        ]
+      }
+    },
+    {
+      "id": "keystone",
+      "index": 122,
+      "columns": {
+        "Filters": [
+          {
+            "en": "keystone",
+            "zh": "基石天赋"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Keystone",
+            "zh": "基石天赋"
+          }
+        ]
+      }
+    },
+    {
+      "id": "companion",
+      "index": 123,
+      "columns": {
+        "Filters": [
+          {
+            "en": "companion",
+            "zh": "伙伴"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Companion",
+            "zh": "伙伴"
+          }
+        ]
+      }
+    },
+    {
+      "id": "remnant",
+      "index": 124,
+      "columns": {
+        "Filters": [
+          {
+            "en": "remnant",
+            "zh": "残片"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Remnant",
+            "zh": "残片"
+          }
+        ]
+      }
+    },
+    {
+      "id": "infusion",
+      "index": 125,
+      "columns": {
+        "Filters": [
+          {
+            "en": "infuse|infusion",
+            "zh": "灌注"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Infusion",
+            "zh": "灌注"
+          }
+        ]
+      }
+    },
+    {
+      "id": "deflection",
+      "index": 126,
+      "columns": {
+        "Filters": [
+          {
+            "en": "deflect|deflection",
+            "zh": "偏转"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Deflection",
+            "zh": "偏转"
+          }
+        ]
+      }
+    },
+    {
+      "id": "archon",
+      "index": 127,
+      "columns": {
+        "Filters": [
+          {
+            "en": "archon",
+            "zh": "执政官"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Archon",
+            "zh": "执政官"
+          }
+        ]
+      }
+    },
+    {
+      "id": "blind",
+      "index": 128,
+      "columns": {
+        "Filters": [
+          {
+            "en": "blind",
+            "zh": "致盲"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Blind",
+            "zh": "致盲"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intimidate",
+      "index": 129,
+      "columns": {
+        "Filters": [
+          {
+            "en": "intimidate",
+            "zh": "威吓"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Intimidate",
+            "zh": "威吓"
+          }
+        ]
+      }
+    },
+    {
+      "id": "debilitate",
+      "index": 130,
+      "columns": {
+        "Filters": [
+          {
+            "en": "debilitate",
+            "zh": "疲惫"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Debilitate",
+            "zh": "疲惫"
+          }
+        ]
+      }
+    },
+    {
+      "id": "glory",
+      "index": 131,
+      "columns": {
+        "Filters": [
+          {
+            "en": "glory",
+            "zh": "荣耀"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Glory",
+            "zh": "荣耀"
+          }
+        ]
+      }
+    },
+    {
+      "id": "surrounded",
+      "index": 132,
+      "columns": {
+        "Filters": [
+          {
+            "en": "surround|surrounded",
+            "zh": "被包围"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Surrounded",
+            "zh": "被包围"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ballista",
+      "index": 133,
+      "columns": {
+        "Filters": [
+          {
+            "en": "ballista",
+            "zh": "弩炮"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Ballista",
+            "zh": "弩炮"
+          }
+        ]
+      }
+    },
+    {
+      "id": "cull",
+      "index": 134,
+      "columns": {
+        "Filters": [
+          {
+            "en": "cull",
+            "zh": "终结"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Cull",
+            "zh": "终结"
+          }
+        ]
+      }
+    },
+    {
+      "id": "combo",
+      "index": 135,
+      "columns": {
+        "Filters": [
+          {
+            "en": "combo",
+            "zh": "连击"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Combo",
+            "zh": "连击"
+          }
+        ]
+      }
+    },
+    {
+      "id": "hazard",
+      "index": 136,
+      "columns": {
+        "Filters": [
+          {
+            "en": "hazard",
+            "zh": "危害"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Hazard",
+            "zh": "危害"
+          }
+        ]
+      }
+    },
+    {
+      "id": "sprint",
+      "index": 137,
+      "columns": {
+        "Filters": [
+          {
+            "en": "sprint",
+            "zh": "奔跑"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Sprint",
+            "zh": "奔跑"
+          }
+        ]
+      }
+    },
+    {
+      "id": "invocation",
+      "index": 138,
+      "columns": {
+        "Filters": [
+          {
+            "en": "invocation",
+            "zh": "咒祈"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Invocation",
+            "zh": "咒祈"
+          }
+        ]
+      }
+    },
+    {
+      "id": "volatility",
+      "index": 139,
+      "columns": {
+        "Filters": [
+          {
+            "en": "volatile|volatility",
+            "zh": "无常"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Volatility",
+            "zh": "无常"
+          }
+        ]
+      }
+    },
+    {
+      "id": "offering",
+      "index": 140,
+      "columns": {
+        "Filters": [
+          {
+            "en": "offering",
+            "zh": "奉献"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Offering",
+            "zh": "奉献"
+          }
+        ]
+      }
+    },
+    {
+      "id": "orb",
+      "index": 141,
+      "columns": {
+        "Filters": [
+          {
+            "en": "orb",
+            "zh": "法球"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Orb",
+            "zh": "法球"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fissure",
+      "index": 142,
+      "columns": {
+        "Filters": [
+          {
+            "en": "fissure",
+            "zh": "裂缝"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Fissure",
+            "zh": "裂缝"
+          }
+        ]
+      }
+    },
+    {
+      "id": "immobilisation",
+      "index": 143,
+      "columns": {
+        "Filters": [
+          {
+            "en": "immobilisation",
+            "zh": "不可移动"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Immobilisation",
+            "zh": "不可移动"
+          }
+        ]
+      }
+    },
+    {
+      "id": "pin",
+      "index": 144,
+      "columns": {
+        "Filters": [
+          {
+            "en": "pin",
+            "zh": "定身"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Pin",
+            "zh": "定身"
+          }
+        ]
+      }
+    },
+    {
+      "id": "immune",
+      "index": 145,
+      "columns": {
+        "Filters": [
+          {
+            "en": "immune",
+            "zh": "免疫"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Immune",
+            "zh": "免疫"
+          }
+        ]
+      }
+    },
+    {
+      "id": "command",
+      "index": 146,
+      "columns": {
+        "Filters": [
+          {
+            "en": "command",
+            "zh": "命令"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Command",
+            "zh": "命令"
+          }
+        ]
+      }
+    },
+    {
+      "id": "temporary",
+      "index": 147,
+      "columns": {
+        "Filters": [
+          {
+            "en": "temporary",
+            "zh": "临时"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Temporary",
+            "zh": "临时"
+          }
+        ]
+      }
+    },
+    {
+      "id": "presence",
+      "index": 148,
+      "columns": {
+        "Filters": [
+          {
+            "en": "presence",
+            "zh": "在场"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Presence",
+            "zh": "在场"
+          }
+        ]
+      }
+    },
+    {
+      "id": "oracle",
+      "index": 149,
+      "columns": {
+        "Filters": [
+          {
+            "en": "oracle",
+            "zh": "神谕者"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Oracle",
+            "zh": "神谕者"
+          }
+        ]
+      }
+    },
+    {
+      "id": "mastery",
+      "index": 150,
+      "columns": {
+        "Filters": [
+          {
+            "en": "mastery",
+            "zh": "专精"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Mastery",
+            "zh": "专精"
+          }
+        ]
+      }
+    },
+    {
+      "id": "support",
+      "index": 151,
+      "columns": {
+        "Filters": [
+          {
+            "en": "support",
+            "zh": "辅助"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Support",
+            "zh": "辅助"
+          }
+        ]
+      }
+    },
+    {
+      "id": "beast",
+      "index": 152,
+      "columns": {
+        "Filters": [
+          {
+            "en": "beast",
+            "zh": "野兽"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Beast",
+            "zh": "野兽"
+          }
+        ]
+      }
+    },
+    {
+      "id": "dual_wield",
+      "index": 153,
+      "columns": {
+        "Filters": [
+          {
+            "en": "dual wield",
+            "zh": "双持"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Dual Wield",
+            "zh": "双持"
+          }
+        ]
+      }
+    },
+    {
+      "id": "impale",
+      "index": 154,
+      "columns": {
+        "Filters": [
+          {
+            "en": "impale",
+            "zh": "穿刺"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Impale",
+            "zh": "穿刺"
+          }
+        ]
+      }
+    },
+    {
+      "id": "jewel",
+      "index": 155,
+      "columns": {
+        "Filters": [
+          {
+            "en": "jewel",
+            "zh": "珠宝"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Jewel",
+            "zh": "珠宝"
+          }
+        ]
+      }
+    },
+    {
+      "id": "consume",
+      "index": 156,
+      "columns": {
+        "Filters": [
+          {
+            "en": "consume",
+            "zh": "消耗"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Consume",
+            "zh": "消耗"
+          }
+        ]
+      }
+    },
+    {
+      "id": "defence",
+      "index": 157,
+      "columns": {
+        "Filters": [
+          {
+            "en": "defence",
+            "zh": "防御"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Defence",
+            "zh": "防御"
+          }
+        ]
+      }
+    },
+    {
+      "id": "offence",
+      "index": 158,
+      "columns": {
+        "Filters": [
+          {
+            "en": "offence",
+            "zh": "攻击"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Offence",
+            "zh": "攻击"
+          }
+        ]
+      }
+    },
+    {
+      "id": "shapeshift",
+      "index": 159,
+      "columns": {
+        "Filters": [
+          {
+            "en": "shapeshift",
+            "zh": "变形"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Shapeshift",
+            "zh": "变形"
+          }
+        ]
+      }
+    },
+    {
+      "id": "global",
+      "index": 160,
+      "columns": {
+        "Filters": [
+          {
+            "en": "global",
+            "zh": "全局"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Global",
+            "zh": "全局"
+          }
+        ]
+      }
+    },
+    {
+      "id": "recharge",
+      "index": 161,
+      "columns": {
+        "Filters": [
+          {
+            "en": "recharge",
+            "zh": "充能"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Recharge",
+            "zh": "充能"
+          }
+        ]
+      }
+    },
+    {
+      "id": "channel",
+      "index": 162,
+      "columns": {
+        "Filters": [
+          {
+            "en": "channel",
+            "zh": "持续吟唱"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Channel",
+            "zh": "持续吟唱"
+          }
+        ]
+      }
+    },
+    {
+      "id": "corpse",
+      "index": 163,
+      "columns": {
+        "Filters": [
+          {
+            "en": "corpse",
+            "zh": "灵柩"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Corpse",
+            "zh": "灵柩"
+          }
+        ]
+      }
+    },
+    {
+      "id": "banner",
+      "index": 164,
+      "columns": {
+        "Filters": [
+          {
+            "en": "banner",
+            "zh": "旗帜"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Banner",
+            "zh": "旗帜"
+          }
+        ]
+      }
+    },
+    {
+      "id": "low_life",
+      "index": 165,
+      "columns": {
+        "Filters": [
+          {
+            "en": "low life",
+            "zh": "低血"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Low Life",
+            "zh": "低血"
+          }
+        ]
+      }
+    },
+    {
+      "id": "life_cost",
+      "index": 166,
+      "columns": {
+        "Filters": [
+          {
+            "en": "life cost",
+            "zh": "生命消耗"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Life Cost",
+            "zh": "生命消耗"
+          }
+        ]
+      }
+    },
+    {
+      "id": "plant",
+      "index": 167,
+      "columns": {
+        "Filters": [
+          {
+            "en": "plant",
+            "zh": "植物"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Plant",
+            "zh": "植物"
+          }
+        ]
+      }
+    },
+    {
+      "id": "detonation",
+      "index": 168,
+      "columns": {
+        "Filters": [
+          {
+            "en": "detonation|detonate",
+            "zh": "detonation|引爆"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Detonation",
+            "zh": "引爆"
+          }
+        ]
+      }
+    },
+    {
+      "id": "detonator",
+      "index": 169,
+      "columns": {
+        "Filters": [
+          {
+            "en": "detonator",
+            "zh": "引爆器"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Detonator",
+            "zh": "引爆器"
+          }
+        ]
+      }
+    },
+    {
+      "id": "potency",
+      "index": 170,
+      "columns": {
+        "Filters": [
+          {
+            "en": "potency",
+            "zh": "效能"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Potency",
+            "zh": "效能"
+          }
+        ]
+      }
+    },
+    {
+      "id": "limit",
+      "index": 171,
+      "columns": {
+        "Filters": [
+          {
+            "en": "limit",
+            "zh": "限制"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Limit",
+            "zh": "限制"
+          }
+        ]
+      }
+    },
+    {
+      "id": "martial",
+      "index": 172,
+      "columns": {
+        "Filters": [
+          {
+            "en": "martial",
+            "zh": "战斗"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Martial",
+            "zh": "战斗"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ground",
+      "index": 173,
+      "columns": {
+        "Filters": [
+          {
+            "en": "ground",
+            "zh": "地面"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Ground",
+            "zh": "地面"
+          }
+        ]
+      }
+    },
+    {
+      "id": "convert",
+      "index": 174,
+      "columns": {
+        "Filters": [
+          {
+            "en": "convert|conversion|converted|converts",
+            "zh": "convert|conversion|converted|转化"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Convert",
+            "zh": "转化"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "table": "SoulCoreTypes",
+  "key": "Id",
+  "columns": [
+    "Name"
+  ],
+  "entries": [
+    {
+      "id": "Rune",
+      "index": 0,
+      "columns": {
+        "Name": [
+          {
+            "en": "[Rune|Rune]",
+            "zh": "[Rune|符文]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SoulCore",
+      "index": 1,
+      "columns": {
+        "Name": [
+          {
+            "en": "[SoulCore|Soul Core]",
+            "zh": "[SoulCore|灵核]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Idol",
+      "index": 2,
+      "columns": {
+        "Name": [
+          {
+            "en": "[Idol]",
+            "zh": "[Idol|雕像]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AbyssalEye",
+      "index": 3,
+      "columns": {
+        "Name": [
+          {
+            "en": "[AbyssalEye|Abyssal Eye]",
+            "zh": "[AbyssalEye|深渊之眼]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CongealedMist",
+      "index": 4,
+      "columns": {
+        "Name": [
+          {
+            "en": "[CongealedMist|Congealed Mist]",
+            "zh": "[CongealedMist|凝结之雾]"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,2459 @@
+{
+  "table": "SkillGemInfo",
+  "key": "Id",
+  "columns": [
+    "Description",
+    "VideoURL1",
+    "VideoURL2"
+  ],
+  "entries": [
+    {
+      "id": "Blight&ArcaneSurge",
+      "index": 0,
+      "columns": {
+        "Description": [
+          {
+            "en": "Grants a temporary buff after spending enough mana with Blight. The buff grants Blight more spell damage, and mana regeneration for sustaining casting.",
+            "zh": "施放枯萎消耗一定魔力后提供一个临时增益效果，总增枯萎的法术伤害，并持续未施法提供魔力再生效果。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Blight&ControlledDestruction",
+      "index": 1,
+      "columns": {
+        "Description": [
+          {
+            "en": "Grants more spell damage but reduces critical strike chance. However, Blight cannot critically hit meaning Controlled Destruction gives more spell damage with no drawbacks.",
+            "zh": "提高法术伤害，但会降低暴击率。然而枯萎无法暴击，这就意味着精准破坏会无偿提供更多法术伤害。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Blight&Efficacy",
+      "index": 2,
+      "columns": {
+        "Description": [
+          {
+            "en": "Increases the damage over time and spell damage of Blight. The increased skill effect duration also increases the duration of Blight's debuff on enemies.",
+            "zh": "增加枯萎的持续伤害和法术伤害。提升技能效果持续时间也可以提高枯萎减益效果对敌人的持续时间。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Blight&SwiftAffliction",
+      "index": 3,
+      "columns": {
+        "Description": [
+          {
+            "en": "Decreases the total duration of Blight's debuff effect but compensates for this by increasing damage over time dealt by Blight.",
+            "zh": "降低枯萎减益效果的总持续时间，但会增加枯萎的持续伤害。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Blight&IncreasedAreaOfEffect",
+      "index": 4,
+      "columns": {
+        "Description": [
+          {
+            "en": "Increases the area of effect of Blight allowing it to affect a greater number of targets at once.",
+            "zh": "增加枯萎的作用范围，使其能够一次性影响更多目标。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FreezingPulse&LMP",
+      "index": 5,
+      "columns": {
+        "Description": [
+          {
+            "en": "Increases the amount of projectiles Freezing Pulse casts, allowing it to hit more targets at once.\n\nAt later levels, obtain the Greater Multiple Projectiles Support gem to hit enemies in a larger area.",
+            "zh": "通过增加投射物数量，冰霜脉冲现在可同时命中的目标更多了。\n\n达到更高级别后，利用高阶多重投射宝石还可打击更大范围内的敌人。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FreezingPulse&ColdPenetration",
+      "index": 6,
+      "columns": {
+        "Description": [
+          {
+            "en": "Reduces enemy resistance to cold damage, making them take more cold damage from Freezing Pulse.",
+            "zh": "降低敌人对冰霜伤害的抗性，提高敌人被冰霜脉冲击中的伤害。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FreezingPulse&ControlledDestruction",
+      "index": 7,
+      "columns": {
+        "Description": [
+          {
+            "en": "Grants more spell damage to Freezing Pulse but reduces critical strike chance. The more spell damage provided by this support allows a direct and stable increase in damage not contingent on critical strikes.",
+            "zh": "提升冰霜脉冲的法术伤害，但是会降低暴击率。提供更多法术伤害，更直接更稳定，而非像暴击一样有不确定性。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FreezingPulse&FasterProjectiles",
+      "index": 8,
+      "columns": {
+        "Description": [
+          {
+            "en": "Increases Freezing Pulse's projectile speed, increasing the maximum distance that the projectiles travel. This allows Freezing Pulse to hit targets further away.",
+            "zh": "提高投射物速度可以提高冰霜脉冲投射物的最大飞行距离。这让冰霜脉冲可以击中更远的目标。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FreezingPulse&SpellEcho",
+      "index": 9,
+      "columns": {
+        "Description": [
+          {
+            "en": "Repeats Freezing Pulse an additional time while also greatly increasing the cast speed.",
+            "zh": "重复施放冰霜脉冲，同时大幅提升施法速度。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FreezingPulse&Volley",
+      "index": 10,
+      "columns": {
+        "Description": [
+          {
+            "en": "Increases the number of projectiles Freezing Pulse casts. Projectiles are in parallel to each other allowing a greater number of targets to be hit at once.",
+            "zh": "增加冰霜脉冲发射的投射物。投射物彼此平行，可以同时击中更多目标。 "
+          }
+        ]
+      }
+    },
+    {
+      "id": "LightingTendrils&AddedLightningDamage",
+      "index": 11,
+      "columns": {
+        "Description": [
+          {
+            "en": "Increases the amount of flat lightning damage your Lightning Tendrils does.",
+            "zh": "增加电能释放造成的闪电伤害。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LightingTendrils&ControlledDestruction",
+      "index": 12,
+      "columns": {
+        "Description": [
+          {
+            "en": "Grants more spell damage to Lightning Tendrils but reduces critical strike chance. The more spell damage provided by this support allows a direct and stable increase in damage, not contingent on critical strikes.",
+            "zh": "提升电能释放的法术伤害，但是会降低暴击率。提供更多法术伤害，更直接更稳定，而非像暴击一样有不确定性。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LightingTendrils&ElementalFocus",
+      "index": 13,
+      "columns": {
+        "Description": [
+          {
+            "en": "Removes the ability for Lightning Tendrils to inflict elemental ailments, such as shock, on enemies. However, it significantly boosts Lightning Tendril's elemental damage.",
+            "zh": "移除电能释放对敌人的感电等元素减益效果，但能够大幅提升电能释放的元素伤害。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LightingTendrils&LightningPenetration",
+      "index": 14,
+      "columns": {
+        "Description": [
+          {
+            "en": "Reduces enemy resistance to lightning damage, making them take more lightning damage from Lightning Tendrils.",
+            "zh": "降低敌人对闪电伤害的抗性，提高敌人被电能释放击中的伤害。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MagmaOrb&Combustion",
+      "index": 15,
+      "columns": {
+        "Description": [
+          {
+            "en": "Gives Rolling Magma more fire damage, additional chance to ignite enemies and reduces the fire resistance of ignited enemies. This makes it a great all-round support for any fire based skill.",
+            "zh": "使熔岩奔涌伤害更高，有额外几率点燃敌人，并降低它们的火焰抗性，为所有火系技能提供全面支援。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MagmaOrb&LMP",
+      "index": 16,
+      "columns": {
+        "Description": [
+          {
+            "en": "Increases the amount of projectiles Rolling Magma casts, allowing it to hit more targets at once.\n\nAt later levels, obtain the Greater Multiple Projectiles Support gem to hit enemies in a larger area.",
+            "zh": "增加施放熔岩奔涌的投射物数量，让它一次性击中更多敌人。\n\n高等级的熔岩奔涌在高阶多重投射辅助下可以攻击一大片地区的敌人。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MagmaOrb&FirePenetration",
+      "index": 17,
+      "columns": {
+        "Description": [
+          {
+            "en": "Reduces enemy resistance to fire damage, making them take more fire damage from Rolling Magma.",
+            "zh": "熔岩奔涌会降低敌人的火焰抗性，从而使它们受到更多伤害。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MagmaOrb&SpellEcho",
+      "index": 18,
+      "columns": {
+        "Description": [
+          {
+            "en": "Repeats Rolling Magma an additional time while also greatly increasing the cast speed.",
+            "zh": "重复施放熔岩奔涌还可以极大加快其施法速度。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MagmaOrb&SlowerProjectiles",
+      "index": 19,
+      "columns": {
+        "Description": [
+          {
+            "en": "Increases Rolling Magma's damage and decreases the distance between each chain, allowing one orb to impact on a pack of monsters multiple times.",
+            "zh": "提高熔岩奔涌的伤害，缩减其每次连锁之间的距离，使每个火球可以反复击中同一群怪物。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MagmaOrb&Empower",
+      "index": 20,
+      "columns": {
+        "Description": [
+          {
+            "en": "Raises the gem level of Rolling Magma granting additional base fire damage and potentially allowing it to chain additional times. This is a drop-only gem that is very rare. Levelling this support gem takes a long time making it not very useful early on.",
+            "zh": "提升熔岩奔涌的技能石等级，提供额外基础火焰伤害，并有可能产生额外连锁。该辅助宝石为掉落限定，非常稀有。提升它的等级非常漫长，因此在前期难以发挥功效。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Fireball&BurningDamage",
+      "index": 21,
+      "columns": {
+        "Description": [
+          {
+            "en": "Greatly increases the damage over time dealt by ignites inflicted from Fireball. ",
+            "zh": "大幅提升火球的点燃效果带来的火焰伤害。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Fireball&Combustion",
+      "index": 22,
+      "columns": {
+        "Description": [
+          {
+            "en": "Gives Fireball more fire damage, additional chance to ignite enemies and reduces the fire resistance of ignited enemies. This makes it a great all-round support for any fire based skill.",
+            "zh": "提高火球的火焰伤害和点燃敌人的几率，并降低被点燃敌人的火焰抗性，是理想的火系法术全能辅助。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Fireball&ControlledDestruction",
+      "index": 23,
+      "columns": {
+        "Description": [
+          {
+            "en": "Grants more spell damage to Fireball but reduces critical strike chance. The more spell damage provided by this support allows a direct and stable increase in damage not contingent on critical strikes.",
+            "zh": "提升火球的法术伤害，但是会降低暴击率。提供更多法术伤害，更直接更稳定，而非像暴击一样有不确定性。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Fireball&DeadlyAilments",
+      "index": 24,
+      "columns": {
+        "Description": [
+          {
+            "en": "Reduces the hit damage of Fireball in exchange for more ailment damage. This makes it particularly strong for Fireball characters that want to focus on scaling the damage over time of ignites.",
+            "zh": "降低火球的命中伤害，换取更多异常状态伤害。因此配合注重提升点燃持续伤害的火球辅助效果尤其强大。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Fireball&FirePenetration",
+      "index": 25,
+      "columns": {
+        "Description": [
+          {
+            "en": "Reduces enemy resistance to fire damage, making them take more fire damage from Fireball.",
+            "zh": "降低敌人对火焰伤害的抗性，提高敌人被火球击中的伤害。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Fireball&IgniteProliferate",
+      "index": 26,
+      "columns": {
+        "Description": [
+          {
+            "en": "Increases the chance to inflict ignites on enemies with Fireball, whilst also enabling ignites to spread to nearby enemies.",
+            "zh": "增加火球点燃敌人的几率，同时允许点燃效果在敌人之中扩散。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Fireball&LMP",
+      "index": 27,
+      "columns": {
+        "Description": [
+          {
+            "en": "Increases the amount of projectiles Fireball casts, allowing it to hit more targets at once.\n\nAt later levels, obtain the Greater Multiple Projectiles Support gem to hit enemies in a larger area.",
+            "zh": "通过增加投射物数量，火球现在可同时命中的目标更多了。\n\n达到更高级别后，利用高阶多重投射宝石还可打击更大范围内的敌人。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Fireball&SpellEcho",
+      "index": 28,
+      "columns": {
+        "Description": [
+          {
+            "en": "Repeats Fireball an additional time while also greatly increasing the cast speed.",
+            "zh": "重复施放火球，同时大幅提升施法速度。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Fireball&SwiftAffliction",
+      "index": 29,
+      "columns": {
+        "Description": [
+          {
+            "en": "Decreases the total duration of ignites on enemies but increases the damage that ignites deal, allowing your ignites to burn faster and stronger.",
+            "zh": "降低点燃的持续时间，但提高点燃造成的伤害，让点燃效果在更短时间内发挥更大威力。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "RaiseZombie&FasterAttacks",
+      "index": 30,
+      "columns": {
+        "Description": [
+          {
+            "en": "Increases the attack speed of your zombie minions.",
+            "zh": "提高你的魔卫仆从的攻击速度。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "RaiseZombie&MeleeSplash",
+      "index": 31,
+      "columns": {
+        "Description": [
+          {
+            "en": "Turns the basic attack of your zombie minions into an area of effect attack. This means that multiple enemies can be hit simultaneously by their basic attack. ",
+            "zh": "将魔卫的基础攻击变为区域攻击。这使它们的基础攻击能同时攻击多个敌人。 "
+          }
+        ]
+      }
+    },
+    {
+      "id": "RaiseZombie&MinionDamage",
+      "index": 32,
+      "columns": {
+        "Description": [
+          {
+            "en": "Provides more damage to your zombie minions.",
+            "zh": "为你的魔卫仆从提供更多伤害。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "RaiseZombie&MinionHealth",
+      "index": 33,
+      "columns": {
+        "Description": [
+          {
+            "en": "Increases the maximum life of your zombie minions, allowing them to survive longer against hard hitting enemies.",
+            "zh": "提高你的魔卫仆从的生命上限值，延长在面对困难的敌人时的存活时间。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "RaiseZombie&Multistrike",
+      "index": 34,
+      "columns": {
+        "Description": [
+          {
+            "en": "Causes your zombie minion's powerful ground slam area of effect skill to repeat an additional two times.",
+            "zh": "让魔卫的范围重击技能额外重复两次。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "RaiseZombie&MinionTotemResistance",
+      "index": 35,
+      "columns": {
+        "Description": [
+          {
+            "en": "Reduces the elemental damage that your zombies take, allowing them to survive longer against elemental, damage-dealing enemies.",
+            "zh": "降低魔卫受到的元素伤害，延长在面对元素系伤害输出敌人时的存活时间。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GlacialHammer&AncestralCall",
+      "index": 36,
+      "columns": {
+        "Description": [
+          {
+            "en": "Allows Glacial Hammer to target two additional nearby enemies. Pairing this support with the Melee Splash support will result in large areas of overlapping damage. ",
+            "zh": "让冰霜之锤额外击中两个邻近的敌人，它跟近战伤害扩散组合能使区域效果的伤害叠加。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GlacialHammer&IceBite",
+      "index": 37,
+      "columns": {
+        "Description": [
+          {
+            "en": "Adds flat cold damage to Glacial Hammer, an increased chance to freeze, chance to generate frenzy charges on killing frozen enemies and adds cold damage per frenzy charge on you. This synergises well with Glacial Hammer's built in shatter against frozen enemies on low life.",
+            "zh": "增加冰霜之锤的冰霜伤害，并提高冻结几率，同时在击杀冻结敌人时有几率获得狂怒球，每个狂怒球都能为你增加冰霜伤害。配合冰霜之锤自带的粉碎低生命值冻结敌人特性，效果奇佳。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GlacialHammer&MeleePhysical",
+      "index": 38,
+      "columns": {
+        "Description": [
+          {
+            "en": "Grants more melee physical damage for Glacial Hammer. Because 50% of physical damage is converted to cold damage, this support will also increase the cold damage done by Glacial Hammer. ",
+            "zh": "提高冰霜之锤的近战物理伤害。因为将50% 物理伤害转化为冰霜伤害，这也使得冰霜之锤获得了更多的冰霜伤害。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GlacialHammer&MeleeSplash",
+      "index": 39,
+      "columns": {
+        "Description": [
+          {
+            "en": "Allows your Glacial Hammer hits to deal splash damage to nearby targets. Pairing this support with the Ancestral Call support will result in large areas of overlapping damage.",
+            "zh": "使冰霜之锤对附近目标造成溅射伤害。同先祖召唤组合，能造成大范围叠加伤害。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GlacialHammer&Multistrike",
+      "index": 40,
+      "columns": {
+        "Description": [
+          {
+            "en": "Causes Glacial Hammer to repeat an additional two times, as well as providing a large bonus to attack speed.",
+            "zh": "使冰霜之锤额外重复两次，同时大幅提升攻击速度。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GlacialHammer&ColdPenetration",
+      "index": 41,
+      "columns": {
+        "Description": [
+          {
+            "en": "Cold Penetration reduces enemy resistance to cold damage, making them take more cold damage from Glacial Hammer.",
+            "zh": "降低敌人的冰霜抗性，提高敌人被冰霜之锤击中的伤害。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EtheralKnives&ControlledDestruction",
+      "index": 42,
+      "columns": {
+        "Description": [
+          {
+            "en": "Grants more spell damage to Ethereal Knives but reduces critical strike chance. The more spell damage provided by this support allows a direct and stable increase in damage not contingent on critical strikes.",
+            "zh": "提升虚空匕首的法术伤害，但是会降低暴击率。提供更多法术伤害，更直接更稳定，而非像暴击一样有不确定性。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EtheralKnives&FasterCasting",
+      "index": 43,
+      "columns": {
+        "Description": [
+          {
+            "en": "Increases the cast speed of Ethereal Knives, allowing it to be used more frequently.",
+            "zh": "提高虚空匕首的施法速度，使技能更频繁地使用。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EtheralKnives&FasterProjectiles",
+      "index": 44,
+      "columns": {
+        "Description": [
+          {
+            "en": "Increasing the projectile speed of Ethereal Knives increases how far the projectiles can travel. When paired with the Pierce support, Faster Projectiles will allow your projectiles to travel deeply through packs of mobs.",
+            "zh": "提高虚空匕首的飞行速度能增加它的飞行距离。和穿透组合的快速投射能让你的技能穿透更深的怪物群落。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EtheralKnives&PhysicalToLightning",
+      "index": 45,
+      "columns": {
+        "Description": [
+          {
+            "en": "Converts 50% of Ethereal Knives' physical damage to lightning damage, as well as providing extra lightning damage based on your physical damage.",
+            "zh": "将虚空匕首50%的物理伤害转化为闪电伤害，同时根据你的物理伤害提供额外的闪电伤害。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EtheralKnives&Pierce",
+      "index": 46,
+      "columns": {
+        "Description": [
+          {
+            "en": "Allows projectiles from Ethereal Knives to travel through extra numbers of enemies, ensuring that more enemies in a pack will be hit by the projectiles.",
+            "zh": "让虚空匕首的投射物穿透更多敌人，使整群敌人都被技能击中。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EtheralKnives&SpellEcho",
+      "index": 47,
+      "columns": {
+        "Description": [
+          {
+            "en": "Repeats Ethereal Knives an additional time while also greatly increasing the cast speed.",
+            "zh": "重复施放虚空匕首，同时大幅提升施法速度。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ExplosiveTrap&TrapMineDamage",
+      "index": 48,
+      "columns": {
+        "Description": [
+          {
+            "en": "Grants more damage to your Explosive Trap. It also adds a small penalty to trap throwing speed.",
+            "zh": "增加爆炸陷阱的伤害，同时对陷阱设置速度有小幅减少。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ExplosiveTrap&ClusterTraps",
+      "index": 49,
+      "columns": {
+        "Description": [
+          {
+            "en": "Allows you to throw 2 additional Explosive Traps at once.",
+            "zh": "允许你同时多放置 2 个爆炸陷阱。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ExplosiveTrap&ChargedTraps",
+      "index": 50,
+      "columns": {
+        "Description": [
+          {
+            "en": "Grants a chance to gain frenzy and power charges when your Explosive Trap is triggered by enemies. It also grants increased trap throwing speed per frenzy charge and increased critical strike multiplier per power charge. ",
+            "zh": "你的爆炸陷阱被敌人触发时，有一定获得狂怒球和暴击球。同时每个狂怒球都能增加陷阱设置速度，每个暴击球都能增加暴击倍数。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ExplosiveTrap&ControlledDestruction",
+      "index": 51,
+      "columns": {
+        "Description": [
+          {
+            "en": "Grants more spell damage to Explosive Trap but reduces critical strike chance. The more spell damage provided by this support allows a direct and stable increase in damage not contingent on critical strikes.",
+            "zh": "提升爆炸陷阱的法术伤害，但是会降低暴击率。提供更多法术伤害，更直接更稳定，而非像暴击一样有不确定性。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ExplosiveTrap&ElementalFocus",
+      "index": 52,
+      "columns": {
+        "Description": [
+          {
+            "en": "Removes the ability for Explosive Trap to inflict elemental ailments, such as ignite, on enemies. However, it significantly increases the amount of elemental damage Explosive Trap does. Converting all physical damage from Explosive Trap to elemental damage maximizes the benefit this support provides.",
+            "zh": "移除爆炸陷阱对敌人的点燃等元素减益效果，但能够大幅提升爆炸陷阱的元素伤害。将爆炸陷阱的所有物理伤害转为元素伤害，使本辅助技能的加成效果最大化。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ExplosiveTrap&PhysicalToLightning",
+      "index": 53,
+      "columns": {
+        "Description": [
+          {
+            "en": "Converts 50% of Explosive Trap's physical damage to lightning damage, as well as providing extra lightning damage based on your physical damage.",
+            "zh": "将爆炸陷阱50%的物理伤害转化为闪电伤害，同时根据你的物理伤害提供额外的闪电伤害。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FrostBlades&AncestralCall",
+      "index": 54,
+      "columns": {
+        "Description": [
+          {
+            "en": "Allows Frost Blades to target two additional nearby enemies. With at least three enemies nearby this can result in triple the amount of blade projectiles.",
+            "zh": "让冰霜之刃额外击中两个邻近的敌人。附近至少有三名敌人时，可使投射物的伤害达到三倍。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FrostBlades&ColdPenetration",
+      "index": 55,
+      "columns": {
+        "Description": [
+          {
+            "en": "Reduces enemy resistance to cold damage, making them take more cold damage from Frost Blades.",
+            "zh": "降低敌人的冰霜抗性，提高敌人被冰霜之刃击中的伤害。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FrostBlades&ElementalDamageWithAttacks",
+      "index": 56,
+      "columns": {
+        "Description": [
+          {
+            "en": "Multiplies the elemental damage done by Frost Blades. Converting all physical damage from Frost Blades to elemental damage maximizes the benefit this support provides.",
+            "zh": "使冰霜之刃造成的元素伤害成倍增加。将冰霜之刃的所有物理伤害转化为元素伤害，最大发挥本辅助技能的效益。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FrostBlades&MeleePhysical",
+      "index": 57,
+      "columns": {
+        "Description": [
+          {
+            "en": "Grants more melee physical damage for Frost Blades. Because 60% of physical damage is converted to cold damage, this support will also increase the cold damage done by Frost Blades.",
+            "zh": "提高冰霜之刃的近战物理伤害。因为将60% 物理伤害转化为冰霜伤害，这也使得冰霜之刃获得了更多的冰霜伤害。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FrostBlades&Multistrike",
+      "index": 58,
+      "columns": {
+        "Description": [
+          {
+            "en": "Causes Frost Blades to repeat an additional two times, as well as providing a large bonus to attack speed.",
+            "zh": "使冰霜之刃额外重复两次，同时大幅提升攻击速度。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FrostBlades&SlowerProjectiles",
+      "index": 59,
+      "columns": {
+        "Description": [
+          {
+            "en": "Reduces the maximum range of Frost Blades projectiles, while also granting more damage with the blade projectiles.",
+            "zh": "降低冰霜之刃投射物的最大射程，同时提高伤害。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ViperStrike&MeleeSplash",
+      "index": 60,
+      "columns": {
+        "Description": [
+          {
+            "en": "Allows your Viper Strike hits to deal splash damage to nearby targets. Pairing this support with the Ancestral Call support will result in large areas of overlapping damage.",
+            "zh": "使毒蛇打击对附近目标造成溅射伤害。同先祖召唤组合，能造成大范围叠加伤害。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ViperStrike&AncestralCall",
+      "index": 61,
+      "columns": {
+        "Description": [
+          {
+            "en": "Allows Viper Strike to target two additional nearby enemies. Pairing this support with the Melee Splash support will result in large areas of overlapping damage.",
+            "zh": "让毒蛇打击额外击中两个邻近的敌人，它跟近战伤害扩散组合能使区域效果的伤害叠加。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ViperStrike&DeadlyAilments",
+      "index": 62,
+      "columns": {
+        "Description": [
+          {
+            "en": "Reduces hit damage in exchange for more ailment damage. This allows the poison inflicted by Viper Strike to deal far more damage over time.",
+            "zh": "降低命中伤害，换取更多异常状态伤害。这样毒蛇打击造成的中毒状态所带来的持续伤害就将得到大幅提升。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ViperStrike&MeleePhysical",
+      "index": 63,
+      "columns": {
+        "Description": [
+          {
+            "en": "Grants more melee physical damage for Viper Strike. This support also increases the amount of damage inflicted bleeds and poisons do.",
+            "zh": "提高毒蛇打击的近战物理伤害。同时增加伤害引发的流血和中毒状态造成的伤害。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ViperStrike&Multistrike",
+      "index": 64,
+      "columns": {
+        "Description": [
+          {
+            "en": "Causes Viper Strike to repeat an additional two times, as well as providing a large bonus to attack speed.",
+            "zh": "使毒蛇打击额外重复两次，同时大幅提升攻击速度。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ViperStrike&VileToxins",
+      "index": 65,
+      "columns": {
+        "Description": [
+          {
+            "en": "Increases the damage of poisons applied from Viper Strike. In addition your Viper Strikes hits gain 5% more damage per poison on the enemy.",
+            "zh": "增加毒蛇打击造成的毒性伤害。此外，你的毒蛇打击每使一名敌人中毒，伤害增加5%。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SpectralThrow&ChanceToBleed",
+      "index": 66,
+      "columns": {
+        "Description": [
+          {
+            "en": "Increases the chance of inflicting the bleed ailment on enemies with Spectral Throw. Bleeding deals physical damage over time, with more damage dealt to moving targets. This support also adds a small amount of flat physical damage to Spectral Throw.",
+            "zh": "增加灵体投掷造成流血的几率。流血造成物理持续伤害，对移动目标伤害更高。本辅助技能还会小幅增加灵体投掷的基础物理伤害。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SpectralThrow&LMP",
+      "index": 67,
+      "columns": {
+        "Description": [
+          {
+            "en": "Increases the amount of projectiles Spectral Throw throws, allowing it to hit more targets at once.\n\nAt later levels, obtain the Greater Multiple Projectiles Support gem to hit enemies in a larger area.",
+            "zh": "通过增加投射物数量，灵体投掷现在可同时命中的目标更多了。\n\n达到更高级别后，利用高阶多重投射宝石还可打击更大范围内的敌人。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SpectralThrow&Maim",
+      "index": 68,
+      "columns": {
+        "Description": [
+          {
+            "en": "Grants Spectral Throw a chance to Maim enemies on hit. Maimed enemies have reduced movement speed and take increased physical damage. This support also gives more physical damage with Spectral Throw.",
+            "zh": "使灵体投掷有一定机率在命中后使敌人瘫痪。瘫痪的敌人移动速度降低，承受更多物理伤害。本辅助技能还会增加灵体投掷的物理伤害。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SpectralThrow&PhysicalToLightning",
+      "index": 69,
+      "columns": {
+        "Description": [
+          {
+            "en": "Converts 50% of Spectral Throw's physical damage to lightning damage, as well as providing extra lightning damage based on your physical damage.",
+            "zh": "将灵体投掷50%的物理伤害转化为闪电伤害，同时根据你的物理伤害提供额外的闪电伤害。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SpectralThrow&PhysicalProjectileAttack",
+      "index": 70,
+      "columns": {
+        "Description": [
+          {
+            "en": "Grants more physical damage with Spectral Throw. It also provides more damage with inflicted bleeds and poisons.",
+            "zh": "增加灵体投掷的物理伤害。同时增加技能造成的流血和中毒伤害。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SpectralThrow&SlowerProjectiles",
+      "index": 71,
+      "columns": {
+        "Description": [
+          {
+            "en": "Reduces the maximum range of Spectral Throw projectiles, allowing them to start returning sooner, hitting enemies a second time. This support also provides more projectile damage.",
+            "zh": "降低灵体投掷投射物的最大射程，提前其发射时间，这样就能第二次击中敌人了。本辅助技能同时还可以提高伤害。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "IceShot&ColdPenetration",
+      "index": 72,
+      "columns": {
+        "Description": [
+          {
+            "en": "Reduces enemy resistance to cold damage, making them take more cold damage from Ice Shot.",
+            "zh": "降低敌人的冰霜抗性，提高敌人被冰霜箭矢击中的伤害。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "IceShot&LMP",
+      "index": 73,
+      "columns": {
+        "Description": [
+          {
+            "en": "Increases the amount of projectiles Ice Shot fires, allowing it to hit more targets at once.\n\nAt later levels, obtain the Greater Multiple Projectiles Support gem to hit enemies in a larger area.",
+            "zh": "通过增加投射物数量，冰霜射击现在可同时命中的目标更多了。\n\n达到更高级别后，利用高阶多重投射宝石还可打击更大范围内的敌人。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "IceShot&MirageArcher",
+      "index": 74,
+      "columns": {
+        "Description": [
+          {
+            "en": "When Ice Shot hits an enemy, an apparition is created above you that fires a copy of Ice Shot at enemies, at a reduced rate and with less damage.",
+            "zh": "冰霜射击命中敌人后，你的上方会出现一个幻象，向敌人发射复制版冰霜射击，但频率和伤害更低。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "IceShot&Pierce",
+      "index": 75,
+      "columns": {
+        "Description": [
+          {
+            "en": "Allows projectiles from Ice Shot to travel through extra numbers of enemies, ensuring that more enemies in a pack will be hit by the projectiles.",
+            "zh": "让冰霜射击的投射物穿透更多敌人，使整群敌人都被技能击中。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "IceShot&SlowerProjectiles",
+      "index": 76,
+      "columns": {
+        "Description": [
+          {
+            "en": "Reduces the projectile speed of Ice Shot but grants more projectile damage. ",
+            "zh": "降低冰霜射击投射物的速度，同时提高伤害。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "IceShot&ElementalDamageWithAttacks",
+      "index": 77,
+      "columns": {
+        "Description": [
+          {
+            "en": "Multiplies the elemental damage done by Ice Shot. Converting all physical damage from Ice Shot to elemental damage maximizes the benefit this support provides.",
+            "zh": "使冰霜射击造成的元素伤害成倍增加。将冰霜射击的所有物理伤害转化为元素伤害，最大发挥本辅助技能的效益。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ShrapnelShot&LMP",
+      "index": 78,
+      "columns": {
+        "Description": [
+          {
+            "en": "Increases the amount of arrows Shrapnel Shot fires, allowing it to hit more targets at once.\n\nAt later levels, obtain the Greater Multiple Projectiles Support gem to hit enemies in a larger area.",
+            "zh": "通过增加投射物数量，流星射击现在可同时命中的目标更多了。\n\n达到更高级别后，利用高阶多重投射宝石还可打击更大范围内的敌人。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ShrapnelShot&LightningPenetration",
+      "index": 79,
+      "columns": {
+        "Description": [
+          {
+            "en": "Reduces enemy resistance to lightning damage, making them take more lightning damage from Shrapnel Shot.",
+            "zh": "降低敌人对闪电伤害的抗性，提高敌人被流星射击击中的伤害。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ShrapnelShot&MirageArcher",
+      "index": 80,
+      "columns": {
+        "Description": [
+          {
+            "en": "When Shrapnel Shot hits an enemy, an apparition is created above you that fires a copy of Shrapnel Shot at enemies, at a reduced rate and with less damage.",
+            "zh": "流星射击命中敌人后，你的上方会出现一个幻象，向敌人发射复制版流星射击，但频率和伤害更低。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ShrapnelShot&PhysicalToLightning",
+      "index": 81,
+      "columns": {
+        "Description": [
+          {
+            "en": "Converts 50% of Shrapnel Shot's physical damage to lightning damage, as well as providing extra lightning damage based on your physical damage.",
+            "zh": "将流星射击50%的物理伤害转化为闪电伤害，同时根据你的物理伤害提供额外的闪电伤害。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ShrapnelShot&SlowerProjectiles",
+      "index": 82,
+      "columns": {
+        "Description": [
+          {
+            "en": "Reduces the projectile speed of Shrapnel Shot but grants more projectile damage.",
+            "zh": "降低流星射击投射物的速度，同时提高伤害。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ShrapnelShot&ElementalDamageWithAttacks",
+      "index": 83,
+      "columns": {
+        "Description": [
+          {
+            "en": "Multiplies the elemental damage done by Shrapnel Shot. Converting all physical damage from Shrapnel Shot to elemental damage maximizes the benefit this support provides.",
+            "zh": "使流星射击造成的元素伤害成倍增加。将流星射击的所有物理伤害转化为元素伤害，最大发挥本辅助技能的效益。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SplitArrow&AddedFireDamage",
+      "index": 84,
+      "columns": {
+        "Description": [
+          {
+            "en": "Grants additional fire damage based on your physical damage. ",
+            "zh": "根据你的物理伤害额外附加火焰伤害。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SplitArrow&ElementalDamageWithAttacks",
+      "index": 85,
+      "columns": {
+        "Description": [
+          {
+            "en": "Multiplies the elemental damage done by Split Arrow.",
+            "zh": "使分裂箭矢造成的元素伤害成倍增加。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SplitArrow&MirageArcher",
+      "index": 86,
+      "columns": {
+        "Description": [
+          {
+            "en": "When Split Arrow hits an enemy, an apparition is created above you that fires a copy of Split Arrow at enemies, at a reduced rate and with less damage.",
+            "zh": "分裂箭矢命中敌人后，你的上方会出现一个幻象，向敌人发射复制版分裂箭矢，但频率和伤害更低。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SplitArrow&PhysicalProjectileAttackDamage",
+      "index": 87,
+      "columns": {
+        "Description": [
+          {
+            "en": "Grants more physical damage with Split Arrow. It also provides more damage with inflicted bleeds and poisons.",
+            "zh": "增加分裂箭矢的物理伤害。同时增加技能造成的流血和中毒伤害。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SplitArrow&PhysicalToLightning",
+      "index": 88,
+      "columns": {
+        "Description": [
+          {
+            "en": "Converts 50% of Split Arrow's physical damage to lightning damage, as well as providing extra lightning damage based on your physical damage.",
+            "zh": "将分裂箭矢50%的物理伤害转化为闪电伤害，同时根据你的物理伤害提供额外的闪电伤害。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SplitArrow&Pierce",
+      "index": 89,
+      "columns": {
+        "Description": [
+          {
+            "en": "Allows projectiles from Split Arrow to travel through extra numbers of enemies, ensuring that more enemies in a pack will be hit by the projectiles.",
+            "zh": "让分裂箭矢的投射物穿透更多敌人，使整群敌人都被技能击中。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GroundSlam&Brutality",
+      "index": 90,
+      "columns": {
+        "Description": [
+          {
+            "en": "Greatly increases the physical damage of Ground Slam but means you cannot deal chaos or elemental damage. Use this support with a strong physical damage weapon. ",
+            "zh": "大幅增加裂地之击的物理伤害，但你无法造成混沌或元素伤害。配合强力物理伤害武器使用本辅助技能。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GroundSlam&ChanceToBleed",
+      "index": 91,
+      "columns": {
+        "Description": [
+          {
+            "en": "Increases the chance of inflicting the bleed ailment on enemies with Ground Slam. Bleeding deals physical damage over time, with more damage dealt to moving targets. This support also adds a small amount of flat physical damage to Ground Slam. ",
+            "zh": "增加裂地之击造成流血的几率。流血造成物理持续伤害，对移动目标伤害更高。本辅助技能还会小幅增加裂地之击的基础物理伤害。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GroundSlam&IncreasedAreaOfEffect",
+      "index": 92,
+      "columns": {
+        "Description": [
+          {
+            "en": "Increases the area of effect of Ground Slam allowing it to hit a greater number of targets at once.",
+            "zh": "增加裂地之击的作用范围，使其能够一次性影响更多目标。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GroundSlam&Maim",
+      "index": 93,
+      "columns": {
+        "Description": [
+          {
+            "en": "Grants Ground Slam a chance to Maim enemies on hit. Maimed enemies have reduced movement speed and take increased physical damage. This support also gives more physical damage with Ground Slam. ",
+            "zh": "使裂地之击有一定机率在命中后使敌人瘫痪。瘫痪的敌人移动速度降低，承受更多物理伤害。本辅助技能还会增加裂地之击的物理伤害。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GroundSlam&MeleePhysicalDamage",
+      "index": 94,
+      "columns": {
+        "Description": [
+          {
+            "en": "Grants more melee physical damage for Ground Slam. This support also increases the amount of damage inflicted bleeds and poisons do. ",
+            "zh": "提高裂地之击的近战物理伤害。同时增加伤害引发的流血和中毒状态造成的伤害。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GroundSlam&Multistrike",
+      "index": 95,
+      "columns": {
+        "Description": [
+          {
+            "en": "Causes Ground Slam to repeat an additional two times, as well as providing a large bonus to attack speed.",
+            "zh": "使裂地之击额外重复两次，同时大幅提升攻击速度。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HeavyStrike&AncestralCall",
+      "index": 96,
+      "columns": {
+        "Description": [
+          {
+            "en": "Allows Heavy Strike to target two additional nearby enemies. Pairing this support with the Melee Splash support will result in large areas of overlapping damage. ",
+            "zh": "让重击额外击中两个邻近的敌人，它跟近战伤害扩散组合能使区域效果的伤害叠加。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HeavyStrike&Brutality",
+      "index": 97,
+      "columns": {
+        "Description": [
+          {
+            "en": "Greatly increases the physical damage of Heavy Strike but means you cannot deal chaos or elemental damage. Use this support with a strong physical damage weapon.",
+            "zh": "大幅增加重击的物理伤害，但你无法造成混沌或元素伤害。配合强力物理伤害武器使用本辅助技能。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HeavyStrike&ChanceToBleed",
+      "index": 98,
+      "columns": {
+        "Description": [
+          {
+            "en": "Increases the chance of inflicting the bleed ailment on enemies with Heavy Strike. Bleeding deals physical damage over time, with more damage dealt to moving targets. This support also adds a small amount of flat physical damage to Heavy Strike.",
+            "zh": "增加重击造成流血的几率。流血造成物理持续伤害，对移动目标伤害更高。本辅助技能还会小幅增加重击的基础物理伤害。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HeavyStrike&MeleePhysicalDamage",
+      "index": 99,
+      "columns": {
+        "Description": [
+          {
+            "en": "Grants more melee physical damage for Heavy Strike. This support also increases the amount of damage inflicted bleeds and poisons do.",
+            "zh": "提高重击的近战物理伤害。同时增加伤害引发的流血和中毒状态造成的伤害。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HeavyStrike&MeleeSplash",
+      "index": 100,
+      "columns": {
+        "Description": [
+          {
+            "en": "Allows your Heavy Strike hits to deal splash damage to nearby targets. Pairing this support with the Ancestral Call support will result in large areas of overlapping damage.",
+            "zh": "使重击对附近目标造成溅射伤害。同先祖召唤组合，能造成大范围叠加伤害。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HeavyStrike&Multistrike",
+      "index": 101,
+      "columns": {
+        "Description": [
+          {
+            "en": "Causes Heavy Strike to repeat an additional two times, as well as providing a large bonus to attack speed.",
+            "zh": "使重击额外重复两次，同时大幅提升攻击速度。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Cleave&ChanceToBleed",
+      "index": 102,
+      "columns": {
+        "Description": [
+          {
+            "en": "Increases the chance of inflicting the bleed ailment on enemies with Cleave. Bleeding deals physical damage over time, with more damage dealt to moving targets. This support also adds a small amount of flat physical damage to Cleave.",
+            "zh": "增加劈砍造成流血的几率。流血造成物理持续伤害，对移动目标伤害更高。本辅助技能还会小幅增加劈砍的基础物理伤害。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Cleave&ConcentratedEffect",
+      "index": 103,
+      "columns": {
+        "Description": [
+          {
+            "en": "Reduces the area of effect while significantly increasing the area damage Cleave does. This makes it an excellent choice for difficult individual monsters.",
+            "zh": "降低劈砍的攻击范围，同时大幅提高伤害。它是对付高生命值单体敌人的绝佳选择。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Cleave&IncreasedAreaOfEffect",
+      "index": 104,
+      "columns": {
+        "Description": [
+          {
+            "en": "Increases the area of effect of Cleave allowing it to hit a greater number of targets at once.",
+            "zh": "增加劈砍的作用范围，使其能够一次性影响更多目标。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Cleave&Maim",
+      "index": 105,
+      "columns": {
+        "Description": [
+          {
+            "en": "Grants Cleave a chance to Maim enemies on hit. Maimed enemies have reduced movement speed and take increased physical damage. This support also gives more physical damage with Cleave.",
+            "zh": "使劈砍有一定机率在命中后使敌人瘫痪。瘫痪的敌人移动速度降低，承受更多物理伤害。本辅助技能还会增加劈砍的物理伤害。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Cleave&MeleePhysical",
+      "index": 106,
+      "columns": {
+        "Description": [
+          {
+            "en": "Grants more melee physical damage for Cleave. This support also increases the amount of damage inflicted bleeds and poisons do.",
+            "zh": "提高劈砍的近战物理伤害。同时增加伤害引发的流血和中毒状态造成的伤害。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Cleave&Multistrike",
+      "index": 107,
+      "columns": {
+        "Description": [
+          {
+            "en": "Causes Cleave to repeat an additional two times, as well as providing a large bonus to attack speed.",
+            "zh": "使劈砍额外重复两次，同时大幅提升攻击速度。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DoubleStrike&AncestralCall",
+      "index": 108,
+      "columns": {
+        "Description": [
+          {
+            "en": "Allows Double Strike to target two additional nearby enemies. Pairing this support with the Melee Splash support will result in large areas of overlapping damage.",
+            "zh": "让双重打击额外击中两个邻近的敌人，它跟近战伤害扩散组合能使区域效果的伤害叠加。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DoubleStrike&ChanceToBleed",
+      "index": 109,
+      "columns": {
+        "Description": [
+          {
+            "en": "Increases the chance of inflicting the bleed ailment on enemies with Double Strike. Bleeding deals physical damage over time, with more damage dealt to moving targets. This support also adds a small amount of flat physical damage to Double Strike.",
+            "zh": "增加双重打击造成流血的几率。流血造成物理持续伤害，对移动目标伤害更高。本辅助技能还会小幅增加双重打击的基础物理伤害。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DoubleStrike&MeleePhysical",
+      "index": 110,
+      "columns": {
+        "Description": [
+          {
+            "en": "Grants more melee physical damage for Double Strike. This support also increases the amount of damage inflicted bleeds and poisons do.",
+            "zh": "提高双重打击的近战物理伤害。同时增加伤害引发的流血和中毒状态造成的伤害。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DoubleStrike&Fortify",
+      "index": 111,
+      "columns": {
+        "Description": [
+          {
+            "en": "Applies a buff that reduces incoming damage from all hits, whilst also providing an increase to melee physical damage with Double Strike.",
+            "zh": "产生一个增益效果，降低所承受的所有伤害，同时提升双重打击的近战物理伤害。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DoubleStrike&MeleeSplash",
+      "index": 112,
+      "columns": {
+        "Description": [
+          {
+            "en": "Allows your Double Strike hits to deal splash damage to nearby targets. Pairing this support with the Ancestral Call support will result in large areas of overlapping damage.",
+            "zh": "使双重打击对附近目标造成溅射伤害。同先祖召唤组合，能造成大范围叠加伤害。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DoubleStrike&Multistrike",
+      "index": 113,
+      "columns": {
+        "Description": [
+          {
+            "en": "Causes Double Strike to repeat an additional two times, as well as providing a large bonus to attack speed.",
+            "zh": "使双重打击额外重复两次，同时大幅提升攻击速度。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MoltenStrike&AncestralCall",
+      "index": 114,
+      "columns": {
+        "Description": [
+          {
+            "en": "Allows Molten Strike to target two additional nearby enemies. With at least three enemies nearby this can result in triple the amount of molten projectiles. ",
+            "zh": "让熔岩之击额外击中两个邻近的敌人。附近至少有三名敌人时，可使投射物的伤害达到三倍。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MoltenStrike&ConcerntratedEffect",
+      "index": 115,
+      "columns": {
+        "Description": [
+          {
+            "en": "Reduces the spread of Molten Strike's projectiles while greatly increasing the area damage they deal. This makes it ideal for formidable individual monsters. ",
+            "zh": "降低熔岩之击投射物的扩散范围，同时大幅提高其范围伤害。它是对付高生命值单体敌人的绝佳选择。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MoltenStrike&ElementalDamageWithAttacks",
+      "index": 116,
+      "columns": {
+        "Description": [
+          {
+            "en": "Multiplies the elemental damage done by Molten Strike. Converting all physical damage from Molten Strike to elemental damage maximizes the benefit this support provides.",
+            "zh": "使熔岩之击造成的元素伤害成倍增加。将熔岩之击的所有物理伤害转化为元素伤害，最大发挥本辅助技能的效益。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MoltenStrike&MeleePhysical",
+      "index": 117,
+      "columns": {
+        "Description": [
+          {
+            "en": "Grants more melee physical damage for Molten Strike. Because 60% of physical damage is converted to fire damage, this support will also increase the fire damage done by Molten Strike. ",
+            "zh": "提高熔岩之击的近战物理伤害。因为将60% 物理伤害转化为火焰伤害，这也使得熔岩之击6得了更多的火焰伤害。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MoltenStrike&Multistrike",
+      "index": 118,
+      "columns": {
+        "Description": [
+          {
+            "en": "Causes Molten Strike to repeat an additional two times, as well as providing a large bonus to attack speed.",
+            "zh": "使熔岩之击额外重复两次，同时大幅提升攻击速度。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MoltenStrike&ElementalFocus",
+      "index": 119,
+      "columns": {
+        "Description": [
+          {
+            "en": "Removes the ability for Molten Strike to inflict elemental ailments, such as ignite, on enemies. However, it significantly boosts the amount of elemental damage Molten Strike does. Converting all physical damage from Molten Strike to elemental damage maximizes the benefit this support provides.",
+            "zh": "移除熔岩之击对敌人的点燃等元素减益效果，但能够大幅提升熔岩之击的元素伤害。将熔岩之击的所有物理伤害转为元素伤害，使本辅助技能的加成效果最大化。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Blight&VoidManipulation",
+      "index": 120,
+      "columns": {
+        "Description": [
+          {
+            "en": "Grants more chaos damage but lowers the elemental damage of Blight. Blight only deals chaos damage so Void Manipulation gives more damage at no drawback.",
+            "zh": "为枯萎提升混沌伤害，降低元素伤害。但因为枯萎仅造成混沌伤害，因此虚空操纵只会带来伤害提升，没有扣减。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LightningTendrils&ConcentratedEffect",
+      "index": 121,
+      "columns": {
+        "Description": [
+          {
+            "en": "Reduces the area of effect of Lightning Tendrils but significantly increases the area damage Lightning Tendrils does. This makes it an excellent choice for difficult individual monsters.",
+            "zh": "降低电能释放的攻击范围，同时大幅提高电能释放的范围伤害。它是对付高生命值单体敌人的绝佳选择。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LightningTendrils&IncreasedAreaOfEffect",
+      "index": 122,
+      "columns": {
+        "Description": [
+          {
+            "en": "Increases the area of effect of Lightning Tendrils allowing it to hit a greater number of targets at once.",
+            "zh": "增加电能释放的作用范围，使其能够一次性影响更多目标。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CausticArrow&Pierce",
+      "index": 123,
+      "columns": {
+        "Description": [
+          {
+            "en": "Allows projectiles from Caustic Arrow to travel through more enemies, creating multiple patches of caustic ground, dealing damage to more enemies simultaneously. ",
+            "zh": "让腐蚀箭矢的投射物穿透更多敌人，创造多个腐蚀地面，同时对更多敌人造成伤害。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CausticArrow&LMP",
+      "index": 124,
+      "columns": {
+        "Description": [
+          {
+            "en": "Increases the amount of arrows Caustic Arrow fires, allowing it to cover a larger area by creating multiple patches of caustic ground at once.\n\nAt later levels, obtain the Greater Multiple Projectiles Support gem to affect enemies in a larger area.",
+            "zh": "通过增加投射物数量，腐蚀箭矢现在可以覆盖更大的范围，制造更多腐蚀地面。\n\n达到更高级别后，利用高阶多重投射宝石还可打击更大范围内的敌人。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CausticArrow&MirageArcher",
+      "index": 125,
+      "columns": {
+        "Description": [
+          {
+            "en": "When Caustic Arrow hits an enemy, an apparition is created above you that fires a copy of Caustic Arrow at enemies, at a reduced rate and with less damage.",
+            "zh": "腐蚀箭矢命中敌人后，你的上方会出现一个幻象，向敌人发射复制版腐蚀箭矢，但频率和伤害更低。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CausticArrow&ViciousProjectiles",
+      "index": 126,
+      "columns": {
+        "Description": [
+          {
+            "en": "Greatly increases both the physical damage from hits and chaos damage over time component of Caustic Arrow.",
+            "zh": "同时提高腐蚀箭矢的物理伤害和持续混沌伤害。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CausticArrow&WitheringTouch",
+      "index": 127,
+      "columns": {
+        "Description": [
+          {
+            "en": "Grants extra chaos damage based on your physical damage. It also has a chance to inflict the Withered debuff which causes enemies to take 6% increased chaos damage per Wither stack (up to 15). ",
+            "zh": "根据你的物理伤害额外附加混沌伤害。并有几率施加凋零减益效果，每层凋零效果（最高15层）将使敌人受到的混沌伤害增加6%。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CausticArrow&Poison",
+      "index": 128,
+      "columns": {
+        "Description": [
+          {
+            "en": "Gives a high chance for Caustic Arrow to inflict the poison ailment on hit. Poison deals chaos damage over time so it benefits from a lot of the same stats that Caustic Arrow's caustic ground does. ",
+            "zh": "是腐蚀箭矢与较高几率在命中时造成中毒效果。中毒可造成持续混沌伤害，因此可与腐蚀箭矢的腐蚀地面共享许多加成。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Smite&AncestralCall",
+      "index": 129,
+      "columns": {
+        "Description": [
+          {
+            "en": "Allows Smite to target two additional nearby enemies. As Smite is an area of effect attack, this support can result in areas where damage overlaps, greatly increasing damage.",
+            "zh": "让惩击额外击中两个邻近的敌人。由于惩击是范围攻击，该辅助可以在范围内造成叠加伤害，大幅提高DPS。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Smite&MeleePhysicalDamage",
+      "index": 130,
+      "columns": {
+        "Description": [
+          {
+            "en": "Grants more melee physical damage for Smite. Because 50% of physical damage is converted to lightning damage, this support will also increase the lightning damage done by Smite.  ",
+            "zh": "提高惩击的近战物理伤害。因为将50% 物理伤害转化为闪电伤害，这也使得惩击获得了更多的闪电伤害。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Smite&PhysicalToLightning",
+      "index": 131,
+      "columns": {
+        "Description": [
+          {
+            "en": "Converts 50% of Smite's physical damage to lightning damage, as well as providing extra lightning damage based on your physical damage. Because 50% of physical damage is already converted to lightning from the skill gem this causes all physical damage with Smite to deal lightning damage instead. ",
+            "zh": "将惩击50%的物理伤害转化为闪电伤害，同时根据你的物理伤害提供额外的闪电伤害。由于该技能已经有50%的物理伤害转化成了闪电伤害，因此本辅助技能将使惩击的所有物理伤害都变为闪电伤害。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Smite&ElementalDamageWithAttacks",
+      "index": 132,
+      "columns": {
+        "Description": [
+          {
+            "en": "Multiplies the elemental damage done by Smite. Converting all physical damage from Smite to elemental damage maximizes the benefit this support provides.  ",
+            "zh": "使惩击造成的元素伤害成倍增加。将惩击的所有物理伤害转化为元素伤害，最大发挥本辅助技能的效益。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Smite&Multistrike",
+      "index": 133,
+      "columns": {
+        "Description": [
+          {
+            "en": "Causes Smite to repeat an additional two times, as well as providing a large bonus to attack speed.",
+            "zh": "使惩击额外重复两次，同时大幅提升攻击速度。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Smite&ElementalFocus",
+      "index": 134,
+      "columns": {
+        "Description": [
+          {
+            "en": "Removes the ability for Smite to inflict elemental ailments, such as shock, on enemies. However, it significantly boosts the amount of elemental damage Smite does. Converting all physical damage from Smite to elemental damage maximizes the benefit this support provides.",
+            "zh": "移除惩击对敌人的感电等元素减益效果，但能够大幅提升惩击的元素伤害。将惩击的所有物理伤害转为元素伤害，使本辅助技能的加成效果最大化。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Frostbolt&AddedColdDamage",
+      "index": 135,
+      "columns": {
+        "Description": [
+          {
+            "en": "Increases the amount of flat cold damage your Frostbolt does.",
+            "zh": "提高你的寒冰弹造成的直接冰霜伤害。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Frostbolt&ColdPenetration",
+      "index": 136,
+      "columns": {
+        "Description": [
+          {
+            "en": "Reduces enemy resistance to cold damage, making them take more cold damage from Frostbolt.",
+            "zh": "降低敌人的冰霜抗性，提高敌人被寒冰弹击中的伤害。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Frostbolt&Hypothermia",
+      "index": 137,
+      "columns": {
+        "Description": [
+          {
+            "en": "Provides an increase to chill and freeze chance with Frostbolt, as well as providing more damage against chilled enemies. ",
+            "zh": "增加寒冰弹造成冰缓和冻结的几率，并对冰缓的敌人造成更多伤害。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Frostbolt&ControlledDestruction",
+      "index": 138,
+      "columns": {
+        "Description": [
+          {
+            "en": "Grants more spell damage to Frostbolt but reduces critical strike chance. The more spell damage provided by this support allows a direct and stable increase in damage not contingent on critical strikes.",
+            "zh": "提升寒冰弹的法术伤害，但是会降低暴击率。提供更多法术伤害，更直接更稳定，而非像暴击一样有不确定性。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Frostbolt&SpellEcho",
+      "index": 139,
+      "columns": {
+        "Description": [
+          {
+            "en": "Repeats Frostbolt an additional time while also greatly increasing the cast speed.",
+            "zh": "重复施放寒冰弹，同时大幅提升施法速度。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Frostbolt&SpellTotem",
+      "index": 140,
+      "columns": {
+        "Description": [
+          {
+            "en": "Allows you to summon a totem that uses Frostbolt, freeing up your character to perform other actions. Can become exceeding powerful once your character gains abilities to summon multiple totems. ",
+            "zh": "允许你召唤一个使用寒冰弹的图腾，让你的角色可以去进行其他操作。你的角色获得召唤多个图腾的能力后，将变得格外强力。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Blight&IncreasedDuration",
+      "index": 141,
+      "columns": {
+        "Description": [
+          {
+            "en": "Increases the duration of Blight's slow effect and chaos damage over time debuff on enemies.",
+            "zh": "延长枯萎减速效果和对敌人的持续混沌伤害效果的时长。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CausticArrow&SwiftAffliction",
+      "index": 142,
+      "columns": {
+        "Description": [
+          {
+            "en": "Decreases the duration of Caustic Arrow's ground effect, but compensates for this by increasing damage over time dealt.",
+            "zh": "减少腐蚀箭矢的地面效果持续时间，但会增加持续伤害作为补偿。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CausticArrow&VoidManipulation",
+      "index": 143,
+      "columns": {
+        "Description": [
+          {
+            "en": "Grants more chaos damage but lowers the elemental damage of Caustic Arrow. The Caustic ground effect only deals chaos damage, so Void Manipulation gives more damage at no drawback.",
+            "zh": "提升腐蚀箭矢的混沌伤害，降低元素伤害。腐蚀地面效果仅造成混沌伤害，因此虚空操纵能造成更多伤害，没有扣减。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FreezingPulse&AddedColdDamage",
+      "index": 144,
+      "columns": {
+        "Description": [
+          {
+            "en": "Increases the amount of flat cold damage your Freezing Pulse does.",
+            "zh": "增加冰霜脉冲造成的冰霜伤害。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FrostBlades&IceBite",
+      "index": 145,
+      "columns": {
+        "Description": [
+          {
+            "en": "Adds additional cold damage to Frost Blades, increasing freeze chance, and granting a chance to gain a Frenzy Charge on killing a frozen enemy.\n\nFrenzy Charges increase a player's attack speed, cast speed and damage.",
+            "zh": "增加冰霜之刃的冰霜伤害，增加急冻几率，而且在击杀被冻结的敌人后有一定机率获得狂怒球。\n\n狂怒球可增加玩家的攻击速度、施法速度和伤害。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Frostbolt&FasterCasts",
+      "index": 146,
+      "columns": {
+        "Description": [
+          {
+            "en": "Increases the cast speed of Frost Bolt, allowing the projectiles to be cast more frequently.",
+            "zh": "提升寒冰弹的施法速度，允许以更高频率发射冰弹。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GlacialHammer&Hypothermia",
+      "index": 147,
+      "columns": {
+        "Description": [
+          {
+            "en": "Increases Glacial Hammer's damage and freeze chance against enemies that are chilled. Also increases the slow effect of chills applied by your Glacial Hammer.",
+            "zh": "增加冰霜之锤对被冰缓敌人的伤害和急冻几率。同时提升你的冰霜之锤造成的冰缓减速效果。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MagmaOrb&FasterCast",
+      "index": 148,
+      "columns": {
+        "Description": [
+          {
+            "en": "Increases the cast speed of Rolling Magma, allowing the projectiles to be cast more frequently.",
+            "zh": "加快熔岩奔涌的施法速度，使它的投射物发射速度更加频繁。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "RaiseZombie&MeleePhysicalDamage",
+      "index": 149,
+      "columns": {
+        "Description": [
+          {
+            "en": "Grants more melee physical damage for your Zombie minions attacks. This support also increases the amount of damage inflicted bleeds and poisons do.",
+            "zh": "你的魔卫仆从将获得更高近战物理伤害。该辅助技能还将增加流血和中毒效果的伤害量。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SpectralThrow&AddedFireDamage",
+      "index": 150,
+      "columns": {
+        "Description": [
+          {
+            "en": "Grants extra fire damage to your Spectral Throws's hits based on the physical damage dealt.",
+            "zh": "根据你的灵体投掷造成的物理伤害，额外增加火焰伤害。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SplitArrow&FasterAttacks",
+      "index": 151,
+      "columns": {
+        "Description": [
+          {
+            "en": "Increases the attack speed of Split Arrow, allowing players to fire arrows more frequently",
+            "zh": "提升分裂箭矢的攻击速度，允许以更高频率发射箭矢。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SplitArrow&ChanceToBleed",
+      "index": 152,
+      "columns": {
+        "Description": [
+          {
+            "en": "Increases the chance of inflicting the bleed ailment on enemies with Split Arrow. Bleeding deals physical damage over time, with more damage dealt to moving targets. This support also adds a small amount of flat physical damage to Split Arrow.",
+            "zh": "增加分裂箭矢对敌人造成流血效果的几率。流血将带来持续物理伤害，对移动目标的伤害增加效果更高。本辅助技能还会小幅增加分裂箭矢的基础物理伤害。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PurifyingFlame&AddedFire",
+      "index": 153,
+      "columns": {
+        "Description": [
+          {
+            "en": "Grants additional fire damage based on your physical damage. ",
+            "zh": "基于你的物理伤害，赋予额外火焰伤害。 "
+          }
+        ]
+      }
+    },
+    {
+      "id": "PurifyingFlame&PhysToLightning",
+      "index": 154,
+      "columns": {
+        "Description": [
+          {
+            "en": "Converts 50% of Purifying Flame's physical damage to lightning damage, as well as providing extra lightning damage based on your physical damage. Because 50% of physical damage is already converted to fire from the skill gem, this causes all physical damage with Purifying Flame to deal elemental damage.",
+            "zh": "将净化烈焰 50%的物理伤害转化为闪电伤害，同样还会根据你的物理伤害来提供额外的闪电伤害。因为 50%的物理伤害已经通过该技能宝石转化为了火焰伤害，这会让净化烈焰将所有物理伤害转化为元素伤害。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PurifyingFlame&Intensify",
+      "index": 155,
+      "columns": {
+        "Description": [
+          {
+            "en": "Increases Purifying Flame's area of effect and grants Intensify stacks with each cast, reducing its area of effect and increasing its damage. This helps it damage tough enemies with repeated casts. \n\nWhen you move or teleport you gradually lose Intensity stacks.",
+            "zh": "提高【净化烈焰】的效果区域，并在每次施放时堆叠法术凝聚，降低该效果区域并提高伤害。通过重复施放可以重创强大的敌人。\n\n当你移动或传送时，你会逐渐失去或彻底失去法术凝聚的层数。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PurifyingFlame&ControlledDestruction",
+      "index": 156,
+      "columns": {
+        "Description": [
+          {
+            "en": "Grants more spell damage to Purifying Flame but reduces critical strike chance. The more spell damage provided by this support allows a direct and stable increase in damage not contingent on critical strikes.",
+            "zh": "净化烈焰获得更多法术伤害，但降低暴击率。此方式提供的更多法术伤害会让伤害得以直接提升，但对暴击来说没有多少收益。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PurifyingFlame&Unleash",
+      "index": 157,
+      "columns": {
+        "Description": [
+          {
+            "en": "Slowly grants charges of Purifying Flame over time. These expend when cast to unleash repeat effects of the skill, rapidly damaging enemies multiple times. The damage of the unleashed casts are slightly reduced.",
+            "zh": "持续并缓慢地为净化烈焰提供蓄能。当施放后，蓄能会导致该技能的效果得以重复生效，迅速地对敌人造成多次伤害。多次施放的伤害会略微下降。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PurifyingFlame&ElementalFocus",
+      "index": 158,
+      "columns": {
+        "Description": [
+          {
+            "en": "Removes the ability for Purifying Flame to inflict elemental ailments, such as ignite, on enemies. However, it significantly increases the amount of elemental damage Purifying Flame does. Converting all physical damage from Purifying Flame to elemental damage maximizes the benefit this support provides.",
+            "zh": "移除净化烈焰可以造成元素异常状态的能力，例如对敌人的点燃。但它会极大提高净化烈焰所造成的元素伤害。将净化烈焰的所有物理伤害转化为元素伤害就可以最大化这个效果。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "StormblastMine&AddedLightning",
+      "index": 159,
+      "columns": {
+        "Description": [
+          {
+            "en": "Adds flat lightning damage to Stormblast Mine's explosions.\n\nDealing more damage also increases the strength of Shock, causing more damage taken on Shocked enemies.",
+            "zh": "给雷暴地雷附加闪电伤害。\n\n制造更多伤害同样可以提高感电强度，使感电敌人承受更多伤害。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "StormblastMine&SwiftAssembly",
+      "index": 160,
+      "columns": {
+        "Description": [
+          {
+            "en": "While Swift Assembly supports Stormblast Mine, throwing a Mine grants a chance to throw additional mines. More mines means more Stormblast Explosions",
+            "zh": "【迅整】辅助雷暴地雷时，投掷地雷有几率投掷额外的地雷。更多地雷可以造成更多爆炸。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "StormblastMine&Trap&MineDamage",
+      "index": 161,
+      "columns": {
+        "Description": [
+          {
+            "en": "Causes Stormblast mine explosions to deal more damage.\n\nDealing more damage also increases the strength of Shock, causing more damage taken on Shocked enemies.",
+            "zh": "使得雷暴地雷造成更多爆炸伤害。\n\n制造更多伤害也能提高感电强度，使感电敌人承受更多伤害。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "StormblastMine&LightningPenetration",
+      "index": 162,
+      "columns": {
+        "Description": [
+          {
+            "en": "Allows Stormblast mine's lightning damage to penetrate lightning resistance. This allows for more consistent damage against lightning-resistant enemies, such as Bosses, Rares, and Magic enemies.\n\nMonsters show if they are resistant to damage in their mods. Hover over monsters to see their mods.",
+            "zh": "使雷暴地雷的闪电伤害穿透闪电抗性。这将使具有闪电抗性的敌人（如首领、稀有、魔法敌人）承受更多连续伤害。\n\n可以在怪物的词缀中查看它们的抗性。悬停在怪物上查看它们的词缀。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "StormblastMine&ChargedMines",
+      "index": 163,
+      "columns": {
+        "Description": [
+          {
+            "en": "While Charged Mines is linked, damaging enemies with Stormblast explosions has a chance to grant you Frenzy and Power Charges.\n\nFrenzy charges increase the speed that you move, attack and cast spells for each charge (up to a maximum of 3).\n\nPower charges increases your chance to critically strike for high damage each charge (up to a maximum of 3).",
+            "zh": "连接【充能地雷】后，雷暴地雷爆炸对敌人造成伤害有一定几率给你狂怒球和暴击球。\n\n每个狂怒球可以提高你的移动速度、攻击速度、施法速度（最多 3 个）。\n\n每个暴击球可以提高你的暴击率（最多 3 个）。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "StormblastMine&IncreasedAoE",
+      "index": 164,
+      "columns": {
+        "Description": [
+          {
+            "en": "Increased Area of Effect makes your Stormblast Mine explosions wider, so they can hit more enemies. It also means Stormblast Mine can cause more enemies to take increased damage before exploding.",
+            "zh": "使雷暴地雷的爆炸范围扩大，击中更多敌人。它同样可以使范围内的敌人在爆炸前承受更多伤害。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "StormblastMine&ConcentratedEffect",
+      "index": 165,
+      "columns": {
+        "Description": [
+          {
+            "en": "Concentrated Effect makes your Stormblast explosions smaller, causing more damage in a tighter area.\nThis means they can hit less enemies but they deal more damage to the enemies they hit.",
+            "zh": "专注效果使雷暴地雷的爆炸范围缩小，但在更密集区域内造成更多伤害。\n这会使击中的敌人变少，但造成的伤害却更高。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CobraLash&LMP",
+      "index": 166,
+      "columns": {
+        "Description": [
+          {
+            "en": "Increase the number of Cobra Lash projectiles thrown, hitting multiple targets over a wider area. Each projectile will bounce between targets to hit large groups of enemies.\n\nObtain the Greater Multiple Projectiles Support gem at later levels to throw more projectiles and hit larger groups of enemies.",
+            "zh": "提高毒蛇鞭击的投射物数量，在更宽阔的范围内击中多个目标。每个投射物都会在大群敌人之间弹跳。\n\n在高等级获得高阶多重投射辅助会投掷更多投射物，并击中更多敌人。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CobraLash&Poison",
+      "index": 167,
+      "columns": {
+        "Description": [
+          {
+            "en": "Increase Cobra Lash's chance to poison enemies and cause it to deal more poison damage. This is valuable for applying multiple deadly poisons on enemies.",
+            "zh": "提高毒蛇鞭击使敌人中毒的几率，并造成更多中毒伤害。对敌人反复施毒时非常有用。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CobraLash&DeadlyAilments",
+      "index": 168,
+      "columns": {
+        "Description": [
+          {
+            "en": "Cause Cobra Lash to deal a great amount more poison damage, at the cost of slightly reduced hit damage.\nThis is valuable for applying strong poisons on enemies.",
+            "zh": "大幅提高毒蛇鞭击造成的中毒伤害，略微降低击中伤害。\n需要使敌人中毒时很有用。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CobraLash&AddedChaos",
+      "index": 169,
+      "columns": {
+        "Description": [
+          {
+            "en": "Add flat chaos damage to Cobra Lash, increasing the damage it deals when it hits enemies.\n\nIncreasing chaos damage of your hits also increases the damage of your poison, as strong hits with lots of chaos and physical damage also means stronger poisons.",
+            "zh": "给毒蛇鞭击附加混沌伤害，提高它击中敌人时造成的伤害。\n\n提高击中混沌伤害同样会提高中毒伤害，因此击中时造成的高混沌伤害和高物理伤害同样造成高中毒伤害。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CobraLash&VileToxins",
+      "index": 170,
+      "columns": {
+        "Description": [
+          {
+            "en": "Vile Toxins increases the damage of Cobra Lash poison, and causes more damage when Cobra Lash hits poisoned enemies.This is valuable for stacking strong poisons and dealing more damage against powerful enemies, like bosses.",
+            "zh": "【猛毒】提高毒蛇鞭击的中毒伤害，同时毒蛇鞭击击中中毒的敌人会造成更多伤害。当你需要堆叠中毒伤害，或者对战强力敌人时候非常有用，例如首领战。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CobraLash&UnboundAilments",
+      "index": 171,
+      "columns": {
+        "Description": [
+          {
+            "en": "Unbound Ailments causes Cobra Lash poison to deal more damage and to last longer on enemies. This is valuable for stacking lots of poison on strong enemies, like bosses.",
+            "zh": "【异常爆发】使毒蛇鞭击对敌人造成更多伤害，并造成持续伤害。对强力敌人堆叠中毒伤害时很有用，例如首领战。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Perforate&Maim",
+      "index": 172,
+      "columns": {
+        "Description": [
+          {
+            "en": "Support Perforate with this gem to Maim enemies, dealing more physical damage and slowing their movement. Use this to slow monsters and make them easier to avoid.",
+            "zh": "使凿击可以瘫痪敌人，对其造成更多物理伤害，并降低移动速度。你可以用它给敌人减速，使你更容易避开它们的攻击。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Perforate&MeleePhysicalDamage",
+      "index": 173,
+      "columns": {
+        "Description": [
+          {
+            "en": "This gem causes Perforate to deal more damage. A simple but invaluable way to quickly kill enemies.",
+            "zh": "使凿击造成更多伤害。简单粗暴，助你快速击败敌人。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Perforate&CloseCombat",
+      "index": 174,
+      "columns": {
+        "Description": [
+          {
+            "en": "Close Combat improves your damage against monsters close to you. As Perforate only hits nearby enemies (without Sand stance), this support is a valuable way to increase your damage.\n\nTravel Skills are also quicker after you hit enemies with this gem. Travel skills move you quickly to avoid danger.",
+            "zh": "【近战】提高你对近身怪物造成的伤害。如非沙姿态下的凿击就只会击中周围的敌人。它可以行之有效地提高你的伤害。\n\n该宝石也可以使旅行技能在击败敌人后移动得更快，让你更迅速地避开伤害。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Perforate&Impale",
+      "index": 175,
+      "columns": {
+        "Description": [
+          {
+            "en": "Deal more physical damage and Impale enemies with the Impale debuff.\n\nImpaling enemies stores some of your damage on the enemy. For the next 5 hits on that enemy you deal extra stored damage. You can impale the same enemy more than once for extra damage from attacks.",
+            "zh": "造成更多物理伤害，并给敌人施加穿刺减益效果。\n\n被穿刺的敌人会积蓄你的部分伤害。对该敌人接下来 5 次击中会使积蓄的伤害作为额外伤害。你可以为了获取额外伤害而反复穿刺同一个敌人。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Perforate&Brutality",
+      "index": 176,
+      "columns": {
+        "Description": [
+          {
+            "en": "Cause Perforate to deal much more physical damage, but reduce any elemental damage it deals to zero.\n\nTry not to get any modifiers that grant lightning, fire, cold or chaos damage with this support gem. Only physical damage will be increased by this gem.",
+            "zh": "大幅提高凿击造成的物理伤害，但将其造成的元素伤害降为 0。\n\n使用该辅助宝石时，请不要附加任何元素伤害的词缀。该宝石仅提高物理伤害。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Perforate&Multistrike",
+      "index": 177,
+      "columns": {
+        "Description": [
+          {
+            "en": "Greatly increase Perforate's attacking speed by performing three attacks in quick succession, dealing more damage on the second and third attacks.\n\nYou cannot stop or move while multistriking. This gem greatly improves damage but be careful not to get stuck while monsters damage you.",
+            "zh": "极大提高凿击的攻击速度，使其可以迅速发动三重连击，第二击和第三击会造成更多伤害。\n\n连击发动时无法移动，也无法停止。该宝石可以大幅提高伤害，但请勿在怪物攻击你时使用。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Frostblink&IncreasedAoE",
+      "index": 178,
+      "columns": {
+        "Description": [
+          {
+            "en": "Increase the size of Frostblink's cold explosion and chilled ground. This is valuable for damaging multiple enemies and leaving them slowed, unable to pursue you.",
+            "zh": "扩大【冰霜闪现】的冰霜爆发和冰缓地面的范围。很适合用于伤害多个敌人，使它们减速，无法追上你。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Frostblink&BoneChill",
+      "index": 179,
+      "columns": {
+        "Description": [
+          {
+            "en": "Bonechill makes Frostblink's chill effect more potent, slowing enemies further to keep you safe. Enemies chilled by Frostblink also take more Cold Damage, making this valuable for your main skill if it deals cold damage.",
+            "zh": "【彻骨】可以强化【冰霜闪现】的冰缓效果，进一步使敌人减速来保护你的安全。被【冰霜闪现】冰缓的敌人同样会承受更多冰霜伤害，很适合配合冰霜伤害的主技能使用。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Steelskin&IncreasedDuration",
+      "index": 180,
+      "columns": {
+        "Description": [
+          {
+            "en": "Allow Steelskin's bonus to last longer, to defend against more hits from enemies. A simple but valuable way to improve defense.",
+            "zh": "使【钢铁之肤】持续更长时间，承受更多击中。是一种简单有效提高防御力的办法。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Steelskin&CWDT",
+      "index": 181,
+      "columns": {
+        "Description": [
+          {
+            "en": "Automatically cast Steelskin after taking damage. This is valuable for defending against surprise attacks.\n\nSteelskin can not be cast manually with this gem, and cannot be used to defend against a monster about to hit you. It's important to have another way to defend against monsters if you use this gem.",
+            "zh": "受到伤害自动施放【钢铁之肤】。对付突发攻击时很有用。\n\n该宝石无法手动施放【钢铁之肤】，也无法在怪物即将攻击你时启动。要使用该宝石，请确保有其它抵御怪物的手段。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GalvanicArrow&PhystoLightning",
+      "index": 182,
+      "columns": {
+        "Description": [
+          {
+            "en": "This gem makes all of Galvanic Arrows physical damage turn to lightning damage. This causes Galvanic Arrow deal full lightning damage, instead of 50% lightning and 50% physical damage.\n\nThis gem makes it much easier to increase your damage. If you get any skills that increase your lighting or elemental damage, it will increase the full lightning damage dealt by Galvanic Arrow.",
+            "zh": "此宝石可以将电光箭的所有物理伤害转化为闪电伤害。这能让电光箭造成全额的闪电伤害，而并非50%闪电伤害和50%物理伤害。\n\n此宝石可以轻易提高你的伤害。如果你有任何技能可以提高闪电或元素伤害，它就能将电光箭的闪电伤害全额化。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GalvanicArrow&ElementalDamagewithAttacks",
+      "index": 183,
+      "columns": {
+        "Description": [
+          {
+            "en": "Increase Galvanic Arrow's elemental damage, hitting enemies harder for more damage.\nThis gem will not increase the physical damage dealt by Galvanic Arrow, but it will increase the lightning damage it deals. \n\nThis gem is very good when paired with the Physical to Lightning support gem, as it will increase the full lightning damage dealt by Galvanic Arrow.",
+            "zh": "提高电光箭的元素伤害，对敌人造成更多伤害。\n该宝石将不会提高电光箭造成的物理伤害，但会提高其造成的闪电伤害。该宝石非常适合搭配物理转闪电辅助宝石，能最大化提高电光箭造成的闪电伤害。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GalvanicArrow&LightningPenetration",
+      "index": 184,
+      "columns": {
+        "Description": [
+          {
+            "en": "Allow Galvanic Arrow's lightning damage to penetrate lightning resistance on enemies. This allows for more consistent damage against lightning-resistant enemies, such as Bosses, Rares, and Magic enemies.\n\nThis will not allow Galvanic Arrow's physical damage to penetrate resistance, as physical damage is unaffected by lightning resistance.\nMonsters show if they are resistant to damage in their mods. Hover over monsters to see their mods.",
+            "zh": "使电光箭的闪电伤害穿透敌人的闪电抗性。这将使具有闪电抗性的敌人（如首领、稀有、魔法敌人）承受更多连续伤害。\n\n电光箭的物理伤害将无法穿透物理抗性，物理伤害也不会受闪电抗性影响。\n可以在怪物的词缀中查看它们的抗性。悬停在怪物上查看它们的词缀。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GalvanicArrow&MirageArcher",
+      "index": 185,
+      "columns": {
+        "Description": [
+          {
+            "en": "Summon a Mirage Archer above your head when Galvanic Arrow hits an enemy. This Mirage Archer will fire Galvanic Arrows at nearby enemies until it disappears.\n\nThis gem has many uses. Use it to attack enemies while you're moving, to attack enemies you're not facing, or to deal more damage.",
+            "zh": "在你使用电光箭击中一名敌人时，在你的头顶召唤一个幻影射手。他会在消失前对周围的敌人发射电光箭。\n\n该宝石有许多用途。在移动时可以使用它攻击位于其他方位的敌人，或者只是单纯造成更多伤害。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GalvanicArrow&Barrage",
+      "index": 186,
+      "columns": {
+        "Description": [
+          {
+            "en": "Let loose a flurry of arrows with the Barrage support gem. With each Galvanic Arrow fired, lightning will burst from your bow.This will stop your arrows from firing in a cone, and instead make them fire in sequence.\n\nThis gem is invaluable for unleashing a flurry of attacks on strong enemies, like bosses.\nBe careful using it in dangerous dangerous situations. You cannot move while firing, so you cannot escape dangerous enemies.",
+            "zh": "用弹幕辅助类宝石来施放一簇箭矢。每发射一个电光箭，你的弓箭便会迸射闪电。这会让你的箭矢不再以锥形飞出，而变为连续发射。\n\n这个宝石是无上之品，可以对强大的敌人，如首领发动连环攻击。\n请不要危险之处使用它，因为你在发射时无法移动，那么危险的敌人可能随时对你造成威胁。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GalvanicArrow&FasterProjectiles",
+      "index": 187,
+      "columns": {
+        "Description": [
+          {
+            "en": "Increase the size of Galvanic Arrow's lightning burst, and the speed of its arrows before they dissipate. This gem is invaluable for making your lightning burst bigger and your arrows fire further, hitting more enemies with each shot.",
+            "zh": "提高【电光箭】闪电爆发的规模和箭矢消散前的速度。该宝石可以让闪电爆发范围更大，箭矢速度更快，每次射击击中更多敌人。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "KineticBolt&Barrage",
+      "index": 188,
+      "columns": {
+        "Description": [
+          {
+            "en": "Fire a flurry of Kinetic Bolts in quick succession, damaging enemies consistently over a wide area. \n\nYou cannot stop or move while firing. This gem improves damage but be careful not to get stuck taking damage while monsters attack you.",
+            "zh": "急速射出一阵念动飞箭，对一大片区域里的敌人造成伤害。\n\n发射时无法停止，也无法移动。该宝石能提高伤害，但不要在陷入敌人包围时使用。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "KineticBolt&AddedLightningDamage",
+      "index": 189,
+      "columns": {
+        "Description": [
+          {
+            "en": "Add lightning damage to Kinetic Bolt and its projectiles. A simple but valuable way to quickly kill enemies.",
+            "zh": "为念动飞箭和它的投射物增加闪电伤害。简单迅速击败敌人。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "KineticBolt&AddedColdDamage",
+      "index": 190,
+      "columns": {
+        "Description": [
+          {
+            "en": "Add cold damage to Kinetic Bolt and its projectiles. A simple but valuable way to quickly kill enemies.",
+            "zh": "为念动飞箭和它的投射物增加冰霜伤害。简单迅速击败敌人。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "KineticBolt&ElementalDamageWithAttacks",
+      "index": 191,
+      "columns": {
+        "Description": [
+          {
+            "en": "Increase the elemental damage dealt by Kinetic Bolt and its projectiles.\n\nKinetic Bolt doesn't inherently deal elemental damage. Added elemental damage can come from equipment (or from Added Lightning and Added Cold support gems). This gem can increase that damage to more quickly kill enemies.",
+            "zh": "提高念动飞箭和它投射物的元素伤害。\n\n念动飞箭本身不造成元素伤害，它可以通过装备获得（或增加闪电伤害或冰霜伤害的辅助宝石。）该宝石能提高伤害，更快速击败敌人。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "KineticBolt&Inspiration",
+      "index": 192,
+      "columns": {
+        "Description": [
+          {
+            "en": "Reduce the mana cost of using Kinetic Bolt. Also increase Kinetic Bolt's elemental damage and chance to critically strike with each attack.\nWands can have powerful critical strikes. Critical strikes can deal more damage and inflict elemental ailments on enemies.\nKinetic Bolt doesn't inherently deal elemental damage. Added elemental damage can come from equipment (or from Added Lightning and Added Cold support gems).",
+            "zh": "降低念动飞箭的魔力消耗，同时提高念动飞箭的元素伤害和每次攻击的暴击率。\n\n法杖可以造成强力暴击，不但伤害更高，还可以给敌人施加元素异常状态。\n念动飞箭本身不造成元素伤害，它可以通过装备获得（或增加闪电伤害或冰霜伤害的辅助宝石。）"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SplittingSteel&Impale",
+      "index": 193,
+      "columns": {
+        "Description": [
+          {
+            "en": "Deal more physical damage and Impale enemies, dealing additional damage to enemies with additional hits. You can impale enemies up to five times to deal even more additional damage to enemies.",
+            "zh": "造成更高物理伤害并穿刺敌人，通过额外击中对敌人造成额外伤害。你可以最多穿刺敌人五次，对其造成更多额外伤害。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SplittingSteel&Brutality",
+      "index": 194,
+      "columns": {
+        "Description": [
+          {
+            "en": "Cause Splitting Steel to deal much more physical damage, but no elemental damage.\n\nTry not to get additional lightning, fire, cold or chaos damage with this support gem, as they will be reduced to zero.",
+            "zh": "大幅提高分裂钢刃造成的物理伤害，但不造成元素伤害。\n\n使用该辅助宝石时，请不要附加任何元素伤害的词缀，它们的伤害会归零。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SplittingSteel&LMP",
+      "index": 195,
+      "columns": {
+        "Description": [
+          {
+            "en": "Increase the number of shards that explode from Splitting Steel when you launch a Steel Shard, hitting more enemies.\n\nObtain the Greater Multiple Projectiles Support gem at later levels to throw more projectiles and hit larger groups of enemies.",
+            "zh": "发射钢刃碎片时，提高分裂钢刃爆炸产生的碎片数量，使其击中更多敌人。\n\n后期搭配高阶多重投射（辅）可以发射更多投射物，击中更多敌人。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SplittingSteel&ViciousProjectiles",
+      "index": 196,
+      "columns": {
+        "Description": [
+          {
+            "en": "Greatly increases the physical damage dealt by Splitting Steel, at the cost of slightly reducing your attack speed. An invaluable way to increase your damage.",
+            "zh": "以稍微降低攻击速度的代价，大幅提升分裂钢刃的物理伤害。用来提升伤害非常有用。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SplittingSteel&Maim",
+      "index": 197,
+      "columns": {
+        "Description": [
+          {
+            "en": "Support Splitting Steel with this gem to Maim enemies, dealing more physical damage and slowing their movement. Slow monsters to make them easier to avoid.",
+            "zh": "使分裂钢刃可以瘫痪敌人，对其造成更多物理伤害，并降低移动速度。你可以用它给敌人减速，使你更容易避开它们的攻击。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SplittingSteel&SlowerProjectiles",
+      "index": 198,
+      "columns": {
+        "Description": [
+          {
+            "en": "Slow down your bolts of Splitting Steel to make them hit harder for more damage. The projectiles that explode from Call of Steel's shards are also slower, and deal more damage.",
+            "zh": "降低分裂钢刃的箭矢速度，使它们更加猛烈地打击敌人，造成更高伤害。它同时会降低钢铁呼唤爆炸产生的投射物飞行速度，使其造成更高伤害。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ShieldCrush&Multistrike",
+      "index": 199,
+      "columns": {
+        "Description": [
+          {
+            "en": "Greatly increase Shield Crush's attack speed by performing three attacks in quick succession.",
+            "zh": "极大提高盾牌碾压的攻击速度，使其可以迅速发动三重连击，第二击和第三击会造成更多伤害。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ShieldCrush&Pulverise",
+      "index": 200,
+      "columns": {
+        "Description": [
+          {
+            "en": "Slows down the attack speed but increases the area of effect and damage of Shield Crush when supported by this gem.",
+            "zh": "该宝石会降低攻击速度，但能提高盾牌碾压的攻击范围和伤害。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ShieldCrush&MeleePhysicalDamage",
+      "index": 201,
+      "columns": {
+        "Description": [
+          {
+            "en": "Slows down the attack speed of Shield Crush but increases the melee physical damage dealt and increases the damage of bleeds and poisons inflicted by Shield Crush.",
+            "zh": "降低盾牌碾压的攻击速度，但能提高近战物理伤害，同时增加盾牌碾压引发的流血和中毒状态造成的伤害。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ShieldCrush&Fortify",
+      "index": 202,
+      "columns": {
+        "Description": [
+          {
+            "en": "Grants you Fortify when hitting enemies with Shield Crush when Shield Crush is supported by this gem. Increases the damage of hits and ailments from Shield Crush.",
+            "zh": "该宝石使盾牌碾压击中敌人时为你提供护体效果。提高盾牌碾压击中和异常状态伤害。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ShieldCrush&Brutality",
+      "index": 203,
+      "columns": {
+        "Description": [
+          {
+            "en": "Greatly increases the physical damage caused by Shield Crush at the price of Shield Crush being unable to deal chaos or elemental damage when supported by this gem.",
+            "zh": "该宝石大幅提高盾牌碾压造成的物理伤害，代价是盾牌碾压无法再造成混沌或元素伤害。"
+          }
+        ]
+      }
+    }
+  ]
+}

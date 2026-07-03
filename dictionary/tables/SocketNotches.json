@@ -1,0 +1,49 @@
+{
+  "table": "SocketNotches",
+  "key": "_index",
+  "columns": [
+    "Id",
+    "Description",
+    "RedSocketImage",
+    "BlueSocketImage",
+    "GreenSocketImage"
+  ],
+  "entries": [
+    {
+      "id": null,
+      "index": 0,
+      "columns": {
+        "Description": [
+          {
+            "en": "Default",
+            "zh": "默认"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 1,
+      "columns": {
+        "Description": [
+          {
+            "en": "Small Notches",
+            "zh": "缩小凹痕"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 2,
+      "columns": {
+        "Description": [
+          {
+            "en": "Large Pattern",
+            "zh": "放大图像"
+          }
+        ]
+      }
+    }
+  ]
+}

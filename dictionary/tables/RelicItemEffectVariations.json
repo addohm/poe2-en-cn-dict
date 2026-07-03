@@ -1,0 +1,82 @@
+{
+  "table": "RelicItemEffectVariations",
+  "key": "Id",
+  "columns": [
+    "Description",
+    "DDSFile"
+  ],
+  "entries": [
+    {
+      "id": "TealPurple",
+      "index": 1,
+      "columns": {
+        "Description": [
+          {
+            "en": "Amethyst",
+            "zh": "紫晶"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Green",
+      "index": 2,
+      "columns": {
+        "Description": [
+          {
+            "en": "Verdant",
+            "zh": "翠绿"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Pink",
+      "index": 3,
+      "columns": {
+        "Description": [
+          {
+            "en": "Ruby",
+            "zh": "红玉"
+          }
+        ]
+      }
+    },
+    {
+      "id": "OceanBlue",
+      "index": 4,
+      "columns": {
+        "Description": [
+          {
+            "en": "Cobalt",
+            "zh": "钴蓝"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Sunset",
+      "index": 5,
+      "columns": {
+        "Description": [
+          {
+            "en": "Sunset",
+            "zh": "夕阳"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Gold",
+      "index": 6,
+      "columns": {
+        "Description": [
+          {
+            "en": "Aureate",
+            "zh": "黄金"
+          }
+        ]
+      }
+    }
+  ]
+}

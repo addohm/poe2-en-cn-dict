@@ -1,0 +1,273 @@
+{
+  "table": "BindableVirtualKeys",
+  "key": "Id",
+  "columns": [
+    "Name"
+  ],
+  "entries": [
+    {
+      "id": "Spc",
+      "index": 36,
+      "columns": {
+        "Name": [
+          {
+            "en": "Spacebar",
+            "zh": "空格键"
+          }
+        ]
+      }
+    },
+    {
+      "id": "←",
+      "index": 54,
+      "columns": {
+        "Name": [
+          {
+            "en": "Left Arrow",
+            "zh": "←"
+          }
+        ]
+      }
+    },
+    {
+      "id": "→",
+      "index": 55,
+      "columns": {
+        "Name": [
+          {
+            "en": "Right Arrow",
+            "zh": "→"
+          }
+        ]
+      }
+    },
+    {
+      "id": "↑",
+      "index": 56,
+      "columns": {
+        "Name": [
+          {
+            "en": "Up Arrow",
+            "zh": "↑"
+          }
+        ]
+      }
+    },
+    {
+      "id": "↓",
+      "index": 57,
+      "columns": {
+        "Name": [
+          {
+            "en": "Down Arrow",
+            "zh": "↓"
+          }
+        ]
+      }
+    },
+    {
+      "id": "N0",
+      "index": 74,
+      "columns": {
+        "Name": [
+          {
+            "en": "Numpad 0",
+            "zh": "数字键 0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "N1",
+      "index": 75,
+      "columns": {
+        "Name": [
+          {
+            "en": "Numpad 1",
+            "zh": "数字键 1"
+          }
+        ]
+      }
+    },
+    {
+      "id": "N2",
+      "index": 76,
+      "columns": {
+        "Name": [
+          {
+            "en": "Numpad 2",
+            "zh": "数字键 2"
+          }
+        ]
+      }
+    },
+    {
+      "id": "N3",
+      "index": 77,
+      "columns": {
+        "Name": [
+          {
+            "en": "Numpad 3",
+            "zh": "数字键 3"
+          }
+        ]
+      }
+    },
+    {
+      "id": "N4",
+      "index": 78,
+      "columns": {
+        "Name": [
+          {
+            "en": "Numpad 4",
+            "zh": "数字键 4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "N5",
+      "index": 79,
+      "columns": {
+        "Name": [
+          {
+            "en": "Numpad 5",
+            "zh": "数字键 5"
+          }
+        ]
+      }
+    },
+    {
+      "id": "N6",
+      "index": 80,
+      "columns": {
+        "Name": [
+          {
+            "en": "Numpad 6",
+            "zh": "数字键 6"
+          }
+        ]
+      }
+    },
+    {
+      "id": "N7",
+      "index": 81,
+      "columns": {
+        "Name": [
+          {
+            "en": "Numpad 7",
+            "zh": "数字键 7"
+          }
+        ]
+      }
+    },
+    {
+      "id": "N8",
+      "index": 82,
+      "columns": {
+        "Name": [
+          {
+            "en": "Numpad 8",
+            "zh": "数字键 8"
+          }
+        ]
+      }
+    },
+    {
+      "id": "N9",
+      "index": 83,
+      "columns": {
+        "Name": [
+          {
+            "en": "Numpad 9",
+            "zh": "数字键 9"
+          }
+        ]
+      }
+    },
+    {
+      "id": "N=",
+      "index": 84,
+      "columns": {
+        "Name": [
+          {
+            "en": "Numpad =",
+            "zh": "数字键 ="
+          }
+        ]
+      }
+    },
+    {
+      "id": "ML",
+      "index": 85,
+      "columns": {
+        "Name": [
+          {
+            "en": "Left-Click",
+            "zh": "鼠标左键"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MR",
+      "index": 86,
+      "columns": {
+        "Name": [
+          {
+            "en": "Right-Click",
+            "zh": "鼠标右键"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MM",
+      "index": 87,
+      "columns": {
+        "Name": [
+          {
+            "en": "Middle-Click",
+            "zh": "鼠标中键"
+          }
+        ]
+      }
+    },
+    {
+      "id": "M4",
+      "index": 88,
+      "columns": {
+        "Name": [
+          {
+            "en": "Mouse 4",
+            "zh": "鼠标 4 键"
+          }
+        ]
+      }
+    },
+    {
+      "id": "M5",
+      "index": 89,
+      "columns": {
+        "Name": [
+          {
+            "en": "Mouse 5",
+            "zh": "鼠标 5 键"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Ctrl",
+      "index": 91,
+      "columns": {
+        "Name": [
+          {
+            "en": "Control",
+            "zh": "操控"
+          }
+        ]
+      }
+    }
+  ]
+}

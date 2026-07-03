@@ -1,0 +1,177 @@
+{
+  "table": "SoulCoreStatCategories",
+  "key": "Id",
+  "columns": [
+    "Display"
+  ],
+  "entries": [
+    {
+      "id": "All",
+      "index": 0,
+      "columns": {
+        "Display": [
+          {
+            "en": "All Equipment",
+            "zh": "所有装备"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Martial Weapon",
+      "index": 1,
+      "columns": {
+        "Display": [
+          {
+            "en": "[MartialWeapon|Martial Weapon]",
+            "zh": "[MartialWeapon|战斗武器]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Caster Weapon",
+      "index": 2,
+      "columns": {
+        "Display": [
+          {
+            "en": "[CasterWeapon|Caster Weapon]",
+            "zh": "[CasterWeapon|施法武器]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Wand or Staff",
+      "index": 3,
+      "columns": {
+        "Display": [
+          {
+            "en": "Wand or Staff",
+            "zh": "法杖或长杖"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Armour",
+      "index": 4,
+      "columns": {
+        "Display": [
+          {
+            "en": "Armour",
+            "zh": "护甲"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Shield",
+      "index": 12,
+      "columns": {
+        "Display": [
+          {
+            "en": "Shields",
+            "zh": "盾牌"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Shield or Buckler",
+      "index": 14,
+      "columns": {
+        "Display": [
+          {
+            "en": "Shields and Bucklers",
+            "zh": "盾牌和轻盾"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Martial Or Caster Weapon",
+      "index": 23,
+      "columns": {
+        "Display": [
+          {
+            "en": "Weapon",
+            "zh": "武器"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Martial Weapon Wand or Staff",
+      "index": 24,
+      "columns": {
+        "Display": [
+          {
+            "en": "[MartialWeapon|Martial Weapon], Wand or Staff",
+            "zh": "[MartialWeapon|战斗武器]，法杖或长杖"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Quarterstaff or Spear",
+      "index": 25,
+      "columns": {
+        "Display": [
+          {
+            "en": "Quarterstaff or Spear",
+            "zh": "节杖或战矛"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Two Handed Weapon",
+      "index": 26,
+      "columns": {
+        "Display": [
+          {
+            "en": "Two Handed Weapon",
+            "zh": "双手武器"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Maces or Talisman",
+      "index": 27,
+      "columns": {
+        "Display": [
+          {
+            "en": "One Hand Mace, Two Hand Mace or Talisman",
+            "zh": "单手锤，双手锤或魔符"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Crossbow Bow or Spear",
+      "index": 28,
+      "columns": {
+        "Display": [
+          {
+            "en": "Crossbow, Bow or Spear",
+            "zh": "战弩，弓或战矛"
+          }
+        ]
+      }
+    },
+    {
+      "id": "One Hand Mace or Quarterstaff",
+      "index": 29,
+      "columns": {
+        "Display": [
+          {
+            "en": "One Hand Mace or Quarterstaff",
+            "zh": "单手锤或节杖"
+          }
+        ]
+      }
+    }
+  ]
+}

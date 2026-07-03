@@ -1,0 +1,2434 @@
+{
+  "table": "GrantedEffectLabels",
+  "key": "_index",
+  "columns": [
+    "Id",
+    "Text"
+  ],
+  "entries": [
+    {
+      "id": null,
+      "index": 0,
+      "columns": {
+        "Text": [
+          {
+            "en": "Hidden",
+            "zh": "隐藏"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 1,
+      "columns": {
+        "Text": [
+          {
+            "en": "Shown",
+            "zh": "显示"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 2,
+      "columns": {
+        "Text": [
+          {
+            "en": "Melee",
+            "zh": "近战"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 3,
+      "columns": {
+        "Text": [
+          {
+            "en": "Projectile",
+            "zh": "投射物"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 4,
+      "columns": {
+        "Text": [
+          {
+            "en": "Impact",
+            "zh": "影响"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 5,
+      "columns": {
+        "Text": [
+          {
+            "en": "Explosion",
+            "zh": "爆炸"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 6,
+      "columns": {
+        "Text": [
+          {
+            "en": "First Form",
+            "zh": "第一形态"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 7,
+      "columns": {
+        "Text": [
+          {
+            "en": "Second Form",
+            "zh": "第二形态"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 8,
+      "columns": {
+        "Text": [
+          {
+            "en": "Initial Strike",
+            "zh": "初始打击"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 9,
+      "columns": {
+        "Text": [
+          {
+            "en": "Final Strike",
+            "zh": "绝杀打击"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 10,
+      "columns": {
+        "Text": [
+          {
+            "en": "Damage over Time",
+            "zh": "持续伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 11,
+      "columns": {
+        "Text": [
+          {
+            "en": "Beam",
+            "zh": "光束"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 12,
+      "columns": {
+        "Text": [
+          {
+            "en": "Base",
+            "zh": "基础"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 13,
+      "columns": {
+        "Text": [
+          {
+            "en": "Third Strike",
+            "zh": "第三次打击"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 14,
+      "columns": {
+        "Text": [
+          {
+            "en": "Final Burst",
+            "zh": "最终爆发"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 15,
+      "columns": {
+        "Text": [
+          {
+            "en": "Wave",
+            "zh": "波浪"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 16,
+      "columns": {
+        "Text": [
+          {
+            "en": "Jagged Ground Eruption",
+            "zh": "崎岖之地喷发"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 17,
+      "columns": {
+        "Text": [
+          {
+            "en": "Vs Frozen",
+            "zh": "对抗冻结"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 18,
+      "columns": {
+        "Text": [
+          {
+            "en": "Aftershock",
+            "zh": "余震"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 19,
+      "columns": {
+        "Text": [
+          {
+            "en": "When Armed",
+            "zh": "武装时"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 20,
+      "columns": {
+        "Text": [
+          {
+            "en": "Second Projectile",
+            "zh": "第二投射物"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 21,
+      "columns": {
+        "Text": [
+          {
+            "en": "Fire Trail",
+            "zh": "火焰尾迹"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 22,
+      "columns": {
+        "Text": [
+          {
+            "en": "First Slam",
+            "zh": "初始猛击"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 23,
+      "columns": {
+        "Text": [
+          {
+            "en": "Second Slam",
+            "zh": "第二猛击"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 24,
+      "columns": {
+        "Text": [
+          {
+            "en": "Shockwave",
+            "zh": "震波"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 25,
+      "columns": {
+        "Text": [
+          {
+            "en": "Storm",
+            "zh": "风暴"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 26,
+      "columns": {
+        "Text": [
+          {
+            "en": "When Slammed",
+            "zh": "被猛击时"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 27,
+      "columns": {
+        "Text": [
+          {
+            "en": "Minion",
+            "zh": "召唤生物"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 28,
+      "columns": {
+        "Text": [
+          {
+            "en": "Bolt",
+            "zh": "闪电"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 29,
+      "columns": {
+        "Text": [
+          {
+            "en": "Arrow",
+            "zh": "箭矢"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 30,
+      "columns": {
+        "Text": [
+          {
+            "en": "Firebolts",
+            "zh": "火焰弹"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 31,
+      "columns": {
+        "Text": [
+          {
+            "en": "Cast on Frostbolt",
+            "zh": "对寒冰弹施放"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 32,
+      "columns": {
+        "Text": [
+          {
+            "en": "Nova",
+            "zh": "新星"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 33,
+      "columns": {
+        "Text": [
+          {
+            "en": "Normal Strikes",
+            "zh": "普通打击"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 34,
+      "columns": {
+        "Text": [
+          {
+            "en": "Perfect Strike",
+            "zh": "完美一击"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 35,
+      "columns": {
+        "Text": [
+          {
+            "en": "Collision",
+            "zh": "碰撞"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 36,
+      "columns": {
+        "Text": [
+          {
+            "en": "Vines",
+            "zh": "藤蔓"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 37,
+      "columns": {
+        "Text": [
+          {
+            "en": "Support",
+            "zh": "辅助"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 38,
+      "columns": {
+        "Text": [
+          {
+            "en": "Area of Effect",
+            "zh": "效果范围"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 39,
+      "columns": {
+        "Text": [
+          {
+            "en": "Buff",
+            "zh": "增益"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 40,
+      "columns": {
+        "Text": [
+          {
+            "en": "Howl Buff",
+            "zh": "咆哮增益"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 41,
+      "columns": {
+        "Text": [
+          {
+            "en": "[DNT-UNUSED] Hoofbeat",
+            "zh": "蹄击"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 42,
+      "columns": {
+        "Text": [
+          {
+            "en": "Crystal",
+            "zh": "水晶"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 43,
+      "columns": {
+        "Text": [
+          {
+            "en": "Fire Rain",
+            "zh": "火焰之雨"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 44,
+      "columns": {
+        "Text": [
+          {
+            "en": "Chaos Rain",
+            "zh": "混沌之雨"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 45,
+      "columns": {
+        "Text": [
+          {
+            "en": "Slam",
+            "zh": "猛击"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 46,
+      "columns": {
+        "Text": [
+          {
+            "en": "Swipe",
+            "zh": "横扫"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 47,
+      "columns": {
+        "Text": [
+          {
+            "en": "Screech",
+            "zh": "尖啸"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 48,
+      "columns": {
+        "Text": [
+          {
+            "en": "Pulse",
+            "zh": "脉冲"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 49,
+      "columns": {
+        "Text": [
+          {
+            "en": "Projectile (Quarterstaff)",
+            "zh": "投射物（节杖）"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 50,
+      "columns": {
+        "Text": [
+          {
+            "en": "Projectile (Unarmed)",
+            "zh": "投射物（徒手）"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 51,
+      "columns": {
+        "Text": [
+          {
+            "en": "Explosion",
+            "zh": "爆炸"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 52,
+      "columns": {
+        "Text": [
+          {
+            "en": "Star Fall",
+            "zh": "星辰坠落"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 53,
+      "columns": {
+        "Text": [
+          {
+            "en": "Fourth Strike",
+            "zh": "第四次打击"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 54,
+      "columns": {
+        "Text": [
+          {
+            "en": "Curses",
+            "zh": "诅咒"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 55,
+      "columns": {
+        "Text": [
+          {
+            "en": "Illusion",
+            "zh": "幻象"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 56,
+      "columns": {
+        "Text": [
+          {
+            "en": "Void Illusion",
+            "zh": "虚空幻影"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 57,
+      "columns": {
+        "Text": [
+          {
+            "en": "Shrapnel",
+            "zh": "破片"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 58,
+      "columns": {
+        "Text": [
+          {
+            "en": "Ground Surface",
+            "zh": "地面效果"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 59,
+      "columns": {
+        "Text": [
+          {
+            "en": "Projectile",
+            "zh": "投射物"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 60,
+      "columns": {
+        "Text": [
+          {
+            "en": "Impact",
+            "zh": "冲击"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 61,
+      "columns": {
+        "Text": [
+          {
+            "en": "Mark",
+            "zh": "印记"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 62,
+      "columns": {
+        "Text": [
+          {
+            "en": "Eternal Hunt",
+            "zh": "永恒狩猎"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 63,
+      "columns": {
+        "Text": [
+          {
+            "en": "Wall",
+            "zh": "墙壁"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 64,
+      "columns": {
+        "Text": [
+          {
+            "en": "Shard",
+            "zh": "碎片"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 65,
+      "columns": {
+        "Text": [
+          {
+            "en": "Poison Cloud",
+            "zh": "毒云"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 66,
+      "columns": {
+        "Text": [
+          {
+            "en": "Footsteps",
+            "zh": "脚步"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 67,
+      "columns": {
+        "Text": [
+          {
+            "en": "Explosion",
+            "zh": "爆炸"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 68,
+      "columns": {
+        "Text": [
+          {
+            "en": "Shards",
+            "zh": "碎片"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 69,
+      "columns": {
+        "Text": [
+          {
+            "en": "Frozen Shards",
+            "zh": "冻结碎片"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 70,
+      "columns": {
+        "Text": [
+          {
+            "en": "Fiery Explosion",
+            "zh": "猛烈爆炸"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 71,
+      "columns": {
+        "Text": [
+          {
+            "en": "Icy Wave",
+            "zh": "冰霜波"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 72,
+      "columns": {
+        "Text": [
+          {
+            "en": "Arcing Bolt",
+            "zh": "电弧箭"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 73,
+      "columns": {
+        "Text": [
+          {
+            "en": "Strike",
+            "zh": "打击"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 74,
+      "columns": {
+        "Text": [
+          {
+            "en": "Bolts",
+            "zh": "闪电"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 75,
+      "columns": {
+        "Text": [
+          {
+            "en": "Artillery",
+            "zh": "火力"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 76,
+      "columns": {
+        "Text": [
+          {
+            "en": "Ballista",
+            "zh": "弩炮"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 77,
+      "columns": {
+        "Text": [
+          {
+            "en": "Tornado",
+            "zh": "龙卷旋风"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 78,
+      "columns": {
+        "Text": [
+          {
+            "en": "Primary Grenade",
+            "zh": "主要榴弹"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 79,
+      "columns": {
+        "Text": [
+          {
+            "en": "Mini Grenades",
+            "zh": "小型榴弹"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 80,
+      "columns": {
+        "Text": [
+          {
+            "en": "Vs Armour Broken",
+            "zh": "对护甲破损"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 81,
+      "columns": {
+        "Text": [
+          {
+            "en": "Ignited Ground",
+            "zh": "点燃地面"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 82,
+      "columns": {
+        "Text": [
+          {
+            "en": "Totem",
+            "zh": "图腾"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 83,
+      "columns": {
+        "Text": [
+          {
+            "en": "Ammunition",
+            "zh": "弹药"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 84,
+      "columns": {
+        "Text": [
+          {
+            "en": "Minion Info",
+            "zh": "召唤生物信息"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 85,
+      "columns": {
+        "Text": [
+          {
+            "en": "Minion Info",
+            "zh": "召唤生物信息"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 86,
+      "columns": {
+        "Text": [
+          {
+            "en": "Swoop",
+            "zh": "猛扑"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 87,
+      "columns": {
+        "Text": [
+          {
+            "en": "Mirror Breaker",
+            "zh": "破镜者"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 88,
+      "columns": {
+        "Text": [
+          {
+            "en": "Firestorm",
+            "zh": "烈炎风暴"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 89,
+      "columns": {
+        "Text": [
+          {
+            "en": "Improved Bolt",
+            "zh": "强化箭矢"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 90,
+      "columns": {
+        "Text": [
+          {
+            "en": "Normal Dash",
+            "zh": "普通疾冲"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 91,
+      "columns": {
+        "Text": [
+          {
+            "en": "Perfect Dash",
+            "zh": "完美疾冲"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 92,
+      "columns": {
+        "Text": [
+          {
+            "en": "Chilled Ground",
+            "zh": "冰缓地面"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 93,
+      "columns": {
+        "Text": [
+          {
+            "en": "Command",
+            "zh": "命令"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 94,
+      "columns": {
+        "Text": [
+          {
+            "en": "Dash",
+            "zh": "冲刺"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 95,
+      "columns": {
+        "Text": [
+          {
+            "en": "Lunge",
+            "zh": "突进"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 96,
+      "columns": {
+        "Text": [
+          {
+            "en": "Fire",
+            "zh": "火焰"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 97,
+      "columns": {
+        "Text": [
+          {
+            "en": "Lightning",
+            "zh": "闪电"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 98,
+      "columns": {
+        "Text": [
+          {
+            "en": "Cold",
+            "zh": "冰霜"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 99,
+      "columns": {
+        "Text": [
+          {
+            "en": "Lingering Ignite",
+            "zh": "延续点燃"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 100,
+      "columns": {
+        "Text": [
+          {
+            "en": "Heal",
+            "zh": "治疗"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 101,
+      "columns": {
+        "Text": [
+          {
+            "en": "Poison Burst",
+            "zh": "毒素爆发"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 102,
+      "columns": {
+        "Text": [
+          {
+            "en": "Ignite",
+            "zh": "点燃"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 103,
+      "columns": {
+        "Text": [
+          {
+            "en": "Lightning Bolts",
+            "zh": "闪电矢"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 104,
+      "columns": {
+        "Text": [
+          {
+            "en": "Spin",
+            "zh": "旋转"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 105,
+      "columns": {
+        "Text": [
+          {
+            "en": "Stab",
+            "zh": "戳刺"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 106,
+      "columns": {
+        "Text": [
+          {
+            "en": "Second Slash",
+            "zh": "第二次斩击"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 107,
+      "columns": {
+        "Text": [
+          {
+            "en": "Whirlwind",
+            "zh": "旋风"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 108,
+      "columns": {
+        "Text": [
+          {
+            "en": "Strong Explosion",
+            "zh": "强烈爆炸"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 109,
+      "columns": {
+        "Text": [
+          {
+            "en": "Fireball",
+            "zh": "火球"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 110,
+      "columns": {
+        "Text": [
+          {
+            "en": "Wall 1",
+            "zh": "墙壁1"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 111,
+      "columns": {
+        "Text": [
+          {
+            "en": "Wall 2",
+            "zh": "墙壁2"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 112,
+      "columns": {
+        "Text": [
+          {
+            "en": "Wall 3",
+            "zh": "墙壁3"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 113,
+      "columns": {
+        "Text": [
+          {
+            "en": "Fire Wave",
+            "zh": "火焰波"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 114,
+      "columns": {
+        "Text": [
+          {
+            "en": "Heavy Stun",
+            "zh": "重度晕眩"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 115,
+      "columns": {
+        "Text": [
+          {
+            "en": "Spear",
+            "zh": "战矛"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 116,
+      "columns": {
+        "Text": [
+          {
+            "en": "Detonation",
+            "zh": "引爆"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 117,
+      "columns": {
+        "Text": [
+          {
+            "en": "Fire Surge",
+            "zh": "火焰涌动"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 118,
+      "columns": {
+        "Text": [
+          {
+            "en": "Cold Surge",
+            "zh": "冰霜涌动"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 119,
+      "columns": {
+        "Text": [
+          {
+            "en": "Lightning Surge",
+            "zh": "闪电涌动"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 120,
+      "columns": {
+        "Text": [
+          {
+            "en": "Death From Above",
+            "zh": "天降制裁"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 121,
+      "columns": {
+        "Text": [
+          {
+            "en": "Lodged Spear",
+            "zh": "嵌入战矛"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 122,
+      "columns": {
+        "Text": [
+          {
+            "en": "Infused Spear",
+            "zh": "灌注战矛"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 123,
+      "columns": {
+        "Text": [
+          {
+            "en": "Thrust",
+            "zh": "突刺"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 124,
+      "columns": {
+        "Text": [
+          {
+            "en": "Serpent",
+            "zh": "毒蛇"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 125,
+      "columns": {
+        "Text": [
+          {
+            "en": "Empowered Spear",
+            "zh": "强化战矛"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 126,
+      "columns": {
+        "Text": [
+          {
+            "en": "Frenzy-Charged",
+            "zh": "狂怒球效果"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 127,
+      "columns": {
+        "Text": [
+          {
+            "en": "Spirits",
+            "zh": "精魂"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 128,
+      "columns": {
+        "Text": [
+          {
+            "en": "Tendrils",
+            "zh": "触须"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 129,
+      "columns": {
+        "Text": [
+          {
+            "en": "Projectile Damage",
+            "zh": "投射物伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 130,
+      "columns": {
+        "Text": [
+          {
+            "en": "Lunge (Spear)",
+            "zh": "突刺（战矛）"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 131,
+      "columns": {
+        "Text": [
+          {
+            "en": "Slam (Mace)",
+            "zh": "猛击（锤）"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 132,
+      "columns": {
+        "Text": [
+          {
+            "en": "Sweep (Quarterstaff)",
+            "zh": "横扫（节杖）"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 133,
+      "columns": {
+        "Text": [
+          {
+            "en": "Rake (Talisman)",
+            "zh": "斜掠（魔符）"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 134,
+      "columns": {
+        "Text": [
+          {
+            "en": "Pustules",
+            "zh": "孢芽"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 135,
+      "columns": {
+        "Text": [
+          {
+            "en": "Enraged",
+            "zh": "狂暴"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 136,
+      "columns": {
+        "Text": [
+          {
+            "en": "Orb",
+            "zh": "法球"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 137,
+      "columns": {
+        "Text": [
+          {
+            "en": "Eruption",
+            "zh": "喷发"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 138,
+      "columns": {
+        "Text": [
+          {
+            "en": "Icy Blast",
+            "zh": "冰爆"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 139,
+      "columns": {
+        "Text": [
+          {
+            "en": "Roots",
+            "zh": "根须"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 140,
+      "columns": {
+        "Text": [
+          {
+            "en": "Requiem",
+            "zh": "镇魂曲"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 141,
+      "columns": {
+        "Text": [
+          {
+            "en": "Empowered",
+            "zh": "强化"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 142,
+      "columns": {
+        "Text": [
+          {
+            "en": "Mirage",
+            "zh": "幻影"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 143,
+      "columns": {
+        "Text": [
+          {
+            "en": "[DNT-UNUSED] Knife Cascade",
+            "zh": "刀刃瀑布"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 144,
+      "columns": {
+        "Text": [
+          {
+            "en": "Warcry",
+            "zh": "战吼"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 145,
+      "columns": {
+        "Text": [
+          {
+            "en": "Toxic Bloom",
+            "zh": "剧毒花群"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 146,
+      "columns": {
+        "Text": [
+          {
+            "en": "Pustule Explosion",
+            "zh": "脓疱爆炸"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 147,
+      "columns": {
+        "Text": [
+          {
+            "en": "Ice Fragment",
+            "zh": "冰霜碎片"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 148,
+      "columns": {
+        "Text": [
+          {
+            "en": "Fissures",
+            "zh": "裂缝"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 149,
+      "columns": {
+        "Text": [
+          {
+            "en": "Tawhoa's Vengeance",
+            "zh": "塔赫亚的复仇"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 150,
+      "columns": {
+        "Text": [
+          {
+            "en": "Mortar",
+            "zh": "迫击炮"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 151,
+      "columns": {
+        "Text": [
+          {
+            "en": "Ice Chunk",
+            "zh": "冰块"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 152,
+      "columns": {
+        "Text": [
+          {
+            "en": "Ice Bolts",
+            "zh": "冰霜弩箭"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 153,
+      "columns": {
+        "Text": [
+          {
+            "en": "Heavy Blast",
+            "zh": "重度爆炸"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 154,
+      "columns": {
+        "Text": [
+          {
+            "en": "Vs Dazed",
+            "zh": "对恍惚目标"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 155,
+      "columns": {
+        "Text": [
+          {
+            "en": "Fire-Infused",
+            "zh": "火焰灌注"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 156,
+      "columns": {
+        "Text": [
+          {
+            "en": "Cold-Infused",
+            "zh": "冰霜灌注"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 157,
+      "columns": {
+        "Text": [
+          {
+            "en": "Lightning-Infused",
+            "zh": "闪电灌注"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 158,
+      "columns": {
+        "Text": [
+          {
+            "en": "Verisium-Infused",
+            "zh": "维金灌注"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 159,
+      "columns": {
+        "Text": [
+          {
+            "en": "Flask",
+            "zh": "药剂"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 160,
+      "columns": {
+        "Text": [
+          {
+            "en": "Acidic Burst",
+            "zh": "酸性爆发"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 161,
+      "columns": {
+        "Text": [
+          {
+            "en": "Mini Flasks",
+            "zh": "小型药剂"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 162,
+      "columns": {
+        "Text": [
+          {
+            "en": "Core",
+            "zh": "核心"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 163,
+      "columns": {
+        "Text": [
+          {
+            "en": "Fiery Reclamation",
+            "zh": "烈焰征伐"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 164,
+      "columns": {
+        "Text": [
+          {
+            "en": "Projectiles",
+            "zh": "投射物"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 165,
+      "columns": {
+        "Text": [
+          {
+            "en": "Vs Marked",
+            "zh": "对抗被施加印记的敌人时"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 166,
+      "columns": {
+        "Text": [
+          {
+            "en": "Blast",
+            "zh": "爆炸"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 167,
+      "columns": {
+        "Text": [
+          {
+            "en": "Atziri's Call",
+            "zh": "阿兹里的呼唤"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 168,
+      "columns": {
+        "Text": [
+          {
+            "en": "Lightning-Charged",
+            "zh": "闪电充能"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 169,
+      "columns": {
+        "Text": [
+          {
+            "en": "Leap Slam",
+            "zh": "跃击"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 170,
+      "columns": {
+        "Text": [
+          {
+            "en": "Leap",
+            "zh": "飞跃"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 171,
+      "columns": {
+        "Text": [
+          {
+            "en": "Meteor",
+            "zh": "陨石"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 172,
+      "columns": {
+        "Text": [
+          {
+            "en": "Hailstorm",
+            "zh": "冰雹风暴"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 173,
+      "columns": {
+        "Text": [
+          {
+            "en": "Crash Lightning",
+            "zh": "崩雷闪击"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 174,
+      "columns": {
+        "Text": [
+          {
+            "en": "Final Strike",
+            "zh": "绝杀打击"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 175,
+      "columns": {
+        "Text": [
+          {
+            "en": "Charge",
+            "zh": "充能"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 176,
+      "columns": {
+        "Text": [
+          {
+            "en": "Holy Blast Wave",
+            "zh": "神圣冲击波"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 177,
+      "columns": {
+        "Text": [
+          {
+            "en": "Socketed Warcry",
+            "zh": "已镶嵌战吼"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 178,
+      "columns": {
+        "Text": [
+          {
+            "en": "Small Meteor",
+            "zh": "小型陨石"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 179,
+      "columns": {
+        "Text": [
+          {
+            "en": "Large Meteor",
+            "zh": "大型陨石"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 180,
+      "columns": {
+        "Text": [
+          {
+            "en": "Small Star",
+            "zh": "小型星辰"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 181,
+      "columns": {
+        "Text": [
+          {
+            "en": "Large Star",
+            "zh": "大型星辰"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 182,
+      "columns": {
+        "Text": [
+          {
+            "en": "Fast Strikes",
+            "zh": "快速打击"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 183,
+      "columns": {
+        "Text": [
+          {
+            "en": "Final Pulse",
+            "zh": "最终脉冲"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 184,
+      "columns": {
+        "Text": [
+          {
+            "en": "Toxic Pustule",
+            "zh": "剧毒芽孢"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 185,
+      "columns": {
+        "Text": [
+          {
+            "en": "Mushroom",
+            "zh": "蘑菇"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 186,
+      "columns": {
+        "Text": [
+          {
+            "en": "Cackle",
+            "zh": "尖笑"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 187,
+      "columns": {
+        "Text": [
+          {
+            "en": "Rune",
+            "zh": "符文"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 188,
+      "columns": {
+        "Text": [
+          {
+            "en": "Emergence",
+            "zh": "涌现"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 189,
+      "columns": {
+        "Text": [
+          {
+            "en": "Oil Ground",
+            "zh": "黏油地面"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 190,
+      "columns": {
+        "Text": [
+          {
+            "en": "Charged Mark",
+            "zh": "充能印记"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 191,
+      "columns": {
+        "Text": [
+          {
+            "en": "Throw",
+            "zh": "投掷"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 192,
+      "columns": {
+        "Text": [
+          {
+            "en": "Physical",
+            "zh": "物理"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 193,
+      "columns": {
+        "Text": [
+          {
+            "en": "Chaos",
+            "zh": "混沌"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 194,
+      "columns": {
+        "Text": [
+          {
+            "en": "Bells",
+            "zh": "铃铛"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 195,
+      "columns": {
+        "Text": [
+          {
+            "en": "Runic Shockwave",
+            "zh": "符文震波"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 196,
+      "columns": {
+        "Text": [
+          {
+            "en": "Ice Burst",
+            "zh": "霜爆"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 197,
+      "columns": {
+        "Text": [
+          {
+            "en": "Repulsion Wave",
+            "zh": "斥退波"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 198,
+      "columns": {
+        "Text": [
+          {
+            "en": "Volatile Ice",
+            "zh": "脆弱冰层"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 199,
+      "columns": {
+        "Text": [
+          {
+            "en": "Tempest Shockwave",
+            "zh": "风暴震波"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 200,
+      "columns": {
+        "Text": [
+          {
+            "en": "Socketed Skills",
+            "zh": "已镶嵌技能"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 201,
+      "columns": {
+        "Text": [
+          {
+            "en": "Pillars",
+            "zh": "柱子"
+          }
+        ]
+      }
+    }
+  ]
+}

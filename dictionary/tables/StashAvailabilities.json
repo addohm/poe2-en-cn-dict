@@ -1,0 +1,117 @@
+{
+  "table": "StashAvailabilities",
+  "key": "_index",
+  "columns": [
+    "Message"
+  ],
+  "entries": [
+    {
+      "id": null,
+      "index": 0,
+      "columns": {
+        "Message": [
+          {
+            "en": "The Divination Card Stash is currently not supported in this game version.",
+            "zh": "该游戏版本暂不支持命运卡仓库页。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 1,
+      "columns": {
+        "Message": [
+          {
+            "en": "The Delve Stash is currently not supported in this game version.",
+            "zh": "该游戏版本暂不支持地心探险仓库页。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 2,
+      "columns": {
+        "Message": [
+          {
+            "en": "The Blight Stash currently is not supported in this game version.",
+            "zh": "该游戏版本暂不支持寄生菌潮仓库页。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 3,
+      "columns": {
+        "Message": [
+          {
+            "en": "The Ultimatum Stash currently is not supported in this game version.",
+            "zh": "该游戏版本暂不支持致命贪婪仓库页。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 4,
+      "columns": {
+        "Message": [
+          {
+            "en": "The Socketable Stash currently is not supported in this game version.",
+            "zh": "该游戏版本暂不支持可镶嵌仓库页。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 5,
+      "columns": {
+        "Message": [
+          {
+            "en": "The Expedition Stash currently is not supported in this game version.",
+            "zh": "该游戏版本暂不支持先祖秘藏仓库页。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 6,
+      "columns": {
+        "Message": [
+          {
+            "en": "The Ritual Stash currently is not supported in this game version.",
+            "zh": "该游戏版本暂不支持仪式仓库页。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 7,
+      "columns": {
+        "Message": [
+          {
+            "en": "The Breach Stash currently is not supported in this game version.",
+            "zh": "该游戏版本暂不支持裂隙仓库页。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 8,
+      "columns": {
+        "Message": [
+          {
+            "en": "The Abyss Stash currently is not supported in this game version.",
+            "zh": "该游戏版本暂不支持深渊仓库页。"
+          }
+        ]
+      }
+    }
+  ]
+}

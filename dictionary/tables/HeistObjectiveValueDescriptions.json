@@ -1,0 +1,57 @@
+{
+  "table": "HeistObjectiveValueDescriptions",
+  "key": "_index",
+  "columns": [
+    "Description"
+  ],
+  "entries": [
+    {
+      "id": null,
+      "index": 1,
+      "columns": {
+        "Description": [
+          {
+            "en": "Moderate Value",
+            "zh": "价值中等"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 2,
+      "columns": {
+        "Description": [
+          {
+            "en": "High Value",
+            "zh": "价值很高"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 3,
+      "columns": {
+        "Description": [
+          {
+            "en": "Precious",
+            "zh": "珍稀之物"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 4,
+      "columns": {
+        "Description": [
+          {
+            "en": "Priceless",
+            "zh": "无价之宝"
+          }
+        ]
+      }
+    }
+  ]
+}

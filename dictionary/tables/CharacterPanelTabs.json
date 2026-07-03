@@ -1,0 +1,585 @@
+{
+  "table": "CharacterPanelTabs",
+  "key": "Id",
+  "columns": [
+    "Text"
+  ],
+  "entries": [
+    {
+      "id": "SkillOffence",
+      "index": 1,
+      "columns": {
+        "Text": [
+          {
+            "en": "Damage",
+            "zh": "伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SkillUsage",
+      "index": 2,
+      "columns": {
+        "Text": [
+          {
+            "en": "Usage",
+            "zh": "使用"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SkillProjectiles",
+      "index": 3,
+      "columns": {
+        "Text": [
+          {
+            "en": "Projectiles",
+            "zh": "投射物"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SkillExtent",
+      "index": 4,
+      "columns": {
+        "Text": [
+          {
+            "en": "Area and Duration",
+            "zh": "范围和持续时间"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SkillCrit",
+      "index": 5,
+      "columns": {
+        "Text": [
+          {
+            "en": "Critical Hits",
+            "zh": "暴击"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SkillAccuracy",
+      "index": 6,
+      "columns": {
+        "Text": [
+          {
+            "en": "Accuracy",
+            "zh": "命中"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SkillAilments",
+      "index": 7,
+      "columns": {
+        "Text": [
+          {
+            "en": "Ailments",
+            "zh": "异常状态"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SkillOnHit",
+      "index": 8,
+      "columns": {
+        "Text": [
+          {
+            "en": "On Hit Effects",
+            "zh": "击中效果"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SkillOnKill",
+      "index": 9,
+      "columns": {
+        "Text": [
+          {
+            "en": "On Kill Effects",
+            "zh": "击败效果"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SkillMinion",
+      "index": 10,
+      "columns": {
+        "Text": [
+          {
+            "en": "Minion Modifiers",
+            "zh": "召唤生物修正"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SkillTotem",
+      "index": 11,
+      "columns": {
+        "Text": [
+          {
+            "en": "Totems",
+            "zh": "图腾"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SkillTrap",
+      "index": 12,
+      "columns": {
+        "Text": [
+          {
+            "en": "Traps",
+            "zh": "陷阱"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SkillBuff",
+      "index": 13,
+      "columns": {
+        "Text": [
+          {
+            "en": "Buff/Debuff [BuffMagnitude|Magnitudes]",
+            "zh": "增益状态/减益状态[BuffMagnitudes|强度]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SkillMisc",
+      "index": 14,
+      "columns": {
+        "Text": [
+          {
+            "en": "Misc",
+            "zh": "其他属性"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SkillSpecific",
+      "index": 15,
+      "columns": {
+        "Text": [
+          {
+            "en": "Skill-Specific Stats",
+            "zh": "技能专用属性"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SkillFishing",
+      "index": 16,
+      "columns": {
+        "Text": [
+          {
+            "en": "Fishing",
+            "zh": "钓鱼"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Summary",
+      "index": 17,
+      "columns": {
+        "Text": [
+          {
+            "en": "Summary",
+            "zh": "概览"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LifeTop",
+      "index": 18,
+      "columns": {
+        "Text": [
+          {
+            "en": "Life",
+            "zh": "生命"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EnergyShieldTop",
+      "index": 19,
+      "columns": {
+        "Text": [
+          {
+            "en": "Energy Shield",
+            "zh": "能量护盾"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SpiritTop",
+      "index": 20,
+      "columns": {
+        "Text": [
+          {
+            "en": "Spirit",
+            "zh": "精魂"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ManaTop",
+      "index": 21,
+      "columns": {
+        "Text": [
+          {
+            "en": "Mana",
+            "zh": "魔力"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ArmourTop",
+      "index": 22,
+      "columns": {
+        "Text": [
+          {
+            "en": "Armour",
+            "zh": "护甲"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EvasionTop",
+      "index": 23,
+      "columns": {
+        "Text": [
+          {
+            "en": "Evasion",
+            "zh": "闪避"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SuppressionTop",
+      "index": 24,
+      "columns": {
+        "Text": [
+          {
+            "en": "Suppression",
+            "zh": "压制"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DeflectTop",
+      "index": 25,
+      "columns": {
+        "Text": [
+          {
+            "en": "Deflection",
+            "zh": "偏转"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BlockTop",
+      "index": 26,
+      "columns": {
+        "Text": [
+          {
+            "en": "Block",
+            "zh": "格挡"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Life",
+      "index": 27,
+      "columns": {
+        "Text": [
+          {
+            "en": "Life",
+            "zh": "生命"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EnergyShield",
+      "index": 28,
+      "columns": {
+        "Text": [
+          {
+            "en": "Energy Shield",
+            "zh": "能量护盾"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Mana",
+      "index": 29,
+      "columns": {
+        "Text": [
+          {
+            "en": "Mana",
+            "zh": "魔力"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Armour",
+      "index": 30,
+      "columns": {
+        "Text": [
+          {
+            "en": "Armour",
+            "zh": "护甲"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Evasion",
+      "index": 31,
+      "columns": {
+        "Text": [
+          {
+            "en": "Evasion",
+            "zh": "闪避"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Deflection",
+      "index": 32,
+      "columns": {
+        "Text": [
+          {
+            "en": "Deflection",
+            "zh": "偏转"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Resistances",
+      "index": 33,
+      "columns": {
+        "Text": [
+          {
+            "en": "Resistances",
+            "zh": "抗性"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Blocking",
+      "index": 34,
+      "columns": {
+        "Text": [
+          {
+            "en": "Block",
+            "zh": "格挡"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Ward",
+      "index": 35,
+      "columns": {
+        "Text": [
+          {
+            "en": "Runic Ward",
+            "zh": "符文结界"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Rage",
+      "index": 36,
+      "columns": {
+        "Text": [
+          {
+            "en": "Rage",
+            "zh": "怒火"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Thorns",
+      "index": 37,
+      "columns": {
+        "Text": [
+          {
+            "en": "Thorns",
+            "zh": "荆棘"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Stun",
+      "index": 38,
+      "columns": {
+        "Text": [
+          {
+            "en": "Stun Protection",
+            "zh": "晕眩防护"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Ailments",
+      "index": 39,
+      "columns": {
+        "Text": [
+          {
+            "en": "Ailment Protection",
+            "zh": "异常状态防护"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DamageTaken",
+      "index": 40,
+      "columns": {
+        "Text": [
+          {
+            "en": "Damage Taken",
+            "zh": "受到伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DamageRedirect",
+      "index": 41,
+      "columns": {
+        "Text": [
+          {
+            "en": "Damage Redirection",
+            "zh": "转移伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Flasks",
+      "index": 42,
+      "columns": {
+        "Text": [
+          {
+            "en": "Flasks",
+            "zh": "药剂"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Charms",
+      "index": 43,
+      "columns": {
+        "Text": [
+          {
+            "en": "Charms",
+            "zh": "咒符"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Charges",
+      "index": 44,
+      "columns": {
+        "Text": [
+          {
+            "en": "Charges",
+            "zh": "能量球"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Infusions",
+      "index": 45,
+      "columns": {
+        "Text": [
+          {
+            "en": "Infusions",
+            "zh": "灌注"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Misc",
+      "index": 46,
+      "columns": {
+        "Text": [
+          {
+            "en": "Miscellaneous",
+            "zh": "其他"
+          }
+        ]
+      }
+    },
+    {
+      "id": "comparison",
+      "index": 47,
+      "columns": {
+        "Text": [
+          {
+            "en": "Skill Comparison",
+            "zh": "技能比较"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ResistancesTop",
+      "index": 48,
+      "columns": {
+        "Text": [
+          {
+            "en": "Resistances",
+            "zh": "抗性"
+          }
+        ]
+      }
+    }
+  ]
+}

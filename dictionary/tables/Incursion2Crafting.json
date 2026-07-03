@@ -1,0 +1,426 @@
+{
+  "table": "Incursion2Crafting",
+  "key": "Id",
+  "columns": [
+    "Icon_DDSFile",
+    "Name",
+    "Description",
+    "GlowIcon_DDSFile"
+  ],
+  "entries": [
+    {
+      "id": "Double Corrupt",
+      "index": 0,
+      "columns": {
+        "Name": [
+          {
+            "en": "Corruption Instiller",
+            "zh": "腐化灌输器"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Modifies a [Corrupted] [Equipment] or [Jewel] item unpredictably or destroys it",
+            "zh": "随机修改一件[Corrupted|已腐化][Equipment|装备]或[Jewel|珠宝]，或将其摧毁"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Double Corrupt Gem",
+      "index": 1,
+      "columns": {
+        "Name": [
+          {
+            "en": "Gem Corrupter",
+            "zh": "宝石腐化器"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Modifies a [Corrupted] Skill Gem unpredictably or destroys it",
+            "zh": "随机修改一颗[Corrupted|已腐化]技能宝石，或将其摧毁"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Modify Soul Core",
+      "index": 2,
+      "columns": {
+        "Name": [
+          {
+            "en": "Soul Core Infuser",
+            "zh": "灵核注能装置"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Modifies a [SoulCore|Soul Core] unpredictably, with a chance to destroy it",
+            "zh": "随机修改一个[SoulCore|灵核]，有几率将其摧毁"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Corrupt Tablet",
+      "index": 3,
+      "columns": {
+        "Name": [
+          {
+            "en": "Corrupted Precursor Machine",
+            "zh": "已腐化的先驱机械"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Modifies a [Tablet|Tablet] unpredictably",
+            "zh": "随机修改一块[Tablet|石板]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Mutate Unique",
+      "index": 4,
+      "columns": {
+        "Name": [
+          {
+            "en": "Morphology Mechanism",
+            "zh": "形态重塑工坊"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Replaces up to 2 modifiers on a [Corrupted] [UniqueCulture|Vaal Unique]\nReplaces other [ItemRarity|Uniques] with a Corrupted Unique of the same Item Class",
+            "zh": "最多替换[Corrupted|已腐化][UniqueCulture|瓦尔传奇物品]上的 2 个词缀\n同物品类别的腐化传奇物品替换其他[ItemRarity|传奇]物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Weapon or Armour Quality Low",
+      "index": 5,
+      "columns": {
+        "Name": [
+          {
+            "en": "Forging Workbench",
+            "zh": "锻造工作台"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Greatly improves the [Quality|quality] of a [MartialWeapon|Martial Weapon], [CasterWeapon|Caster Weapon] or [EquipArmour|Armour]",
+            "zh": "大幅提升一件[MartialWeapon|战斗武器]、[CasterWeapon|施法武器]或[EquipArmour|护甲]的[Quality|品质]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Weapon or Armour Quality Mid",
+      "index": 6,
+      "columns": {
+        "Name": [
+          {
+            "en": "Forging Mechanism",
+            "zh": "锻造工坊"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Adds an [Augment] Socket to a [MartialWeapon|Martial Weapon], wand, staff or Armour",
+            "zh": "为一件[MartialWeapon|战斗武器]、法杖、长杖或护甲添加一个[Augment|增幅器]插槽。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ArmourQualityHigh",
+      "index": 7,
+      "columns": {
+        "Name": [
+          {
+            "en": "Masterwork Forge",
+            "zh": "大师级熔炉"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Improves the [Quality|quality] of an [Armour],\nexceeding maximum quality by up to 10% with a chance of [Corrupted|Corrupting] it",
+            "zh": "提高一件[Armour|护甲]的[Quality|品质]，\n可超出最大品质最多 10%，并有几率使其[Corrupted|腐化]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "WeaponQualityHigh",
+      "index": 8,
+      "columns": {
+        "Name": [
+          {
+            "en": "Masterwork Forge",
+            "zh": "大师级熔炉"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Improves the [Quality|quality] of a [MartialWeapon|Martial Weapon],\nexceeding maximum quality by up to 10% with a chance of [Corrupted|Corrupting] it",
+            "zh": "提高一件[MartialWeapon|战斗武器]的[Quality|品质]，\n可超出最大品质最多 10%，并有几率使其[Corrupted|腐化]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CasterQualityHigh",
+      "index": 9,
+      "columns": {
+        "Name": [
+          {
+            "en": "Masterwork Forge",
+            "zh": "大师级熔炉"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Improves the [Quality|quality] of a wand, staff or sceptre,\nexceeding maximum quality by up to 10% with a chance of [Corrupted|Corrupting] it",
+            "zh": "提高魔杖、长杖或权杖的[Quality|品质]，\n可超出最大品质最多 10%，并有几率使其[Corrupted|腐化]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "JewelleryQualityHigh",
+      "index": 10,
+      "columns": {
+        "Name": [
+          {
+            "en": "Masterwork Forge",
+            "zh": "大师级熔炉"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Improves the [Quality|quality] of a ring or amulet,\nexceeding maximum quality by up to 10% with a chance of [Corrupted|Corrupting] it",
+            "zh": "提高戒指或项链的[Quality|品质]，\n可超出最大品质最多 10%，并有几率使其[Corrupted|腐化]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Weapon or Armour Quality High Multiple",
+      "index": 11,
+      "columns": {
+        "Name": [
+          {
+            "en": "Triumphant Forge",
+            "zh": "凯旋熔炉"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Improves the [Quality|quality] of a [MartialWeapon|Martial Weapon], [CasterWeapon|Caster Weapon] or [EquipArmour|Armour] above 20% with a chance of [Corrupted|Corrupting] it",
+            "zh": "将一件[MartialWeapon|战斗武器]、[CasterWeapon|施法武器]或[EquipArmour|护甲]的[Quality|品质]提升 20% 以上，并有几率[Corrupted|腐化]该物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Extract All Socketables",
+      "index": 12,
+      "columns": {
+        "Name": [
+          {
+            "en": "Extraction Workbench",
+            "zh": "萃取工作台"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Destroys an [Equipment] item, returning any [Augment|Augments] socketed in it",
+            "zh": "摧毁一件[Equipment|装备]物品，并返还其中镶嵌的所有[Augment|增幅器]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Gem Quality Low",
+      "index": 13,
+      "columns": {
+        "Name": [
+          {
+            "en": "Gemcutting Workbench",
+            "zh": "宝石切割工作台"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Sets a Skill Gem to have 3 Support Gem Sockets",
+            "zh": "使一个技能宝石拥有 3 个辅助宝石插槽"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Gem Quality Mid",
+      "index": 14,
+      "columns": {
+        "Name": [
+          {
+            "en": "Gemcutting Mechanism",
+            "zh": "宝石切割工坊"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Greatly improves the [Quality|quality] of a Skill Gem",
+            "zh": "大幅提升技能宝石的[Quality|品质]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act3Corruption",
+      "index": 15,
+      "columns": {
+        "Name": [
+          {
+            "en": "Corruption Altar",
+            "zh": "腐化祭坛"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Modifies an item unpredictably and [Corrupted|Corrupts] it",
+            "zh": "随机修改一件物品，并[Corrupted|腐化]它"
+          }
+        ]
+      }
+    },
+    {
+      "id": "NormalCorrupt",
+      "index": 16,
+      "columns": {
+        "Name": [
+          {
+            "en": "Corruption Altar",
+            "zh": "腐化祭坛"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Modifies an item unpredictably and [Corrupted|Corrupts] it",
+            "zh": "随机修改一件物品，并[Corrupted|腐化]它"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CampaignCraftExalt",
+      "index": 17,
+      "columns": {
+        "Name": [
+          {
+            "en": "Exalted Workbench",
+            "zh": "崇高工作台"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Augments a [ItemRarity|Rare] [Equipment] item with a new random modifier",
+            "zh": "使用一个新的随机词缀强化一件[ItemRarity|稀有][Equipment|装备]物品。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CampaignCraftRegal",
+      "index": 18,
+      "columns": {
+        "Name": [
+          {
+            "en": "Regal Workbench",
+            "zh": "富豪工作台"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Upgrades a [ItemRarity|Magic] [Equipment] item to a [ItemRarity|Rare] item, adding 1 modifier",
+            "zh": "将一件[ItemRarity|魔法][Equipment|装备]物品升级为[ItemRarity|稀有]物品，并增加 1 个词缀。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CampaignCraftAlchemy",
+      "index": 19,
+      "columns": {
+        "Name": [
+          {
+            "en": "Alchemy Workbench",
+            "zh": "点金工作台"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Upgrades a [ItemRarity|Normal] or [ItemRarity|Magic] [Equipment] item to a [ItemRarity|Rare] item with 4 random modifiers",
+            "zh": "将一件[ItemRarity|普通]或[ItemRarity|魔法][Equipment|装备]物品升级为一件拥有 4 个随机词缀的[ItemRarity|稀有]物品。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CampaignCraftExaltPast",
+      "index": 20,
+      "columns": {
+        "Name": [
+          {
+            "en": "Pristine Exalted Workbench",
+            "zh": "纯净崇高工作台"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Augments a [ItemRarity|Rare] item with a new random modifier",
+            "zh": "用一个新随机词缀强化一件[ItemRarity|稀有]物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CampaignCraftRegalPast",
+      "index": 21,
+      "columns": {
+        "Name": [
+          {
+            "en": "Pristine Regal Workbench",
+            "zh": "纯净富豪工作台"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Upgrades a [ItemRarity|Magic] item to a [ItemRarity|Rare] item, adding 1 modifier",
+            "zh": "将一件[ItemRarity|魔法]物品升级为[ItemRarity|稀有]物品，并增加 1 个词缀"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CampaignCraftAlchemyPast",
+      "index": 22,
+      "columns": {
+        "Name": [
+          {
+            "en": "Pristine Alchemy Workbench",
+            "zh": "纯净点金工作台"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Upgrades a [ItemRarity|Normal] or [ItemRarity|Magic] item to a [ItemRarity|Rare] item with 4 random modifiers",
+            "zh": "将一件[ItemRarity|普通]或[ItemRarity|魔法]物品升级为拥有 4 个词缀的[ItemRarity|稀有]物品"
+          }
+        ]
+      }
+    }
+  ]
+}

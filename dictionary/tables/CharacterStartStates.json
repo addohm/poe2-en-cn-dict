@@ -1,0 +1,1066 @@
+{
+  "table": "CharacterStartStates",
+  "key": "Id",
+  "columns": [
+    "Description",
+    "InfoText"
+  ],
+  "entries": [
+    {
+      "id": "StrFourDefault",
+      "index": 0,
+      "columns": {
+        "Description": [
+          {
+            "en": "Default",
+            "zh": "默认"
+          }
+        ]
+      }
+    },
+    {
+      "id": "IntFourDefault",
+      "index": 1,
+      "columns": {
+        "Description": [
+          {
+            "en": "Default",
+            "zh": "默认"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DexFourDefault",
+      "index": 2,
+      "columns": {
+        "Description": [
+          {
+            "en": "Default",
+            "zh": "默认"
+          }
+        ]
+      }
+    },
+    {
+      "id": "StrDexFourDefault",
+      "index": 3,
+      "columns": {
+        "Description": [
+          {
+            "en": "Default",
+            "zh": "默认"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DexIntFourDefault",
+      "index": 4,
+      "columns": {
+        "Description": [
+          {
+            "en": "Default",
+            "zh": "默认"
+          }
+        ]
+      }
+    },
+    {
+      "id": "StrIntFourDefault",
+      "index": 5,
+      "columns": {
+        "Description": [
+          {
+            "en": "Default",
+            "zh": "默认"
+          }
+        ]
+      }
+    },
+    {
+      "id": "StrFourBDefault",
+      "index": 6,
+      "columns": {
+        "Description": [
+          {
+            "en": "Default",
+            "zh": "默认"
+          }
+        ]
+      }
+    },
+    {
+      "id": "IntFourBDefault",
+      "index": 7,
+      "columns": {
+        "Description": [
+          {
+            "en": "Default",
+            "zh": "默认"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DexFourBDefault",
+      "index": 8,
+      "columns": {
+        "Description": [
+          {
+            "en": "Default",
+            "zh": "默认"
+          }
+        ]
+      }
+    },
+    {
+      "id": "StrDexFourBDefault",
+      "index": 9,
+      "columns": {
+        "Description": [
+          {
+            "en": "Default",
+            "zh": "默认"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DexIntFourBDefault",
+      "index": 10,
+      "columns": {
+        "Description": [
+          {
+            "en": "Default",
+            "zh": "默认"
+          }
+        ]
+      }
+    },
+    {
+      "id": "StrIntFourBDefault",
+      "index": 11,
+      "columns": {
+        "Description": [
+          {
+            "en": "Default",
+            "zh": "默认"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ActFiveMercenary",
+      "index": 12,
+      "columns": {
+        "Description": [
+          {
+            "en": "MercenaryActFive",
+            "zh": "第五章佣兵"
+          }
+        ]
+      }
+    },
+    {
+      "id": "WitchActFive",
+      "index": 13,
+      "columns": {
+        "Description": [
+          {
+            "en": "WitchActFive",
+            "zh": "第五章女巫"
+          }
+        ]
+      }
+    },
+    {
+      "id": "TemplarActTwo",
+      "index": 14,
+      "columns": {
+        "Description": [
+          {
+            "en": "TemplarActTwo",
+            "zh": "第二章圣堂武僧"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DruidActTwo",
+      "index": 15,
+      "columns": {
+        "Description": [
+          {
+            "en": "DruidActTwo",
+            "zh": "第二章德鲁伊"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MarauderActTwo",
+      "index": 16,
+      "columns": {
+        "Description": [
+          {
+            "en": "MarauderActTwo",
+            "zh": "第二章野蛮人"
+          }
+        ]
+      }
+    },
+    {
+      "id": "WarriorActTwo",
+      "index": 17,
+      "columns": {
+        "Description": [
+          {
+            "en": "WarriorActTwo",
+            "zh": "第二章战士"
+          }
+        ]
+      }
+    },
+    {
+      "id": "RangerActTwo",
+      "index": 18,
+      "columns": {
+        "Description": [
+          {
+            "en": "RangerActTwo",
+            "zh": "第二章游侠"
+          }
+        ]
+      }
+    },
+    {
+      "id": "WitchActTwo",
+      "index": 19,
+      "columns": {
+        "Description": [
+          {
+            "en": "WitchActTwo",
+            "zh": "第二章女巫"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SorceressActTwo",
+      "index": 20,
+      "columns": {
+        "Description": [
+          {
+            "en": "SorceressActTwo",
+            "zh": "第二章魔巫"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DuelistActTwo",
+      "index": 21,
+      "columns": {
+        "Description": [
+          {
+            "en": "DuelistActTwo",
+            "zh": "第二章决斗者"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ShadowActTwo",
+      "index": 22,
+      "columns": {
+        "Description": [
+          {
+            "en": "ShadowActTwo",
+            "zh": "第二章暗影"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MonkActTwo",
+      "index": 23,
+      "columns": {
+        "Description": [
+          {
+            "en": "MonkActTwo",
+            "zh": "第二章行者"
+          }
+        ]
+      }
+    },
+    {
+      "id": "TemplarActThree",
+      "index": 24,
+      "columns": {
+        "Description": [
+          {
+            "en": "TemplarActThree",
+            "zh": "第三章圣堂武僧"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DruidActThree",
+      "index": 25,
+      "columns": {
+        "Description": [
+          {
+            "en": "DruidActThree",
+            "zh": "第三章德鲁伊"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MarauderActThree",
+      "index": 26,
+      "columns": {
+        "Description": [
+          {
+            "en": "MarauderActThree",
+            "zh": "第三章野蛮人"
+          }
+        ]
+      }
+    },
+    {
+      "id": "WarriorActThree",
+      "index": 27,
+      "columns": {
+        "Description": [
+          {
+            "en": "WarriorActThree",
+            "zh": "第三章战士"
+          }
+        ]
+      }
+    },
+    {
+      "id": "WitchActThree",
+      "index": 28,
+      "columns": {
+        "Description": [
+          {
+            "en": "WitchActThree",
+            "zh": "第三章女巫"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DuelistActThree",
+      "index": 29,
+      "columns": {
+        "Description": [
+          {
+            "en": "DuelistActThree",
+            "zh": "第三章决斗者"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MercenaryActTwo",
+      "index": 30,
+      "columns": {
+        "Description": [
+          {
+            "en": "MercenaryActTwo",
+            "zh": "第二章佣兵"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MercenaryActThree",
+      "index": 31,
+      "columns": {
+        "Description": [
+          {
+            "en": "MercenaryActThree",
+            "zh": "第三章佣兵"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ShadowActThree",
+      "index": 32,
+      "columns": {
+        "Description": [
+          {
+            "en": "ShadowActThree",
+            "zh": "第三章暗影"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SorceressActThree",
+      "index": 33,
+      "columns": {
+        "Description": [
+          {
+            "en": "SorceressActThree",
+            "zh": "第三章魔巫"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MonkActThree",
+      "index": 34,
+      "columns": {
+        "Description": [
+          {
+            "en": "MonkActThree",
+            "zh": "第三章行者"
+          }
+        ]
+      }
+    },
+    {
+      "id": "TemplarActFive",
+      "index": 35,
+      "columns": {
+        "Description": [
+          {
+            "en": "TemplarActFive",
+            "zh": "第五章圣堂武僧"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DruidActFive",
+      "index": 36,
+      "columns": {
+        "Description": [
+          {
+            "en": "DruidActFive",
+            "zh": "第五章德鲁伊"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MarauderActFive",
+      "index": 37,
+      "columns": {
+        "Description": [
+          {
+            "en": "MarauderActFive",
+            "zh": "第五章野蛮人"
+          }
+        ]
+      }
+    },
+    {
+      "id": "WarriorActFive",
+      "index": 38,
+      "columns": {
+        "Description": [
+          {
+            "en": "WarriorActFive",
+            "zh": "第五章战士"
+          }
+        ]
+      }
+    },
+    {
+      "id": "RangerActFive",
+      "index": 39,
+      "columns": {
+        "Description": [
+          {
+            "en": "RangerActFive",
+            "zh": "第五章游侠"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SorceressActFive",
+      "index": 40,
+      "columns": {
+        "Description": [
+          {
+            "en": "SorceressActFive",
+            "zh": "第五章魔巫"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DuelistActFive",
+      "index": 41,
+      "columns": {
+        "Description": [
+          {
+            "en": "DuelistActFive",
+            "zh": "第五章决斗者"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ShadowActFive",
+      "index": 42,
+      "columns": {
+        "Description": [
+          {
+            "en": "ShadowActFive",
+            "zh": "第五章暗影"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MonkActFive",
+      "index": 43,
+      "columns": {
+        "Description": [
+          {
+            "en": "MonkActFive",
+            "zh": "第五章行者"
+          }
+        ]
+      }
+    },
+    {
+      "id": "WarriorGamepadPremade",
+      "index": 44,
+      "columns": {
+        "Description": [
+          {
+            "en": "WarriorGamepadPremade",
+            "zh": "战士预设控制器"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MercGamepadPremade",
+      "index": 45,
+      "columns": {
+        "Description": [
+          {
+            "en": "MercGamepadPremade",
+            "zh": "佣兵预设控制器"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SorceressActThreeDelete",
+      "index": 46,
+      "columns": {
+        "Description": [
+          {
+            "en": "SorceressActThree",
+            "zh": "第三章魔巫"
+          }
+        ]
+      }
+    },
+    {
+      "id": "RangerTemplesPremade",
+      "index": 47,
+      "columns": {
+        "Description": [
+          {
+            "en": "RangerTemplesPremade",
+            "zh": "神庙游侠预设"
+          }
+        ]
+      }
+    },
+    {
+      "id": "WarriorCroneFight",
+      "index": 48,
+      "columns": {
+        "Description": [
+          {
+            "en": "WarriorCroneFight",
+            "zh": "巫妪战斗战士"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SorceressHusbandFight",
+      "index": 49,
+      "columns": {
+        "Description": [
+          {
+            "en": "SorceressHusbandFight",
+            "zh": "丈夫战斗魔巫"
+          }
+        ]
+      }
+    },
+    {
+      "id": "RangerActThree",
+      "index": 50,
+      "columns": {
+        "Description": [
+          {
+            "en": "RangerActThree",
+            "zh": "第三章游侠"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PKTest",
+      "index": 51,
+      "columns": {
+        "Description": [
+          {
+            "en": "Perennial King Balance Test",
+            "zh": "千年国王平衡测试"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DemoWitch",
+      "index": 52,
+      "columns": {
+        "Description": [
+          {
+            "en": "DemoWitch",
+            "zh": "试玩女巫"
+          }
+        ]
+      }
+    },
+    {
+      "id": "NewWarriorSkills",
+      "index": 53,
+      "columns": {
+        "Description": [
+          {
+            "en": "NewWarriorSkills",
+            "zh": "战士新技能"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GamescomWitch",
+      "index": 54,
+      "columns": {
+        "Description": [
+          {
+            "en": "GamescomWitch",
+            "zh": "科隆游戏展女巫"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GamescomWarrior",
+      "index": 55,
+      "columns": {
+        "Description": [
+          {
+            "en": "GamescomWarrior",
+            "zh": "科隆游戏展战士"
+          }
+        ]
+      }
+    },
+    {
+      "id": "WarriorDemoGamescom",
+      "index": 56,
+      "columns": {
+        "Description": [
+          {
+            "en": "WarriorDemoGamescom",
+            "zh": "科隆游戏展战士试玩"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GamescomSorceress",
+      "index": 57,
+      "columns": {
+        "Description": [
+          {
+            "en": "GamescomSorceress",
+            "zh": "科隆游戏展魔巫"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GamescomRanger",
+      "index": 58,
+      "columns": {
+        "Description": [
+          {
+            "en": "GamescomRanger",
+            "zh": "科隆游戏展游侠"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GamescomMonk",
+      "index": 59,
+      "columns": {
+        "Description": [
+          {
+            "en": "GamescomMonk",
+            "zh": "科隆游戏展行者"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GamescomMercenary",
+      "index": 60,
+      "columns": {
+        "Description": [
+          {
+            "en": "GamescomMercenary",
+            "zh": "科隆游戏展佣兵"
+          }
+        ]
+      }
+    },
+    {
+      "id": "StoryMercenaryStageDemo",
+      "index": 61,
+      "columns": {
+        "Description": [
+          {
+            "en": "StoryMercenaryStageDemo",
+            "zh": "剧情佣兵关卡演示"
+          }
+        ]
+      }
+    },
+    {
+      "id": "StoryWitchStageDemo",
+      "index": 62,
+      "columns": {
+        "Description": [
+          {
+            "en": "StoryWitchStageDemo",
+            "zh": "剧情女巫关卡演示"
+          }
+        ]
+      }
+    },
+    {
+      "id": "StorySorcStageDemo",
+      "index": 63,
+      "columns": {
+        "Description": [
+          {
+            "en": "StorySorcStageDemo",
+            "zh": "剧情魔巫关卡演示"
+          }
+        ]
+      }
+    },
+    {
+      "id": "UltimatumMercStageDemo",
+      "index": 64,
+      "columns": {
+        "Description": [
+          {
+            "en": "UltimatumMercStageDemo",
+            "zh": "贪婪战书佣兵关卡演示"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SanctumWitchStageDemo",
+      "index": 65,
+      "columns": {
+        "Description": [
+          {
+            "en": "SanctumWitchStageDemo",
+            "zh": "禁域女巫关卡演示"
+          }
+        ]
+      }
+    },
+    {
+      "id": "StoryRangerStageDemo",
+      "index": 66,
+      "columns": {
+        "Description": [
+          {
+            "en": "StoryRangerStageDemo",
+            "zh": "剧情游侠关卡演示"
+          }
+        ]
+      }
+    },
+    {
+      "id": "StoryMonkStageDemo",
+      "index": 67,
+      "columns": {
+        "Description": [
+          {
+            "en": "StoryMonkStageDemo",
+            "zh": "剧情行者关卡演示"
+          }
+        ]
+      }
+    },
+    {
+      "id": "StoryWarriorStageDemo",
+      "index": 68,
+      "columns": {
+        "Description": [
+          {
+            "en": "StoryWarriorStageDemo",
+            "zh": "剧情战士关卡演示"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EndgameMercStageDemo",
+      "index": 69,
+      "columns": {
+        "Description": [
+          {
+            "en": "EndgameMercStageDemo",
+            "zh": "终局佣兵关卡演示"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EndgameMonkStageDemo",
+      "index": 70,
+      "columns": {
+        "Description": [
+          {
+            "en": "EndgameMonkStageDemo",
+            "zh": "终局行者关卡演示"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EndgameWarriorFilming",
+      "index": 71,
+      "columns": {
+        "Description": [
+          {
+            "en": "EndgameWarriorFilming",
+            "zh": "终局战士拍片"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EndgameSorcFilming",
+      "index": 72,
+      "columns": {
+        "Description": [
+          {
+            "en": "EndgameSorcFilming",
+            "zh": "终局魔巫拍片"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EndgameWitchFilming",
+      "index": 73,
+      "columns": {
+        "Description": [
+          {
+            "en": "EndgameWitchFilming",
+            "zh": "终局女巫拍片"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EndgameRangerFilming",
+      "index": 74,
+      "columns": {
+        "Description": [
+          {
+            "en": "EndgameRangerFilming",
+            "zh": "终局游侠拍片"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EndgameMercFilming",
+      "index": 75,
+      "columns": {
+        "Description": [
+          {
+            "en": "EndgameMercFilming",
+            "zh": "终局佣兵拍片"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HuntressActTwo",
+      "index": 78,
+      "columns": {
+        "Description": [
+          {
+            "en": "HuntressActTwo",
+            "zh": "第二章女猎手"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HuntressActThree",
+      "index": 79,
+      "columns": {
+        "Description": [
+          {
+            "en": "HuntressActThree",
+            "zh": "第三章女猎手"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HuntressActFour",
+      "index": 80,
+      "columns": {
+        "Description": [
+          {
+            "en": "HuntressActFour",
+            "zh": "第四章女猎手"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MercenaryActFour",
+      "index": 81,
+      "columns": {
+        "Description": [
+          {
+            "en": "MercenaryActFour",
+            "zh": "第四章佣兵"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MonkActFour",
+      "index": 85,
+      "columns": {
+        "Description": [
+          {
+            "en": "MonkActFour",
+            "zh": "第四章行者"
+          }
+        ]
+      }
+    },
+    {
+      "id": "WitchActFour",
+      "index": 86,
+      "columns": {
+        "Description": [
+          {
+            "en": "WitchActFour",
+            "zh": "第四章女巫"
+          }
+        ]
+      }
+    },
+    {
+      "id": "WarriorActFour",
+      "index": 87,
+      "columns": {
+        "Description": [
+          {
+            "en": "WarriorActFour",
+            "zh": "第四章战士"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SorceressActFour",
+      "index": 89,
+      "columns": {
+        "Description": [
+          {
+            "en": "SorceressActFour",
+            "zh": "第四章魔巫"
+          }
+        ]
+      }
+    },
+    {
+      "id": "RangerActFour",
+      "index": 93,
+      "columns": {
+        "Description": [
+          {
+            "en": "RangerActFour",
+            "zh": "第四章游侠"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LivestreamWarrior",
+      "index": 96,
+      "columns": {
+        "Description": [
+          {
+            "en": "LivestreamWarrior",
+            "zh": "直播战士"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LivestreamMonk",
+      "index": 97,
+      "columns": {
+        "Description": [
+          {
+            "en": "LivestreamMonk",
+            "zh": "直播武僧"
+          }
+        ]
+      }
+    },
+    {
+      "id": "TencentMercenary",
+      "index": 104,
+      "columns": {
+        "Description": [
+          {
+            "en": "TencentMercenary",
+            "zh": "腾讯佣兵"
+          }
+        ]
+      }
+    }
+  ]
+}

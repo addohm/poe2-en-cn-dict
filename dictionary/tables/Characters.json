@@ -1,0 +1,317 @@
+{
+  "table": "Characters",
+  "key": "Id",
+  "columns": [
+    "Name",
+    "AOFile",
+    "ACTFile",
+    "Icon",
+    "Description",
+    "IntroSoundFile",
+    "Gender",
+    "TraitDescription",
+    "PassiveTreeImage",
+    "__col35",
+    "AttrsAsId",
+    "LoginScreen",
+    "PlayerCritter",
+    "PlayerEffect",
+    "AfterImage",
+    "SkillTreeBackground",
+    "Attr",
+    "AttrLowercase",
+    "Script",
+    "BaseClass",
+    "GemCuttingIcon"
+  ],
+  "entries": [
+    {
+      "id": "Metadata/Characters/Str/StrFour",
+      "index": 0,
+      "columns": {
+        "Name": [
+          {
+            "en": "Marauder",
+            "zh": "野蛮人"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Hear me, Ancestors! A warrior stands before you, a man who chooses his own Way. I fight without fear, and should I die, know that my war will continue in the Halls of the Dead. Neither monster nor man shall stand in my way.",
+            "zh": "先祖啊！英勇的战士傲立在你们面前，他选择了自己践行的道途。我将无畏地迎接战斗，倘若身死，也将在亡者之境继续这场征战。不管是怪物还是人类，都休想阻拦我的道路。"
+          }
+        ],
+        "TraitDescription": [
+          {
+            "en": "[DNT-UNUSED] trait stat that was her has been removed - it never functioned here anyway because it was a virtual stat",
+            "zh": "此处原有的职业特色已被移除——反正它作为虚拟属性从未生效过"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Metadata/Characters/Int/IntFour",
+      "index": 1,
+      "columns": {
+        "Name": [
+          {
+            "en": "Witch",
+            "zh": "女巫"
+          }
+        ],
+        "Description": [
+          {
+            "en": "I do not fear death. I am its master. Darkness and the dead are my weapons of war. My enemies will rot from the inside out, as my army of corpses tears them screaming limb from limb.",
+            "zh": "我不畏惧死亡，只因我是它的主人。黑暗与亡魂是我的战争利器，敌人将由内而外化为腐朽，被亡骸的大军撕成碎片，只留下惊恐的尖叫与哀嚎。"
+          }
+        ],
+        "TraitDescription": [
+          {
+            "en": "Trait: Natural resilience to Chaos",
+            "zh": "职业特色：天生具有混沌抗性"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Metadata/Characters/Dex/DexFour",
+      "index": 2,
+      "columns": {
+        "Name": [
+          {
+            "en": "Ranger",
+            "zh": "游侠"
+          }
+        ],
+        "Description": [
+          {
+            "en": "All I need is a single well-placed arrow. I'm fleet of foot, and have the eyes of a hawk. Put a bow in my hands, and they'll die trying to catch me. ",
+            "zh": "一发精准的箭矢能够解决所有问题。有了轻快的步伐和鹰隼的锐眼，只需要张弓搭箭，胆敢追逐我的人唯有一个下场。 "
+          }
+        ],
+        "TraitDescription": [
+          {
+            "en": "Trait: Arrows fly fast and true",
+            "zh": "职业特色：迅捷的飞矢无比精准"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Metadata/Characters/StrDex/StrDexFour",
+      "index": 3,
+      "columns": {
+        "Name": [
+          {
+            "en": "Duelist",
+            "zh": "决斗者"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Life is all about making an impact. Leaving a mark. Simply surviving is not good enough. If you're not doing it with style, why fight at all? Put a sword in my hand. I'll give you a show you won't soon forget.",
+            "zh": "生命的意义在于引起轰动，留下印记。光是活命可不够，既然要去战斗，就应该战出风采！给我一把剑，我就让你欣赏一场终身难忘的表演。"
+          }
+        ],
+        "TraitDescription": [
+          {
+            "en": "Trait: Fast attack with offhand weapons",
+            "zh": "职业特色：副手武器快速攻击"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Metadata/Characters/DexInt/DexIntFour",
+      "index": 4,
+      "columns": {
+        "Name": [
+          {
+            "en": "Shadow",
+            "zh": "暗影"
+          }
+        ],
+        "Description": [
+          {
+            "en": "You were born with quickness of body and sharpness of mind. How have you paid for these gifts? With innocent blood.\r\n \r\nYours is a predatory profession. The business of butchery. You have stolen many a life to fill your purse.\r\n \r\nNow you will earn your redemption in Wraeclast.",
+            "zh": "你生来就具有敏捷的身手和聪慧的头脑。可你又是如何报答这些恩惠的？你竟让无辜之人血溅三尺。\r\n\r\n在那弱肉强食、谋财害命的行当里，你为填满自己的口袋而夺走了多少性命。\r\n\r\n而现在，你只能在瓦尔克拉斯争取自己的救赎了。"
+          }
+        ],
+        "TraitDescription": [
+          {
+            "en": "Trait: Poison remain potent for longer ",
+            "zh": "职业特色：毒素的强效时间较长 "
+          }
+        ]
+      }
+    },
+    {
+      "id": "Metadata/Characters/StrInt/StrIntFour",
+      "index": 5,
+      "columns": {
+        "Name": [
+          {
+            "en": "Templar",
+            "zh": "圣堂武僧"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Do not mistake me for humble and weak because I am a man of God. No. We Templars have learned we must handle earthly affairs on our own. Though God is absent, evil shall not go unpunished.",
+            "zh": "别把我当成那些卑微的弱者，因为我是神的代行人。不。我们圣堂武僧领悟了如何应对凡俗的事务。虽然神已不在，但邪恶休想逃脱制裁。"
+          }
+        ],
+        "TraitDescription": [
+          {
+            "en": "Trait: His Spirit is stronger than most",
+            "zh": "职业特色：具有的灵魂胜于常人"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Metadata/Characters/Str/StrFourb",
+      "index": 6,
+      "columns": {
+        "Name": [
+          {
+            "en": "Warrior",
+            "zh": "战士"
+          }
+        ],
+        "Description": [
+          {
+            "en": "I wanted very little for myself. A forge, a bed. They took that all away when they burned down my home. Give me one good hammer, and they will find that there is nothing more dangerous than a man of peace roused to war.",
+            "zh": "我并不贪图身外之物，只求一个熔炉，一张铺盖。他们却焚毁了我的家园，夺走了我的一切。给我一把精良的锤子，我就能让他们明白，不要逼迫和平的人民挺身而起。"
+          }
+        ],
+        "TraitDescription": [
+          {
+            "en": "Trait: Knockback opponents when attacking",
+            "zh": "职业特色：攻击时击退对手"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Metadata/Characters/Int/IntFourb",
+      "index": 7,
+      "columns": {
+        "Name": [
+          {
+            "en": "Sorceress",
+            "zh": "魔巫"
+          }
+        ],
+        "Description": [
+          {
+            "en": "The elements are mine to control. I know why lightning strikes, why fire burns, and why cold freezes. They do so because I command it. The vengeance of the Maraketh will find those who have transgressed no matter where they run.",
+            "zh": "元素之力任我掌控。电闪雷鸣，熊熊火光，天寒地冻，都是出自我的命令。僭越之人尽管逃亡天涯海角吧，马拉克斯人必将一雪前耻。"
+          }
+        ],
+        "TraitDescription": [
+          {
+            "en": "Trait: Natural resilience to elements",
+            "zh": "职业特色：天生具有元素抗性"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Metadata/Characters/Dex/DexFourb",
+      "index": 8,
+      "columns": {
+        "Name": [
+          {
+            "en": "Huntress",
+            "zh": "女猎手"
+          }
+        ],
+        "Description": [
+          {
+            "en": "The Spirit bid me leave my mountain, only to find violence and death. Give me a spear! If they want blood, I will show them what it means to fight for survival.",
+            "zh": "万灵呼唤我走出故山，眼前却只有暴行与死亡。给我一柄战矛！既然他们只愿沐血，我就让他们见识一下为生存而战的真正意义。"
+          }
+        ],
+        "TraitDescription": [
+          {
+            "en": "Trait: Trained to block incoming attacks",
+            "zh": "职业特色：经过格挡攻击的训练"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Metadata/Characters/StrDex/StrDexFourb",
+      "index": 9,
+      "columns": {
+        "Name": [
+          {
+            "en": "Mercenary",
+            "zh": "佣兵"
+          }
+        ],
+        "Description": [
+          {
+            "en": "You've got a weapon, I'll wield it. Just tell me where to point it. I've seen the highs and horrors of war, and I'll do whatever it takes to survive. If you've got coin, I'm your man.",
+            "zh": "你有武器，我就能用，告诉我将它指向何处就行。我见识过战争的热血和恐怖。为了生存，我会不惜一切代价。只要你有钱，我就是你的人。"
+          }
+        ],
+        "TraitDescription": [
+          {
+            "en": "Trait: Totems remain for longer",
+            "zh": "职业特色：图腾持续时间更久"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Metadata/Characters/DexInt/DexIntFourb",
+      "index": 10,
+      "columns": {
+        "Name": [
+          {
+            "en": "Monk",
+            "zh": "行者"
+          }
+        ],
+        "Description": [
+          {
+            "en": "My life has been naught but discipline and focus, preparing me for this. I fight for the Benevolent Dreamer. Free my hands, and those who seek chaos will fall before me!",
+            "zh": "我辈此生别无他物，只与戒律专注相伴，得以面对此等乱局。我为仁爱的幻梦者而战。解放我的双手，我会让混沌的爪牙一一拜服在地！"
+          }
+        ],
+        "TraitDescription": [
+          {
+            "en": "Trait: Trained to evade incoming attacks",
+            "zh": "职业特色：经过闪避攻击的训练"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Metadata/Characters/StrInt/StrIntFourb",
+      "index": 11,
+      "columns": {
+        "Name": [
+          {
+            "en": "Druid",
+            "zh": "德鲁伊"
+          }
+        ],
+        "Description": [
+          {
+            "en": "The wrath of the wild and the mind of a man - with the ruthlessness of both. I have weathered more than most could fathom, and I will have my vengeance.",
+            "zh": "怀揣荒野之怒与人类心智——兼具二者的冷酷无情。我所历经的磨难远超常人想象，而我的复仇，必将到来。"
+          }
+        ],
+        "TraitDescription": [
+          {
+            "en": "Trait: Natural resilience to Lightning",
+            "zh": "职业特色：天生具有闪电抗性"
+          }
+        ]
+      }
+    }
+  ]
+}

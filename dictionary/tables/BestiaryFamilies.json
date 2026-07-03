@@ -1,0 +1,98 @@
+{
+  "table": "BestiaryFamilies",
+  "key": "Id",
+  "columns": [
+    "Name",
+    "Icon",
+    "IconSmall",
+    "Illustration",
+    "PageArt",
+    "FlavourText"
+  ],
+  "entries": [
+    {
+      "id": "Mammals",
+      "index": 0,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Wilds",
+            "zh": "荒野"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "Humid bushland and colossal trees. You are never alone in these wooded lands.",
+            "zh": "从浓密的森林到干枯的平原，咆哮的野兽贪婪地注视着任何轻微的动静。 "
+          }
+        ]
+      }
+    },
+    {
+      "id": "BirdsAndReptiles",
+      "index": 1,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Sands",
+            "zh": "沙漠"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "Arid heat and sweltering sands. A playground of devils and blood-starved beasts.",
+            "zh": "苍蝇的残骸隐没于刺骨的沙暴，尘土亦掩盖了沙面之下的危险。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "InsectsAndArachnids",
+      "index": 2,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Caverns",
+            "zh": "洞穴"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "Those who aren't crushed beneath rock and rubble contend against murderous creatures.",
+            "zh": "在绝对的黑暗中爬行，空气中每一道轻微的波动，就预示着一场疯狂的捕食。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SeaCreatures",
+      "index": 3,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Deep",
+            "zh": "水渊"
+          }
+        ],
+        "FlavourText": [
+          {
+            "en": "The uncharted depths of chaos and control. What scaled abominations lurk below?",
+            "zh": "一旦被拖到水面以下，迎接你唯一的仁慈就是在平静中离去…"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AnyCreature",
+      "index": 4,
+      "columns": {
+        "Name": [
+          {
+            "en": "Any Creature",
+            "zh": "任意魔物"
+          }
+        ]
+      }
+    }
+  ]
+}

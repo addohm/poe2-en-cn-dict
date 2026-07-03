@@ -1,0 +1,107 @@
+{
+  "table": "AchievementSetRewards",
+  "key": "Id",
+  "columns": [
+    "Message",
+    "NotificationIcon",
+    "HideoutName"
+  ],
+  "entries": [
+    {
+      "id": "HideoutTotem2Pole1",
+      "index": 0,
+      "columns": {
+        "Message": [
+          {
+            "en": "Congratulations! You earned the Runes of Aldur Challenger Trophy!\nIt upgrades the more challenges you complete!",
+            "zh": "恭喜！你获得了奥杜尔秘符挑战者奖杯！\n完成更多挑战，奖杯就会升级！"
+          }
+        ]
+      }
+    },
+    {
+      "id": "KnightOfAldurBoots",
+      "index": 1,
+      "columns": {
+        "Message": [
+          {
+            "en": "Congratulations!\nYou earned the Ezomyte Rune Master Boots!",
+            "zh": "恭喜！\n你获得了艾兹麦符文大师之靴！"
+          }
+        ]
+      }
+    },
+    {
+      "id": "KnightOfAldurGloves",
+      "index": 2,
+      "columns": {
+        "Message": [
+          {
+            "en": "Congratulations!\nYou earned the Ezomyte Rune Master Gloves!",
+            "zh": "恭喜！\n你获得了艾兹麦符文大师手套！"
+          }
+        ]
+      }
+    },
+    {
+      "id": "KnightOfAldurBodyArmour",
+      "index": 3,
+      "columns": {
+        "Message": [
+          {
+            "en": "Congratulations!\nYou earned the Ezomyte Rune Master Body Armour!",
+            "zh": "恭喜！\n你获得了艾兹麦符文大师胸甲！"
+          }
+        ]
+      }
+    },
+    {
+      "id": "KnightOfAldurHelmet",
+      "index": 4,
+      "columns": {
+        "Message": [
+          {
+            "en": "Congratulations!\nYou earned the Ezomyte Rune Master Helmet!",
+            "zh": "恭喜！\n你获得了艾兹麦符文大师头盔！"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EzomyteRuneScarsCharacterSkin",
+      "index": 5,
+      "columns": {
+        "Message": [
+          {
+            "en": "Rewarded the Ezomyte Rune Scars Character Skin Microtransaction!",
+            "zh": "获得艾兹麦符文伤疤角色外观商城物品奖励！"
+          }
+        ],
+        "HideoutName": [
+          {
+            "en": "Ezomyte Rune Scars Character Skin",
+            "zh": "艾兹麦符文伤疤角色外观"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CandlemassPortalEffect",
+      "index": 6,
+      "columns": {
+        "Message": [
+          {
+            "en": "Rewarded the Candlemass Portal Microtransaction!",
+            "zh": "获得烛火时空之门商城物品奖励！"
+          }
+        ],
+        "HideoutName": [
+          {
+            "en": "Candlemass Portal",
+            "zh": "烛火时空之门"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "table": "MemoryLineType",
+  "key": "Id",
+  "columns": [
+    "Suffix"
+  ],
+  "entries": [
+    {
+      "id": "MemoryLineAnarchy1",
+      "index": 0,
+      "columns": {
+        "Suffix": [
+          {
+            "en": "of Organised Chaos",
+            "zh": "混沌有序之"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MemoryLineAnarchy2",
+      "index": 1,
+      "columns": {
+        "Suffix": [
+          {
+            "en": "of Ransacked Relics",
+            "zh": "劫掠遗迹之"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MemoryLineDomination1",
+      "index": 2,
+      "columns": {
+        "Suffix": [
+          {
+            "en": "of Formidable Shrines",
+            "zh": "恐惧神殿之"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MemoryLineDomination2",
+      "index": 3,
+      "columns": {
+        "Suffix": [
+          {
+            "en": "of the Pantheon",
+            "zh": "万神殿之"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MemoryLineEssence1",
+      "index": 4,
+      "columns": {
+        "Suffix": [
+          {
+            "en": "of Collective Stasis",
+            "zh": "众生禁锢之"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MemoryLineEssence2",
+      "index": 5,
+      "columns": {
+        "Suffix": [
+          {
+            "en": "of Crystal Prisons",
+            "zh": "水晶监狱之"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MemoryLineAmbush1",
+      "index": 6,
+      "columns": {
+        "Suffix": [
+          {
+            "en": "of Cascading Fortunes",
+            "zh": "无尽财富之"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MemoryLineAmbush2",
+      "index": 7,
+      "columns": {
+        "Suffix": [
+          {
+            "en": "of Hidden Behemoths",
+            "zh": "隐秘巨兽之"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MemoryLineBreach1",
+      "index": 8,
+      "columns": {
+        "Suffix": [
+          {
+            "en": "of Demonic Onslaught",
+            "zh": "恶魔攻击之"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MemoryLineBreach2",
+      "index": 9,
+      "columns": {
+        "Suffix": [
+          {
+            "en": "of Grasping Hands",
+            "zh": "贪婪之手之"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MemoryLineTorment1",
+      "index": 10,
+      "columns": {
+        "Suffix": [
+          {
+            "en": "of Self-Possession",
+            "zh": "处变不惊之"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MemoryLineTorment2",
+      "index": 11,
+      "columns": {
+        "Suffix": [
+          {
+            "en": "of Tormented Souls",
+            "zh": "灵魂摧残之"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MemoryLineHarbinger1",
+      "index": 12,
+      "columns": {
+        "Suffix": [
+          {
+            "en": "of Survivor's Guilt",
+            "zh": "幸存者的愧疚之"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MemoryLineHarbinger2",
+      "index": 13,
+      "columns": {
+        "Suffix": [
+          {
+            "en": "of Phaaryl",
+            "zh": "法瑞欧之"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MemoryLineBestiary1",
+      "index": 14,
+      "columns": {
+        "Suffix": [
+          {
+            "en": "of Harvest Beasts",
+            "zh": "庄园野兽之"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MemoryLineBestiary2",
+      "index": 15,
+      "columns": {
+        "Suffix": [
+          {
+            "en": "of the Menagerie",
+            "zh": "魔物园之"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MemoryLineBetrayal1",
+      "index": 16,
+      "columns": {
+        "Suffix": [
+          {
+            "en": "of Bounty Hunters",
+            "zh": "赏金猎人之"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MemoryLineHarvest1",
+      "index": 17,
+      "columns": {
+        "Suffix": [
+          {
+            "en": "of the Sacred Grove",
+            "zh": "古灵庄园之"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MemoryLineAbyss1",
+      "index": 18,
+      "columns": {
+        "Suffix": [
+          {
+            "en": "of Chasms",
+            "zh": "裂缝之"
+          }
+        ]
+      }
+    }
+  ]
+}

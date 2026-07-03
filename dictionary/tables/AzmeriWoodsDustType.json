@@ -1,0 +1,66 @@
+{
+  "table": "AzmeriWoodsDustType",
+  "key": "_index",
+  "columns": [
+    "Id",
+    "Name",
+    "Icon",
+    "Text"
+  ],
+  "entries": [
+    {
+      "id": null,
+      "index": 0,
+      "columns": {
+        "Name": [
+          {
+            "en": "Wild Wisps",
+            "zh": "狂野鬼灵"
+          }
+        ],
+        "Text": [
+          {
+            "en": "Monsters Empowered with Wild Wisps have Damage Reduction, additional Projectiles, more Area of Effect and more Item Rarity, based on the amount of Wild Wisps you had when they were Empowered",
+            "zh": "狂野鬼灵所强化的怪物具有伤害减免、额外投射物、效果范围总增，以及更高的物品稀有度，幅度由强化时你所拥有的狂野鬼灵数量决定"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 1,
+      "columns": {
+        "Name": [
+          {
+            "en": "Vivid Wisps",
+            "zh": "活性鬼灵"
+          }
+        ],
+        "Text": [
+          {
+            "en": "Monsters Empowered with Vivid Wisps have Damage Reduction, increased Speed, and more Item Quantity, based on the amount of Vivid Wisps you had when they were Empowered",
+            "zh": "鲜活鬼灵所强化的怪物具有伤害减免、速度加快，以及更高的物品数量，幅度由强化时你所拥有的活性鬼灵数量决定"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 2,
+      "columns": {
+        "Name": [
+          {
+            "en": "Primal Wisps",
+            "zh": "原始鬼灵"
+          }
+        ],
+        "Text": [
+          {
+            "en": "Monsters Empowered with Primal Wisps have Damage Reduction, more Critical Strike Chance, additional Critical Strike Multiplier and a chance to drop additional Currency Items, based on the amount of Primal Wisps you had when they were Empowered",
+            "zh": "原始鬼灵所强化的怪物具有伤害减免，暴击率总增、额外暴击伤害加成，并有几率掉落更多通货物品，幅度由强化时你所拥有的原始鬼灵数量决定"
+          }
+        ]
+      }
+    }
+  ]
+}

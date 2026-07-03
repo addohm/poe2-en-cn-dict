@@ -1,0 +1,58 @@
+{
+  "table": "HarvestCraftFilters",
+  "key": "_index",
+  "columns": [
+    "Id",
+    "Name"
+  ],
+  "entries": [
+    {
+      "id": null,
+      "index": 0,
+      "columns": {
+        "Name": [
+          {
+            "en": "Wild Crystallised Lifeforce",
+            "zh": "狂野紫晶命能"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 1,
+      "columns": {
+        "Name": [
+          {
+            "en": "Vivid Crystallised Lifeforce",
+            "zh": "活性黄晶命能"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 2,
+      "columns": {
+        "Name": [
+          {
+            "en": "Primal Crystallised Lifeforce",
+            "zh": "原始蓝晶命能"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 3,
+      "columns": {
+        "Name": [
+          {
+            "en": "Sacred Crystallised Lifeforce",
+            "zh": "神圣白晶命能"
+          }
+        ]
+      }
+    }
+  ]
+}

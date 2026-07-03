@@ -1,0 +1,108 @@
+{
+  "table": "Acts",
+  "key": "Id",
+  "columns": [
+    "UI_Title",
+    "__col3",
+    "__col4",
+    "Description"
+  ],
+  "entries": [
+    {
+      "id": "Act1",
+      "index": 0,
+      "columns": {
+        "Description": [
+          {
+            "en": "Something dark awaits you in the forests of Ogham...",
+            "zh": "欧甘的森林之中，某种黑暗的力量正在蠢蠢欲动……"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act2",
+      "index": 1,
+      "columns": {
+        "Description": [
+          {
+            "en": "Once verdant plains now course with sands red and black.",
+            "zh": "曾经绿意盎然的大平原，如今只剩下猩红与黑暗的飞沙。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act3",
+      "index": 2,
+      "columns": {
+        "Description": [
+          {
+            "en": "Wild jungles have reclaimed the ruins of the Vaal Empire.",
+            "zh": "瓦尔帝国的残垣断壁，再次没入了蛮荒的雨林。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act4",
+      "index": 3,
+      "columns": {
+        "Description": [
+          {
+            "en": "The sea holds many secrets. Those who seek must take care what they find.",
+            "zh": "海洋中隐藏着无数秘密，探秘者苦苦追寻的，却不知是福是祸。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act5",
+      "index": 4,
+      "columns": {
+        "Description": [
+          {
+            "en": "The thrice-damned isle of Oriath has not been fully abandoned after all...",
+            "zh": "奥瑞亚岛虽三度遭遇劫难，却并不是荒无人烟之地……"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Act6",
+      "index": 5,
+      "columns": {
+        "UI_Title": [
+          {
+            "en": "Interlude",
+            "zh": "间歇"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Warriors of many different tribes must gather to save the world.",
+            "zh": "来自诸多部族的战士必须聚集起来拯救世界。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Endgame",
+      "index": 6,
+      "columns": {
+        "UI_Title": [
+          {
+            "en": "Endgame",
+            "zh": "终局游戏"
+          }
+        ],
+        "Description": [
+          {
+            "en": "What you will do, you have always done. ",
+            "zh": "你的未来，你的往常。 "
+          }
+        ]
+      }
+    }
+  ]
+}

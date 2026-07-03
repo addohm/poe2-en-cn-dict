@@ -1,0 +1,74 @@
+{
+  "table": "SanctumPersistentEffectCategories",
+  "key": "_index",
+  "columns": [
+    "Id",
+    "Frame",
+    "Popup",
+    "Glow",
+    "Icon",
+    "Name"
+  ],
+  "entries": [
+    {
+      "id": null,
+      "index": 1,
+      "columns": {
+        "Name": [
+          {
+            "en": "Minor Afflictions",
+            "zh": "次要痛苦"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 2,
+      "columns": {
+        "Name": [
+          {
+            "en": "Minor Boons",
+            "zh": "次要恩赐"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 3,
+      "columns": {
+        "Name": [
+          {
+            "en": "Major Afflictions",
+            "zh": "主要痛苦"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 4,
+      "columns": {
+        "Name": [
+          {
+            "en": "Major Boons",
+            "zh": "主要恩赐"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 5,
+      "columns": {
+        "Name": [
+          {
+            "en": "Pledges",
+            "zh": "誓约"
+          }
+        ]
+      }
+    }
+  ]
+}

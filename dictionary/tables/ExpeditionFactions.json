@@ -1,0 +1,71 @@
+{
+  "table": "ExpeditionFactions",
+  "key": "Id",
+  "columns": [
+    "Name",
+    "FactionFlag",
+    "FactionIcon"
+  ],
+  "entries": [
+    {
+      "id": "Faction1",
+      "index": 0,
+      "columns": {
+        "Name": [
+          {
+            "en": "Druids of the Broken Circle",
+            "zh": "裂环祭司"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Faction2",
+      "index": 1,
+      "columns": {
+        "Name": [
+          {
+            "en": "Black Scythe Mercenaries",
+            "zh": "黑镰佣兵"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Faction3",
+      "index": 2,
+      "columns": {
+        "Name": [
+          {
+            "en": "Order of the Chalice",
+            "zh": "圣杯教团"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Faction4",
+      "index": 3,
+      "columns": {
+        "Name": [
+          {
+            "en": "Knights of the Sun",
+            "zh": "烈日骑士"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Faction5",
+      "index": 4,
+      "columns": {
+        "Name": [
+          {
+            "en": "Expedition of Aldur",
+            "zh": "奥杜尔远征"
+          }
+        ]
+      }
+    }
+  ]
+}

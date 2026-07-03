@@ -1,0 +1,406 @@
+{
+  "table": "Incursion2Rooms",
+  "key": "Id",
+  "columns": [
+    "Name",
+    "Icon_DDSFile"
+  ],
+  "entries": [
+    {
+      "id": "Garrison",
+      "index": 3,
+      "columns": {
+        "Name": [
+          {
+            "en": "Garrison",
+            "zh": "驻军地"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Commander",
+      "index": 4,
+      "columns": {
+        "Name": [
+          {
+            "en": "Commander",
+            "zh": "指挥官"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Armoury",
+      "index": 5,
+      "columns": {
+        "Name": [
+          {
+            "en": "Armoury",
+            "zh": "装备库"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Smithy",
+      "index": 6,
+      "columns": {
+        "Name": [
+          {
+            "en": "Smithy",
+            "zh": "铁匠铺"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Generator",
+      "index": 7,
+      "columns": {
+        "Name": [
+          {
+            "en": "Generator",
+            "zh": "发电机"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ViperSpymaster",
+      "index": 8,
+      "columns": {
+        "Name": [
+          {
+            "en": "Spymaster",
+            "zh": "密探"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ViperLegionBarracks",
+      "index": 9,
+      "columns": {
+        "Name": [
+          {
+            "en": "Legion Barracks",
+            "zh": "军团兵营"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SynthfleshLab",
+      "index": 10,
+      "columns": {
+        "Name": [
+          {
+            "en": "Synthflesh Lab",
+            "zh": "合成血肉实验室"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FleshSurgeon",
+      "index": 11,
+      "columns": {
+        "Name": [
+          {
+            "en": "Flesh Surgeon",
+            "zh": "血肉医师"
+          }
+        ]
+      }
+    },
+    {
+      "id": "TranscendentBarracks",
+      "index": 12,
+      "columns": {
+        "Name": [
+          {
+            "en": "Transcendent Barracks",
+            "zh": "升华守卫兵营"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AlchemyLab",
+      "index": 13,
+      "columns": {
+        "Name": [
+          {
+            "en": "Alchemy Lab",
+            "zh": "炼金实验室"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Thaumaturge",
+      "index": 14,
+      "columns": {
+        "Name": [
+          {
+            "en": "Thaumaturge",
+            "zh": "奇术师"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GolemWorks",
+      "index": 15,
+      "columns": {
+        "Name": [
+          {
+            "en": "Golem Works",
+            "zh": "魔像工坊"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Corruption",
+      "index": 16,
+      "columns": {
+        "Name": [
+          {
+            "en": "Corruption Chamber",
+            "zh": "腐化之室"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Vault",
+      "index": 17,
+      "columns": {
+        "Name": [
+          {
+            "en": "Treasure Vault",
+            "zh": "藏宝库"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SacrificialChamber",
+      "index": 18,
+      "columns": {
+        "Name": [
+          {
+            "en": "Sacrificial Chamber",
+            "zh": "献祭室"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SacrificeRoom",
+      "index": 19,
+      "columns": {
+        "Name": [
+          {
+            "en": "Sacrifice a Room to Upgrade Sacrificial Chamber",
+            "zh": "献祭一个房间以升级献祭室"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Architect",
+      "index": 20,
+      "columns": {
+        "Name": [
+          {
+            "en": "Architect's Chamber",
+            "zh": "筑师殿堂"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CurrencyReward",
+      "index": 22,
+      "columns": {
+        "Name": [
+          {
+            "en": "Currency Vault",
+            "zh": "通货宝库"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LineageSupportReward",
+      "index": 23,
+      "columns": {
+        "Name": [
+          {
+            "en": "Lineage Gems Vault",
+            "zh": "传承宝石宝库"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SocketableReward",
+      "index": 24,
+      "columns": {
+        "Name": [
+          {
+            "en": "Augments Vault",
+            "zh": "增幅器宝库"
+          }
+        ]
+      }
+    },
+    {
+      "id": "TabletReward",
+      "index": 25,
+      "columns": {
+        "Name": [
+          {
+            "en": "Tablets Vault",
+            "zh": "石板宝库"
+          }
+        ]
+      }
+    },
+    {
+      "id": "UniqueReward",
+      "index": 26,
+      "columns": {
+        "Name": [
+          {
+            "en": "Uniques Vault",
+            "zh": "传奇宝库"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AccessChamber",
+      "index": 27,
+      "columns": {
+        "Name": [
+          {
+            "en": "Royal Access Chamber",
+            "zh": "皇家谒见厅"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Atziri",
+      "index": 28,
+      "columns": {
+        "Name": [
+          {
+            "en": "Atziri's Chamber",
+            "zh": "阿兹里的殿堂"
+          }
+        ]
+      }
+    },
+    {
+      "id": "UnsocketingReward",
+      "index": 29,
+      "columns": {
+        "Name": [
+          {
+            "en": "Extraction Chamber",
+            "zh": "萃取厅"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DeadSpymaster",
+      "index": 30,
+      "columns": {
+        "Name": [
+          {
+            "en": "Spymaster",
+            "zh": "密探"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BiomeWater",
+      "index": 31,
+      "columns": {
+        "Name": [
+          {
+            "en": "Terraforming Research",
+            "zh": "地貌改造研究"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BiomeMountain",
+      "index": 32,
+      "columns": {
+        "Name": [
+          {
+            "en": "Terraforming Research",
+            "zh": "地貌改造研究"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BiomeGrass",
+      "index": 33,
+      "columns": {
+        "Name": [
+          {
+            "en": "Terraforming Research",
+            "zh": "地貌改造研究"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BiomeForest",
+      "index": 34,
+      "columns": {
+        "Name": [
+          {
+            "en": "Terraforming Research",
+            "zh": "地貌改造研究"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BiomeSwamp",
+      "index": 35,
+      "columns": {
+        "Name": [
+          {
+            "en": "Terraforming Research",
+            "zh": "地貌改造研究"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BiomeDesert",
+      "index": 36,
+      "columns": {
+        "Name": [
+          {
+            "en": "Terraforming Research",
+            "zh": "地貌改造研究"
+          }
+        ]
+      }
+    }
+  ]
+}

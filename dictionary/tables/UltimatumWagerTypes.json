@@ -1,0 +1,249 @@
+{
+  "table": "UltimatumWagerTypes",
+  "key": "Id",
+  "columns": [
+    "DisplayText"
+  ],
+  "entries": [
+    {
+      "id": "Metadata/Items/Currency/CurrencyAddEquipmentSocket",
+      "index": 0,
+      "columns": {
+        "DisplayText": [
+          {
+            "en": "20 Artificer's Orbs",
+            "zh": "20 巧匠石"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Metadata/Items/Currency/CurrencyUpgradeToRare",
+      "index": 1,
+      "columns": {
+        "DisplayText": [
+          {
+            "en": "10 Orbs of Alchemy",
+            "zh": "10 点金石"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Metadata/Items/Currency/CurrencyUpgradeMagicToRare",
+      "index": 2,
+      "columns": {
+        "DisplayText": [
+          {
+            "en": "20 Regal Orbs",
+            "zh": "20 富豪石"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Metadata/Items/Currency/CurrencyUpgradeMagicToRare2",
+      "index": 3,
+      "columns": {
+        "DisplayText": [
+          {
+            "en": "10 Greater Regal Orbs",
+            "zh": "10 个高级富豪石"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Metadata/Items/Currency/CurrencyUpgradeMagicToRare3",
+      "index": 4,
+      "columns": {
+        "DisplayText": [
+          {
+            "en": "3 Perfect Regal Orbs",
+            "zh": "3 个完美富豪石"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Metadata/Items/Currency/CurrencyRerollRare",
+      "index": 5,
+      "columns": {
+        "DisplayText": [
+          {
+            "en": "10 Chaos Orbs",
+            "zh": "10 混沌石"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Metadata/Items/Currency/CurrencyRerollRare2",
+      "index": 6,
+      "columns": {
+        "DisplayText": [
+          {
+            "en": "5 Greater Chaos Orbs",
+            "zh": "5 个高级混沌石"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Metadata/Items/Currency/CurrencyRerollRare3",
+      "index": 7,
+      "columns": {
+        "DisplayText": [
+          {
+            "en": "3 Perfect Chaos Orbs",
+            "zh": "3 个完美混沌石"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Metadata/Items/Currency/CurrencyCorrupt",
+      "index": 8,
+      "columns": {
+        "DisplayText": [
+          {
+            "en": "10 Vaal Orbs",
+            "zh": "10 瓦尔宝珠"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Metadata/Items/Currency/CurrencyAddModToRare",
+      "index": 9,
+      "columns": {
+        "DisplayText": [
+          {
+            "en": "20 Exalted Orbs",
+            "zh": "20 崇高石"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Metadata/Items/Currency/CurrencyAddModToRare2",
+      "index": 10,
+      "columns": {
+        "DisplayText": [
+          {
+            "en": "10 Greater Exalted Orbs",
+            "zh": "10 个高级崇高石"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Metadata/Items/Currency/CurrencyAddModToRare3",
+      "index": 11,
+      "columns": {
+        "DisplayText": [
+          {
+            "en": "3 Perfect Exalted Orbs",
+            "zh": "3 个完美崇高石"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Metadata/Items/Currency/CurrencyModValues",
+      "index": 12,
+      "columns": {
+        "DisplayText": [
+          {
+            "en": "3 Divine Orbs",
+            "zh": "3 神圣石"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Metadata/Items/Currency/CurrencyRemoveMod",
+      "index": 13,
+      "columns": {
+        "DisplayText": [
+          {
+            "en": "3 Orb of Annulments",
+            "zh": "3 剥离石"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Metadata/Items/Currency/CurrencyUpgradeRandomly",
+      "index": 14,
+      "columns": {
+        "DisplayText": [
+          {
+            "en": "3 Orbs of Chance",
+            "zh": "3 机会石"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Metadata/Items/Currency/CurrencyArmourQuality",
+      "index": 15,
+      "columns": {
+        "DisplayText": [
+          {
+            "en": "20 Armourer's Scraps",
+            "zh": "20 护甲片"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Metadata/Items/Currency/CurrencyWeaponQuality",
+      "index": 16,
+      "columns": {
+        "DisplayText": [
+          {
+            "en": "20 Blacksmith's Whetstones",
+            "zh": "20 磨刀石"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Metadata/Items/Currency/CurrencyMagicQuality",
+      "index": 17,
+      "columns": {
+        "DisplayText": [
+          {
+            "en": "20 Arcanist's Etchers",
+            "zh": "20 奥术师的铭刻"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Metadata/Items/Currency/CurrencyFlaskQuality",
+      "index": 18,
+      "columns": {
+        "DisplayText": [
+          {
+            "en": "20 Glassblower's Baubles",
+            "zh": "20 玻璃弹珠"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Metadata/Items/Currency/CurrencyGemQuality",
+      "index": 19,
+      "columns": {
+        "DisplayText": [
+          {
+            "en": "10 Gemcutter's Prisms",
+            "zh": "10 宝石匠的棱镜"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "table": "SkillGemsForUniqueStat",
+  "key": "_index",
+  "columns": [
+    "__col3"
+  ],
+  "entries": [
+    {
+      "id": null,
+      "index": 192,
+      "columns": {
+        "__col3": [
+          {
+            "en": "Tamed Companion",
+            "zh": "驯服的伙伴"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 199,
+      "columns": {
+        "__col3": [
+          {
+            "en": "Summon Spectre",
+            "zh": "召唤灵体"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 200,
+      "columns": {
+        "__col3": [
+          {
+            "en": "Tamed Companion",
+            "zh": "驯服的伙伴"
+          }
+        ]
+      }
+    }
+  ]
+}

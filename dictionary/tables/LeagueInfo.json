@@ -1,0 +1,2584 @@
+{
+  "table": "LeagueInfo",
+  "key": "_index",
+  "columns": [
+    "PanelId",
+    "PanelImage",
+    "HeaderImage",
+    "Screenshots",
+    "Description",
+    "TrailerVideoLink",
+    "BackgroundImage",
+    "PanelItems"
+  ],
+  "entries": [
+    {
+      "id": null,
+      "index": 0,
+      "columns": {
+        "Description": [
+          {
+            "en": "In Path of Exile: Delve, you will delve into the Azurite Mine's infinite depths to extract treasure and discover its subterranean secrets.\nOur latest expansion features an infinite dungeon and socketable currency items, as well as a bunch of new unique items, skill gems, balance changes, graphics engine improvements and more!",
+            "zh": "在流放之路：地心赛季中，你将深入永无止尽的蓝晶矿坑探寻宝藏，探索深埋地底的奥秘。\n我们最新的资料片将带来许多新的内容，包括一座无尽的地下城、大量可镶孔硬通货，独一无二的装备，技能宝石，还包括平衡性调整和图像引擎增强！  "
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 1,
+      "columns": {
+        "Description": [
+          {
+            "en": "Left untouched for over 250 years, the Azurite Mine has been consumed by a malevolent darkness that cast out the Eternal Empire. Niko, an inventor, has harnessed the power of Voltaxic Sulphite to create a machine called the Crawler that can pierce the darkness. Delve into the mine but don't leave the Crawler's light for long or you'll be crushed by the darkness.\nThe Crawler will speed up if you get ahead of it.",
+            "zh": "在二百五十年前，蓝晶矿坑被邪恶的黑暗吞噬，遭到永恒帝国废弃。一位名叫尼克的发明家运用魔暴亚硫酸的力量创造了能够破除黑暗的引路矿车。你将深入矿坑探险，但千万不要远离引路矿车的光芒，否则你将被黑暗碾碎。\n当你在引路矿车前方时，它会加速赶上。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 2,
+      "columns": {
+        "Description": [
+          {
+            "en": "The Azurite Mine is full of treasures for those brave enough to risk the darkness for short periods of time. Use flares to venture farther away from the Crawler's path, and dynamite to destroy unstable walls which conceal even greater rewards.",
+            "zh": "即使对那些仅仅鼓起勇气在矿坑的黑暗中短暂停留的人们来说，蓝晶矿坑都是一座装满珍宝的宝库。而那些使用照明弹远离引路矿车的冒险者，他们敢于炸毁矿坑中并不坚固的墙壁，从而将获得更加丰厚的奖赏。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 3,
+      "columns": {
+        "Description": [
+          {
+            "en": "Any Azurite you find in the mine can be traded to Niko at his base camp. In return, he offers to upgrade the Crawler and can sell you flares, dynamite and crafting materials to aid your exploration.",
+            "zh": "你在矿坑中找到的任何蓝晶都能在尼克的营地里跟他交易。他可以为你的引路矿车升级，并且提供照明弹、炸药和工艺材料为你的探险增添一臂之力。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 4,
+      "columns": {
+        "Description": [
+          {
+            "en": "Deep in the Azurite Mine, you'll discover many different biomes. As you delve even deeper, you may encounter lost cities from Wraeclast's dark history. Each environment has its own monsters, bosses, encounters and rewards.",
+            "zh": "在蓝晶矿坑的地下深处，你将发现许多不同的生物群落。当你更加深入地底，你将找到瓦尔克拉斯黑暗历史上的那些失落城市。它们每一个都拥有不同的环境，不同的怪物、BOSS、遭遇和奖励。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 5,
+      "columns": {
+        "Description": [
+          {
+            "en": "The ancient civilisations created special crafting items that can be socketed with fossils to modify their behaviour.",
+            "zh": "而这些上古文明创造的独特物品能够用化石镶孔，强化它们的力量。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 6,
+      "columns": {
+        "Description": [
+          {
+            "en": "The Azurite Mine is Path of Exile's first infinite dungeon. The deeper you delve, the harder the game gets. In Delve, you'll find encounters that are much harder than end-game Maps. Your progress is only limited by the power of your character build. The Depth Ladder tracks who has delved the deepest into the mine.",
+            "zh": "蓝晶矿坑是流放之路的第一个无尽地下城。随着你的不断深入，难度也会不断增加。你将会在地心遭遇比异界地图更艰难的挑战。而你自己构建的角色才是你探索之路上的唯一阻碍。深度天梯将追踪抵达矿坑最深处的冒险者。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 7,
+      "columns": {
+        "Description": [
+          {
+            "en": "Path of Exile: Delve includes ten powerful new or completely reworked skills, centered around two character archetypes: the Guardian and the Pathfinder. Play as a holy warrior who strikes down foes with lightning damage while benefiting teammates and minions, or as a chaotic archer who uses nature- and poison-based skills to pin and suffocate enemies.",
+            "zh": "流放之路：地心赛季围绕护卫之灵和追猎者提供了十种全新或彻底重制的技能。你可以扮演一位神圣战士，用雷电消灭敌人，同时为队友和仆役提供增益。你也可以扮演一位混沌射手，用自然系技能定住敌人，或者用毒系技能扼杀它们。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 8,
+      "columns": {
+        "Description": [
+          {
+            "en": "A Path of Exile expansion is not complete without powerful new items to discover! Delve includes 7 new Divination Cards and 18 new Unique Items which have a focus on creating powerful new build opportunities.",
+            "zh": "流放之路的资料片也绝不缺少威力强大的新物品等待大家挖掘！地心揽括了 7 种新命运卡和 18 种新的传奇物品，用于构建威力非凡的全新角色。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 9,
+      "columns": {
+        "Description": [
+          {
+            "en": "In your travels across Wraeclast, you may very rarely discover a Timeworn Reliquary Key. This key will open a portal to the Timeworn Reliquary which contains one of 150 Unique Relics from past Path of Exile leagues.",
+            "zh": "在穿越瓦尔克拉斯的历险途中，你将有机会获得稀有的尘封圣物厅钥匙。它能打开一道通往尘封圣物厅传送门，从流放之路往届联赛的 150 件传奇圣物中为你挑选一件。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 10,
+      "columns": {
+        "Description": [
+          {
+            "en": "In Path of Exile: Betrayal, Jun Ortoi is investigating a mysterious organisation known as the Immortal Syndicate. Help her to manipulate their ranks, reveal the identities of their members, uncover their safehouses and take down their mastermind.",
+            "zh": "在新版本《流放之路：毁灭不朽》中，琼·奥特伊正在调查一个被称作“不朽辛迪加”的神秘组织。玩家需要帮助她去操控辛迪加组织内成员的等级，揭露成员的身份，找到他们的安全屋，最终铲除他们的主脑。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 11,
+      "columns": {
+        "Description": [
+          {
+            "en": "The Immortal Syndicate has four divisions, each with its own goals: Fortification, Transportation, Research and Intervention. In each area, you will encounter a Syndicate member. Other members can show up to aid their friends or sabotage their enemies. When the battle is complete, you must decide how to continue your investigation.",
+            "zh": "“不朽辛迪加”有四个部门，每个部门都有自己的职责：防卫、运输、科研和调停。在每片区域，你都会遇到一个辛迪加成员。其他成员也会出现来帮助他们的朋友，或是阻挠他们的敌人。当战斗完成，你必须要决定该如何继续你的调查。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 12,
+      "columns": {
+        "Description": [
+          {
+            "en": "There are eighteen Syndicate members, each with their own personalities, friendships and rivalries that change as you manipulate the organisation. You will need to bargain, execute, interrogate and even induce them to betray each other in order to further the investigation.",
+            "zh": "辛迪加成员共有18个，当你操控这个组织，就可以改变他们独有的性格、友谊和仇敌。你需要谈判、处刑、审问，甚至让引诱他们彼此对立来推进你的调查。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 13,
+      "columns": {
+        "Description": [
+          {
+            "en": "Your goal is to gain intelligence leading to the captains of each division. Raid their safehouses to pillage their supplies and uncover the ultimate identity of the Immortal Syndicate's mastermind.\n\nEach Syndicate member stores different item types in the safehouse. High-ranked members will have better items. Each division has a different twist on item rewards. Manipulate the Syndicate, maneuvering certain members into positions that are going to be the most rewarding for you",
+            "zh": "每个辛迪加成员都在密室中存储着不同类型的物品。高级的成员的物品品质更好。每个部门在物品奖励上都有些许不同。操纵辛迪加，将特定的成员推至你想要的位置，让你的奖励最大化。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 14,
+      "columns": {
+        "Description": [
+          {
+            "en": "Members of the Immortal Syndicate can drop items with new Veiled Modifiers. Take these to Jun to Unveil the item and pick from one of three properties for the item to receive. As you Unveil specific modifiers, you learn the ability to craft these onto other items and can work towards unlocking higher-level versions of these properties.",
+            "zh": "你的目标是获得每个部门首领的情报。突袭他们的安全屋，夺取补给，并找出“不朽辛迪加”主脑的最终身份。\n\n每个辛迪加成员都在安全屋中存储着不同类型的物品。高级成员的物品品质更好。每个部门在物品奖励上都有些许不同。操纵辛迪加，将特定的成员推至你想要的位置，让你的奖励最大化。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 15,
+      "columns": {
+        "Description": [
+          {
+            "en": "As the Immortal Syndicate ascended in power, the old cohort of Forsaken Masters mysteriously vanished. In their absence, Einhar, Alva, Niko, Jun and Zana have risen as a new group of Masters to aid you. Their league content, including Delve and Incursion, has been added as core Path of Exile content. Bestiary has been reimagined and simplified; Einhar will handle the nets as you focus on hunting the beasts.",
+            "zh": "随着“不朽辛迪加”的日渐强大，旧日的大师们神秘地消失了。在此期间，伊恩哈尔、阿尔瓦、尼克、琼和札娜组成了新的大师团队来协助你。他们的赛季主线内容，包括“地心探索”和“时空穿越”，都已经被加入《流放之路》的核心内容。猎魔笔记也进行了重新设计和简化，伊恩哈尔会在你专心猎魔时帮你撒下捕网。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 16,
+      "columns": {
+        "Description": [
+          {
+            "en": "We have revamped the entire process of Mastercrafting, from the user interface to the way you acquire new crafting options. Individual Mastercrafting options are now unlocked by completing specific content, such as Incursion rooms or Delve encounters, rather than by grinding Master levels.",
+            "zh": "我们重做了整个工艺制作体系，从用户界面到全新的工艺选项。完成特定内容现在可以解锁独立的工艺选项，例如时空穿越的各个房间，或地心探索的遭遇战，而不是再埋头升级啦！"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 17,
+      "columns": {
+        "Description": [
+          {
+            "en": "Hideouts, favour and decorations are now shared across all leagues. You can load and save your hideout templates and share them with other community members.",
+            "zh": "藏身处，友情点和装饰物现在可以全赛区共享啦。你可以读取并保存你的藏身处模板，并将其与其他社区成员分享。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 18,
+      "columns": {
+        "Description": [
+          {
+            "en": "We have added four new maps to the Atlas of Worlds. These new maps are fleshed-out versions of fan-favourite tilesets from deep in Delve's Azurite Mine. The entire Atlas of Worlds has been rearranged.",
+            "zh": "我们在异界图鉴中添加了四张新的地图。这些新地图都是从地心探索的蓝晶矿脉中选出，都是玩家最喜爱的布局。整个异界图鉴也被重新调整了。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 19,
+      "columns": {
+        "Description": [
+          {
+            "en": "Alongside other balance improvements, Betrayal introduces ten new or revamped skills across three core character archetypes. These include several completely new types of skills, such as Brands and Banners.",
+            "zh": "除了平衡性调整。背叛者版本还会全新推出或重做十个技能，横跨三大核心职业。其中有一些完全新增的技能类型，如“烙印”和“旗帜”"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 20,
+      "columns": {
+        "Description": [
+          {
+            "en": "Many of the 15 new unique items in Betrayal have Veiled mods, allowing you to customise the item more than ever before. Betrayal also includes five new Divination Cards, designed by our supporters.",
+            "zh": "在毁灭不朽赛季中，有15个全新的传奇物品拥有解密词缀，可以让你更加自由地定义想要的物品属性。该版本还有5张全新的命运卡，由我们的社区玩家设计而成哦。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 21,
+      "columns": {
+        "Description": [
+          {
+            "en": "In Path of Exile: Synthesis, you will encounter Cavas, recover his lost memories and chain them together to reach valuable rewards, new boss fights and crafting opportunities.\n\nOur March expansion contains the Synthesis challenge league, new items, new gems, a complete rebalance of spells throughout Path of Exile, an integrated version of the Betrayal league and much, much more.",
+            "zh": "在《流放之路：虚空忆境》版本中，你会遇到卡瓦斯，帮助他找回他失去的回忆，并将回忆拼接在一起，获得丰厚的奖励、全新的首领战和新工艺可能。\n\n我们在三月推出的这个版本包括虚空忆境挑战赛季、全新的物品、全新的宝石、完全重新平衡的法术、一个《毁灭不朽》赛季的整合版本，以及非常非常多的内容。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 22,
+      "columns": {
+        "Description": [
+          {
+            "en": "To help Cavas remember his past, you will find fragments of his decaying memories throughout Wraeclast. Fight your way through the monsters that inhabit his memories in order to activate stabilisers before the memories collapse around you.",
+            "zh": "要帮助卡瓦斯回忆起他的过去，你需要在瓦尔克拉斯大陆寻找他逐渐朽坏的回忆碎片。进入他的回忆，从成群的怪物中杀出一条血路，在回忆消逝之前，找到并激活稳定器。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 23,
+      "columns": {
+        "Description": [
+          {
+            "en": "Stabilised memory fragments can be pieced together to navigate the void in Cavas' mind and reach his distant memories. But beware, these fragments can only be explored a limited number of times before they collapse completely, so plan your path carefully.",
+            "zh": "稳定后的回忆碎片可以拼接起来，引导你走进卡瓦斯内心中的黑暗虚无，触碰到他的遥远回忆。但是请小心，探索这些碎片的时间有限，如不抓紧，它们将会完全消逝，所以请认真选择你的路线。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 24,
+      "columns": {
+        "Description": [
+          {
+            "en": "Within Cavas' distant memories are many types of valuable rewards. As you progress deeper within the recesses of his darkest memories, his mind starts to synthesise encounters with dangerous and twisted manifestations.",
+            "zh": "在卡瓦斯的遥远回忆中，有许多种类的珍贵奖励。当你越来越深入他的黑暗回忆，他的思维会开始合成内有各种危险、扭曲生物的战斗。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 25,
+      "columns": {
+        "Description": [
+          {
+            "en": "In the Memory Nexus lies the Synthesiser, a powerful device that lets you destroy Fractured Items to create base types with custom implicit mods. These implicit mods are somewhat controllable by careful choice of input items to consume.",
+            "zh": "在回忆枢纽中有忆境之台，一种强大的设备，可以让你摧毁分裂之物，并创造带有自定义基底词缀的基础物品类型。这些基底词缀有时候可以通过仔细挑选合成物品后进行产出的人为控制。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 26,
+      "columns": {
+        "Description": [
+          {
+            "en": "Synthesis also contains a complete balance overhaul of all spells in Path of Exile, six new Chaos and Holy spells and significant incentives for hand-casting including several new support gems.",
+            "zh": "虚空忆境版本还对流放之路的所有法术进行了彻底的重新平衡，包括六个全新的混沌和神圣法术，还有非常刺激的手动施法，以及为其搭配的数颗全新辅助宝石。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 27,
+      "columns": {
+        "Description": [
+          {
+            "en": "The new Holy Spellcaster archetype features Path of Exile's first Holy spells, including Divine Ire, Purifying Flame and Wave of Conviction. The Chaos Spellcaster archetype not only provides an easier introduction to Chaos spells with Soulrend, but adds many new tools to Path of Exile's existing arsenal of Chaos spells.",
+            "zh": "全新的神圣系施法者养成路线搭配流放之路的第一批神圣法术，包括圣怨、净化烈焰和定罪波。而混沌系施法者养成路线不仅提供容易上手的法术 - 裂魂术，还为流放之路已有的混沌法术添加了许多全新的配置思路。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 28,
+      "columns": {
+        "Description": [
+          {
+            "en": "In addition to Fractured Items, Synthesised Items and over a dozen new Divination Cards designed by our supporters, Path of Exile: Synthesis contains 16 powerful new unique items with a focus on impacting the way players play Path of Exile.",
+            "zh": "除了分裂之物、幻境道具和一打由支持者设计的全新的命运卡之外，流放之路：虚空忆境还加入了 16 个强大的全新传奇物品，它们将会对改变游戏玩法起到重要作用。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 30,
+      "columns": {
+        "Description": [
+          {
+            "en": "Trapped for thousands of years in the Domain of Timeless Conflict, the mightiest military leaders of Wraeclast's history have been fighting an eternal war. In Path of Exile: Legion, you will free their legions from the endless battle and defeat them in combat to earn their valuable rewards.\n\nPath of Exile's June expansion contains the Legion challenge league, new items, new gems, a game-wide overhaul of melee combat, and much, much more.",
+            "zh": "数千年以来，瓦尔克拉斯史上最强大的军事领袖们被困在永战之域，进行着永恒的战争。在《流放之路：军团》中，你将把他们从无尽的战斗中解放，和他们交锋，从他们那里赢得丰厚的奖励。\n\n你将在《流放之路》的六月资料片中领略军团挑战赛，获取新物品、新宝石，体验全方位重制的近战系统，以及更多更丰富的游戏内容。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 31,
+      "columns": {
+        "Description": [
+          {
+            "en": "As you explore Wraeclast in the Legion league, you'll discover Monoliths. Tag these to reveal an ancient conflict between multiple Legions, frozen in time. Untether monsters by dealing damage to them, but be prepared to fight those monsters when the effect of the Monolith wears off. As certain monsters are powerful and drop valuable items, Legion grants you full control over risk and reward.",
+            "zh": "在《军团》赛季中探索瓦尔克拉斯，你会发现许多石碑。标记这些石碑将会展示被时光冻结的上古军团之战。破坏石碑会释放出怪物，但石碑的力量一旦消退，请务必做好跟怪物战斗的准备。这些怪物十分强大，会掉落珍贵的物品，同时你还可以把《军团》中的风险和收益掌握在自己手中。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 32,
+      "columns": {
+        "Description": [
+          {
+            "en": "Enemies from each of the five Legions drop Splinters which combine together to form an Emblem of that Legion. Place two or more Emblems from different Legions in a Map Device to gain access to the Domain of Timeless Conflict, where the eternal battle between those Legions rages. Unlock the upgraded Map Device in order to fight in the ultimate conflict between all five Legions.",
+            "zh": "五大军团的敌人都会掉落各自的军团裂片，用来合成军团印记。将两种以上不同的军团印记放到地图装置中就能进入永战之域，狂怒的军团们在那里进行着永恒的战争。解锁升级的地图装置就能介入这场席卷五大军团的终极之战。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 33,
+      "columns": {
+        "Description": [
+          {
+            "en": "Some Legion monsters display symbols indicating the specific items they drop. Skilled players will focus on freeing the monsters that maximise the type of rewards they are seeking. Certain monsters can drop Incubation Items, which modify a piece of equipment to guarantee a certain reward after you have killed a specific number of monsters.",
+            "zh": "有的军团有一些带印记的怪物，它们会掉落特定的物品。有经验的玩家可以为了最大限度寻求自己需要的装备来专门释放这些怪物。有些怪物会掉落孕育物品，它们可以用来调整一件装备，当你打败特定数量的怪物后就会获得特定的奖励。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 34,
+      "columns": {
+        "Description": [
+          {
+            "en": "From each of the five Legions, it's possible to earn a special unique Jewel that can be socketed into your Passive Skill Tree. Each of the five jewels modifies nearby passive skills in different ways, providing completely new character customisation options if you are skilled enough to acquire one.",
+            "zh": "五大军团都有机会让你获得独特的珠宝，用来插入天赋树。这五种珠宝会以不同的方式调整你的天赋树。只要你有能力得到一个，就能用全新的方式定制自己的角色。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 35,
+      "columns": {
+        "Description": [
+          {
+            "en": "We've addressed most of the core issues with melee combat in Path of Exile. You can now cancel attack animations after they deal their damage. Movement skills are now all instant, and new low-level movement skills have been added for many classes. All melee attacks can now hit multiple adjacent enemies. The animation system has been overhauled, the monster targeting rules improved, and accuracy is no longer capped at 95%. There are more changes to melee combat than are possible to list here, but these changes plus a rebalance of most melee skills create an entirely new combat experience.",
+            "zh": "我们在《流放之路》中解决了大部分近战相关的核心问题。现在造成伤害后，你可以取消攻击动画了。位移技能全部变成了瞬发，也给更多职业开放了新的低级位移技能。所有近战攻击现在都会击中周围的敌人。我们重制了动画系统，改进了怪物的命中规则，命中值也不再以 95% 封顶。对近战系统做出的修改不止有这些，我们还重新调整了大部分近战技能的平衡性，这些改动将彻底创造全新的战斗体验。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 36,
+      "columns": {
+        "Description": [
+          {
+            "en": "The new Blood and Sand Gladiator archetype can switch between Blood Stance and Sand Stance, dynamically modifying the function of new and existing skills. The new Rage Berserker archetype revamps the Rage system and introduces new skills that generate or consume Rage. These powerful archetypes and their new skills offer additional options for many other Path of Exile builds.",
+            "zh": "新的血沙斗士原型可以在血姿态和沙姿态之间切换，动态化调整新旧技能的效果。新的 怒火狂战者原型改进了怒火系统，引入了能够产生怒火和消耗怒火的新技能。这些强大的原型和新的技能可以为《流放之路》的角色构建提供许多额外的选择。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 37,
+      "columns": {
+        "Description": [
+          {
+            "en": "With all the melee combat improvements, players can now dodge out of the way of attacks easily. We have taken advantage of this by rebalancing monster attacks that used to have poor signalling to now have a wind-up. This rebalance extends to improving monster AI and boss fights throughout the early campaign.",
+            "zh": "近战系统改进之后，玩家更容易闪避敌人的攻击方式。这让我们终于可以重新调整怪物攻击的平衡性，给过去低攻击欲望的怪物做出强化。早期战役中的怪物 AI 和首领战都会得到改进。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 38,
+      "columns": {
+        "Description": [
+          {
+            "en": "Alongside 14 new Divination Cards, Path of Exile: Legion contains 12 new unique items for you to discover. In addition, we have chosen 15 existing unique items that are themed around Legion's five armies and have rebalanced them so that they have become powerful rewards to find in the new league.",
+            "zh": "除了 14 种新的命运卡之外，《流放之路：战乱之殇》还有 12 种新物品等待你去发现。此外，我们从现有的独特物品中选出了 15 种来契合五大军团的风格，重新调整了它们的平衡性，使它们成为新赛季中的强力奖励。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 40,
+      "columns": {
+        "Description": [
+          {
+            "en": "In Path of Exile: Blight, you must stop the spread of the deadly Blight by building towers to defend against monsters held in its thrall.\n\nOur September expansion contains the Blight challenge league, three revamped balance archetypes with new skills and support gems, plenty of new items, two old leagues being integrated into the core game, and a focus on giving you more freedom to choose which aspects of Path of Exile's content you play and when.",
+            "zh": "在《流放之路：寄生·菌潮》中，你必须建造防御塔，阻止致命的菌潮蔓延，抵御被它奴役的怪物大军。\n\n九月资料片带来了菌潮挑战赛季，翻新了三种带有新技能和新辅助宝石的原型职业，还有大量新物品。在本赛季中，两个老赛季内容被整合进游戏本体，同时给予玩家更多自由，按照自己的节奏去进行游戏。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 41,
+      "columns": {
+        "Description": [
+          {
+            "en": "Sister Cassia is trying to stop the spread of the mind-controlling Blight by destroying Fungal Growths. When attacked, the Blight commands infected monsters to defend it. The monsters mindlessly follow the Blight's tendrils, only attacking foes directly in their path. The infected are unusually tough, so you'll need to build defensive towers to exploit each monster's specific weaknesses. For each tendril lane you defend, a chest will appear with your rewards.",
+            "zh": "卡西娅修女正在努力消灭肆虐的菌潮，它的源头是操纵心灵的菌潮。一旦发动攻击，菌潮就会操纵感染的生物自卫。没有心智的怪物只会攻击菌潮根茎上的敌人。被感染的生物非常难缠，玩家需要布下防御塔，瓦解怪物的弱点。每消灭一条根茎，都会出现一个宝箱作为奖励。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 42,
+      "columns": {
+        "Description": [
+          {
+            "en": "Sister Cassia's arsenal contains towers that Chill, Shock, Stun, Burn, Summon, Empower, Petrify and Debilitate. Choose, place and upgrade these towers carefully to take advantage of both the terrain and the weaknesses of the infected monsters. These fast, bite-sized Tower Defense encounters combine Path of Exile's intense action combat with the tactical fun of this popular genre.",
+            "zh": "卡西娅修女的防御塔可以提供冻缓、感电、晕眩、燃烧、召唤、赋能、护体和削弱效果。仔细选择，谨慎部署，就可以让你在面对感染的怪物大潮中不但尽占地形优势，还能瓦解它们的弱点。我们将快速紧凑的塔防游戏和《流放之路》的激烈战斗结合在一起，让大家享受策略的乐趣。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 43,
+      "columns": {
+        "Description": [
+          {
+            "en": "Path of Exile's end-game is not safe from the effects of the Blight either. Find Blighted Maps which contain gigantic Blight encounters with dozens of lanes and some of the league's most valuable rewards.",
+            "zh": "《流放之路》的游戏后期也因菌潮变得更加危险。去寻找菌潮地图，面对潮水般的菌潮遭遇战，收获本赛季最珍贵的奖励吧。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 44,
+      "columns": {
+        "Description": [
+          {
+            "en": "Among other treasures, the Blight yields Oils which Sister Cassia can use to anoint your jewellery. Combine two Oils to enchant a Ring with a potent tower modifier. Combine three Oils to enchant your Amulet with any Notable Passive Skill from the Skill Tree. The twelve Oils vary considerably in rarity, with each combination of them granting a different result.",
+            "zh": "除了其它奖励，菌潮还会产出圣油，卡西娅修女可以用它来给你的珠宝涂膏。调和两种圣油，就能给戒指附上强化防御塔的词缀。调和三种圣油就可以给项链附上一种核心天赋技能。十二种圣油的稀有度相差很大，每种都能调和出不同的结果。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 45,
+      "columns": {
+        "Description": [
+          {
+            "en": "Four of the Unique Items exclusive to the Blight league form an armour set that can also be anointed with Notable Passives. Combined with an anointed Amulet, the wearer of this set can have up to five bonus Notable Passives active at once, unlocking countless new build possibilities.",
+            "zh": "《寄生·菌潮》赛季专享组合包的四件传奇物品同意可以通过涂膏获得核心天赋能力。加上涂膏的项链，穿上全部套装的角色就能同时启用五项核心天赋加成，这将极大拓宽角色构建的思路。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 46,
+      "columns": {
+        "Description": [
+          {
+            "en": "You're no longer forced to run every Master Mission as soon as you encounter it, or required to run arbitrary maps to complete your dailies. Significantly more of your Missions are now earned through map completion and they can be run later by talking to the Master in your hideout. Missions accumulate indefinitely, and you can run them whenever you have time, on whatever maps you choose.\n\nWe have also improved Betrayal's rewards, made deeper depths easier to access in Delve, and integrated Legion and the boss fights from Synthesis into the core game.",
+            "zh": "你也再也不需要强制自己去执行大师任务了，也再也不用漫无目的完成日常任务。现在完成地图获得的大师任务大幅提高，并可稍后在藏身处中和大师对话再开启任务。这些任务可以无限期累积，随时按照你自己的意愿在任意选择的地图上执行。\n\n我们还改善了背叛者的奖励，抵达地心探险深层也更加容易，还把战乱之殇和虚空忆境首领战整合到了游戏本体中。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 47,
+      "columns": {
+        "Description": [
+          {
+            "en": "Summoners are one of the most popular playstyles in Action RPGs. In Path of Exile: Blight we have significantly revamped many Summoner mechanics and the Witch's Necromancer Ascendancy Class. We have buffed the per-gem-level progression of many minion types, added new support gems that allow you to fine-tune minion behaviour, revamped the Necromancer Ascendancy, introduced the Carrion Golem, added a high-level wand base type that can roll powerful minion mods and have made many other changes.\n\nTo support all the new skills that are available, we have added an additional bar of skill bindings.",
+            "zh": "召唤师是动作角色扮演游戏中最流行的角色之一。因此我们在《流放之路：寄生·菌潮》中翻新了大多数召唤机制和女巫的死灵法师升华职业。我们增强了许多召唤怪物技能石的等级幅度，增加了新的辅助宝石让你更好地管理召唤生物的行为，翻新了死灵法师升华天赋，增加了腐化魔像，和可以附着召唤生物词缀的高级法杖基础类型等等。\n\n我们还为此专门新增了一个技能条用于绑定技能。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 48,
+      "columns": {
+        "Description": [
+          {
+            "en": "The Poison Assassin, once the most dominant play style in Path of Exile, is returning (almost) to its glory days! Blight adds a new poison themed Support Gem and a suite of five potent new poison-themed Skill Gems, including Cobra Lash, which chains a poisoned projectile between your foes. The new Elusive mechanic, supported by a new Ascendancy notable, provides powerful defensive opportunities and a means of escape, while changes to the Perfect Agony Keystone Passive and multipliers for ailments from Critical Hits ensure the Poison Assassin gets his mark.",
+            "zh": "曾经一度主宰《流放之路》的烈毒流暗影大师再次王者归来！我们在《寄生·菌潮》中新增了一种烈毒流辅助宝石和五件套毒系技能石，其中包括可以用剧毒投射物连锁打击敌人的毒蛇鞭击。新的灵巧机制在新升华核心天赋配合下，可以提供绝佳的防御力和脱逃的时机。我们还修改了完美苦痛匙石天赋，以及重击异常状态的加成，务必让烈毒流暗影大师发挥优异。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 49,
+      "columns": {
+        "Description": [
+          {
+            "en": "We often received feedback that Mines, though strong, felt clunky to use. In Blight, we have completely reworked Mine mechanics from the ground up. Thrown to a location rather than placed at your feet, Mines now deploy more quickly and detonate in sequence. Mine skills now also reward you for detonating long sequences. New and reworked Mine Support Gems, as well as the mobile Skitterbots, provide new avenues for explosive power. All these additions are further enhanced by changes to the Passive Skill Tree and the Saboteur Ascendancy Class.",
+            "zh": "我们经常受到反馈，说地雷虽然很强，却很难用。因此我们在《寄生·菌潮》中彻底重做了地雷机制。现在，地雷不再放置在脚边，而是投掷出去。这样就能快速部署并按传爆序列引爆。现在地雷技能也能支持长程传爆序列。翻新重做的地雷辅助宝石和召唤的飞掠者极大拓展了爆炸的花样。而这一切都还可以通过天赋和破坏者升华职业进一步加强。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 50,
+      "columns": {
+        "Description": [
+          {
+            "en": "Alongside the Oils, Blighted Maps and new Jewellery Enchantments, Path of Exile: Blight contains 18 new Divination Cards, 16 new Skill and Support Gems, and 16 new Unique Items for you to discover. In addition, we have rebalanced 24 existing Unique Items, of which six have received substantial overhauls.",
+            "zh": "除了圣油、菌潮地图和新的饰品附魔，《流放之路：寄生·菌潮》还有 18 种新命运卡，16 种新技能和辅助宝石，16 种新传奇物品等待你去探索。此外，我们还调整了 24 种现有传奇物品的平衡性，其中 6 种基本上重做。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 51,
+      "columns": {
+        "Description": [
+          {
+            "en": "We're also launching two sets of Supporter Packs alongside Blight - the Lich and Sentinel Packs. There are two price points available for each and they feature masses of points alongside new Armour Sets and other exclusive cosmetic microtransactions!\n\nPath of Exile: Blight will launch on September 6th (PDT) on PC, and September 9 on Xbox One and PlayStation 4.",
+            "zh": "我们会跟《寄生·菌潮》同时发行两款组合包，分别是邪能巫妖和近卫军团组合包。它们在发售的时候会有不同的价格，提供新套装和其它专享商城美化内容\n\n《流放之路：寄生·菌潮》将在九月六日（PDT）登陆 PC 平台，九月九日登陆 Xbox One 和 Playstation 4 平台。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 53,
+      "columns": {
+        "Description": [
+          {
+            "en": "In the Metamorph league, you'll meet a new NPC, Tane Octavius, a master alchemist who studied in Oriath. Exiled to Wraeclast for killing his teacher, Tane searches for what makes the self, by using his learned alchemical knowledge to assemble monster essences. He hopes to find a cure, or perhaps just the source, for what he calls the intrinsic darkness that led to his unforgivable violence.",
+            "zh": "你将在灾变赛季中结识一位叫丹恩·屋大维的新 NPC，他是一位在奥瑞亚求学的炼金大师。他弑杀了自己的师父，被流放到瓦尔克拉斯，力图通过用毕生所学的炼金术调和怪物精华，寻求“自我”的真相。他希望找到良方，治好他“内心的黑暗”，也希望寻根究底，找到是什么让他犯下了不可饶恕的暴行。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 54,
+      "columns": {
+        "Description": [
+          {
+            "en": "In each area you play in the Metamorph League, Tane will collect samples from selected monsters you have killed. Summon Tane to combine your choice of samples to create a formidable Metamorphic foe to defeat. Each sample contributes abilities to this boss, who wildly morphs from form to form during the encounter. With careful selection of samples, you control which abilities the boss has and what rewards it yields.",
+            "zh": "在灾变赛季的每个区域，丹恩都会从你击败的怪物身上搜集样本。召唤丹恩，根据你的选择调和样本，就会创造出可怕的灾变首领。每一种样本都会给该首领提供各种能力，在遭遇战中产生形形色色的灾变体。只要小心选择样本组合，你就可以决定首领具备的能力和它掉落的奖励。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 55,
+      "columns": {
+        "Description": [
+          {
+            "en": "Metamorph encounters can also drop Catalysts, a new type of currency item that adds quality to jewellery. There are many types of jewellery quality, each related to a set of mods. The quality value on a piece of jewellery scales up the magnitude of related mods on the item and can be consumed through crafting to increase the chances of rolling related mods.",
+            "zh": "灾变遭遇战还会掉落“催化剂”，这种新型通货物品可以给饰品添加品质。我们提供了多种品质，每一种都有一组关联词缀。珠宝上的品质数值可以同比增加物品上关联词缀的数量，还可以在工艺制作中消耗催化剂来提高生成关联词缀的几率。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 56,
+      "columns": {
+        "Description": [
+          {
+            "en": "In the endgame of the Metamorph league, you can collect samples from Maps Bosses to create deadly Metamorphs that combine the powers, challenge and rewards of multiple bosses into very dangerous encounters.",
+            "zh": "在灾变赛季终局，你可以从各地图的首领身上搜集样本，创造混合了各种能力的致命灾变体，在极其危险的遭遇战中挑战多重首领战，并赢取奖励。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 57,
+      "columns": {
+        "Description": [
+          {
+            "en": "The Metamorph league is part of the larger Conquerors of the Atlas expansion, coming out on December 13 (PST) on PC, and the following week on Xbox One and PlayStation 4.",
+            "zh": "在异界灾变赛季中，我们将面对全新的终局BOSS，等待你的挑战！\r\n"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 59,
+      "columns": {
+        "Description": [
+          {
+            "en": "A mysterious affliction has infiltrated your mind. As you touch the Mirror of Delirium, reality turns to mist and your worst nightmares emerge before your eyes.\n\nOur March expansion contains the Delirium challenge league, the new Cluster Jewel system, new skills and support gems, powerful new items and further improvements to the Atlas endgame.",
+            "zh": "一股神秘痛苦侵蚀着你的心智。触摸惊悚迷雾之镜让真实化为雾境，变成最可怕的噩梦。\n三月资料片将为大家带来《惊悚迷雾》挑战赛季，全新的星团珠宝系统，新技能和新辅助宝石，威力绝伦的新物品，以及异界图鉴终局之旅的全新进展。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 60,
+      "columns": {
+        "Description": [
+          {
+            "en": "As the mists of Delirium consume you, new enemies emerge and existing foes gain savage talents. Delirium introduces dozens of lethal monster modifiers, many new bosses, and horrifying demons lurking within rare and unique monsters.",
+            "zh": "惊悚迷雾的侵蚀不光会带来全新的劲敌，现有的敌人也会获得凶残的力量。惊悚迷雾将引入大量更致命的怪物词缀，许多新首领战，稀有和传奇怪物群中还会潜伏着令人闻风丧胆的恶魔。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 61,
+      "columns": {
+        "Description": [
+          {
+            "en": "As you travel deeper into the Delirium, you'll experience more numerous and challenging enemies with greater rewards. Will you let greed and hubris draw you into the madness?",
+            "zh": "一旦深入惊悚迷雾，你将会遭遇到难以计数的敌人，它们挑战十足，回报巨丰。你是否会任由贪婪和狂妄将你拉入万劫不复之地？"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 62,
+      "columns": {
+        "Description": [
+          {
+            "en": "Nowhere is safe. Encounters you once mastered can now be played under the effects of Delirium, substantially ramping up their difficulty and rewards. If you're daring, you can exploit Delirium to amplify past conflicts.",
+            "zh": "你将无处容身。一度征服过的遭遇战如今都可以在惊悚迷雾效果下重玩，难度和回报都将大幅提高。如果你是真的猛士，就在惊悚迷雾中去应对过去的战斗吧。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 63,
+      "columns": {
+        "Description": [
+          {
+            "en": "Orbs of Delirium can be applied to endgame maps to control how intense your Delirium is. Under the influence of an Orb, you are immediately plunged into Delirium for the entire duration of that map. A single Orb creates a challenging encounter, but up to five can be applied to a map for ultimate difficulty and rewards.",
+            "zh": "将雾魇宝珠用在终局地图上可以控制惊悚迷雾的强度。只要有一个雾魇宝珠，就可以让整张地图在整个持续时间内立刻变为惊悚迷雾之国。单独一个宝珠可以生成一场有挑战性的遭遇战，但五个宝珠（最多五个）就可以让一张地图获得终极难度和终极奖励。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 64,
+      "columns": {
+        "Description": [
+          {
+            "en": "Search the deepest reaches of your Delirium for Splinters and combine them to create The Simulacrum. Enter its portal and try to survive the ultimate endgame Delirium challenge.",
+            "zh": "深入惊悚迷雾可以找到拟像裂片，把它们合成起来就会产生梦魇拟像。它会打开一扇传送门，在其中的终极惊悚迷雾终局遭遇战中存活下来吧。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 65,
+      "columns": {
+        "Description": [
+          {
+            "en": "Extend your passive skill tree by placing a Cluster Jewel in one of its outermost sockets. With craftable mods that improve the passives generated, add one of 280 new notables, or even graft additional sockets for deeper nesting, Cluster Jewels let you grow your own passive tree.\n\nDropping from any monster in the Delirium League, these new Jewels are one of the most significant improvements to build customisation since the introduction of Ascendancy Classes.",
+            "zh": "在天赋树外环珠宝槽中放入星团珠宝可以拓展天赋树。还能制作词缀强化由此产生的天赋，从 280 种新核心天赋中获得能力，甚至向内环天赋连接额外的插槽。集群珠宝能为你打造属于自己的天赋树。\n\n惊悚迷雾赛季中所有怪物都会掉落星团珠宝。这是引入升华职业后对定制角色最显著的改进。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 66,
+      "columns": {
+        "Description": [
+          {
+            "en": "Conquerors of the Atlas revitalised Path of Exile's endgame experience. In Delirium, we have made Conqueror spawning deterministic, reintroduced Sextant vendor recipes, created extra incentives to reach higher Awakening levels, revamped Vaal side areas in maps, improved the Temple of Atzoatl, and more.",
+            "zh": "《异界灾变》让《流放之路》的终局体验焕然一新。在《惊悚迷雾》中，我们会让异界征服者的刷新机制更加明确，重新引入六分仪商人配方，为达到更高的觉醒等级提供动力。我们还会在地图上翻新腐化区域，改进阿佐亚特神庙，以及其它更多改进。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 67,
+      "columns": {
+        "Description": [
+          {
+            "en": "Delirium introduces four new Skill Gems and three new Support Gems. In classic Path of Exile style, we've focused on versatile designs that can complement many styles of gameplay.",
+            "zh": "《惊悚迷雾》将带来四种新技能石和三种新辅助宝石。秉承《流放之路》的经典风格，它们的设计都更注重多样性，符合多样化的游戏体验。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 68,
+      "columns": {
+        "Description": [
+          {
+            "en": "In addition to the new Currency Items, Cluster Jewels, Gems and Endgame Simulacrum Maps, Path of Exile: Delirium introduces many new Divination Cards and Unique Items that provide new character build opportunities.",
+            "zh": "除了新通货物品、星团珠宝、技能石和终局梦魇拟像地图，《流放之路：惊悚迷雾》还会带来大量新命运卡和新传奇物品，打造更具动作游戏风格的游戏体验。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 70,
+      "columns": {
+        "Description": [
+          {
+            "en": "In Path of Exile: Harvest, Oshabi is cultivating the Sacred Grove, an ancient garden of mysterious power. Plant seeds that grow into dangerous enemies and craft their Lifeforce onto your items.\n\nOur June expansion contains the Harvest challenge league, powerful new crafting options, eight new skills, two new support gems, revamps of Two-handed Weapons, Warcry skills, Brands, Slams and the Passive Skill Tree itself. We've also introduced 12 new unique items and rebalanced over 50 existing ones.",
+            "zh": "《流放之路：古灵庄园》中，我们将邂逅古灵庄园的园丁欧莱娜。这是一座充满神秘力量的古老庄园。在这里，种子可以生长成危险的怪物，它们的命能可以用工艺灌注物品。\n\n六月资料片将呈现古灵庄园挑战赛季，带来全新的工艺选项，八种新技能，两种新辅助宝石。还翻新了双手武器、战吼、猛击和烙印。还有天赋树改进。我们还将为大家呈上 12 种新传奇物品，并对超过 50 种现存物品调整了平衡性。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 71,
+      "columns": {
+        "Description": [
+          {
+            "en": "<italic>{\"It is beautiful, yes? I believe it to be older than the Eternal Empire. Older than the Vaal? I am not so sure. But it does not look like their work. I like to believe it is a work of my ancestral Azmeri. I was once blessed with a deep connection to the land. It would speak to me, and nourish me. But that connection was severed. And in turn, my tribe severed their connection to me. I was alone. Lost. The land spoke no more... until I found this place.\"} -- Oshabi",
+            "zh": "<italic>{“这里是不是棒极了？这地方肯定比永恒帝国还古老。至于瓦尔嘛，我倒不清楚。不过这地方不像他们的风格。我更觉得是我的祖先阿兹莫里人修了这地方。我过去得到过保佑，跟这片土地产生过很深的联系。它跟我说话，让我茁壮。可这种联系早就断了。而且我的族人也跟我断了联系。我很孤独。迷茫得很。这片土地再也不跟我说话了……直到我找到这地方。”} ——欧莱娜"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 72,
+      "columns": {
+        "Description": [
+          {
+            "en": "Seek out the Seed Cache in every area you explore. Take its seeds through Oshabi's portal to the Sacred Grove. Sow those seeds to grow dangerous and rewarding monsters. While most seeds grow easily, rarer high-tier ones require more careful planning but yield more valuable results.",
+            "zh": "在探索每个区域途中寻找种子宝库。带上种子穿过欧莱娜的传送门前往古灵庄园。这些种子种下后会生长成危险的怪物，提供丰厚的回报。大部分种子很容易就能生长，但更稀有的高阶种子则更需要细心呵护，但回报也更高。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 73,
+      "columns": {
+        "Description": [
+          {
+            "en": "When your monsters are ready for harvest, slaughter them and claim their Lifeforce. Every enemy you fight in the Sacred Grove is one you intentionally planted. Customise your combat around your character's capabilities and what rewards you're seeking.",
+            "zh": "一旦怪物成熟收割，将其屠戮可以收集它们的命能。古灵庄园中所有与你一战的敌人都是按照你自己的意愿种下的。因此你可以按照角色的定位和你想要的回报来定制战斗。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 74,
+      "columns": {
+        "Description": [
+          {
+            "en": "Every monster you defeat in the Grove grants you a crafting option. Performing one of these powerful crafts consumes Lifeforce from the monsters you just harvested. In order to maximise your Lifeforce and hence crafting potential, you'll want to take on as many monsters as you dare handle. Harvest Crafting provides powerful directed crafting to an extent that Path of Exile has never seen before.",
+            "zh": "古灵庄园中每个被你击败的怪物都能提供工艺选项。它们需要从收割的怪物身上提取命能才能使用。要最大化运用命能，发挥工艺选项的潜能，你就需要尽可能跟更多怪物一战。庄园赛季的工艺选项十分强大，将流放之路的制作系统延伸到前所未有的深度。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 75,
+      "columns": {
+        "Description": [
+          {
+            "en": "As you build the ultimate garden, you'll discover exotic seeds with specific needs that must be met in order to grow. Various pipes, storage tanks and dispersers can help you fertilise your garden with any remaining Lifeforce.",
+            "zh": "庄园最终建设完毕后，你会发现一些有特殊需求才能生长的精奇种子。铺设大量管道、储存箱和扩散器可以用保存的命能帮你精心呵护庄园。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 76,
+      "columns": {
+        "Description": [
+          {
+            "en": "Oshabi speaks of the legend of three primordial beasts: Ersi, Janaar and Namharim. For those able to cultivate these rare seeds, the immense monsters that emerge can yield Harvest's most valuable rewards.",
+            "zh": "欧莱娜会告诉你三只原始巨兽的传说。它们分别是厄稀、贾纳尔和囊赫利姆。对那些种植稀有种植的人来说，这些巨兽无疑能为庄园带来最珍贵的回报。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 77,
+      "columns": {
+        "Description": [
+          {
+            "en": "The Passive Skill Tree has received many improvements including better support for some mechanics (for example, Two-handed Weapons or Rage) with both numeric buffs and entirely new clusters of passives. In addition, there are many new notable and keystones passives, which include both fan-favourites from Timeless Jewels and even some entirely new ones.",
+            "zh": "我们对天赋树进行了多方面的改进，包括对部分机制提供更好的支持（比如双手武器和怒火系统），对它们都进行了数值强化，还有几乎全新的天赋群。此外，我们还增加了许多新核心天赋和匙石天赋，其中既有来自大家喜闻乐见的永恒珠宝，也有全新的。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 78,
+      "columns": {
+        "Description": [
+          {
+            "en": "As part of our two-handed weapon improvements, several melee skills have been recategorised as slams. We've introduced a new slam skill and support gem. We've also revamped several existing slams with new visual effects, improved functionality and greater power for two-handed weapon users.",
+            "zh": "我们将部分近战技能重新归类为猛击，作为对双手武器改进的一部分。我们还将呈上一种新猛击技能和新辅助宝石。我们也为双手武器玩家们翻新了现有的部分猛击技能的视觉效果，改善了它们的效能，让它们发挥更强大的力量。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 79,
+      "columns": {
+        "Description": [
+          {
+            "en": "We've added four new Warcry skills and reworked three existing ones. Warcries now scale based on the power of nearby enemies rather than the quantity. Many Warcries also <italic>{exert} your attacks, increasing their power for a number of attacks.",
+            "zh": "我们增加了四种新战吼技能，并重做了现有的三个。现在战吼的效果不再以周围敌人的数量来计算，而是靠周围敌人的威力值。大部分战吼都会<italic>{增助} 你的攻击，在数次攻击内强化它们的威力。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 80,
+      "columns": {
+        "Description": [
+          {
+            "en": "We've introduced three new Brands, one Brand support gem and have revamped existing Brands. We've made Brands a lot more versatile while also reviewing how their core mechanics work. Brand Recall no longer reigns supreme but is a useful tool alongside many new options.",
+            "zh": "我们将呈上三种新烙印技能，一种烙印辅助宝石，并翻新了现有的烙印技能。我们让烙印的用途更加广泛，并重新审视了它们的核心机制该如何运作。现在烙印召回不再强到逆天，但在新选择下仍然很有用。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 81,
+      "columns": {
+        "Description": [
+          {
+            "en": "We're introducing 12 new unique items and reworking over 50 existing ones.",
+            "zh": "我们将呈上 12 种新传奇物品，并重做了超过 50 种现有物品。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 82,
+      "columns": {
+        "Description": [
+          {
+            "en": "Delirium and Cluster Jewels are being integrated into the core Path of Exile experience! Because Delirium stacks with other league mechanics to make them more difficult and rewarding, the chance of encountering it rises exponentially with the number of other league mechanics in the area.",
+            "zh": "惊悸迷雾和星团珠宝已经被整合入《流放之路》游戏本体！由于惊悸迷雾跟其它赛季机制叠加会极大提高难度和回报，因此在区域内遭遇惊悸迷雾内容的几率会随该区域其它赛季机制的数量呈指数增长。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 84,
+      "columns": {
+        "Description": [
+          {
+            "en": "In <italic>{Path of Exile: Heist}, you will hire skilled thieves to help you pull off risky Heists. Steal valuable artifacts to fund and train your crew as you plan towards the execution of a Grand Heist.\n\nOur September expansion contains the Heist challenge league, nine new Skills and Support Gems, revamps of Curses, Steel Skills, and some Spells. Grand Heists offer exclusive new rewards such as Weapon and Body Armour Enchantments, Heist Trinkets, Alternate-quality Gems and Replica Unique Items.",
+            "zh": "你将在<italic>{《流放之路：夺宝奇兵》}中招募一流好手，陪你一同寻找宝藏。你可以探索失落的神器，训练组员，在大型探险中寻找珍贵的秘宝。\n\n九月的《夺宝奇兵》挑战赛季将为大家呈现九种全新技能和辅助宝石，翻新诅咒技能和坚钢技能，大修部分法术。大型探险将独家提供珍贵的奖励，不但有新武器和新身体装备附魔，还有寻宝猎人饰品，替换品质宝石和传奇物品仿品。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 85,
+      "columns": {
+        "Description": [
+          {
+            "en": "Buy your passage to the Rogue Harbour where you'll consort with a crew of thieves who offer nefarious services. Thirteen Rogues can be contracted to assist you with setting up or executing a Heist by filling roles such as transportation, lockpicking or demolition.",
+            "zh": "一旦买到通行证，抵达游侠港，你就会遭遇一群提供各种服务的寻宝猎人。他们可以跟你签署契约，当你在瓦尔克拉斯寻找宝藏时为你提供运输、开锁、爆破等特殊服务。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 86,
+      "columns": {
+        "Description": [
+          {
+            "en": "In order to execute a Heist, you need to know the location of a valuable Artifact and what defences safeguard it. Contracts containing these clues can be found throughout Wraeclast alongside coins with the mysterious emblem of the Rogue Harbour. Travel there and turn in these objects to hire the expertise you need for your Heist.",
+            "zh": "要开启寻宝探险，你必须先知道珍贵的宝藏被谁抢走，又有谁在看守。你可以在瓦尔克拉斯各地探险中找到刻有游侠港印记的神秘硬币，用它们可以取得包含这些线索的契约。你还可以在游侠港雇佣人手，在寻宝探险中助你一臂之力。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 87,
+      "columns": {
+        "Description": [
+          {
+            "en": "If you can't escape the Heist, you'll lose everything you stole while infiltrating the facility. You'll need to support your Rogue while they bypass security in order to reach the vault. Be careful with how much commotion you cause, or you may trigger the alarm, causing the facility to be locked down. When this happens, it's time to run.",
+            "zh": "如果寻宝探险失败，你就会失去在这趟旅程中找到的所有东西。你需要训练你招募的寻宝猎人，避开安保系统，探索宝库。千万记得低调行事，否则会触发警报，使宝库封闭。一旦落到这种地步，那只能赶紧离开。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 88,
+      "columns": {
+        "Description": [
+          {
+            "en": "Specialised items can be equipped to Rogues to make them stealthier, deadlier, and more adept at their roles. Like any other Path of Exile items, Rogue equipment can be crafted with currency items. A well-equipped crew is a great asset when undertaking the most difficult Heists.",
+            "zh": "你招募的寻宝猎人可以装备特定物品，让他们的身手更加矫健，也更娴熟地扮演他们自己的角色。当然，寻宝猎人装备也可以用通货物品打造。装备良好的团队在艰难的寻宝途中极其珍贵。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 89,
+      "columns": {
+        "Description": [
+          {
+            "en": "The ultimate goal of a thief is to pull off a Grand Heist. This requires access to Blueprints that show where the vaults are located inside sprawling facilities. These elaborate jobs require masterful planning, purchasing additional intel about the facility, and hiring multiple Rogues to assist with their many obstacles. This planning can result in a huge pay-off as each vault has its own exclusive rewards.",
+            "zh": "寻宝猎人的终极目标是组织大型探险。它需要取得蓝图才能了解宝库的方位和详细布局。大型探险需要周密的计划，购买额外情报，还需要招募多个寻宝猎人帮你扫清障碍。但它的回报极其丰厚，每个宝库都有独特奖励。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 90,
+      "columns": {
+        "Description": [
+          {
+            "en": "One of the exclusive rewards you'll be able to steal from Grand Heists are Trinkets, which go in their own new equipment slot. These magical items influence what rewards you'll find from future Heists you run. Some of their modifiers affect the items dropped by enemies and chests, while others modify the rewards you could obtain from a Heist's special reward chests.",
+            "zh": "大型探险中有一种独特回报是饰品，使用新的装备槽。这种魔法物品将影响你今后寻宝探险中的回报。它们的部分词缀会影响敌人和宝箱中掉落的物品，而其它词缀则会影响你从特殊珍宝箱中得到的物品。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 91,
+      "columns": {
+        "Description": [
+          {
+            "en": "Alternate Quality Gems come from Grand Heist reward rooms and provide even more depth for existing Skill and Support Gems. Each existing Path of Exile gem has up to three Alternate Quality versions which grant different quality bonuses than the original gems. Some simply increase the power of the gem while others entirely change which builds most benefit from the gem.",
+            "zh": "从大型探险中获取的替换品质宝石将为流放之路的现有技能石和辅助宝石提供更多深度和可能性。现有技能石和辅助宝石都将得到三种不同的替换品质版，跟原本宝石相比都具有截然不同的品质奖励。其中有些只是纯粹提高宝石的威力，而其它则能彻底改变受益于宝石的BD。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 92,
+      "columns": {
+        "Description": [
+          {
+            "en": "Other rewards you can claim from Grand Heists are Replica Unique Items and Experimented Base Types. Replica Unique items result from attempts to re-create unique items of legend, where the end product has a few crucial differences. They're often appropriate for entirely different character builds than the original item. Experimented Base Types are a variety of new item base types that have exotic properties that differ from their core-game counterparts.",
+            "zh": "大型探险还能提供传奇仿品和试作型基础类型。传奇仿品来源于重做传奇物品的想法，最终的成果却极具差异性，可以围绕它们打造截然不同的角色BD。试作型基础类型是一种基础类型的新变体，提供跟核心游戏基础类型完全迥异的新特性。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 93,
+      "columns": {
+        "Description": [
+          {
+            "en": "The final type of new reward available from Grand Heists is a selection of Weapon and Body Armour enchantments. These enchantments come on unnaturally-powerful rare items and affect the magnitude of modifiers on those items. Some of these enchantments are so powerful that they involve substantial drawbacks.",
+            "zh": "最后，大型探险还会产出精良的武器和身体装备附魔。这些附魔会出现在威力非凡的稀有物品上，并影响它们的词缀幅度。其中部分附魔威力太大，所以具有相当多的惩罚。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 94,
+      "columns": {
+        "Description": [
+          {
+            "en": "We've added a new Curse-related skill and a new Curse support gem. The new Doom mechanic causes a self-cast Curse to increase in intensity over time until it expires. This works well in conjunction with the Impending Doom support, which causes an explosion of chaos damage when a linked curse ends. Curses have also received a new look.",
+            "zh": "我们还新增了一种诅咒相关的技能和一种诅咒辅助宝石。新的毁灭机制会对自身施放诅咒，并随时间推移越变越强。它可以跟【末日将至】辅助宝石配合使用，效果很好。这种新辅助宝石可以使连接的诅咒结束时产生混沌爆炸。我们还重做了诅咒效果的外观。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 95,
+      "columns": {
+        "Description": [
+          {
+            "en": "We've revamped Steel Skills by introducing Shards, deadly blades fragments that hover near your character. The Call of Steel Skill is available whenever you have a Steel skill equipped. It bursts Shards from the ground, providing more ammunition for Steel projectiles, and causes existing Shards to explode out of impaled enemies. We've also added one new Steel Skill and reworked both Shattering and Lancing Steel.",
+            "zh": "我们重做了坚钢技能，为它引入了碎片机制。它现在可以为角色周围提供飞旋的刃片。一旦装备坚钢技能，你就可以使用【钢铁呼唤】技能，它可以从地面刮起一阵碎片，给坚钢投射物提供更多弹药，并使穿刺在敌人身上的碎片爆炸。我们还增加了一种新坚钢技能，也重做了【破碎铁刃】和【断金之刃】。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 96,
+      "columns": {
+        "Description": [
+          {
+            "en": "Alongside the introduction of six new spells, we've reworked Discharge and Glacial Cascade. A goal with these new spells is that while they are powerful in a variety of character builds, they have additional benefits when self-cast.",
+            "zh": "除了六种新法术，我们还重做了【解放】和【冰川之刺】。我们致力于用它们创建强力BD的同时，也能用它们对自己施放获得好处。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 97,
+      "columns": {
+        "Description": [
+          {
+            "en": "<italic>{Path of Exile: Heist} also introduces over 25 new Unique Items, 12 new Divination Cards, a visual revamp to some skill effects and much more.",
+            "zh": "<italic>{《流放之路：夺宝奇兵》}同样会呈现超过25种新传奇物品，12种新命运卡，重做部分技能的视觉外观，还有许多精彩内容。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 99,
+      "columns": {
+        "Description": [
+          {
+            "en": "In <italic>{Path of Exile: Echoes of the Atlas}, you'll gain even more control over your end-game Path of Exile experience by specialising each region of your Atlas with its own passive tree, crafting Watchstones to refine your rewards, selecting up to ten map bosses to face simultaneously and challenging the Atlas' new pinnacle boss: The Maven.\n\nAlongside this endgame content, you'll perform dangerous and rewarding Rituals in the action-packed Ritual League, explore nineteen improved Ascendancy classes, discover powerful new items and much more.",
+            "zh": "在<italic>{《流放之路：异界的回响》}中，您将主宰《流放之路》的终局体验，利用异界图鉴定制每个异界国度的游戏内容，制造守望石提炼更加精华的奖励，同最多十位领袖进行酣畅淋漓的战斗，最后直面全新的最终首领，向贤主挑战。\n\n与此同时，你会在惊心动魄的《驱灵仪式》赛季中沿途遭遇十分危险又回报丰厚的驱灵仪式，探寻威力绝伦的全新物品，在更多精彩内容中流连忘返。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 100,
+      "columns": {
+        "Description": [
+          {
+            "en": "<italic>{When the Elder was sealed, entities far beyond the borders of the Atlas of Worlds took note and turned their attention in our direction. The first such visitor is an entity called The Maven. She is hungry to witness your fight for survival against the Atlas' most dangerous foes. Accept her challenge to put your talents and mortality to the test. Should you prove worthy, she will offer you a taste of her vast power.}",
+            "zh": "<italic>{裂界者被封印后，远在异界彼端之外的存在们把它们的注意力转移到我们的方向。寻觅而来的首位访客是一位叫贤主的神秘存在。她十分渴望目睹你在异界中挣扎求生，与最危险的敌人交战。接受她的挑战，你将经受天赋和死亡的考验。一旦你证明了自己的实力，她就会让你品尝她那深邃无穷的力量。}"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 101,
+      "columns": {
+        "Description": [
+          {
+            "en": "By slaying three map bosses in the Maven's presence, you'll earn an invitation to her realm where she will request that you defeat these bosses simultaneously. Having demonstrated your strength, she challenges you to defeat four bosses, then five, then six and finally ten at the same time. Only then can you take on the new pinnacle boss of the Atlas: the Maven herself.",
+            "zh": "只要在贤主降临的情况下击败三名地图首领，她就会邀请你前往她的国度，在那里同时把它们再击败一遍。如果你成功通过考验，她会要你再同时击败四位首领，接下来依次递增，直到最后同时击败十位。只有完成这样的壮举才能让你同异界图鉴全新的最终首领决战，那就是贤主本人。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 102,
+      "columns": {
+        "Description": [
+          {
+            "en": "Take control of your Atlas by unlocking regional passive trees which augment the content you encounter and rewards you receive while exploring those regions.",
+            "zh": "你可以解锁异界天赋树，取得异界位面的控制权，你就可以在异界国度的探索中强化你的遭遇，提高你得到的回报。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 103,
+      "columns": {
+        "Description": [
+          {
+            "en": "Echoes of the Atlas introduces three types of Craftable Watchstones. These valuable endgame items allow you to upgrade your Atlas and boost what types of rewards you find from maps. Players who are able to earn these powerful rewards will find that they are strictly better than regular Watchstones: they can be traded, don't expire with use, and their benefits can stack.\n\nAnother new endgame reward, The Maven's Orb, affects items that have two or more influence modifiers. When used on such an item, it randomly upgrades one of these influence modifiers and removes the others. If the modifier that's being upgraded is already at the highest tier, it'll upgrade to a new elevated tier.",
+            "zh": "《异界的回响》还推出了三种可锻造的守望石。这种珍贵的终局物品可以让你升级异界图鉴，让你更容易取得期待已久的地图奖励。它们比常规守望石更加强力：它们可以交易，而且不会随使用消减，它们提供的加成还可以叠加。\n\n另一种终局奖励是贤主宝珠，它可以用于至少有两种影响效果词缀的物品。使用它会随机升级一个影响效果词缀，同时移除另外一个。如果升级的词缀已经达到最高位阶，那么它就会转化成全新的“尊崇”位阶。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 104,
+      "columns": {
+        "Description": [
+          {
+            "en": "Eleven new maps and challenging boss encounters have been added to the Atlas. These include unforgiving new locations such as the <italic>{Dry Sea, Forking River, Frozen Cabins} and <italic>{Grave Trough}.",
+            "zh": "异界图鉴中还增加了十一张全新的地图和首领供您挑战。这些极端严酷的地点包括有<italic>{干枯之海、分叉之河、冻结之舱}以及<italic>{荒坟凹地}等等。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 105,
+      "columns": {
+        "Description": [
+          {
+            "en": "<italic>{Twisted spires of flesh, blood and sinew now stand scattered across Wraeclast's landscape. Their origins and purposes unknown, they seemingly have a hunger for blood and death and are willing to richly reward those who can sate it.}\n\nRitual is a combat league that pits you against both the arcane powers of the Ritual Altar and escalating waves of monsters, enclosed within a Ritual Circle. Each successive Ritual in an area is harder and offers better rewards.",
+            "zh": "<italic>{如今瓦尔克拉斯的大地上到处都出现了扭曲残破的血肉。它们的来源和用途都没人知道，但它们似乎对血腥和死亡都十分渴求，并且愿意用丰厚的奖励回报满足它们的人。}\n\n《驱灵仪式》是一个充满了战斗的赛季，你将被封锁在仪式秘环中，同时面对驱灵祭坛的古老力量和层出不穷的怪物。在区域中接连举行驱灵仪式，难度会越来越强，回报也越来越丰。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 106,
+      "columns": {
+        "Description": [
+          {
+            "en": "As you slay monsters during a Ritual, you'll earn Tribute which can be spent on a variety of seductive items and rewards. Among these rewards, you may be offered new Ritual Base Types which pair very powerful implicit mods with challenging drawbacks. You can consume some Tribute to reroll the rewards offered or to defer selected ones until later.",
+            "zh": "在驱灵仪式中消灭怪物可以获得恩典，用来购买各种诱人的奖励。你有可能从中得到全新的驱灵仪式基础类型物品，它们配对的基底词缀中一个强力，另一个则有棘手的缺陷。你还可以消耗部分恩典重置奖励，或者把想要的奖励延时。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 107,
+      "columns": {
+        "Description": [
+          {
+            "en": "In the end game, you can obtain tradeable Ritual vessels, which allow you to itemise the monsters from a ritual. You can place up to four vessels in the map device alongside a map to add their monsters to the rituals present in that map, substantially increasing both the difficulty and rewards of those Rituals.\n\nVessels also substantially increase monster density which can be very rewarding in maxed-out maps that have mechanics like Beyond and Delirium present.",
+            "zh": "在游戏最后，你能获得可以交易的驱灵法器，从此你就可以将驱灵仪式中的怪物物品化。你可以在地图装置中给地图使用最多四个法器，把法器中的怪物加入地图，加大驱灵仪式难度，获取更丰厚的回报。\n\n驱灵法器也可以大幅增加怪物密集度，如此一来，在有超越或惊悸迷雾机制出现的地图上使用收获更丰。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 108,
+      "columns": {
+        "Description": [
+          {
+            "en": "In addition to numerically rebalancing every Ascendancy class, we've substantially reworked the Deadeye, Inquisitor and Elementalist. The aim of these reworks has been to redistribute power within each Ascendancy passive tree so that there are plenty of new ways to build powerful Path of Exile characters.",
+            "zh": "除了从平衡性上调整了每个升华职业的数值外，我们还重做了猎者之眼、审判者和元素使三个职业。我们的目的是重新分配每一个升华天赋树的力量，为《流放之路》打造强力BD提供更宽广的思路。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 109,
+      "columns": {
+        "Description": [
+          {
+            "en": "One of the hallmarks of a Path of Exile expansion is its items! In addition to new craftable Watchstones, the Maven's Orb and plenty of Ritual Base Types, we've also introduced the Hydrosphere Skill Gem, Trinity Support Gem, 13 new unique items and a slew of Divination Cards which have been designed by our supporters.",
+            "zh": "不断推陈出新的物品是《流放之路》扩展包的一大特色。除了可锻造的全新守望石、贤主宝珠和丰富的驱灵基础类型物品外，我们还推出了水源法球技能石、三位一体辅助宝石、13 种新传奇物品，还有社区玩家创作的大量命运卡。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 110,
+      "columns": {
+        "Description": [
+          {
+            "en": "Harvest has returned. Instead of having to plant and manage your own Sacred Grove, you will discover portals to established gardens with multiple sets of harvests ready to go. From each pair of options, carefully weigh the encounter difficulty against the crafting outcomes before making a choice. If you can slay the monsters that spawn, you'll be rewarded with Lifeforce that can be used to greatly improve your items.",
+            "zh": "古灵庄园回来了。你现在不必再辛苦耕耘你自己的古灵庄园了。而是会找到传送门，通向一座设施完备，早已有成对作物等待收割的古灵庄园。你需要在战斗难度和工艺结果之间仔细权衡再做出选择。只要你能消灭由此产生的怪物，你就可以用命能大幅强化你的物品。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 111,
+      "columns": {
+        "Description": [
+          {
+            "en": "In <italic>{Echoes of the Atlas}, Heist contracts drop from Act Six onwards. Rogues level up their skills faster, markers drop with higher stack sizes and quest contracts are now dropped for you at the next smuggler's cache as soon as that quest is available.",
+            "zh": "在<italic>{《异界的回响》}中，从第六章开始就会掉落夺宝奇兵契约。现在赏金猎人升级更快，掉落的赏金猎人印记可以堆叠更多，并且只要任务可用，下次遇到的走私者密藏就一定会掉落任务契约。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 113,
+      "columns": {
+        "Description": [
+          {
+            "en": "In <italic>{Path of Exile: Ultimatum}, you must undertake the trials of Chaos and choose whether to risk it all for ultimate power.\n\nOur April expansion contains the Ultimatum challenge league, eight new Skill and Support Gems, improvements to Vaal Skills, an overhaul to past league reward systems, dozens of new items, and much more. We've also just released a new trailer and gameplay showcase for Path of Exile 2.",
+            "zh": "<italic>{《流放之路：致命贪婪》}将为您呈现一场终极的混沌试炼，在艰难的战斗中换取无上力量。\n\n四月扩展包中内含《致命贪婪》挑战赛季，为您提供八种全新的技能和辅助宝石，优化改良的瓦尔技能，重装上阵的装备系统，十几种全新物品和大量精彩内容。我们还公布了《流放之路4.0》的新预告片和游戏演示。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 114,
+      "columns": {
+        "Description": [
+          {
+            "en": "The ancient civilisation of the Vaal was built on sacrifice. They understood that in order to attain great power, great risks must be taken. On behalf of a Vaal entity known only as Chaos, the Trialmaster seeks to discover challengers who are willing to make immense sacrifices in the pursuit of power. As you survive each of his challenges, will you risk it all and accept his next Ultimatum?",
+            "zh": "古老的瓦尔文明依赖于献祭之道。他们深知要换取伟大的力量就必须承受巨大的风险。一位名为混沌之神的瓦尔古灵派遣出试炼使者，寻找愿意为换取力量献上祭品牺牲的挑战者。您是否可以从这样的试炼中活下来，您又是否愿意接受下一场贪婪试炼？"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 115,
+      "columns": {
+        "Description": [
+          {
+            "en": "The Trialmaster offers you a reward and a challenge with three difficulty modifiers to choose from. If you succeed in his trial, you may claim your reward. However, you'll be presented with an Ultimatum: leave with your spoils, or attempt more challenging encounters for more valuable rewards. But be careful how many trials you undertake - if you fail, you'll lose everything you've earned so far.",
+            "zh": "试炼使者会邀请您参加有三种难度选择的试炼。只要通过试炼，就可以得到奖励。不过您将面临抉择：是带上战利品离开，还是接受更多更艰难的挑战博取更宝贵的奖励。你一定要当心，因为只要失败一场，就会失去赢得的所有奖励。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 116,
+      "columns": {
+        "Description": [
+          {
+            "en": "In the endgame, Inscribed Ultimatums indicate an offering you must bring to the Trialmaster's Domain. If you're able to succeed at the inscribed challenge, the Trialmaster will reward you with an item of roughly double value. But if you fail, you forfeit the offering that you put on the line. Inscribed Ultimatums come with a challenging assortment of Ultimatum difficulty modifiers and can be traded to other players.",
+            "zh": "游戏终局后，贪婪战书将会要求您带上一件物品作为献祭前往试炼使者的国度。只要您能在无比艰难的挑战中胜出，试炼使者将会奖给你双倍价值的物品。但是失败就会失去作为献祭的物品。贪婪战书自带一套贪婪试炼的难度词缀，还可以在玩家之间交易。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 117,
+      "columns": {
+        "Description": [
+          {
+            "en": "As the difficulty of the Trialmaster's encounters escalates, so too do the rewards. In addition to some of Path of Exile's most valuable items, you might be offered new Ultimatum-exclusive Unique items. We've designed this league to be very compatible with party play - each player gets their own rewards, can vote on difficulty modifiers and can choose whether they want to risk the next round or not.",
+            "zh": "试炼使者提供的奖励也一样会随挑战难度升级。您除了可以获得《流放之路》最珍贵的物品外，还有机会得到专为《致命贪婪》赛季全新推出的传奇物品。本赛季还为团队玩家进行了量身定制，不但每位玩家都能获得自己独立的奖励，投票决定难度词缀，还能自由决定是否参加下一轮挑战。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 118,
+      "columns": {
+        "Description": [
+          {
+            "en": "The Vaal Reliquary Key can drop from anywhere in Path of Exile and opens a portal to the Vaal Reliquary. This ancient vault contains a chest with a special foil version of a Vaal-themed Unique item, dropped with equal weighting. Due to the value and power level of the items contained within, this is the rarest Reliquary Key ever added to Path of Exile.",
+            "zh": "瓦尔圣物厅钥匙可以从《流放之路》任何地方获得。它会打开一扇传送门，前往瓦尔圣物厅。那里藏有一个远古宝箱，里面有掉落权重与之匹配，且高度契合瓦尔风格的传奇物品。这些物品威力极大，价值极高，所以这种圣物厅钥匙可以是说是《流放之路》历来最稀有的一种。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 119,
+      "columns": {
+        "Description": [
+          {
+            "en": "We've introduced eight new Skill and Support gems that are themed around the concept of blood: sacrificing life for power. These gems open up even more possibilities for characters built around staying on low life, the threshold for which has been increased to 50%. We've also rebalanced Vaal Skills and increased the number of souls gained from damaging Unique enemies.",
+            "zh": "为了契合本赛季的风格，我们新推出了八种技能和辅助宝石，它们都需要献祭生命换取力量。它们为低血BD开启了全新的视野，提供了全新的可能性。而且低血状态的阈值也被提升至生命池的50%。我们还重新平衡了瓦尔技能，提高了攻击传奇敌人获得的灵魂量。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 120,
+      "columns": {
+        "Description": [
+          {
+            "en": "In Ultimatum we've buffed the core drop pool with more valuable items to find from any content in Path of Exile. We've bolstered the core drop pool with new currency items, secret vendor recipes, a selection of powerful league-specific uniques (including Headhunter!), new Atlas base types, and have made Act bosses worth farming again. But that's just the start. Almost every other reward system in Path of Exile has been improved as well.",
+            "zh": "我们在《致命贪婪》中强化了《流放之路》所有游戏内容的核心掉落池，使其掉落的物品更加珍贵。我们在核心掉落池中加入了新的通货物品、秘密商人配方，还有许多赛季专属的强力传奇物品（甚至有猎头者）。我们还加入了新的异界底子，使伐木章节首领更有价值。但这仅仅只是一个开始。《流放之路》中几乎每一个奖励系统都得到了改良。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 121,
+      "columns": {
+        "Description": [
+          {
+            "en": "We've made several improvements to the rewards in The Lord's Labyrinth. You can now see enchantment outcomes before you pick them and a choice of three specific helmet enchantments are offered in the Eternal Labyrinth. The Emperors' jewels that used to be awarded for fastest daily Labyrinth runs can now drop rarely from the Labyrinth's reward chests. We have introduced two new Labyrinth-specific Unique items. You can now consume an Offering to the Goddess in the map device to open portals directly to a random trial.",
+            "zh": "我们对帝王试炼的奖励做了好几项改良。你现在可以在选择之前看到附魔的结果，终极帝王迷宫还增加了三种特定的头盔附魔。每日最快速通帝王迷宫奖励的帝王饰品现在变成了帝王迷宫奖励宝箱的稀有掉落。我们还推出了两种迷宫专属的传奇物品。现在还可以通过在地图装置中用掉一个女神祭品来直接打开通向随机试炼的传送门。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 122,
+      "columns": {
+        "Description": [
+          {
+            "en": "When you slay Betrayal's Mastermind, her Immortal Syndicate Members now drop their rewards at one tier higher than their current tier. A valuable fourth tier of rewards has been added to allow this, and a few of the best existing rewards have been moved to that tier. Veiled Modifier crafting now unlocks faster and modifiers that are unveiled on items are now more powerful than their crafted counterparts. A new Betrayal-specific unique item can now drop from the Mastermind.",
+            "zh": "现在当你消灭背叛者的主脑后，她的不朽辛迪加成员会掉落比自己位阶高一阶的奖励。我们为此加入了非常珍贵的第四阶奖励，原有少数最好的奖励也被移到了这一阶。用工艺制作解锁加密词缀更快了，并且通过解密得到的词缀比通过工艺制作得到的更强。现在主脑还会掉落背叛者专属的传奇物品。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 123,
+      "columns": {
+        "Description": [
+          {
+            "en": "Perandus Coin drops have been rebalanced and can now be used to purchase a wider range of items from Cadiro. We've rebalanced Essences so that they are generally stronger and have allowed Screaming Essences to reroll rare items. There are four new unique Abyss Jewels, which alongside other rebalanced Abyss jewels are now best found from Abyss chests. We've also introduced Abyss Scarabs.",
+            "zh": "重新平衡了普兰德斯金币的掉落，也拓宽了用它们在卡迪罗处购买物品的范围。我们还重新平衡并加强了精华，并允许用咆哮精华重置稀有物品。我们增加了四种新深渊珠宝，此外深渊宝箱变为了找到最佳深渊珠宝的途径。我们还推出了深渊圣甲虫。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 124,
+      "columns": {
+        "Description": [
+          {
+            "en": "We have added new Beastcrafts, such as ones that can add mods to maps or influenced items. It's no longer possible to imprint items that have been split (a process which is now limited to once per item). Incursion has received many improvements to its rewards, including the ability to turn your Temple of Atzoatl into an item that can be traded to other players.",
+            "zh": "我们新增了一种炼兽选项，可以加给地图或影响效果物品。分裂过的物品再也不能拓印了（每个物品现在只能分裂一次）。穿越奖励得到了许多改进，你现在可以把阿佐亚特神庙变成物品，在玩家间交易。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 125,
+      "columns": {
+        "Description": [
+          {
+            "en": "Alongside new Blight, Metamorph and Delirium Incubators, we've modernised other Incubator rewards. We have introduced Blight-themed Scarabs and two new Catalysts. Corrupted Blighted Maps can drop the new Tainted Oil which allows anointment of corrupted items. Chests in Blighted Maps now benefit from the map's item quantity value.",
+            "zh": "除了为菌潮、灾变和惊悸迷雾推出了孕育石外，我们还翻新了其它孕育石奖励。我们推出了菌潮风格的圣甲虫和两种新催化剂。腐化的菌潮地图会掉落新增的污秽圣油，用于涂膏腐化物品。菌潮地图的宝箱也根据地图的物品数量强化了。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 126,
+      "columns": {
+        "Description": [
+          {
+            "en": "Ritual has become a core game mechanic, spawning in 8% of maps, which is the new game-wide rate for past league mechanics. We've improved Atziri's rewards by buffing her exclusive Sacrificial Garb base type and adding new Unique items that only she can drop.\n\nThere are also nerfs to a few past leagues that are currently too powerful. Talismans no longer drop using the well-rolled mod system, but their anointments can be changed using a Tainted Oil. Some Harvest crafts have been removed or restricted, but Harvest now spawns more frequently and the Heart of the Grove encounter is now a tradeable map fragment.",
+            "zh": "驱灵仪式现在变成了一种核心机制，有 8% 的几率在地图上产生。这也是现在所有大部分赛季机制的通用生成率。我们还改进了阿兹里的奖励，强化了她专属的祭礼束衣，还增加了一种只有她掉落的传奇物品。\n\n我们削弱了少数几种过去赛季中太滥强的物品。魔符不会在按照上佳组合的词缀系统来掉落了，不过它们的涂膏效果可以用污秽圣油来改变。我们移除或限制了一些庄园工艺选项，不过古灵庄园产生得更加频繁，并且古灵庄园之心遭遇战现在变成了一种可交易的地图碎片。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 128,
+      "columns": {
+        "Description": [
+          {
+            "en": "Path of Exile 2's first gameplay showcase at ExileCon was set in the dark forests of the Island of Ogham. Our latest showcase takes place in the ancient dunes of the Vastiri Desert and uses two new weapon types - Spears and Crossbows - to demonstrate Path of Exile 2's next-generation action combat.\n\nPath of Exile 2 does not have a release date yet, but we are targeting a Closed Beta in 2022.",
+            "zh": "在嘉年华上，《流放之路 4.0》的第一段游戏演示发生在欧甘岛上的黑暗森林里，我们最新一段演示将发生在瓦斯提里荒漠的古老沙丘之间。我们将用两种新武器——战矛和战弩来演示次世代的战斗画面。\n\n《流放之路 4.0》暂时还没有发布时间，但我们的目标是2022年进行封闭测试。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 130,
+      "columns": {
+        "Description": [
+          {
+            "en": "In <italic>{Path of Exile: Expedition}, you will join the Kalguuran expedition, excavate their lost relics and undead using chains of explosives, then barter, deal and gamble these relics with their merchants.\n\nOur July expansion contains the Expedition challenge league, four new NPC traders, nineteen new skill and support gems, new base item types and unique items. We've also made massive balance changes to make Path of Exile more challenging, including a full rework of the flask system. And finally, Path of Exile: Royale makes its long-awaited return!",
+            "zh": "在<italic>{流放之路：先祖秘藏}中，您将加入卡古兰人探险队，用连锁炸药挖掘他们的失落遗物，并通过各种方式跟他们的商人交易。\n\n七月扩展包将同步推出《先祖秘藏》挑战赛季，其中包括四位全新的商人NPC、十九种新宝石、新基础物品和传奇物品。我们还对整个游戏进行了大规模平衡性调整，让《流放之路》变得更有挑战性，同时我们还重做了药剂系统。最后，大家期待已久的《流放之路：孤岛求生》也将重装上阵！"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 131,
+      "columns": {
+        "Description": [
+          {
+            "en": "The Kalguur are using explosives to excavate their ancestors' settlements throughout Wraeclast. Overwhelmed by the dangers they unearth, they require your violent services. You must strategically lay a chain of explosives and detonate them, defeating the undead that rise. Tactical planning is essential, as you must decide what to prioritise in the excavation, carefully balancing your temptation and capabilities.\n\nYou may choose to unearth chests full of valuable rewards, or to revive the undead husks of Kalguuran explorers and their treasures. It pays to be mindful of the mysterious Remnants of Kalguuran settlements scattered around the site. When detonated, their modifiers significantly increase the difficulty and reward of your Expedition.",
+            "zh": "卡古兰人用炸药在瓦尔克拉斯挖掘先祖秘藏，却遭受了前所未有的危机，因此需要您的援助。您必须考虑策略，合理部署炸药链，再击败地底涌现的敌人。在挖掘行动中，您必须根据实际情况考虑孰轻孰重。\n\n挖掘行动可以按照您自己的意愿来进行，您既可以选择挖掘装满财宝的箱子，也可以唤醒古代卡古兰人的亡灵，掠夺他们的装备。不过千万要注意四处散落的残骸，因为它们一旦被摧毁，就会大幅增加先祖秘藏探险的难度和回报。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 132,
+      "columns": {
+        "Description": [
+          {
+            "en": "After retrieving ancient runed artifacts from the Expedition sites you may trade them to the Kalguuran merchants who seek to recover them. Each is interested in different varieties of artifacts and offers a unique trading experience for you to try to take advantage of: gambling, bartering, upselling or exchanging.\n\nGwennen, the Gambler, believes not in luck but that good fortune comes only to those who believe hard enough. Rog, the Dealer, is a fearful but earnest man who just wants to make a deal. Tujen, the Haggler, is open to negotiating but has a short temper. Dannig is the leader of the Expedition and wants to facilitate your trades with his countrymen.",
+            "zh": "在先祖秘藏地点找回古代符纹神器后，您就可以拿去跟需要它们的卡古兰商人交易。他们每一位都需要的神器种类都不一样，并且交易的方式都独一无二，分别有玩游戏、实物交易、推销和兑换四种。\n\n游戏人桂温妮相信只有坚信才能赢得美好未来。交易人罗格胆小心热，就喜欢跟您做生意。小贩图金喜欢跟人砍价，却有一副火爆脾气。而探险队的领袖丹宁则希望您多跟他的同胞做生意。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 133,
+      "columns": {
+        "Description": [
+          {
+            "en": "During your Expeditions, you may discover Logbooks. These ancient books chronicle the locations that the ancient Kalguur visited. Find a Logbook, craft its mods like a map, bring it to Dannig and choose a location for your next Expedition. These Expeditions are much larger than regular ones and harbour many mysteries to explore, if you dare.",
+            "zh": "您可以在探索地点找到先祖日志。这些古书里记录了卡古兰先辈们曾经造访过的地点。把日志带给丹宁就可以像地图一样进行工艺锻造，然后从中选择一个地点展开先祖秘藏探险。这种探险规模大得多，其中还有许多神秘宝藏等着您去一探究竟。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 134,
+      "columns": {
+        "Description": [
+          {
+            "en": "While planning your chain of explosives in a Logbook Expedition, you should consider detonating various destructible objects. Such obstacles might be blocking secret passages leading to ancient, terrifying bosses and their valuable treasures.\n\nThese treasures include unique items and base types that introduce a new defensive mechanic called Ward. When you're hit, your Ward is completely depleted and reduces the damage dealt to you by that amount. A few seconds later, your ward replenishes itself and you're protected from the next hit.",
+            "zh": "在通过日志开启的先祖秘藏探险中，您可以在部署炸药链时考虑是否要炸掉那些可以被摧毁的物体。这些障碍物底下有可能藏有通向古代凶恶首领藏身地的密道，蕴藏着珍贵的宝藏。\n\n这些宝藏里的传奇物品和基础物品具有一种新的防御机制，叫做结界。它可以让你在遭受攻击时按照它的数值替你承受伤害并完全消失，再等待数秒后再重新出现，替你抵御下一次攻击。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 135,
+      "columns": {
+        "Description": [
+          {
+            "en": "Alongside Expedition, we are revitalising Path of Exile's build metagame by both introducing many new playstyles and augmenting existing builds with powerful new tools. We've created 19 new skill and support gems that are designed around the themes of each Ascendancy Class.\n\nA new skill inspired by the Ascendant, Spectral Helix throws out a spectral copy of your weapon which spirals outwards from you.",
+            "zh": "除了先祖秘藏之外，我们也希望通过更多新玩法来让《流放之路》的配装系统重焕生机。所以我们围绕每一种升华职业设计了 19 种新宝石。\n\n其中受升华使徒启发而创造的新技能叫灵幻旋斩，它能投掷一个近战武器的灵幻副本，会朝外盘旋飞出。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 136,
+      "columns": {
+        "Description": [
+          {
+            "en": "Inspired by the Marauder's Juggernaut, Berserker and Chieftain Ascendancy classes, we've created the Boneshatter and Rage Vortex skill gems and the Earthbreaker support gem. Boneshatter strikes enemies with a forceful blow. If this attack stuns an enemy, it releases a powerful shockwave with area based on the stun's duration. As you use Boneshatter more, it deals more and more damage to enemies and to yourself. Rage Vortex consumes your Rage to unleash a whirling vortex that rapidly hits enemies within its range. The Earthbreaker Support summons an Ancestral Totem that uses any supported Slam Skill.",
+            "zh": "受野蛮人的勇士、狂战之魂和头领等升华职业启发，我们创造了七伤破和怒火漩涡这两种技能宝石和裂地之灵辅助宝石。七伤破可以向敌人发出一击猛击，如果敌人被晕眩，则根据晕眩持续时间施放一道强力震波。并且随着你的七伤破越用越多，它对你和敌人双方造成的伤害也越来越高。怒火漩涡会耗尽怒火，施放一道漩涡，沿途猛击敌人。裂地之灵（辅）则可以召唤一个可以辅助任意猛击技能的先祖图腾。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 137,
+      "columns": {
+        "Description": [
+          {
+            "en": "Inspired by the Duelist's Champion, Gladiator and Slayer Ascendancy classes, we've created the Defiance Banner and Shield Crush skill gems and the Behead support gem. Defiance Banner is a new defensive tool that can be used to increase your armour and evasion while reducing the critical strike chance of nearby enemies. Shield Crush swipes your shield towards your enemies and sends out forceful waves of damage based on the stats of your shield. The Behead Support can only support Strike skills and is basically like a mini-Headhunter. When your supported Strike slays a rare enemy, you'll steal one of its modifiers at random for 20 seconds.",
+            "zh": "受决斗者的冠军、斗士、处刑者等升华职业启发，我们创造了抗争战旗和盾牌碾压这两种技能宝石和斩首辅助宝石。抗争之旗是一种新型防御道具，可以提高你的护甲值和闪避值，同时降低周围敌人的暴击率。盾牌碾压可以将盾牌砸向敌人，根据盾牌数值产生强力伤害波。斩首（辅）则只能辅助打击技能，效果如同迷你猎头者，使你用被辅助技能消灭稀有怪物时可以偷取一个随机词缀并持续20秒。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 138,
+      "columns": {
+        "Description": [
+          {
+            "en": "Inspired by the Ranger's Raider, Pathfinder and Deadeye Ascendancy classes, we've created the Storm Rain and Explosive Concoction skill gems and the Focused Ballista support gem. Storm Rain fires arrows that stick into the ground. These arrows periodically pulse with lightning damage that arcs to nearby arrows. Focused Ballista causes your Ballistas to focus fire on your target and only fire when you do. Explosive Concoction must be used unarmed and throws an explosive projectile at your target. You can enhance this explosion by consuming charges from Ruby, Sapphire or Topaz flasks.",
+            "zh": "受游侠的侠客、追猎者和锐眼等升华职业启发，我们创造了暴雨箭和爆破灵药这两种技能宝石和弩炮集火辅助宝石。暴雨箭可以朝地面发射箭矢，它们会朝彼此发射造成闪电伤害的电弧脉冲。弩炮集火可以让你的炮台根据你的命令集火一个目标。爆破灵药则必须徒手使用，它可以朝目标投掷爆炸投射物。你还可以通过消耗红玉药剂、黄玉药剂和蓝玉药剂来强化它。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 139,
+      "columns": {
+        "Description": [
+          {
+            "en": "Inspired by the Shadow's Assassin, Saboteur and Trickster Ascendancy classes, we've created the Ambush, Blade Trap and Voltaxic Burst skill gems. Ambush is a new Blink skill which teleports you to an enemy, blinds them and exerts your next one-handed melee attack. When you use Blade Trap, you throw out a mechanical device with two copies of your weapon attached. These blades spin rapidly in a circle a set number of times, dealing damage to anything they pass through. Voltaxic Burst grants a buff which counts down to zero, at which point it detonates, sending out a damaging lightning and chaos explosion. Enemies slain by this explosion will also explode dealing lightning and chaos damage based on a portion of their life.",
+            "zh": "受暗影的暗影大师、破坏者、欺诈师等升华职业影响，我们创造了伏击、剑刃陷阱和雷电魔爆这三种技能宝石。伏击是一种新致盲技能，可以让你传送到敌人身旁使其被致盲，并增助下一次单手近战攻击。剑刃陷阱可以投掷出两个带有你武器副本的机械装置。它们挥舞的剑刃会在一个圆环内旋转数次，给经过的敌人造成猛烈的伤害。你双持武器的时候它们挥舞的速度会更快，不过造成的伤害是同时按照两把武器来计算。雷电魔爆则提供一个倒计时增益效果，计时结束后引爆，造成剧烈的闪电伤害和混沌爆炸。被爆炸消灭的敌人会继续爆炸，根据它们的生命量造成闪电伤害和混沌伤害。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 140,
+      "columns": {
+        "Description": [
+          {
+            "en": "Themed around the Witch's Occultist, Elementalist and Necromancer Ascendancy classes, we've created the Forbidden Rite, Eye of Winter and Summon Reaper skill gems. Forbidden Rite fires a barrage of exploding chaos projectiles at nearby enemies while also inflicting damage on you. The Eye of Winter is a large projectile that fires out a torrent of cold projectiles in a spiral formation as it travels. Summon Reaper is a new minion that feeds off your other minions (literally). It inflicts bleed on enemies and can be commanded to attack specific locations.",
+            "zh": "我们围绕女巫的秘术家、元素使、死灵法师等升华职业创造了禁断典仪、凛冬之眼和召唤追命死灵等技能宝石。禁断典仪可以朝周围的敌人连续发射混沌伤害的爆炸投射物，同时对你自己施加伤害。凛冬之眼是一枚大型投射物，在移动途中不停螺旋喷射冰霜投射物。召唤追命死灵可以召唤出一只会吃掉你的其它召唤生物的终极魔仆。他可以对敌人施加流血效果，还可以根据你的命令行动。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 141,
+      "columns": {
+        "Description": [
+          {
+            "en": "Inspired by the Templar's Hierophant, Guardian and Inquisitor Ascendancy classes, we've created the Manabond, Absolution and Battlemage's Cry Skills. Manabond creates a rune that explodes, dealing more damage or having more area of effect, based on the current state of your mana pool. When Absolution's damaging shockwave kills an enemy, it creates a Sentinel of Absolution which also casts its own shockwaves. Battlemage's Cry taunts nearby enemies and exerts subsequent attacks, causing them to trigger a linked spell on your next melee hit.",
+            "zh": "受圣堂武僧的圣宗、守护者和审判者等升华职业启发，我们创造了缚魔电殛、赦罪和魔武战号这三种技能宝石。缚魔电殛能产生一道可以爆炸的符文，根据你当前魔力池的状态造成更高的伤害或更大的范围效果。赦罪可以发射震波，被震波消灭的敌人会产生一个可以施放同一种震波的赦罪哨卫。魔武战号能嘲讽周围的敌人并增助随后的攻击，在之后的近战攻击击中时触发链接的法术。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 142,
+      "columns": {
+        "Description": [
+          {
+            "en": "Expedition is Path of Exile's 30th release since Closed Beta. In almost every update, we provide new ways to improve your characters, more effective skills to use, and ways to craft better and more powerful items. The power level of end-game Path of Exile characters has increased tenfold since Launch. From this expansion onwards, we are working to restore some of the challenge that Path of Exile is known for.\n\nIn addition to a substantial Flask Rework, we're reducing the power level of pure-damage support gems, making triggered skills cost mana, tweaking the most powerful movement skills and making the enemies in Path of Exile's first act much more dangerous. Our work to improve the level of challenge in Path of Exile will continue across subsequent expansions.",
+            "zh": "《先祖秘藏》是《流放之路》自封测以来发布的第三十个扩展包。我们每次更新基本上都会提供全新的方式强化游戏角色，提供更高效的技能，以及打造更好装备的新途径。所以自《流放之路》上线至今，玩家在终局后的力量水平已经膨胀了十倍。所以从本次扩展包开始，我们将着手把《流放之路》曾经闻名的挑战性恢复一部分。\n\n除了基本上重做了药剂系统外，我们还降低了纯伤害型辅助宝石的整体威力，让触发技能需要魔耗，调整了最强的移动技能，还让《流放之路》第一章的敌人变得更加危险。我们的目标是在后续扩展包中继续不断改进《流放之路》的游戏挑战性。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 143,
+      "columns": {
+        "Description": [
+          {
+            "en": "We have substantially reworked Path of Exile's Flask System with the goal of reducing the level of permanent player power that flasks grant and promoting considered flask choices that incentivise interactive gameplay. The new Instilling Orb allows you to modify your utility flasks so that they trigger on certain conditions. The Enkindling Orb provides a boost to your utility flasks in exchange for preventing charge gain while they're active. We have also reworked many flasks and introduced new Gold and Corundum Flasks.",
+            "zh": "我们基本上把药剂系统重做了一遍。希望借此使药剂不再成为玩家的无脑增益永动机，让选择药剂成为一种需要思考的游戏玩法。新推出的灌顶石可以让药剂在特定条件下自动触发。而启明石则可以让功能药剂以生效期间无法充能为代价获得增强。我们也重做了许多药剂，并推出了黄金药剂和刚玉药剂两种新药剂。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 144,
+      "columns": {
+        "Description": [
+          {
+            "en": "A few years ago we launched a rough but playable Battle Royale mode as an April Fool's joke. While we intended it to be short-lived, the Path of Exile community has demanded its return. Today we're launching the new and improved Path of Exile: Royale which has many new features and separate balance from Path of Exile's core game.\n\nThis mode is available now on PC for only two days and will be available again during weekends for the duration of the Expedition League. We will continue to iterate on its balance throughout this time, releasing updates between the weekly play sessions.",
+            "zh": "几年前，我们曾经推出过一个粗糙却能玩的孤岛求生模式当作愚人节玩笑。虽然我们并不打算把它当真，但社区玩家们却始终惦记着它。所以我们今天就推出了全新改良的《流放之路：孤岛求生》模式，它有许多全新的功能，平衡性也跟《流放之路》游戏本体完全不同。\n\n该模式现在已经在PC端上线，在先祖秘藏赛季期间每个周末都会开放。我们在这期间还会继续调整它的平衡性，并在周间给它发布更新。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 145,
+      "columns": {
+        "Description": [
+          {
+            "en": "Royale now has its own Passive Skill Tree which lets you focus on what matters most for low-level PvP combat. We've also rebalanced a selection of skills and iconic unique items from throughout the game so that they're appropriate for Royale play. There's an improved spectator mode, leaderboard and many other new features. If you can kill all other players in your session, you'll win the new Rhoa Feast Hideout Decoration that upgrades in appearance as you win more matches. Visit the website for more information about Path of Exile: Royale!",
+            "zh": "新版孤岛求生有独立的天赋树，让您在低等级PVP战斗中更加关注对战重点。我们从游戏中选取了一系列标志性的技能和传奇物品，重新调整了它们的平衡性，让它们更符合孤岛求生模式的游戏方式。我们还为它配备了改良的观战模式、排行榜和其它许多新功能。只要您在比赛中击败其他所有玩家，您就可以用恐喙盛宴装饰物装饰您的藏身处，它还可以随您的胜场数不断升级外观。请在官网上了解《流放之路：孤岛求生》的更多详情！"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 147,
+      "columns": {
+        "Description": [
+          {
+            "en": "In <italic>{Path of Exile:} Scourge, you must fill the Blood Crucible with the blood of your enemies then shift into an alternate Wraeclast where an apocalyptic event rages, in order to slay powerful demons and craft potent items.\n\nOur October expansion contains the Scourge challenge league, new skill gems, a rework to the passive skill tree, improvements to the Atlas endgame, new aspirational endgame content, new guild features, new unique items and much, much more. ",
+            "zh": "在S17资料片中，您需要击败敌人并从其身上获得能量来补充赤炼玄炉，穿越到被异度天灾肆虐的平行世界，在那里横扫千军，打造不世神兵。\n\n十月的资料片将带来全新的技能宝石、重装上阵的天赋树系统，异界图鉴全新改良、激动人心的终局玩法、新鲜出炉的公会玩法，还有全新的传奇物品，静待您的挑战。 "
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 148,
+      "columns": {
+        "Description": [
+          {
+            "en": "A mysterious figure appears out of nowhere, trying to escape from something you can't see. She hands you a rusty-looking device called the Blood Crucible and urges you to implant it into your body.\n\nThe Blood Crucible fills with the blood of monsters you slay. Once it reaches a certain threshold, you're able to activate the device. This will instantly thrust you into a parallel reality, an alternate Wraeclast overrun by demons known as The Scourge. The more blood you have collected, the longer you can stay shifted into the parallel Wraeclast. But the longer you stay, the more damage you'll take.",
+            "zh": "您将与一位逃亡路上的神秘人不期而遇。她会送您一件神秘礼物，虽然锈迹斑斑，却是一件名为赤炼玄炉的神器，需要您将它插入体内才能发挥威力。\n\n您需要消灭怪物，用它们的能量补充赤炼玄炉。只要补充的能量达到一定阈值，您就能启动这个神器，立即穿越到平行世界。那里是另一种面貌的瓦尔克拉斯，正遭到一种名为异度天灾的恶魔蹂躏。您需要收集足够多的能量才能更长久地留在平行世界。不过，您待得越久，受到的伤害也会越重。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 149,
+      "columns": {
+        "Description": [
+          {
+            "en": "You can place an item inside the Blood Crucible. While you are killing the Scourge, it absorbs corruption from the alternate Wraeclast and focuses it onto the item. After enough kills, your item can be transformed, corrupting it and granting it a pair of Scourged Modifiers. One of these is a powerful beneficial mod and one is a detrimental mod that may or may not strongly affect your build. \n\nIf you get a combination you're unhappy with, your item is not ruined. By putting it back in the Blood Crucible, and killing even more monsters in the alternate Wraeclast, you can transform it a second or third time, potentially getting a better pair of mods that overwrite the first set. ",
+            "zh": "赤炼玄炉里可以放入物品。在您消灭异度天灾途中，它会从平行世界汲取腐坏能量，灌注其中的物品。只要消灭足够多的天灾恶魔，就能炼化物品，使其腐化，获得一对天灾词缀。它们当中一个提供强大的正面效果，另一个则提供负面效果，甚至有可能影响您的BD搭配。\n\n不过即便您得到了不理想的组合，您也无需担心自己的装备被毁。您只需把它放回赤炼玄炉，重新在平行世界收集能量便可再次炼化。每件装备都能炼化两到三次，让您完全有可能用更好的组合覆盖先前的。 "
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 150,
+      "columns": {
+        "Description": [
+          {
+            "en": "As you slay the Scourge, the Blood Crucible gains experience and can level up. You can allocate its skill points in its own passive skill screen, which allows it to specialise in many aspects including unlocking additional item slots, faster item transformation, better transformation outcomes and the ability to transform unique items. ",
+            "zh": "在您消灭天灾恶魔途中，赤炼玄炉也能获得经验值升级。您可以在它的独立天赋界面中配置天赋，获得不同方面的强化，诸如解锁额外物品插槽、加快炼化速度、更好的炼化结果、炼化传奇物品等等。 "
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 151,
+      "columns": {
+        "Description": [
+          {
+            "en": "In the Atlas of Worlds, you may find the Dream Furnace, a device that grants you the ability to place Maps in the Blood Crucible, alongside your equipment. When a Map absorbs enough corruption and transforms, it gains a beneficial and detrimental effect in the same way that a piece of equipment does, but can also gain a modifier that changes the behaviour of Scourge league in that map entirely. \n\nMaps can be transformed up to ten times, increasing their risk and reward substantially each time. When a Map is transformed a second or subsequent time, there's a chance that the new beneficial or detrimental modifiers stack alongside the existing ones, enhancing their power, or a chance that new modifiers are added. ",
+            "zh": "您将在探索异界图鉴途中发现梦想熔炉。这种装置将赋予您在赤炼玄炉里放入地图的能力。地图可以像其它装备一样在吸纳足够腐坏能量后炼化出正面词缀和负面词缀，也可以获得一个可以完全改变该地图上异度天灾赛季运作方式的词缀。\n\n地图可以炼化十次，每次炼化都可以大幅提升位阶和奖励。重复炼化地图有一定几率让新产生的正面/负面词缀和原有的正面/负面词缀叠加，强化它们的力量，又或者产生新的词缀。 "
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 152,
+      "columns": {
+        "Description": [
+          {
+            "en": "The Scourge expansion includes a rework of Path of Exile's iconic passive skill tree. Despite these large changes, the tree is intended to still feel familiar to existing players. We have rebalanced all passive skills, consolidated their power around their primary function, and moved many niche stats to a new system: <italic>{Passive Skill Masteries.}\n\nWhen you allocate the first Notable passive skill in a cluster, a Mastery appears. Allocating a skill point to this Mastery allows you to pick from a list of advanced stats that match the theme of the cluster. This new system both makes the tree more understandable and gives you more freedom for how you plan your passive skills. We have also rebalanced a few keystone passives, changed the locations of some and added six new keystones to the tree.",
+            "zh": "《异度天灾》将把《流放之路》标志性的天赋树回炉重制。但大家无需担心，尽管我们做了许多改动，但它仍然是大家所熟悉的那个天赋树。我们重新平衡了所有天赋，专门针对它们的主要功能做了强化，还把众多只加数值的小天赋整合到全新的<italic>{天赋专精}系统中。\n\n您只需要在天赋群中配置第一个核心天赋就能启动天赋专精，在其中配置一个天赋点就能从一个跟该天赋群相匹配的表格中选择一个数值。这个新系统不但让天赋树更加一目了然，还能让您在规划天赋时更加自由。我们还平衡了少量基石天赋，移动了其中一部分的位置，又增加了六种全新的基石天赋。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 153,
+      "columns": {
+        "Description": [
+          {
+            "en": "<italic>{Path of Exile: Scourge} introduces many new skill gems designed to create new build archetypes. Convert your Energy Shield into Energy Blades, summon a giant Tornado that is powered up by your own projectiles, rewind your character's timeline with Temporal Rift, throw Poisonous Concoctions at your enemies and help your friends with six new party-oriented Link skills. ",
+            "zh": "S17资料片将推出琳琅满目的全新技能，并由此孕育出全新的BD搭配。它们可以将能量护盾转化为能量之刃，又或用投射物催生猛烈的龙卷旋风，通过时空裂隙闪回时空，朝敌人投掷毒爆灵药，或者用全新的羁绊技能辅助团队。 "
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 154,
+      "columns": {
+        "Description": [
+          {
+            "en": "Early next year, we will release a huge overhaul of Path of Exile's Atlas of Worlds endgame in the 3.17 expansion. In the meantime, though, the Scourge release speeds up how quickly you can set up and progress through your Atlas.\n\nWe have reduced the number of regions from 8 to 4, which reduces the number of Watchstones required from 32 to 16. We have also reduced the number of maps on the Atlas to 100 plus the unique maps. We've rebalanced the bonuses for completing content so that by the time your Atlas is fully unlocked, you'll receive a slightly higher level of benefit than you did before. ",
+            "zh": "我们计划在明年初重新制作异界图鉴的后期玩法。与此同时，我们在S17资料片中精简了异界图鉴的流程，同时加快异界推图的速度。\n\n我们将异界国度的数量从 8 个缩减成4 个，把守望石的需求从 32 个缩减到16 个。我们还减少了异界图鉴的地图数量，现在除开传奇地图外，还有 100 张地图。我们也重新平衡了它们提供的奖励，这样当你完全解锁异界图鉴后完成上面的内容可以得到的收益比此前要高一些。 "
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 155,
+      "columns": {
+        "Description": [
+          {
+            "en": "Path of Exile: Scourge introduces new Uber versions of a lot of endgame content, which allow you to challenge your best characters on the hardest content we have ever made. Three of the new unique items that are introduced in this expansion can only be found from specific Uber content.\n\nFlawless Breachstones allow access to a new tier of Breach Domain. Blighted maps can now drop Blight-ravaged Maps which can be anointed up to nine times (with up to three of each type of anointment). Delirium's Simulacrum has been extended with additional challenging waves. New Unrelenting Emblems can be combined with Timeless Emblems to increase the difficulty of the Domain of Timeless Conflict. Delve has been rebalanced and now offers greater challenge, greater reward and more frequent boss encounters. ",
+            "zh": "S17资料片给许多后期玩法增加了进阶版本，供广大流放者挑战自己的极限。有三种新资料片推出的传奇物品只会在进阶版本中出现。\n\n现在无暇裂隙石能够让您前往新位阶的裂隙领域，菌潮地图中会掉落可以用任意圣油涂膏九次的菌潮灭绝地图，惊悸迷雾的梦魇拟像遭遇战扩展了额外的战斗波数，全新推出的不屈印记可以跟永恒印记组合在一起提高永战之域的战斗难度，重新平衡过的地心探险难度剧增，回报更加丰厚，首领战也更加频繁。 "
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 156,
+      "columns": {
+        "Description": [
+          {
+            "en": "The Scourge expansion contains a long-awaited set of quality-of-life improvements for Path of Exile's guilds! Guild Stashes have been improved to support all the features of personal stash tabs, such as ctrl+clicking, affinities and rearrangement. We have also implemented guild versions of all the various exotic stash tabs such as Currency Tabs and Map Tabs. \n\nWe've introduced Guild Hideouts, where you and your friends can have meetings, hang out, and access the map device as though it were your own. As part of our hideout improvements, we have removed the Favour system entirely. Now, all non-microtransaction hideout decorations are available in unlimited quantities for everyone to decorate their personal and guild hideouts with.",
+            "zh": "S17资料片为流放之路广大公会推出了大家翘首以盼的品质更新。公会仓库现在具备了个人仓库页的全套功能，支持ctrl点击存取，归类和排序功能。\n\n我们还推出了公会藏身处，为各位提供亲友聚会的理想场所，其中的地图装置也可供您随意使用。此外我们还移除了藏身处的友情点系统，所有非商城藏身处装饰物都无限供应给所有人装点个人藏身处和公会藏身处。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 157,
+      "columns": {
+        "Description": [
+          {
+            "en": "In Path of Exile: Scourge, we've done a lot of balance work improving flasks, ailment mitigation, general character defenses and elemental damage over time. We have made some changes to how stacking auras and curses works, and have buffed most Awakened Support Gems. Check out the full changes in the Path of Exile: Scourge Patch Notes. ",
+            "zh": "我们在S17资料片中做了大量平衡性改进，包括药剂改良、异常状态免疫、角色通用防御和元素持续伤害等等。同时我们改动了光环叠加机制和诅咒机制，加强了大部分强化辅助宝石。 "
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 158,
+      "columns": {
+        "Description": [
+          {
+            "en": "In this expansion, we're integrating the Expedition league into Path of Exile's core game and are retiring the Perandus league. You'll start finding Expeditions from Act 6 onwards, and there's a base 8% chance that you'll encounter it in each Map.\n\nWe have made some improvements to Expedition, most notably changing Expedition Artifacts so that they are not tradeable items anymore, which means they are automatically picked up during the encounters. ",
+            "zh": "我们在S17资料片中将《先祖秘藏》赛季纳入核心游戏，并取代《普兰德斯》赛季的内容。您可以从第六章开始进行先祖秘藏探险，每张地图出现的几率为 8%。\n\n我们对《先祖秘藏》做了一些改进，最显著的改动是先祖秘藏神器不再可以交易，它会在遭遇战中自动拾取。 "
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 159,
+      "columns": {
+        "Description": [
+          {
+            "en": "In addition to six new unique items, 13 new Divination Cards and five new Currency Items, we have also added two new socket styles for colourblind users and have made changes to how currency items drop so that fewer clicks are required to pick them all up.\n\nWe're also teaming up with Twitch Rivals to run another Path of Exile: Royale tournament, this time with a new twist. Tune in on October 28 to watch your favourite streamer compete for their share of a $30,000 prize pool. ",
+            "zh": "除了六种新法术，我们还重做了“解放”和“冰川之刺”。\n\n我们致力于用它们创建强力BD的同时，也能用它们对自己施放并获得好处。 "
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 161,
+      "columns": {
+        "Description": [
+          {
+            "en": "In <italic>{Path of Exile: Siege of the Atlas}, two new Eldritch Horrors threaten to consume the Atlas of Worlds. Join Commander Kirac's militia and defend the Atlas and Wraeclast itself against these celestial foes.\n\nThis large endgame expansion contains new Atlas systems, pinnacle bosses, one gigantic Atlas passive skill tree, Eldritch implicit endgame crafting, new unique items, the Archnemesis Challenge league and much more.",
+            "zh": "在2022年度资料片《异界的纷争》中，异界图鉴将面临两位上古之灵的威胁。您必须加入奇拉克的义勇军，为保卫异界图鉴和瓦尔克拉斯而战。\n\n本次大型终局扩展将推出新的异界图鉴系统、新的最终首领、庞大的异界图鉴天赋树、古灵基底，还有全新的传奇物品和罪恶枷锁挑战赛季。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 162,
+      "columns": {
+        "Description": [
+          {
+            "en": "Having assumed responsibility for the defense of the Atlas, Commander Kirac has established a base in the Karui Archipelago with several map devices. He has heard rumours of your prowess and invites you to join his militia in order to scout the Atlas to learn about threats to Wraeclast. You encounter the Maven and discover that two new Eldritch Horrors are here: The Searing Exarch and The Eater of Worlds. They must be stopped before they consume everything.",
+            "zh": "指挥官奇拉克挑起了保卫异界图鉴的重担。他在卡鲁群岛布置了装置，建立了作战基地，并邀请你加入义勇军探索异界图鉴，探听敌人的虚实。随后你将从贤主口中得知了两名新的上古之灵，它们是焚界者和灭界者。你必须在一切被毁灭之前阻止它们。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 163,
+      "columns": {
+        "Description": [
+          {
+            "en": "The Searing Exarch and The Eater of Worlds are the most powerful beings that Wraeclast has ever seen. The path to defeating them involves exploring many influenced maps and slaying their formidable subordinates, The Black Star and The Infinite Hunger, yielding valuable rewards.",
+            "zh": "焚界者和灭界者是瓦尔克拉斯从未见过的强敌。要打败它们，需要探索许多受其影响的地图，消灭它们的仆从，其中包括漆黑之星和无限饥渴。虽然敌人十分可怕，但回报也十分可观。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 164,
+      "columns": {
+        "Description": [
+          {
+            "en": "Most Atlas mechanics have been reworked with a goal of creating deeper systems that are easier to understand. Regions have been removed, so your Atlas specialisation affects every map you run. Where you'd previously collect 16 Watchstones, you must now earn four Voidstones which let you raise the tier of all maps on your Atlas until they are uniformly tier 16. Sextants can apply to Voidstones and be itemised and traded. Commander Kirac offers a large variety of Atlas objectives that add valuable content to your maps.",
+            "zh": "我们重做了绝大多数异界图鉴机制，目的是为了让其更加深入简出。我们移除了异界国度，所以异界图鉴的特化机制现在会影响你跑过的每张地图。现在也不需要像过去一样搜集16个守望石，而是改为用四个虚空石就可以提高所有异界图鉴的地图位阶。它们同样可以添加六分仪，也可以归入列表并且进行交易。指挥官奇拉克会在地图上添加大量有价值的异界目标。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 165,
+      "columns": {
+        "Description": [
+          {
+            "en": "Say goodbye to regional Atlas Passive Trees and hello to one gigantic Atlas-wide Passive Tree with over 600 skills to specialise in. Every map as well as various Atlas quests you complete will earn you an Atlas skill point. In addition to the best skills from the regional trees, we have created many completely new ones that let you choose your own level of risk and reward for Atlas content.",
+            "zh": "跟过去以异界国度为基础的异界天赋树说拜拜吧，我们推出了全新的异界天赋树，其中有超过 600 个特化天赋技能。在每一张地图上完成各种异界任务都可以获得一个异界天赋点。我们不但沿用了过去国度天赋树中最好的天赋技能，还新推出了更多可以让玩家平衡风险和收益的新天赋。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 166,
+      "columns": {
+        "Description": [
+          {
+            "en": "The Searing Exarch and The Eater of Worlds each have a powerful set of Eldritch Implicit Modifiers, which can be imbued onto items using Eldritch Embers and Eldritch Ichor, respectively. Although this process replaces existing implicit mods, it's possible to have both types of Eldritch Implicits on an item at the same time.\n\nYou can use an Orb of Conflict to manipulate the tiers of these modifiers on your item, within the six tiers of modifiers available. When applied, the Orb randomly increases the tier of one modifier and lowers the tier of the other. The new Eldritch Chaos Orb, Eldritch Exalted Orb and Eldritch Orb of Annulment can manipulate the prefixes or suffixes of an item depending on whether The Searing Exarch or The Eater of Worlds has a higher Eldritch modifier on it.",
+            "zh": "焚界者和灭界者都各有一套古灵基底词缀，都可以分别用古灵余烬和古灵溶液来灌注物品。虽然它会替换原有的基底词缀，但仍一个物品仍然有可能同时有两种古灵基底。\n\n物品上的古灵基底词缀可以用冲突石提升位阶（共有 6 阶）。使用后会随机提升其中一种词缀而降低另外一种。新的古灵混沌石、古灵崇高石、古灵剥离石则可以根据物品上焚界者或灭界者古灵词缀的高低来定制其前缀或后缀。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 167,
+      "columns": {
+        "Description": [
+          {
+            "en": "The four new pinnacle Atlas bosses each have their own drop pools of new unique items to find. There are more than a dozen in total and they represent some of the most powerful unique items we have introduced to Path of Exile yet, enabling exciting new character build opportunities.",
+            "zh": "四位新最终首领都会掉落不同的新传奇物品。它们总共有十二种，有些的强度是《流放之路》系列中从来没有过的。它们可以提供全新的配装思路。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 168,
+      "columns": {
+        "Description": [
+          {
+            "en": "In the Archnemesis league, you'll build your own Rare boss fights by applying new monster modifiers to petrified monsters, found throughout every area. These modifiers add dangerous behaviours to their targets but also imbue them with valuable rewards. Each subsequent petrified monster you imbue within an area keeps all of the previous modifiers applied, allowing you to build some extremely difficult and rewarding encounters. There are over 60 new boss modifiers to discover, more than half of which can be created by combining other modifiers in specific recipes to unlock the most powerful and rewarding modifiers.",
+            "zh": "罪恶枷锁挑战赛季中可以运用新的怪物词缀在每个区域打造专属的"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 169,
+      "columns": {
+        "Description": [
+          {
+            "en": "Aside from the usual buffs and nerfs of every Path of Exile expansion, our balance focus in Siege of the Atlas has been on improving two build archetypes that were previously under-performing and bringing them up to the level of other popular archetypes. In particular, we're focusing on buffing hand-cast spells and hit-based bow builds. You can find more detail about this in its balance manifesto or in the full patch notes.",
+            "zh": "除了《流放之路》扩展中例行的强化和削弱外，异界的纷争平衡性改进的重点在于两种先前表现不佳的配装原型，强化手动施法配装和击中型弓箭配装，使它们达到其它流行原型的水平。详细改动请查阅完整的更新日志。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 170,
+      "columns": {
+        "Description": [
+          {
+            "en": "We're introducing two new specialised stash tabs which allow you to store up to 500 Gems or Flasks respectively. The introduction of these stash tabs also allows players to set affinities for these items on any other stash tabs that will hold them.\n\nThe Gem Tab lets you filter between Red, Green, Blue and White gems. You can also select whether these are sorted by criteria such as current gem level, required level or quality. The Flask Tab lets you filter between Life, Mana, Hybrid, Utility and Unique flasks. You can also select whether these are sorted by item level, base type or quality.",
+            "zh": "新推出两种专门的仓库页，可以分别存放最多 500 个宝石或药剂。这样也便于玩家在其它可以容纳这些物品的仓库页里给它们设置偏好标签。\n\n宝石页签可以按照红色、绿色、蓝色、白色设置过滤。还可以选择是否按照当前宝石等级、需要等级或宝石品质来进行排序整理。药剂页签可以按照生命、魔力、复合、非恢复、传奇设置过滤。同样还可以按照物品等级、基础类型或品质进行排序整理。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 172,
+      "columns": {
+        "Description": [
+          {
+            "en": "In <italic>{Path of Exile: Sentinel}, ancient constructs have been unearthed across Wraeclast. You will harness the power of these Sentinels to control your level of risk and reward on the battlefield.\n\nOur May expansion contains the Sentinel challenge league, 20 atlas keystone passives, seven uber boss fights, new pinnacle unique items, revamped monster modifiers, game controller support, new quality of life features, a revamped challenge system and much more.",
+            "zh": "在《灵能近卫》资料片中，一种古代构造体已经在瓦尔克拉斯破土而出。你将可以驾驭这些近卫的力量，在战场上掌控自己的风险和奖励等级。\n\n五月的资料片将包含近卫挑战赛季、20个新异界基石天赋、七场进阶首领战、全新的最终传奇物品、重做的怪物词缀、全新游戏功能，以及重做的挑战系统等等。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 173,
+      "columns": {
+        "Description": [
+          {
+            "en": "In this league, you will uncover and collect Sentinels and take advantage of their great power. When deployed, they follow you for a short time and empower your enemies, greatly increasing both their difficulty and reward.\n\nThere are three classes of Sentinels. Stalker Sentinels empower a moderate number of enemies in sequence as you encounter them. Pandemonium Sentinels empower a wide swath of monsters at once in a quick burst. Apex Sentinels only empower rare or unique enemies but have a very strong effect.",
+            "zh": "在本赛季中，你将可以发现和收集近卫，并使用它们的强大力量。部署近卫之后，它们会在短时间内跟随你，并且强化你的敌人，大幅增加游戏难度和奖励。\n\n近卫有三种类型：追猎近卫会在你遭遇敌人时按顺序赋予一定数量的敌人更强的力量；魔域近卫则会快速赋予一大批怪物强大的力量；而巅峰近卫只会增强稀有或传奇敌人，不过增强的效果非常强力。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 174,
+      "columns": {
+        "Description": [
+          {
+            "en": "The Sentinel Controller is like a runic circuit board that powers your Sentinels and allows you to customise their behaviour. It initially provides enough power to use one Sentinel per area but as you progress, it will gain enough power to support three.\n\nYou will place filaments on the Controller to dictate which runic nodes its power flows through. You can freely move filaments around at any time. As you gain more power, it will automatically flow to the next nodes you have connected. Use this Controller to establish specific behaviour for your Sentinel loadout that works well with your desired build.",
+            "zh": "近卫控制器更像是一套符文系统，它会为你的近卫提供动力，并允许你定制近卫的行为。一开始它只能在每个区域给一个近卫供能，不过随着你不断取得进展，它将可以支持三个近卫。\n\n你可以放置控制器上的线路，从而指示能量要通过哪个符文节点。你可以随时移动这些线路。随着你获得更多力量，它会自动流向你连接的下一个节点。使用控制器可以制定近卫的行动模式，从而更好地配合你想要的流派。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 175,
+      "columns": {
+        "Description": [
+          {
+            "en": "When your Sentinels run out of charge, they can be combined together with a Power Core to assemble a new, fully-charged Sentinel that inherits properties from both of the husks you disassembled. This hybrid Sentinel may also gain special properties such as an exclusive variant base type or modifiers that can only come from the assembly process.",
+            "zh": "当近卫能量耗尽以后，你可以使用一个力量核心将它们组合在一起，变成一个全新的满能量近卫，它还会继承之前用来合成的两个近卫的属性。这种组合的近卫还有可能获得特殊的属性，例如只有合成才会产生的独特基础类型或词缀。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 176,
+      "columns": {
+        "Description": [
+          {
+            "en": "As you travel through Wraeclast, you may uncover or assemble Unique Sentinels. These valuable Sentinels behave in very specialised and powerful ways. For example, The Basilisk causes a wide area-of-effect blast that has a petrification effect on monsters. The Hollow-Eyed Skull is basically a Headhunter in Sentinel form. There are also a set of Unique Sentinels that empower specific Atlas Map Bosses, causing them to become much more dangerous and rewarding.",
+            "zh": "随着你在瓦尔克拉斯不断冒险，你还会发现或组合出传奇近卫。这种珍贵的近卫的行为方式更加特殊，也更为强大。例如，蛇怪近卫可以造成大范围的爆炸，对怪物有石化效果。而空眼之颅基本上就是近卫版的猎头者。还有一些传奇近卫会加强特定的异界地图首领，让他们变得更加危险，不过奖励也更丰厚。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 177,
+      "columns": {
+        "Description": [
+          {
+            "en": "In the Sentinel League, you may find a new type of rare currency: Recombinators. These allow you to apply the Sentinel Assembly process to your actual items, taking any two pieces of equipment from the same item class and combining them together. While the results are unpredictable, this process could merge the best elements of each item, potentially adding an exclusive new modifier, to create something of unprecedented power.",
+            "zh": "在近卫赛季中，你将可以找到一种全新的稀有通货：重组器。它可以让你将近卫的组装方法用到物品上，将两种同类型的装备组合到一起。虽然结果是无法预知的，但这个过程会组合物品的最佳元素，还有可能出现独特的全新词缀，从而获得前所未有的力量。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 178,
+      "columns": {
+        "Description": [
+          {
+            "en": "The best thing about the Siege of the Atlas expansion was the control it gave you over your endgame experience, through the Atlas-wide Passive Tree. We have doubled down on this by introducing 20 new keystone passives to the Atlas tree that allow you to dramatically customise how you play Path of Exile's endgame.\n\nYou can make it so that only your favoured maps will drop, gain bonuses for not modifying your maps with fragments, convert unwanted maps or scarabs into random ones, control how offensive or defensive monsters you encounter in maps are and even turn off specific past leagues to improve the chances of encountering the content you enjoy the most.",
+            "zh": "异界的纷争资料片的一大优势就是玩家可以使用异界天赋树，充分掌控自己的终局游戏体验。现在我们更是突出了这一点，为异界天赋树加入了20个全新的基石天赋，让你可以实现高度定制，打造属于自己的《流放之路》终局玩法。\n\n你可以设置只有偏好地图会产生掉落、获得奖励，并且不需要用碎片来修改你的地图；你还能将不想要的地图或圣甲虫变为随机，控制你在地图中遭遇怪物的攻击和防御强度，甚至可以关闭以前的赛季，从而有更高的概率遇到你最喜欢的内容。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 179,
+      "columns": {
+        "Description": [
+          {
+            "en": "Six of the new keystones on the Atlas Passive Tree create uber versions of Path of Exile's pinnacle boss fights: Venarius, Sirus, The Maven, The Searing Exarch, The Eater of Worlds, The Shaper and The Uber Elder. But be warned: only allocate one of these keystones if you are prepared to face the hardest content Path of Exile has to offer and to earn some of its most seductive rewards.",
+            "zh": "异界天赋树的六个全新基石将打造《流放之路》最终首领战的进阶版本：维纳留斯、希鲁斯、贤主、追踪焚界者、灭界者、塑界者以及至高裂界者。注意：哪怕你已经准备好迎接《流放之路》中难度最高的内容并获得最为丰厚的奖励，也只能分配这些基石中的一个。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 180,
+      "columns": {
+        "Description": [
+          {
+            "en": "In our Siege of the Atlas boss kill event, several of our most experienced players earned the right to design unique items, which are being introduced in Path of Exile: Sentinel! These new unique items drop from The Infinite Hunger, The Black Star, The Shaper, The Uber Elder, The Maven and Sirus.",
+            "zh": "在异界的纷争首领赛中，多位经验丰富的玩家赢得了设计传奇物品的权利，如今这些物品也加入到了《流放之路：近卫》！这些全新传奇物品的掉落出处为：无限饥渴、漆黑之星、塑界者、至高裂界者、贤主以及希鲁斯。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 181,
+      "columns": {
+        "Description": [
+          {
+            "en": "We're going to try something new with character balance in this expansion. We're intentionally making no changes to character power. That means no nerfs, no buffs, nothing. Every single build and build guide made for Siege of the Atlas will work exactly the same in Sentinel. You can start planning your league starter right now, with full confidence about exactly how it's going to play.",
+            "zh": "在本资料片中，我们将对角色平衡做出新的尝试。我们不会更改角色的强度。也就是没有削弱、没有加强，这些都没有。所有异界的纷争中好用的BUILD和思路在近卫中依然如此。你现在就可以计划如何开荒新赛季，并且在游玩时也能自信满满。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 182,
+      "columns": {
+        "Description": [
+          {
+            "en": "We're replacing all existing monster modifiers with the mods that we introduced in the Archnemesis League, which all have a great impact on combat and are easy to identify at a glance. Magic packs share one modifier between them while Rare monsters typically have two modifiers, and can rarely spawn with more. Multiple synergistic mods can create quite dangerous situations in combat.",
+            "zh": "我们将全部已有的怪物词缀都替换成了罪恶枷锁赛季引入的词缀，它们都会对战斗造成极大的影响，并且让玩家一眼就能看得出来。魔法怪物群会共享一个词缀，而稀有怪物通常会有两个词缀，极少数会有更多词缀。多个词缀共同生效会让战斗变得更加危险。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 183,
+      "columns": {
+        "Description": [
+          {
+            "en": "We've implemented support for game controllers in the PC version of Path of Exile. This also means that if you're lucky enough to already have a Steam Deck, you can play Path of Exile on the go!",
+            "zh": "我们还为PC端的《流放之路》提供了游戏手柄支持，它将在S19赛季的晚些时候登录，敬请期待！"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 184,
+      "columns": {
+        "Description": [
+          {
+            "en": "In this expansion, we've added several small quality of life features that should help to enhance the ease of your game experience. For example, it's now much easier to add maps to your Favoured Maps list on the Atlas. We've also added settings which allow you to define who is able to access the portals in your hideout. There are several other new features that we'll reveal over the coming week.",
+            "zh": "在本资料片中，我们还添加了一些小型的游戏功能，让大家有更轻松的游戏体验。例如，现在你可以更轻松地将地图添加到异界地图收藏列表。我们还将添加相关设置，让你可以设定谁能够使用你藏身处的传送门。还有其他几项新功能，我们会在下周揭晓。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 185,
+      "columns": {
+        "Description": [
+          {
+            "en": "The challenge system in the Sentinel League is much harder but more rewarding than that of the past 21 leagues. Early challenges have been condensed so that their rewards unlock at 6 and 12 completions, rather than at 12 and 24. There are far more difficult objectives available to challenge Path of Exile's best players and there are ten different rewards you can unlock, which comprise two complete armour sets, each with a pair of wings.",
+            "zh": "相较于过去的21个赛季，近卫赛季的挑战系统的难度更高，不过奖励也更丰厚。之前的挑战已经被压缩，你只要完成6个和12个挑战就能赢得奖励，而不是之前的12个和24个。不过《流放之路》中依然有难度非常高的挑战，等待着最强大的玩家去攻克，同时还能解锁十种不同的奖励，包括两套完整的护甲，每套还有相应的翅膀。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 186,
+      "columns": {
+        "Description": [
+          {
+            "en": "Kirac's Vault returns for the Sentinel League with a brand new set of exclusive unique item skins. Purchasing access to Kirac's Vault allows you to claim these exclusive rewards as you complete map objectives in the Sentinel League. These exclusive skins apply to popular unique items that can be found in Path of Exile's endgame and each have a special cosmetic gameplay effect.\n\nYou can purchase the pass at any point in your progression, retroactively unlocking any skins you have earned. This also applies to the Archnemesis Pass, which is still for sale in the store right now! For more information, visit pathofexile.com/vault",
+            "zh": "奇拉克宝库在近卫赛季依然延续，带来一套全新的独家传奇物品皮肤。购买奇拉克宝库通行证，就可以在近卫赛季完成地图目标时获取这些独家奖励。这些独家皮肤可以用于《流放之路》终局游戏中的人气传奇物品，并且每款都有独特的装饰特效。\n\n你可以在任何游戏进度中随时购买通行证，并解锁之前已经满足条件的皮肤。这一点同样适用于罪恶枷锁通行证，现在依然可以购买！"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 188,
+      "columns": {
+        "Description": [
+          {
+            "en": "You may recognise Kalandra from the infamous Mirror of Kalandra, Path of Exile's most valuable item. The Lake of Kalandra expansion explores the identity of this iconic character and allows you a taste of her power.\n\nOur August expansion contains the Kalandra challenge league, improvements to the Atlas endgame, four new gems, 14 new unique items, 100+ buffed existing uniques, revamps to Harvest, Beyond and Archnemesis, a variety of balance changes and much more!",
+            "zh": "卡兰德对你来说应该不陌生，想必你也知道，卡兰德的魔镜是游戏中价值最高的物品。卡兰德之湖资料片将带你探索这个标志性角色，让你感受一下她的力量。\n\n八月的资料片将推出卡兰德挑战赛季、对异界终局游戏的改进、4种新宝石、14种新的传奇物品、100多种加强的现有传奇物品，还有对古灵庄园、超越、罪恶枷锁赛季的改进和各种平衡改动等等！"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 189,
+      "columns": {
+        "Description": [
+          {
+            "en": "In the Kalandra Challenge League, you'll travel to the mirrored lake that granted Kalandra her powers of duplication. The lake manifests reflections of Wraeclast itself, which emerge from its misty surface as you approach. Fight through these dangerous encounters to uncover Kalandra's mysteries and earn true power.",
+            "zh": "在卡兰德挑战赛季中，你将前往赋予卡兰德复制之力的镜像之湖。镜像之湖上映着瓦尔克拉斯的镜像，当你渐渐靠近，它就会从迷雾中慢慢浮现出来。历经危险重重的战斗，一路披荆斩棘，揭开卡兰德的神秘面纱，获得真正的力量。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 190,
+      "columns": {
+        "Description": [
+          {
+            "en": "As you travel throughout Wraeclast, you'll occasionally discover a Mirrored Tablet. Build up this Tablet by placing reflections of dangerous encounters at specific locations. Be careful though, some of these reflections contain immense challenges.\n\nOnce you have assigned a reflection to every empty location on your Tablet, you may open a portal to the Lake of Kalandra, which will manifest your creation for you to experience.",
+            "zh": "在瓦尔克拉斯冒险的途中，你可能会发现一张镜像桌台。使用桌台来打造你的战斗，将每一场危险战斗的镜像放在特定位置。万事小心，有些镜像中包含巨大的挑战。\n\n将镜像放入桌台上的各个空位，就可以打开通往卡兰德之湖的传送门，发挥你的创造力，开启新的体验。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 191,
+      "columns": {
+        "Description": [
+          {
+            "en": "The farther away from the Lake's entrance an encounter is, the greater its difficulty and rewards are. You'll occasionally be offered choices to customise your Mirrored Tablet by swapping the layout around, perfecting your set of encounters and their rewards.\n\nAs you progress through the league, you'll unlock special abilities to skip, reroll and exile choices you are offered, letting you refine your Tablets more efficiently. In the endgame, you'll also be able to itemise your completed Tablets to save them for later or trade them away.",
+            "zh": "离湖的入口越远，战斗的难度就越大，奖励也越丰厚。你将有机会选择并通过改变布局来自定义镜像桌台，赢得每一场战斗，获得更高的奖励。\n\n随着你在赛季中不断前进，你还可以解锁跳过、刷新选项、去除选项等新技能，从而更加高效地优化桌台布局。在终局游戏中，你还可以将已经完成的桌台转化为物品，留着以后用，或者把它们卖掉。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 192,
+      "columns": {
+        "Description": [
+          {
+            "en": "Alongside rewards from each encounter, the Lake can manifest new ways to create rare items. The Reflecting Mist will create a pair of rings or amulets, exact reflections of one other. On one item, half the properties are magnified in intensity, with the other half negated to hinder you. The other item has the opposite set of mods negated. You may only pick one of these reflections to take with you.\n\nIn the league's late endgame, you may bring your own rings and amulets to the Mist. It will magnify, distort and reflect them in a similar way, providing access to previously-unattainable power on rare items.",
+            "zh": "除了在战斗中收获奖励，卡兰德之湖还能提供创造稀有物品的新途径。倒映迷雾将会创造出一对戒指或项链，互为镜像。其中一件物品的一半属性会被强化，另一半负面的属性会对你造成阻碍。而另一件物品的词缀正好与之相反。你只能选择其中一件镜像物品戴在身上。\n\n在赛季后期的终局游戏中，你可以带着自己的戒指和项链前往迷雾。它将以类似的方式强化、扭曲和镜像物品，让玩家能够在稀有物品中获得之前无法获得的力量。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 193,
+      "columns": {
+        "Description": [
+          {
+            "en": "Atlas Memories offer a way to explore endgame content and earn very valuable rewards without having to specialise your Atlas Tree for it. In high-level maps, you'll very rarely find a Memory item, which represents a set of memories that Alva, Niko, Einhar or Kirac has. They will provide a sequence of maps for you to explore as you relive the events of their past. These highly challenging and rewarding Memories can either be applied to your Atlas or traded to other players.",
+            "zh": "异界回忆可以让你探索终局游戏内容，而且不需要专门的异界天赋树就可以获取丰厚的奖励。在高级地图中，回忆物品非常稀有，很难找到，这类物品带有艾瓦、尼克、伊恩哈尔或奇拉克的记忆。它们将带你重温这些NPC往昔的经历，提供一系列地图，供你探索。这些充满挑战、奖励丰厚的回忆物品既可以在异界使用，也可以卖给其他玩家。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 194,
+      "columns": {
+        "Description": [
+          {
+            "en": "This expansion introduces three new skill gems and one new support gem. Three of these are themed around lightning damage and shock.",
+            "zh": "这个资料片新增了3种技能宝石，1种辅助宝石。其中3种宝石的主题主要围绕闪电伤害和感电。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 195,
+      "columns": {
+        "Description": [
+          {
+            "en": "In this expansion, we've added 14 new unique items including a league-exclusive ring, a new pinnacle boss reward, a supporter unique, six new Grand Spectrum jewels and even some levelling uniques. We've also improved over 100 unique items, including both levelling uniques and endgame ones. Finding a unique item is now more likely to be an exciting moment, especially during the campaign.\n\nWe're introducing another unique map, The Tower of Ordeals. In this map, you may challenge the Trialmaster and potentially earn unique items from the Ultimatum league. You can create this map by completing endgame Vaal content.",
+            "zh": "在这个资料片中，我们添加了14种传奇物品，包括1枚赛季专属戒指、1个新的巅峰首领奖励、1个赞助者传奇物品、6种新的聚光之石珠宝，还有一些辅助练级的传奇物品。我们还强化了100多种现有的传奇物品，包括辅助练级的传奇物品和终局传奇物品。收获一件传奇物品变得越来越激动人心，尤其是在战役流程中。\n\n我们还为异界新增了一个地图，叫做“折磨之塔”。在这个地图中，你可以挑战试炼使者，还有可能获得致命贪婪挑战赛季中的传奇物品。你可以通过完成瓦尔相关的终局内容创建这个地图。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 196,
+      "columns": {
+        "Description": [
+          {
+            "en": "We've overhauled rare and magic monsters throughout Path of Exile, revisited the difficulty and rewards of Archnemesis mods, revamped Beyond and have made large changes to Harvest.\n\nPast league content now spawns a more consistent and less overwhelming quantity of rare monsters. Defeating monsters with multiple Archnemesis mods is now far more rewarding. Powerful monster mods now convert your item drops in a way that stacks with rewards from other mods and player item rarity or quantity bonuses. The Beyond league has been updated with the monsters and bosses from Scourge, and has been given a balance revamp. Harvest crafting has been overhauled to use a tradeable currency, and can now be done in your own time, at the horticrafting station in your hideout.",
+            "zh": "我们全面修改了《流放之路》中的稀有和魔法怪物，重新考虑了罪恶枷锁词缀的难度和奖励，并对超越赛季做了修改，还对古灵庄园做出了很大的改动。\n\n过去的赛季内容现在会产生更稳定、更节制的稀有怪物数量。现在战胜有多个罪恶枷锁词缀的怪物可以获取更多奖励。现在强大的怪物词缀也会影响物品掉落，它会和其他影响奖励的词缀以及玩家物品稀有度或者数量的加成叠加。超越赛季更新了来自天灾的怪物和首领，并且做了一些平衡改动。古灵庄园制作系统经过全面修改，现已可以使用可交易的通货，还可以在藏身处的花园工艺站自行制作。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 197,
+      "columns": {
+        "Description": [
+          {
+            "en": "We've made many changes to Path of Exile's balance, including an overhaul of the Trickster Ascendancy Class and Minion Itemisation. We've reworked the Trickster Ascendancy, with a focus on establishing thematically-appropriate defences and ways to manipulate speed. Check out its new Ascendancy skills in the screenshots on this panel.\n\nWith plenty of new itemisation opportunities, minion builds are now as rewarded for finding good items as other archetypes are. There are several new minion-focused base types that players can find and craft to improve the damage and survivability of their minions. Check out the patch notes for more information about these and other changes.",
+            "zh": "我们对《流放之路》的平衡做了很多改动，包括全面修改了欺诈师升华职业和召唤生物与物品的关系。我们重新调整了欺诈师升华，重点在于打造出符合职业主题的防御机制，并提供控制速度的方式。参见随附的新升华技能截图。\n\n随着新的物品越来越多，召唤生物流派现在和其他流派一样在找到高品质物品时也会有相应的收益。玩家还可以找到并制作一些新的以召唤生物为中心的基底，提高他们的召唤生物造成的伤害和召唤生物的生存能力。查看[补丁说明]了解更多信息和其他改动。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 198,
+      "columns": {
+        "Description": [
+          {
+            "en": "In 2019, we hosted our first ever convention, ExileCon, to announce Path of Exile 2 and Path of Exile Mobile. Since then, we have been hard at work on both games. Now that we are getting close to release, we will finally be ready to announce the date the closed beta starts at ExileCon 2023. Tickets will go on sale in late August.\n\nWe're holding ExileCon 2023 in Auckland, New Zealand, on the weekend of July 29-30, 2023. We'll also be announcing everything there is to know about new game systems, character classes, items, and so on. Attendees will be able to play Path of Exile 2 and Path of Exile Mobile, see all the presentations live, meet our development team, hang out with their favourite streamers and much more. Keep an eye on the news for more information.",
+            "zh": "2019年我们举办了第一届流放者嘉年华，官宣了《流放之路4.0》和《流放之路移动版》。从那以后，我们一直在深耕这两款游戏。随着离游戏的发行时间越来越近，我们将会在2023流放者嘉年华上宣布开始beta封闭测试的日期。门票将在八月下旬开始发售。\n\n我们将于2023年7月29日-30日在新西兰奥克兰举行2023流放者嘉年华。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 199,
+      "columns": {
+        "Description": [
+          {
+            "en": "Kirac's Vault returns for the Kalandra League with a brand new set of exclusive unique item skins. Purchasing access to Kirac's Vault allows you to claim these exclusive rewards as you complete map objectives in the Kalandra League. These exclusive skins apply to popular unique items that can be found in Path of Exile's endgame and each has a special cosmetic gameplay effect.\n\nYou can purchase the pass at any point in your progression, retroactively unlocking any skins you have earned. This also applies to the Sentinel Pass, which is still for sale in the store right now! For more information, visit pathofexile.com/vault",
+            "zh": "奇拉克宝库回归卡兰德赛季，并将带来一系列全新的专属传奇物品皮肤。购买奇拉克宝库通行证就能在完成卡兰德赛季中的地图目标后获得这些专属奖励。这些专属皮肤可以用于《流放之路》终局游戏中的人气传奇物品，每一款都有独特的装饰特效。\n\n你可以在任何游戏进度中随时购买通行证，并解锁之前已经满足条件的皮肤。这一点同样适用于灵能近卫通行证，现在依然可以购买！"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 201,
+      "columns": {
+        "Description": [
+          {
+            "en": "In Path of Exile: The Forbidden Sanctum, you will test your resolve as you make your way through the Sanctum's dangerous halls. In the Sanctum, each decision you make can cost you greatly.\n\nOur December expansion introduces the Sanctum challenge league and improvements to Path of Exile's endgame, alongside two new Skill Gems, seven new Vaal Skill Gems, over 15 new Unique Items, significant balance changes to jewels, hexes, monster modifiers, unique weapons and more. We are also proud to introduce Ruthless, an optional new way to play Path of Exile with extreme item scarcity.",
+            "zh": "在《流放之路》：永生禁域中，你将穿越禁域中危机四伏的大厅，磨炼自己的坚毅决心。禁域中的每个抉择都可能令你付出沉重的代价。\n\n十二月发布的资料片会带来禁域挑战赛季、《流放之路》的终局游戏内容改进、两个新的技能石、七种新的瓦尔技能石、超过15种全新传奇物品，并为珠宝、魔蛊、怪物词缀、传奇武器等带来重大平衡改动。我们还会自豪地推出无情模式，一种物品极度稀缺的全新的《流放之路》可选玩法。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 202,
+      "columns": {
+        "Description": [
+          {
+            "en": "In this league, you'll discover The Forbidden Sanctum, an ancient Templar enclave hidden beneath the Fellshrine Ruins. Abandoned for a long time, it is now controlled by a malevolent entity. You must explore it, uncover its secrets, and deal with the evil that lurks within.",
+            "zh": "在这个赛季中，你将探索永生禁域，一处隐藏在堕道遗迹下方的远古圣堂武僧飞地。长久遗弃之后，一个邪恶的存在现已控制了此地。你必须深入探索、发掘隐藏的奥秘，并解决盘踞其中的邪恶力量。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 203,
+      "columns": {
+        "Description": [
+          {
+            "en": "Upon entering the Sanctum, you'll uncover a map that reveals a few of the rooms ahead of you. Sparse details of the room and its rewards are shown, so you must plan carefully as each mistake will dwindle your resolve. When your resolve runs out, your Sanctum run ends. Each time you enter the Sanctum, you will seek to push yourself farther than before through its four floors.",
+            "zh": "进入禁域后，你将发现一张地图，揭示前方的几处房间。显示的房间信息与奖励寥寥无几，你必须谨慎地做好计划，每一个错误都可能削减你的坚毅。当你的坚毅彻底耗尽，禁域之旅就会告终。每次进入禁域，你都需要努力深入其中，最终穿越全部四层。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 204,
+      "columns": {
+        "Description": [
+          {
+            "en": "The Sanctum's rooms hold many secrets. Some contain ancient fountains you can rest at to restore a portion of your resolve. Others will curse you with an affliction, hindering your progress. These afflictions stack up as you explore deeper and deeper within the Sanctum. You can also receive boons, blessings that help you overcome the Sanctum's dangers. Each time you enter the Sanctum, you will encounter a unique layout that you must assess and adapt to as you explore.",
+            "zh": "禁域的房间中隐藏着许多奥秘。有些房间中包含着古老的喷泉，能够让你休憩片刻，或是恢复一部分坚毅。其他房间则会为你带来痛苦的诅咒，令你举步维艰。随着你挺进禁域深处，痛苦的磨难也会不断积累。你还可以获得恩赐，这些祝福将帮助你攻克禁域的危险。每次进入禁域，你都会遇到不同的布局，只有在探索途中灵活应变方可克服难关。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 205,
+      "columns": {
+        "Description": [
+          {
+            "en": "Inside the Sanctum, you will find gold coins called Aureus, a currency that the Templar used for commerce. It's stored in treasure chests and falls from slain monsters. Although these coins belong to the Sanctum and will not leave with you, they can be traded with a merchant who you may encounter from time to time. Spend your Aureus wisely as it can be used to purchase a crucial boon when the time is right.",
+            "zh": "在禁域中，你会获得名为耀金币的金币，这是圣堂武僧常用的商贸通货。它通常存储在宝箱之中，也可能从消灭的怪物身上掉落。随着这些金币属于禁域，无法带离此地，但你可以用它们和偶尔遭遇的商人进行交易。一定要明智地利用耀金币，在适当的时侯，它们可以换取至关重要的恩赐。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 206,
+      "columns": {
+        "Description": [
+          {
+            "en": "The sinister powers controlling the Sanctum will occasionally present you with an Accursed Pact. These pacts offer you a powerful benefit with a dangerous cost. Although the Pact will tempt you greatly, you must choose with care. The result of your choice could signal the end of your time in the Sanctum or be the turning point in your success.",
+            "zh": "掌控着禁域的恶毒力量偶尔会向你提出遭诅契约。契约能为你提供强大的效果，而代价也极为危险。虽然契约极具诱惑力，但你也必须慎重选择。你的抉择可能标志着禁域之旅就此告终，也能成为成功的转折点。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 207,
+      "columns": {
+        "Description": [
+          {
+            "en": "Many rooms in the Sanctum will offer you a choice of currency items. You can take the reward now or leave it behind, with the promise of an even larger reward later. Deferring your reward to the end of the current floor or even the end of the entire Sanctum escalates it with great risk. If you run out of resolve before reaching this goal, you lose everything you gambled. Do you believe in yourself enough to take the risk and potentially reap a massive reward? Or do you play it safe and leave with what you have?",
+            "zh": "禁域的许多房间都会为你提供货币物品。你可以立即将奖励收入囊中，或者将它留下，稍后换取更为丰厚的奖励。你可以将奖励推迟到当前楼层甚至整个禁域结束，这会带来巨大的风险。如果你在达成目标前就耗尽了坚毅，那么押注的所有物品都会丢失。你相信自己有本事冒这个险，为巨大的奖励放手一搏吗？还是说保险起见，落袋为安呢？"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 208,
+      "columns": {
+        "Description": [
+          {
+            "en": "As you explore the Sanctum, you'll discover a special altar that Templar Relics can be placed on. These relics make you more powerful in the Sanctum and persist from run to run. Their continued power is the key to making it deeper into the Sanctum's vaults each time you enter. As you accumulate more relics, you'll need to make decisions around which ones most benefit you and arrange the Altar accordingly.\n\nYou may also uncover Sanctified Relics, a very rare type that directly affects your character's build. You may use only one of these, but its benefits stay with you beyond the Sanctum walls and bestow the Templars' power on you as you journey through Wraeclast.",
+            "zh": "在探索禁域时，你会发现一处特别的圣坛，并可在其中放置圣堂遗物。这些遗物能够增强你在禁域中的力量，并且效果在多次挑战期间始终有效。它们持久不变的力量是帮助你一次次深入禁域宝库的关键。随着遗物不断积累，你还需要选择最具效益的遗物，并相应地调整圣坛。\n\n你还会发现圣化遗物，这种稀罕的遗物能够直接影响角色的流派。你只能使用一件该类遗物，但它的效果能够在禁域之外为你提供加持，并在穿越瓦尔克拉斯的旅途中为你赋予圣堂武僧的力量。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 209,
+      "columns": {
+        "Description": [
+          {
+            "en": "The Forbidden Sanctum is home to many bosses, including random miniboss encounters, bosses at the end of each floor and an ultimate showdown against the entity that controls the Sanctum. These fights yield valuable rewards including Relics, piles of Aureus coins, masses of experience, new Unique Items and more.",
+            "zh": "永生禁域中有许多首领出没，包括随机的小头目战斗、每个楼层最后的首领战，以及最终与掌控禁域的实体进行的巅峰对决。这些战斗能为你提供珍贵的奖励，包括遗物、大堆耀金币、海量经验值、全新传奇物品等。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 210,
+      "columns": {
+        "Description": [
+          {
+            "en": "We've improved the Atlas Passive Tree so that players don't need to respec between mapping and boss-killing and can invest even further into content that they enjoy. We've added two new Atlas Memories themed around Domination and Bestiary, which include nine new Beastcrafting recipes. We've also rebalanced Eldritch Altars and have made Maven-witnessed map bosses a source of Awakened Gems.",
+            "zh": "我们优化了异界天赋树，玩家不必再刷图和首领天赋之间来回更换，而是可以深度投资自己喜爱的内容。我们还加入了两个以支配和猎魔为主题的新异界回忆，其中包括九个新的魔物工艺配方。我们还调整了古灵祭坛的平衡，并让贤主遭遇的地图首领成为了强化宝石的来源。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 211,
+      "columns": {
+        "Description": [
+          {
+            "en": "The Forbidden Sanctum expansion introduces two new skill gems and seven new Vaal gems. Volcanic Fissure is a new fiery Slam skill that strikes the ground to create a chasm that winds towards your target until it erupts with a burst of fiery projectiles that explode when striking the ground. Frozen Legion is a spell that creates a ring of icy statues that attack using your weapon damage. These statues perform a sweeping ice slash which can overlap.",
+            "zh": "永生禁域资料片还将推出两种全新的技能石和七种全新的瓦尔宝石。火山裂缝是全新的火焰猛击技能，可以猛击地面并创造一条追向目标的裂隙，最终释放出一阵火焰投射物，在击中地面时爆炸。冰封军团法术能够召唤出一圈冰冷的雕像，使用你自身的武器伤害进行攻击。这些雕像能够发动可重叠的冰霜横扫。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 212,
+      "columns": {
+        "Description": [
+          {
+            "en": "There are over 15 new unique items to be found from within the Forbidden Sanctum and throughout Wraeclast and the Atlas. We've also massively increased the power and rarity of ten existing endgame unique weapons to bring them in line with some of Path of Exile's most iconic unique items.",
+            "zh": "永生禁域、瓦尔克拉斯和异界各处还有超过15件全新传奇物品等待寻找。我们还大幅增强了十件现有终局传奇物品的强度和吸引度，使它们与《流放之路》最具代表性的传奇物品相媲美。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 213,
+      "columns": {
+        "Description": [
+          {
+            "en": "The Archnemesis monster mod system has been replaced with a system that more closely resembles Path of Exile's initial monster mods, but with modernised balance and effects. This system has been streamlined so that each modifier only does one specific thing and describes exactly what it does. While you'll still encounter modifier combinations that get your heart racing, these will be rarer than before and easier to understand in the heat of combat. Changes to rare monster rewards mean that you don't need to summon a magic find culling character to help you with specific monster mods anymore.",
+            "zh": "罪恶枷锁怪物词缀系统已被替换为更符合《流放之路》初始怪物词缀的系统，不过采用了现代化的平衡与效果。这一系统经过了精简，所有词缀只具有一个单独的效果，并且会明确描述效果的作用。你依然会遇到令人心跳加速的词缀组合，但它们会更为少见，在激烈的战斗中也更为一目了然。稀有怪物的奖励也经过了改动，这意味着你无需专门召唤寻宝补刀角色来应对特定的怪物词缀了。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 214,
+      "columns": {
+        "Description": [
+          {
+            "en": "This expansion includes a number of changes to Path of Exile's mechanics. We have improved Jewels as a source of ailment mitigation and have replaced most existing unique Jewels with some powerful new ones. We've also rebalanced Hexes to make them stronger against endgame bosses and have reworked most curse mechanics and curse uniques as a result. Our recent balance manifestos and expansion patch notes cover these changes in more detail.",
+            "zh": "新资料片为《流放之路》的机制带来了诸多改动。我们对珠宝进行了优化，使其成为异常状态缓阻的来源，并且将大部分现有传奇珠宝替换成了强大的新珠宝。我们还调整了魔蛊的平衡，让它们在对抗终局首领时更为有效，并由此重做了大部分诅咒机制和诅咒传奇物品。近期的平衡宣言和资料片补丁说明都详细介绍了这些改动。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 215,
+      "columns": {
+        "Description": [
+          {
+            "en": "Ruthless is an optional new game mode which offers a more challenging way to play Path of Exile. Ruthless players can expect extreme item scarcity, limited crafting and many other changes such as support gems being drop-only. Ruthless is a mode about friction, tension and anticipation. It's much more difficult, but overcoming that difficulty feels highly rewarding. In a world where your items are far below par, every item drop has the potential to be the breakthrough one you need.\n\nYou can access Ruthless during character creation by selecting it as an additional flag alongside Solo Self-Found and Hardcore. To find out more about what changes it features and the philosophy behind its development, visit pathofexile.com/ruthless.",
+            "zh": "无情是全新的可选游戏模式，提供了一种更具挑战性的《流放之路》游玩方式。无情模式下的玩家将面临物品稀缺、制作受限和其他改动，例如辅助宝石仅能掉落获取。无情模式的重点就是阻力、紧张和期盼。虽然难度更高，但征服高难度挑战将带来无与伦比的成就感。在这个世界中，你的物品往往不如人意，每次掉落的物品都有可能成为你急需的突破点。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 216,
+      "columns": {
+        "Description": [
+          {
+            "en": "Kirac's Vault returns for the Sanctum League with a brand new set of exclusive unique item skins. Purchasing access to Kirac's Vault allows you to claim these exclusive rewards as you complete map objectives in the Sanctum League. These exclusive skins apply to popular unique items that can be found in Path of Exile's endgame and each has a special cosmetic gameplay effect.\n\nYou can purchase the pass at any point in your progression, retroactively unlocking any skins you have earned. This also applies to the Kalandra Pass, which is still for sale in the store right now! For more information, visit pathofexile.com/vault",
+            "zh": "奇拉克宝库将在禁域赛季中回归，带来全新的专属传说物品外观。购买奇拉克宝库通行证，在禁域赛季中完成地图目标就可以获得这些独家奖励。这些独家外观可以用于《流放之路》终局游戏中的人气传奇物品，每款外观都有独特的装饰特效。\n\n你可以在任何游戏进度中购买通行证，并解锁之前已经满足条件的外观。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 218,
+      "columns": {
+        "Description": [
+          {
+            "en": "In Path of Exile: Crucible, you'll learn about the ancient titans who once shaped the primordial surface of Wraeclast. If you're powerful enough, you will earn the ability to forge their power onto your weapons.\n\nOur April expansion introduces the Crucible challenge league, nine new Vaal Skills, Atlas Gateways, over ten new Unique Items and improvements to Breach, Abyss, Passive Tree Masteries, the Saboteur, the Pathfinder, Ruthless and much more!",
+            "zh": "在古神熔炉赛季里，你会遇见塑造瓦尔克拉斯远古世界的泰坦。如果你够强大，你将可以把泰坦之力融入你的武器。\n\n四月的资料片带来了古神熔炉挑战赛季、九种全新的瓦尔技能、异界天赋跳跃点、超过十件全新的传奇物品，以及裂隙、深渊、天赋树专精、破坏者、追猎者和无情模式等改进内容。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 219,
+      "columns": {
+        "Description": [
+          {
+            "en": "Crucible Forges are scattered throughout Wraeclast. When you find one, select one of your weapons and channel the power of the ancient titans to spawn a challenging encounter. The longer you channel for, the more the molten monsters merge together to form more fearsome foes. You're in control of the difficulty and reward of these encounters.",
+            "zh": "古神熔炉遍布瓦尔克拉斯各地。当你找到了一处熔炉，就可以选择一件武器，注入远古泰坦的力量，生成一场艰巨的战斗。你注入的时间越久，就会有越多的熔火怪物汇聚成一体，融合成更为可怕的敌人。你可以自由控制战斗的难度和奖励。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 220,
+      "columns": {
+        "Description": [
+          {
+            "en": "In an iconically Path of Exile way, your weapons can now be imbued with powerful Passive Skill Trees of their own. Encounters at Crucible Forges grant you experience that lets you uncover the tree on a weapon and gradually progress through its skills. You can only allocate one skill from each tier, so choose your path through each Crucible Passive Tree carefully. If you're lucky, you'll find certain skills that, when allocated, are worth valuable currency or unique items when sold to a vendor.",
+            "zh": "在《流放之路》的标志性风格下，你可以为武器注入强大的专属天赋树。古神熔炉处的战斗可以提供经验值，让你揭露武器上的天赋树，并逐步提升技能。你每一层只能分配一个技能，所以在熔炉天赋树中选择路径时必需三思后行。如果走运的话，你还会获得特定的技能，分配该技能后将其售出给商人，即可获得珍贵的通货或传奇物品。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 221,
+      "columns": {
+        "Description": [
+          {
+            "en": "Crucible's endgame takes place in The Forge of the Titans, a dangerous area harbouring an ancient power: the ability to melt a weapon down, merging its Crucible Passive Tree with that of another weapon. This process produces unpredictable results, incorporating elements of each tree as well as random upgrades, downgrades and changes. Through careful use of the Forge, it's possible to craft some incredibly powerful skill trees on your weapons.",
+            "zh": "熔炉赛季的终局内容为泰坦洪炉，一个非常危险的区域但是流淌着古神之力。在这里你可以熔化一件物品将他的古神熔炉天赋树和另一件物品的天赋树合并。这个过程会生成不可预知的结果，结合两者的特点，进行升级，降级和异变。通过使用泰坦洪炉你将能打造出非常非常强大的武器天赋树。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 222,
+      "columns": {
+        "Description": [
+          {
+            "en": "Among other endgame improvements, Path of Exile: Crucible introduces Atlas Gateways - nodes on the Atlas Passive Tree that allow instant travel between two locations. There are three pairs of gateways, each allowing travel from the left side of the tree to the right side or vice versa. Each end of the gateway consumes one Atlas Skill Point to allocate, but using them makes it possible to easily engage with all the content that you want to play, regardless of which side of the tree it's on.",
+            "zh": "除了其他终局内容改进之外，《流放之路》古神熔炉还推出了异界天赋跳跃点——这些异界天赋树中的节点能够在两个位置之间跳转。天赋树中共有三对跳跃点，都可以在天赋树的左侧和右侧之间来回跳转。跳跃点的两侧都需要消耗一个异界天赋点，但只要使用它们，无论你希望游玩的内容位于天赋树的哪一侧，现在都可以轻松解锁了。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 223,
+      "columns": {
+        "Description": [
+          {
+            "en": "We're overhauling Breach in many ways. Regular Breachstones are now much higher level, replacing Charged, Pure and Enriched Breachstones entirely. Flawless Breachstones can now be upgraded to with Blessings, or earned from an Atlas Tree passive. Breach monster pacing and density have been improved so that the pressure and rewards are consistent throughout an encounter. We have also tweaked Breach Scarabs, the Betrayal Research Safehouse, Breachstones from Kirac Missions, the Breach Harvest Crafting Option, the Fragment Stash Tab, Divination Cards, Breach Unique Items, Atlas Passives and more.",
+            "zh": "我们为裂隙带来了多方位的重制。往常的裂隙石现在等级大幅提高，并完全取代了充能、强化和纯粹的裂隙石。无瑕裂隙石现在可以通过祝福升级获得，也可以通过一个异界天赋获得。裂隙怪物的节奏和密度也得到了优化，使战斗中的压力和奖励都更为均衡。我们还调整了裂隙圣甲虫、背叛者科研部安全屋、奇拉克任务的裂隙石、裂隙庄园工艺选项、碎片仓库页、命运卡、裂隙传奇物品、异界天赋等。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 224,
+      "columns": {
+        "Description": [
+          {
+            "en": "Abyssal Depths now always contain an Abyssal Lich. Abysses have a chance to spawn a Stygian Spire in place of their reward chest, which drops a Stygian Vise, jewels and other items. You're now guaranteed to always get a four-hole Abyss alongside your Abyssal Depths, rather than just a single hole. We've also updated Abyss passives on the Atlas Tree, Abyssal Lich encounter balance, Abyss uniques and Abyss Scarabs.",
+            "zh": "绝望深渊现在始终会包含一个深渊巫妖。深渊有几率生成一个深渊之尖来替代奖励宝箱，它会掉落一个深渊腰带、珠宝和其他物品。除了绝望深渊之外，你还必定能够获得四洞的深渊，而非单个洞。我们还更新了异界天赋树中的深渊天赋，深渊巫妖战斗平衡性、深渊传奇物品和深渊圣甲虫。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 225,
+      "columns": {
+        "Description": [
+          {
+            "en": "The Crucible expansion provides a lot of new ways to build characters and improve your favourite ones. We have revamped approximately half of the Masteries on the passive tree with lots of new build-improving stats to pick from. We have also bolstered the tree itself with new clusters for Link Skills, Stun Mitigation and Marks, and have added a few new Masteries.\n\nWe have also overhauled the Saboteur and Pathfinder Ascendancy Classes. In addition to Traps and Mines, the Saboteur can now specialise in Triggered Skills and Cooldown Recovery, including the ability to slow down the cooldowns of enemy skills. The Pathfinder now has the ability to turn many of its skills into Concoction-like abilities that consume its flask charges for additional effects.",
+            "zh": "古神熔炉资料片带来了许多角色配装和改进现有流派的信访室。我们重制了大约一半的专精，加入了众多全新的属性来增强流派。我们还直接增强了天赋树，为羁绊技能、晕眩缓阻和印记加入了新的天赋群，还补充了一些新的专精。\n\n我们还重做了破坏者和追猎者升华职业。除了陷阱和地雷之外，破坏者现在还可以专精触发技能和冷却回复，并可以减慢敌方技能的冷却速度。追猎者现在可以将许多技能转换成类似灵药的能力，消耗药剂充能来获得额外效果"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 226,
+      "columns": {
+        "Description": [
+          {
+            "en": "Path of Exile: Crucible introduces nine new Vaal skills, which augment a wide variety of different builds. We've added Vaal Absolution, Vaal Arctic Armour, Vaal Lightning Arrow, Vaal Reap, Vaal Animate Weapon, Vaal Domination, Vaal Ice Shot, Vaal Rejuvenation Totem and Vaal Firestorm.",
+            "zh": "《流放之路》古神熔炉推出了九个全新的瓦尔技能，增强了许多不同的流派。我们加入了瓦尔：赦罪、瓦尔：极地装甲、瓦尔：闪电箭矢、瓦尔：赤炼收割、瓦尔：幻化武器、瓦尔：霸气之击、瓦尔：冰霜射击、瓦尔：回春图腾和瓦尔：烈炎风暴。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 227,
+      "columns": {
+        "Description": [
+          {
+            "en": "Path of Exile: Crucible also introduces more than ten new unique items, including three that are exclusive to the Crucible Challenge League.",
+            "zh": "《流放之路》古神熔炉还带来了超过十件全新的传奇物品，包括三件古神熔炉挑战赛季的专属物品。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 228,
+      "columns": {
+        "Description": [
+          {
+            "en": "Ruthless is Path of Exile's game mode designed around extreme item scarcity. It's challenging because you're constantly behind the item power curve. We have made small improvements to Ruthless in Path of Exile: Crucible. Firstly, Eternal Orbs are back in Ruthless! These are extremely powerful currency items that allow you to imprint an item and restore it if you're unhappy with the result of crafting. We disabled these game-wide seven years ago because they were far too powerful when combined with all of the crafting options Path of Exile offered at the time. Ruthless does not have the base game's crafting featureset, and so we are enabling Eternal Orbs to drop in Ruthless, albeit extremely rarely.\n\nRuthless now has its own set of challenges to complete. Like the ones in early Path of Exile, there are a total of eight, and they're very difficult. We'll post more information in the news about these challenges before release.",
+            "zh": "无情模式是《流放之路》中围绕物品稀缺性所打造的游戏模式。因为你在物品强度曲线里始终落后，所以很有挑战性。我们在《流放之路》古神熔炉中对无情模式进行了学习改进。第一，永恒宝珠回归无情模式！这些极为强力的通货物品使你能够拓印一件物品，如果对工艺结果不满意还可以将其复原。七年之前，由于结合《流放之路》当时的工艺选项时过于强大，我们在整个游戏中取消了这项功能。但无情模式没有基础游戏的工艺功能组，所以我们会让永恒宝珠能够在无情模式中掉落，但仍旧非常稀罕。\n\n无情模式现在可以完成自己的挑战。早期版本的《流放之路》一样，总共有八种艰难的挑战。我们会在正式上线这些内容前发布新闻介绍详情。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 229,
+      "columns": {
+        "Description": [
+          {
+            "en": "Our next livestream will take place from the ExileCon 2023 main stage! Held from July 28-29 (PDT) in Auckland, New Zealand, the event will be fully streamed online for you to watch from home. We'll be unveiling masses of information about Path of Exile 2 and Path of Exile Mobile before streaming the entire Path of Exile 3.22 reveal and then every developer talk, panel and event from the convention. The livestream starts at 10am New Zealand time on July 29 (3pm PDT, July 28). Don't miss it!",
+            "zh": "我们的下一场小型嘉年华也即将举行！国服流放者嘉年华预计将于今年年中举行，具体信息可关注后续官方动态。"
+          }
+        ]
+      }
+    }
+  ]
+}

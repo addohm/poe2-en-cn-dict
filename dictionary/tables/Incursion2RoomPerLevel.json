@@ -1,0 +1,1476 @@
+{
+  "table": "Incursion2RoomPerLevel",
+  "key": "Id",
+  "columns": [
+    "Description",
+    "Name",
+    "Icon_DDSFile",
+    "Description2"
+  ],
+  "entries": [
+    {
+      "id": null,
+      "index": 0,
+      "columns": {
+        "Name": [
+          {
+            "en": "Path",
+            "zh": "通路"
+          }
+        ]
+      }
+    },
+    {
+      "id": "garrison_lvl1",
+      "index": 1,
+      "columns": {
+        "Name": [
+          {
+            "en": "Guardhouse",
+            "zh": "护卫间"
+          }
+        ]
+      }
+    },
+    {
+      "id": "garrison_lvl2",
+      "index": 2,
+      "columns": {
+        "Name": [
+          {
+            "en": "Barracks",
+            "zh": "军营"
+          }
+        ]
+      }
+    },
+    {
+      "id": "garrison_lvl3",
+      "index": 3,
+      "columns": {
+        "Name": [
+          {
+            "en": "Hall of War",
+            "zh": "战争大厅"
+          }
+        ]
+      }
+    },
+    {
+      "id": "garrison_lvl4",
+      "index": 4,
+      "columns": {
+        "Name": [
+          {
+            "en": "Warrior Assembly",
+            "zh": "勇士集会"
+          }
+        ]
+      }
+    },
+    {
+      "id": "commander_lvl1",
+      "index": 5,
+      "columns": {
+        "Name": [
+          {
+            "en": "Commander's Chamber",
+            "zh": "指挥官密室"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "May drop [IncursionMedallionIncreaseRoomTier|Quipolatl's Medallion] or [IncursionMedallionAddRoom|Uromoti's Medallion]",
+            "zh": "可能掉落[IncursionMedallionIncreaseRoomTier|奎波拉特尔的纹章]或[IncursionMedallionAddRoom|武罗摩提的纹章]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "commander_lvl2",
+      "index": 6,
+      "columns": {
+        "Name": [
+          {
+            "en": "Commander's Hall",
+            "zh": "指挥官大厅"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "May drop [IncursionMedallionIncreaseRoomTier|Quipolatl's Medallion] or [IncursionMedallionAddRoom|Uromoti's Medallion]",
+            "zh": "可能掉落[IncursionMedallionIncreaseRoomTier|奎波拉特尔的纹章]或[IncursionMedallionAddRoom|武罗摩提的纹章]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "commander_lvl3",
+      "index": 7,
+      "columns": {
+        "Name": [
+          {
+            "en": "Commander's Headquarters",
+            "zh": "指挥官总部"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "May drop [IncursionMedallionAddRoom|Uromoti's Medallion] or [IncursionMedallionAddTempleModifier|Zantipi's Medallion]",
+            "zh": "可能掉落[IncursionMedallionAddRoom|武罗摩提的纹章]或[IncursionMedallionAddTempleModifier|赞提佩的纹章]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "commander_lvl4",
+      "index": 8,
+      "columns": {
+        "Name": [
+          {
+            "en": "Commander's Station",
+            "zh": "指挥官驻地"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "May drop [IncursionMedallionAddRoom|Uromoti's Medallion] or [IncursionMedallionAddTempleModifier|Zantipi's Medallion]",
+            "zh": "可能掉落[IncursionMedallionAddRoom|武罗摩提的纹章]或[IncursionMedallionAddTempleModifier|赞提佩的纹章]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "armoury_lvl1",
+      "index": 9,
+      "columns": {
+        "Description": [
+          {
+            "en": "Contains [Equipment]",
+            "zh": "内含[Equipment|装备]"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Depot",
+            "zh": "仓库"
+          }
+        ]
+      }
+    },
+    {
+      "id": "armoury_lvl2",
+      "index": 10,
+      "columns": {
+        "Description": [
+          {
+            "en": "Contains [Equipment]",
+            "zh": "内含[Equipment|装备]"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Arsenal",
+            "zh": "军库"
+          }
+        ]
+      }
+    },
+    {
+      "id": "armoury_lvl3",
+      "index": 11,
+      "columns": {
+        "Description": [
+          {
+            "en": "Contains [Rarity|Rare] [Equipment]",
+            "zh": "内含[Rarity|稀有][Equipment|装备]"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Gallery",
+            "zh": "画廊"
+          }
+        ]
+      }
+    },
+    {
+      "id": "armoury_lvl4",
+      "index": 12,
+      "columns": {
+        "Description": [
+          {
+            "en": "Contains [Rarity|Rare] [Equipment]",
+            "zh": "内含[Rarity|稀有][Equipment|装备]"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Royal Reserves",
+            "zh": "皇家预备队"
+          }
+        ]
+      }
+    },
+    {
+      "id": "smithy_lvl1",
+      "index": 13,
+      "columns": {
+        "Description": [
+          {
+            "en": "Contains the Forging Workbench which can be used to improve [Quality] of [Equipment]",
+            "zh": "内含可提升[Equipment|装备][Quality|品质]的工艺台"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Bronzeworks",
+            "zh": "青铜工坊"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "May drop [IncursionMedallionIncreaseRoomTier|Quipolatl's Medallion] or [IncursionMedallionAddRoom|Uromoti's Medallion]",
+            "zh": "可能掉落[IncursionMedallionIncreaseRoomTier|奎波拉特尔的纹章]或[IncursionMedallionAddRoom|武罗摩提的纹章]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "smithy_lvl2",
+      "index": 14,
+      "columns": {
+        "Description": [
+          {
+            "en": "Contains the Forging Mechanism which can be used to add an [Augment] socket to [Equipment]",
+            "zh": "内含可为[Equipment|装备]添加[Augment|增幅器]插槽的工艺台"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Chamber of Iron",
+            "zh": "铸铁大厅"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "May drop [IncursionMedallionIncreaseRoomTier|Quipolatl's Medallion] or [IncursionMedallionAddRoom|Uromoti's Medallion]",
+            "zh": "可能掉落[IncursionMedallionIncreaseRoomTier|奎波拉特尔的纹章]或[IncursionMedallionAddRoom|武罗摩提的纹章]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "smithy_lvl3",
+      "index": 15,
+      "columns": {
+        "Description": [
+          {
+            "en": "Contains the Masterwork Forge which can be used to increase the [Quality] of an [Equipment] item that already has 20% [Quality]",
+            "zh": "内含大师级熔炉，可用于提升一件已拥有 20% [Quality|品质]的[Equipment|装备]物品的[Quality|品质]"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Golden Forge",
+            "zh": "黄金熔炉"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "May drop [IncursionMedallionPreventDestabilise|Juatalotli's Medallion], [IncursionMedallionRerollRestrictedRoom|Hayoxi's Medallion], [IncursionMedallionAddRoom|Uromoti's Medallion], [IncursionMedallionAddAdditionalRestrictedRoom|Estazunti's Medallion] or [IncursionMedallionAddTempleModifier|Zantipi's Medallion]",
+            "zh": "可能掉落[IncursionMedallionPreventDestabilise|华塔洛蒂的纹章], [IncursionMedallionRerollRestrictedRoom|海幽夏的纹章]， [IncursionMedallionAddRoom|武罗摩提纹章]， [IncursionMedallionAddAdditionalRestrictedRoom|埃斯塔祖提的纹章]或[IncursionMedallionAddTempleModifier|赞提佩的纹章]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "smithy_lvl4",
+      "index": 16,
+      "columns": {
+        "Description": [
+          {
+            "en": "Contains the Masterwork Forge which can be used to increase the [Quality] of an [Equipment] item that already has 20% [Quality]\r\n[Rarity|Unique] Boss drops additional Infusers",
+            "zh": "内含大师级熔炉，可用于提升一件已拥有 20% [Quality|品质]的[Equipment|装备]物品的[Quality|品质]\r\n[Rarity|传奇]首领掉落额外注能装置"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Immaculate Forge",
+            "zh": "无瑕熔炉"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "May drop [IncursionMedallionPreventDestabilise|Juatalotli's Medallion], [IncursionMedallionRerollRestrictedRoom|Hayoxi's Medallion], [IncursionMedallionAddRoom|Uromoti's Medallion], [IncursionMedallionAddAdditionalRestrictedRoom|Estazunti's Medallion] or [IncursionMedallionAddTempleModifier|Zantipi's Medallion]",
+            "zh": "可能掉落[IncursionMedallionPreventDestabilise|华塔洛蒂的纹章], [IncursionMedallionRerollRestrictedRoom|海幽夏的纹章]， [IncursionMedallionAddRoom|武罗摩提纹章]， [IncursionMedallionAddAdditionalRestrictedRoom|埃斯塔祖提的纹章]或[IncursionMedallionAddTempleModifier|赞提佩的纹章]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "generator_lvl1",
+      "index": 17,
+      "columns": {
+        "Description": [
+          {
+            "en": "Provides [IncursionPower|Power] to nearby rooms, increasing in distance with Room tier",
+            "zh": "为邻近房间[IncursionPower|供能]，作用范围随房间等阶提升"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Dynamo",
+            "zh": "动力核心"
+          }
+        ]
+      }
+    },
+    {
+      "id": "generator_lvl2",
+      "index": 18,
+      "columns": {
+        "Description": [
+          {
+            "en": "Provides [IncursionPower|Power] to nearby rooms, increasing in distance with Room tier",
+            "zh": "为邻近房间[IncursionPower|供能]，作用范围随房间等阶提升"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Shrine of Empowerment",
+            "zh": "赋能圣所"
+          }
+        ]
+      }
+    },
+    {
+      "id": "generator_lvl3",
+      "index": 19,
+      "columns": {
+        "Description": [
+          {
+            "en": "Provides [IncursionPower|Power] to nearby rooms, increasing in distance with Room tier",
+            "zh": "为邻近房间[IncursionPower|供能]，作用范围随房间等阶提升"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Solar Nexus",
+            "zh": "烈日核心"
+          }
+        ]
+      }
+    },
+    {
+      "id": "generator_lvl4",
+      "index": 20,
+      "columns": {
+        "Description": [
+          {
+            "en": "Provides [IncursionPower|Power] to nearby rooms, increasing in distance with Room tier",
+            "zh": "为邻近房间[IncursionPower|供能]，作用范围随房间等阶提升"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Infinite Horizon",
+            "zh": "无穷天际"
+          }
+        ]
+      }
+    },
+    {
+      "id": "viperspymaster_lvl1",
+      "index": 21,
+      "columns": {
+        "Description": [
+          {
+            "en": "Room Tier can be increased by defeating other Spymasters",
+            "zh": "可通过击败其他密探来提升房间等阶"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Spymaster's Study",
+            "zh": "密探书房"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "May drop [IncursionMedallionPreventDestabilise|Juatalotli's Medallion], [IncursionMedallionIncreaseRoomTier|Quipolatl's Medallion] or [IncursionMedallionAddRoom|Uromoti's Medallion]",
+            "zh": "可能掉落[IncursionMedallionPreventDestabilise|华塔洛蒂的纹章], [IncursionMedallionIncreaseRoomTier|奎波拉特尔的纹章]或[IncursionMedallionAddRoom|武罗摩提的纹章]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "viperspymaster_lvl2",
+      "index": 22,
+      "columns": {
+        "Description": [
+          {
+            "en": "Room Tier can be increased by defeating other Spymasters",
+            "zh": "可通过击败其他密探来提升房间等阶"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Hall of Shadows",
+            "zh": "暗影大厅"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "May drop [IncursionMedallionPreventDestabilise|Juatalotli's Medallion], [IncursionMedallionIncreaseRoomTier|Quipolatl's Medallion] or [IncursionMedallionAddRoom|Uromoti's Medallion]",
+            "zh": "可能掉落[IncursionMedallionPreventDestabilise|华塔洛蒂的纹章], [IncursionMedallionIncreaseRoomTier|奎波拉特尔的纹章]或[IncursionMedallionAddRoom|武罗摩提的纹章]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "viperspymaster_lvl3",
+      "index": 23,
+      "columns": {
+        "Description": [
+          {
+            "en": "Room Tier can be increased by defeating other Spymasters",
+            "zh": "可通过击败其他密探来提升房间等阶"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Omnipresent Panopticon",
+            "zh": "全视监察所"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "May drop [IncursionMedallionPreventDestabilise|Juatalotli's Medallion], [IncursionMedallionAddRoom|Uromoti's Medallion] or [IncursionMedallionRerollRoomCards|Puhuarte's Medallion]",
+            "zh": "可能掉落[IncursionMedallionPreventDestabilise|华塔洛蒂的纹章], [IncursionMedallionAddRoom|武罗摩提的纹章]或 [IncursionMedallionRerollRoomCards|普华特的纹章]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "viperspymaster_lvl4",
+      "index": 24,
+      "columns": {
+        "Name": [
+          {
+            "en": "Espionage Core",
+            "zh": "间谍核心"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "May drop [IncursionMedallionPreventDestabilise|Juatalotli's Medallion], [IncursionMedallionAddRoom|Uromoti's Medallion] or [IncursionMedallionRerollRoomCards|Puhuarte's Medallion]",
+            "zh": "可能掉落[IncursionMedallionPreventDestabilise|华塔洛蒂的纹章], [IncursionMedallionAddRoom|武罗摩提的纹章]或 [IncursionMedallionRerollRoomCards|普华特的纹章]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "viperlegionbarracks_lvl2",
+      "index": 25,
+      "columns": {
+        "Name": [
+          {
+            "en": "Viper's Loyals",
+            "zh": "毒蛇亲卫"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "May drop [IncursionMedallionIncreaseRoomTier|Quipolatl's Medallion] or [IncursionMedallionAddRoom|Uromoti's Medallion]",
+            "zh": "可能掉落[IncursionMedallionIncreaseRoomTier|奎波拉特尔的纹章]或[IncursionMedallionAddRoom|武罗摩提的纹章]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "viperlegionbarracks_lvl3",
+      "index": 26,
+      "columns": {
+        "Name": [
+          {
+            "en": "Elite Legion",
+            "zh": "精英军团"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "May drop [IncursionMedallionPreventDestabilise|Juatalotli's Medallion], [IncursionMedallionRerollRestrictedRoom|Hayoxi's Medallion], [IncursionMedallionAddRoom|Uromoti's Medallion], [IncursionMedallionAddAdditionalRestrictedRoom|Estazunti's Medallion] or [IncursionMedallionAddTempleModifier|Zantipi's Medallion]",
+            "zh": "可能掉落[IncursionMedallionPreventDestabilise|华塔洛蒂的纹章]，[IncursionMedallionRerollRestrictedRoom|海幽夏的纹章]， [IncursionMedallionAddRoom|武罗摩提的纹章]， [IncursionMedallionAddAdditionalRestrictedRoom|埃斯塔祖提的纹章]或[IncursionMedallionAddTempleModifier|赞提佩的纹章]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "viperlegionbarracks_lvl4",
+      "index": 27,
+      "columns": {
+        "Name": [
+          {
+            "en": "Unmatched Legionnaires",
+            "zh": "无敌军团"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "May drop [IncursionMedallionPreventDestabilise|Juatalotli's Medallion], [IncursionMedallionRerollRestrictedRoom|Hayoxi's Medallion], [IncursionMedallionAddRoom|Uromoti's Medallion], [IncursionMedallionAddAdditionalRestrictedRoom|Estazunti's Medallion] or [IncursionMedallionAddTempleModifier|Zantipi's Medallion]",
+            "zh": "可能掉落[IncursionMedallionPreventDestabilise|华塔洛蒂的纹章]，[IncursionMedallionRerollRestrictedRoom|海幽夏的纹章]， [IncursionMedallionAddRoom|武罗摩提的纹章]， [IncursionMedallionAddAdditionalRestrictedRoom|埃斯塔祖提的纹章]或[IncursionMedallionAddTempleModifier|赞提佩的纹章]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "synthfleshlab_lvl1",
+      "index": 28,
+      "columns": {
+        "Name": [
+          {
+            "en": "Prosthetic Research",
+            "zh": "义体研究所"
+          }
+        ]
+      }
+    },
+    {
+      "id": "synthfleshlab_lvl2",
+      "index": 29,
+      "columns": {
+        "Name": [
+          {
+            "en": "Synthflesh Sanctum",
+            "zh": "血肉合成禁域"
+          }
+        ]
+      }
+    },
+    {
+      "id": "synthfleshlab_lvl3",
+      "index": 30,
+      "columns": {
+        "Name": [
+          {
+            "en": "Crucible of Transcendence",
+            "zh": "超然熔炉"
+          }
+        ]
+      }
+    },
+    {
+      "id": "synthfleshlab_lvl4",
+      "index": 31,
+      "columns": {
+        "Name": [
+          {
+            "en": "Supremacy of Function",
+            "zh": "功能霸权"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fleshsurgeon_lvl1",
+      "index": 32,
+      "columns": {
+        "Name": [
+          {
+            "en": "Surgeon's Ward",
+            "zh": "外科病房"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "May drop [IncursionMedallionIncreaseRoomTier|Quipolatl's Medallion] or [IncursionMedallionAddRoom|Uromoti's Medallion]",
+            "zh": "可能掉落[IncursionMedallionIncreaseRoomTier|奎波拉特尔的纹章]或[IncursionMedallionAddRoom|武罗摩提的纹章]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fleshsurgeon_lvl2",
+      "index": 33,
+      "columns": {
+        "Name": [
+          {
+            "en": "Surgeon's Theatre",
+            "zh": "外科手术室"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "May drop [IncursionMedallionIncreaseRoomTier|Quipolatl's Medallion] or [IncursionMedallionAddRoom|Uromoti's Medallion]",
+            "zh": "可能掉落[IncursionMedallionIncreaseRoomTier|奎波拉特尔的纹章]或[IncursionMedallionAddRoom|武罗摩提的纹章]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fleshsurgeon_lvl3",
+      "index": 34,
+      "columns": {
+        "Description": [
+          {
+            "en": "Contains the Transcension Device, allowing for [IncursionLimbModification|Limb Modification]",
+            "zh": "内含升华装置，可用于[IncursionLimbModification|肢体改造]"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Surgeon's Symphony",
+            "zh": "外科协奏厅"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "May drop [IncursionMedallionPreventDestabilise|Juatalotli's Medallion], [IncursionMedallionRerollRestrictedRoom|Hayoxi's Medallion], [IncursionMedallionAddRoom|Uromoti's Medallion], [IncursionMedallionAddAdditionalRestrictedRoom|Estazunti's Medallion] or [IncursionMedallionAddTempleModifier|Zantipi's Medallion]",
+            "zh": "可能掉落[IncursionMedallionPreventDestabilise|华塔洛蒂的纹章]，[IncursionMedallionRerollRestrictedRoom|海幽夏的纹章]， [IncursionMedallionAddRoom|武罗摩提的纹章]， [IncursionMedallionAddAdditionalRestrictedRoom|埃斯塔祖提的纹章]或[IncursionMedallionAddTempleModifier|赞提佩的纹章]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fleshsurgeon_lvl4",
+      "index": 35,
+      "columns": {
+        "Description": [
+          {
+            "en": "Contains the Transcension Device, allowing for [IncursionLimbModification|Limb Modification], which can be used twice",
+            "zh": "内含升华装置，可用于[IncursionLimbModification|肢体改造]。可用两次。"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Surgical Glory",
+            "zh": "外科荣耀"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "May drop [IncursionMedallionPreventDestabilise|Juatalotli's Medallion], [IncursionMedallionRerollRestrictedRoom|Hayoxi's Medallion], [IncursionMedallionAddRoom|Uromoti's Medallion], [IncursionMedallionAddAdditionalRestrictedRoom|Estazunti's Medallion] or [IncursionMedallionAddTempleModifier|Zantipi's Medallion]",
+            "zh": "可能掉落[IncursionMedallionPreventDestabilise|华塔洛蒂的纹章]，[IncursionMedallionRerollRestrictedRoom|海幽夏的纹章]， [IncursionMedallionAddRoom|武罗摩提的纹章]， [IncursionMedallionAddAdditionalRestrictedRoom|埃斯塔祖提的纹章]或[IncursionMedallionAddTempleModifier|赞提佩的纹章]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "transcendentbarracks_lvl2",
+      "index": 36,
+      "columns": {
+        "Name": [
+          {
+            "en": "Steelflesh Quarters",
+            "zh": "钢肤营区"
+          }
+        ]
+      }
+    },
+    {
+      "id": "transcendentbarracks_lvl3",
+      "index": 37,
+      "columns": {
+        "Name": [
+          {
+            "en": "Collective Legion",
+            "zh": "集体军团"
+          }
+        ]
+      }
+    },
+    {
+      "id": "transcendentbarracks_lvl4",
+      "index": 38,
+      "columns": {
+        "Name": [
+          {
+            "en": "Chamber of the Perfected",
+            "zh": "完美殿堂"
+          }
+        ]
+      }
+    },
+    {
+      "id": "alchemylab_lvl1",
+      "index": 39,
+      "columns": {
+        "Name": [
+          {
+            "en": "Chamber of Souls",
+            "zh": "灵魂熔炉"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "May drop [IncursionMedallionIncreaseRoomTier|Quipolatl's Medallion] or [IncursionMedallionAddRoom|Uromoti's Medallion]",
+            "zh": "可能掉落[IncursionMedallionIncreaseRoomTier|奎波拉特尔的纹章]或[IncursionMedallionAddRoom|武罗摩提的纹章]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "alchemylab_lvl2",
+      "index": 40,
+      "columns": {
+        "Name": [
+          {
+            "en": "Core Machinarium",
+            "zh": "核心机械殿"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "May drop [IncursionMedallionIncreaseRoomTier|Quipolatl's Medallion] or [IncursionMedallionAddRoom|Uromoti's Medallion]",
+            "zh": "可能掉落[IncursionMedallionIncreaseRoomTier|奎波拉特尔的纹章]或[IncursionMedallionAddRoom|武罗摩提的纹章]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "alchemylab_lvl3",
+      "index": 41,
+      "columns": {
+        "Description": [
+          {
+            "en": "Contains the Soul Core Infuser which can be used to modify [SoulCore|Soul Cores]\r\nRoom [IncursionDestabilization|Destabilises] once device is used",
+            "zh": "内含灵核注能装置，可用于改造[SoulCore|灵核]\r\n使用该装置后，房间将[IncursionDestabilization|瓦解]"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Grand Phylactory",
+            "zh": "宏伟命匣"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "May drop [IncursionMedallionPreventDestabilise|Juatalotli's Medallion], [IncursionMedallionRerollRestrictedRoom|Hayoxi's Medallion], [IncursionMedallionAddRoom|Uromoti's Medallion], [IncursionMedallionAddAdditionalRestrictedRoom|Estazunti's Medallion] or [IncursionMedallionAddTempleModifier|Zantipi's Medallion]",
+            "zh": "可能掉落[IncursionMedallionPreventDestabilise|华塔洛蒂的纹章]，[IncursionMedallionRerollRestrictedRoom|海幽夏的纹章]， [IncursionMedallionAddRoom|武罗摩提的纹章]， [IncursionMedallionAddAdditionalRestrictedRoom|埃斯塔祖提的纹章]或[IncursionMedallionAddTempleModifier|赞提佩的纹章]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "alchemylab_lvl4",
+      "index": 42,
+      "columns": {
+        "Description": [
+          {
+            "en": "Contains the Soul Core Infuser which can be used to modify [SoulCore|Soul Cores]\r\nRoom [IncursionDestabilization|Destabilises] once device is used\r\n[Rarity|Unique] Boss drops additional Soul Cores",
+            "zh": "内含灵核注能装置，可用于改造[SoulCore|灵核]\r\n使用该装置后，房间将[IncursionDestabilization|瓦解]\r\n[Rarity|传奇]首领掉落额外灵核"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Decorous Phylactory",
+            "zh": "华美命匣"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "May drop [IncursionMedallionPreventDestabilise|Juatalotli's Medallion], [IncursionMedallionRerollRestrictedRoom|Hayoxi's Medallion], [IncursionMedallionAddRoom|Uromoti's Medallion], [IncursionMedallionAddAdditionalRestrictedRoom|Estazunti's Medallion] or [IncursionMedallionAddTempleModifier|Zantipi's Medallion]",
+            "zh": "可能掉落[IncursionMedallionPreventDestabilise|华塔洛蒂的纹章]，[IncursionMedallionRerollRestrictedRoom|海幽夏的纹章]， [IncursionMedallionAddRoom|武罗摩提的纹章]， [IncursionMedallionAddAdditionalRestrictedRoom|埃斯塔祖提的纹章]或[IncursionMedallionAddTempleModifier|赞提佩的纹章]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "thaumaturge_lvl1",
+      "index": 43,
+      "columns": {
+        "Name": [
+          {
+            "en": "Thaumaturge's Laboratory",
+            "zh": "奇术实验室"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "May drop [IncursionMedallionIncreaseRoomTier|Quipolatl's Medallion] or [IncursionMedallionAddRoom|Uromoti's Medallion]",
+            "zh": "可能掉落[IncursionMedallionIncreaseRoomTier|奎波拉特尔的纹章]或[IncursionMedallionAddRoom|武罗摩提的纹章]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "thaumaturge_lvl2",
+      "index": 44,
+      "columns": {
+        "Description": [
+          {
+            "en": "Contains the Gemcutting Mechanism which can be used to increase the [Quality] of a Skill Gem",
+            "zh": "内含宝石切割工作台，可用于提升技能宝石[Quality|品质]。\r\n"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Thaumaturge's Cuttery",
+            "zh": "奇术切割坊"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "May drop [IncursionMedallionIncreaseRoomTier|Quipolatl's Medallion] or [IncursionMedallionAddRoom|Uromoti's Medallion]",
+            "zh": "可能掉落[IncursionMedallionIncreaseRoomTier|奎波拉特尔的纹章]或[IncursionMedallionAddRoom|武罗摩提的纹章]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "thaumaturge_lvl3",
+      "index": 45,
+      "columns": {
+        "Description": [
+          {
+            "en": "Contains the Gem Corrupter which can be used to modify a [Corrupted] Skill Gem unpredictably\r\nRoom [IncursionDestabilization|Destabilises] once device is used",
+            "zh": "内含宝石腐化器，可用于改造一颗[Corrupted|被腐化]的技能宝石，结果不可预测\r\n使用该装置后，房间将[IncursionDestabilization|瓦解]"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Thaumaturge's Cathedral",
+            "zh": "奇术大圣堂"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "May drop [IncursionMedallionPreventDestabilise|Juatalotli's Medallion], [IncursionMedallionRerollRestrictedRoom|Hayoxi's Medallion], [IncursionMedallionAddRoom|Uromoti's Medallion], [IncursionMedallionAddAdditionalRestrictedRoom|Estazunti's Medallion] or [IncursionMedallionRerollRoomCards|Puhuarte's Medallion]",
+            "zh": "可能掉落[IncursionMedallionPreventDestabilise|华塔洛蒂的纹章]，[IncursionMedallionRerollRestrictedRoom|海幽夏的纹章]， [IncursionMedallionAddRoom|武罗摩提的纹章]， [IncursionMedallionAddAdditionalRestrictedRoom|埃斯塔祖提的纹章]或[IncursionMedallionRerollRoomCards|普华特的纹章]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "thaumaturge_lvl4",
+      "index": 46,
+      "columns": {
+        "Description": [
+          {
+            "en": "Contains the Gem Corrupter which can be used to modify a [Corrupted] Skill Gem unpredictably\r\nRoom [IncursionDestabilization|Destabilises] once device is used",
+            "zh": "内含宝石腐化器，可用于改造一颗[Corrupted|被腐化]的技能宝石，结果不可预测\r\n使用该装置后，房间将[IncursionDestabilization|瓦解]"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Thaumaturge's Culmination",
+            "zh": "奇术巅峰"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "May drop [IncursionMedallionPreventDestabilise|Juatalotli's Medallion], [IncursionMedallionRerollRestrictedRoom|Hayoxi's Medallion], [IncursionMedallionAddRoom|Uromoti's Medallion], [IncursionMedallionAddAdditionalRestrictedRoom|Estazunti's Medallion] or [IncursionMedallionRerollRoomCards|Puhuarte's Medallion]",
+            "zh": "可能掉落[IncursionMedallionPreventDestabilise|华塔洛蒂的纹章]，[IncursionMedallionRerollRestrictedRoom|海幽夏的纹章]， [IncursionMedallionAddRoom|武罗摩提的纹章]， [IncursionMedallionAddAdditionalRestrictedRoom|埃斯塔祖提的纹章]或[IncursionMedallionRerollRoomCards|普华特的纹章]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "golemworks_lvl1",
+      "index": 47,
+      "columns": {
+        "Name": [
+          {
+            "en": "Workshop",
+            "zh": "工坊"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "May drop [IncursionMedallionIncreaseRoomTier|Quipolatl's Medallion] or [IncursionMedallionAddRoom|Uromoti's Medallion]",
+            "zh": "可能掉落[IncursionMedallionIncreaseRoomTier|奎波拉特尔的纹章]或[IncursionMedallionAddRoom|武罗摩提的纹章]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "golemworks_lvl2",
+      "index": 48,
+      "columns": {
+        "Name": [
+          {
+            "en": "Automaton Lab",
+            "zh": "自动机实验室"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "May drop [IncursionMedallionIncreaseRoomTier|Quipolatl's Medallion] or [IncursionMedallionAddRoom|Uromoti's Medallion]",
+            "zh": "可能掉落[IncursionMedallionIncreaseRoomTier|奎波拉特尔的纹章]或[IncursionMedallionAddRoom|武罗摩提的纹章]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "golemworks_lvl3",
+      "index": 49,
+      "columns": {
+        "Name": [
+          {
+            "en": "Stone Legion",
+            "zh": "石像军团"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "May drop [IncursionMedallionIncreaseRoomTier|Quipolatl's Medallion], [IncursionMedallionAddRoom|Uromoti's Medallion] or [IncursionMedallionRerollRoomCards|Puhuarte's Medallion]",
+            "zh": "可能掉落[IncursionMedallionIncreaseRoomTier|奎波拉特尔的纹章], [IncursionMedallionAddRoom|武罗摩提的纹章]或[IncursionMedallionRerollRoomCards|普华特的纹章]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "golemworks_lvl4",
+      "index": 50,
+      "columns": {
+        "Name": [
+          {
+            "en": "Precision of Science",
+            "zh": "科学精准"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "May drop [IncursionMedallionIncreaseRoomTier|Quipolatl's Medallion], [IncursionMedallionAddRoom|Uromoti's Medallion] or [IncursionMedallionRerollRoomCards|Puhuarte's Medallion]",
+            "zh": "可能掉落[IncursionMedallionIncreaseRoomTier|奎波拉特尔的纹章], [IncursionMedallionAddRoom|武罗摩提的纹章]或[IncursionMedallionRerollRoomCards|普华特的纹章]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "corruption_lvl1",
+      "index": 51,
+      "columns": {
+        "Description": [
+          {
+            "en": "Contains a Corruption Altar which can be used to [Corrupted|Corrupt] items",
+            "zh": "内含腐化雕像，可用于[Corrupted|腐化]物品"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Crimson Hall",
+            "zh": "猩红大厅"
+          }
+        ]
+      }
+    },
+    {
+      "id": "corruption_lvl2",
+      "index": 52,
+      "columns": {
+        "Description": [
+          {
+            "en": "Contains a Corruption Altar which can be used to [Corrupted|Corrupt] items",
+            "zh": "内含腐化雕像，可用于[Corrupted|腐化]物品"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Catalyst of Corruption",
+            "zh": "腐化演变室"
+          }
+        ]
+      }
+    },
+    {
+      "id": "corruption_lvl3",
+      "index": 53,
+      "columns": {
+        "Description": [
+          {
+            "en": "Contains a Corruption Altar which can be used to modify [Corrupted] [Equipment] or Jewels unpredictably\r\nRoom [IncursionDestabilization|Destabilises] once device is used",
+            "zh": "内含腐化雕像，可用于改造[Corrupted|被腐化]的[Equipment|装备]或珠宝，结果不可预测\r\n使用该装置后，房间将[IncursionDestabilization|瓦解]"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Locus of Corruption",
+            "zh": "腐化蝗群"
+          }
+        ]
+      }
+    },
+    {
+      "id": "corruption_lvl4",
+      "index": 54,
+      "columns": {
+        "Description": [
+          {
+            "en": "Contains a Corruption Altar which can be used to modify [Corrupted] [Equipment] or Jewels unpredictably\r\nRoom [IncursionDestabilization|Destabilises] once device is used",
+            "zh": "内含腐化雕像，可用于改造[Corrupted|被腐化]的[Equipment|装备]或珠宝，结果不可预测\r\n使用该装置后，房间将[IncursionDestabilization|瓦解]"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Rapture of Corruption",
+            "zh": "腐化狂喜"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vault",
+      "index": 55,
+      "columns": {
+        "Description": [
+          {
+            "en": "Contains a variety of valuable Chests based on surrounding Rooms\r\nRoom [IncursionDestabilization|Destabilises] once the central Vault is opened",
+            "zh": "内含一系列基于周围房间的珍贵宝箱\r\n开启中央宝库后，房间将[IncursionDestabilization|瓦解]"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Sealed Vault",
+            "zh": "封印宝库"
+          }
+        ]
+      }
+    },
+    {
+      "id": "sacrificechamber_lvl1",
+      "index": 56,
+      "columns": {
+        "Description": [
+          {
+            "en": "Contains a Unique Item",
+            "zh": "内含一件传奇物品"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Altar of Sacrifice",
+            "zh": "牺牲祭坛"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "May drop [IncursionMedallionIncreaseRoomTier|Quipolatl's Medallion] or [IncursionMedallionAddRoom|Uromoti's Medallion]",
+            "zh": "可能掉落[IncursionMedallionIncreaseRoomTier|奎波拉特尔的纹章]或[IncursionMedallionAddRoom|武罗摩提的纹章]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "sacrificechamber_lvl2",
+      "index": 57,
+      "columns": {
+        "Description": [
+          {
+            "en": "Contains a Unique Item",
+            "zh": "内含一件传奇物品"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Hall of Offerings",
+            "zh": "祭品大厅"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "May drop [IncursionMedallionIncreaseRoomTier|Quipolatl's Medallion] or [IncursionMedallionAddRoom|Uromoti's Medallion]",
+            "zh": "可能掉落[IncursionMedallionIncreaseRoomTier|奎波拉特尔的纹章]或[IncursionMedallionAddRoom|武罗摩提的纹章]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "sacrificechamber_lvl3",
+      "index": 58,
+      "columns": {
+        "Description": [
+          {
+            "en": "Contains a Unique Item\r\nContains the Morphology Mechanism which can be used to modify [Corrupted] Unique Items\r\nRoom [IncursionDestabilization|Destabilises] once device is used",
+            "zh": "内含一件传奇物品\r\n内含形态重塑工坊，可用于改造[Corrupted|被腐化]的传奇物品\r\n使用该装置后，房间将[IncursionDestabilization|瓦解]"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Apex of Oblation",
+            "zh": "祭奠之巅"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "May drop [IncursionMedallionPreventDestabilise|Juatalotli's Medallion], [IncursionMedallionRerollRestrictedRoom|Hayoxi's Medallion], [IncursionMedallionAddRoom|Uromoti's Medallion], [IncursionMedallionAddAdditionalRestrictedRoom|Estazunti's Medallion] or [IncursionMedallionAddTempleModifier|Zantipi's Medallion]",
+            "zh": "可能掉落[IncursionMedallionPreventDestabilise|华塔洛蒂的纹章]，[IncursionMedallionRerollRestrictedRoom|海幽夏的纹章]， [IncursionMedallionAddRoom|武罗摩提的纹章]， [IncursionMedallionAddAdditionalRestrictedRoom|埃斯塔祖提的纹章]或[IncursionMedallionAddTempleModifier|赞提佩的纹章]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "sacrificechamber_lvl4",
+      "index": 59,
+      "columns": {
+        "Description": [
+          {
+            "en": "Contains a Unique Item\r\nContains the Morphology Mechanism which can be used to modify [Corrupted] Unique Items\r\nRoom [IncursionDestabilization|Destabilises] once device is used",
+            "zh": "内含一件传奇物品\r\n内含形态重塑工坊，可用于改造[Corrupted|被腐化]的传奇物品\r\n使用该装置后，房间将[IncursionDestabilization|瓦解]"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Empyrean of Blood",
+            "zh": "血之苍穹"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "May drop [IncursionMedallionPreventDestabilise|Juatalotli's Medallion], [IncursionMedallionRerollRestrictedRoom|Hayoxi's Medallion], [IncursionMedallionAddRoom|Uromoti's Medallion], [IncursionMedallionAddAdditionalRestrictedRoom|Estazunti's Medallion] or [IncursionMedallionAddTempleModifier|Zantipi's Medallion]",
+            "zh": "可能掉落[IncursionMedallionPreventDestabilise|华塔洛蒂的纹章]，[IncursionMedallionRerollRestrictedRoom|海幽夏的纹章]， [IncursionMedallionAddRoom|武罗摩提的纹章]， [IncursionMedallionAddAdditionalRestrictedRoom|埃斯塔祖提的纹章]或[IncursionMedallionAddTempleModifier|赞提佩的纹章]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "architect",
+      "index": 60,
+      "columns": {
+        "Description": [
+          {
+            "en": "Defeating the Architect allows use of Xipocado's Console which can be used to place various [IncursionRestrictedRoom|Restricted Rooms]\r\nDefeating the Architect also unlocks [IncursionMedallions|Medallions]",
+            "zh": "击败建筑师后，即可使用夏波卡多的控制台，可用于放置各种[IncursionRestrictedRoom|秘藏房间]\r\n击败建筑师还将解锁[IncursionMedallions|纹章]"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Architect's Chamber",
+            "zh": "筑师殿堂"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "May drop [IncursionMedallionAddRoom|Uromoti's Medallion], [IncursionMedallionRerollRoomCards|Puhuarte's Medallion] or [IncursionMedallionAddTempleModifier|Zantipi's Medallion]",
+            "zh": "可能掉落[IncursionMedallionAddRoom|武罗摩提的纹章]， [IncursionMedallionRerollRoomCards|普华特的纹章]或[IncursionMedallionAddTempleModifier|赞提佩的纹章]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "entrance",
+      "index": 61,
+      "columns": {
+        "Name": [
+          {
+            "en": "Foyer",
+            "zh": "门厅"
+          }
+        ]
+      }
+    },
+    {
+      "id": "currency_reward",
+      "index": 62,
+      "columns": {
+        "Description": [
+          {
+            "en": "Contains Rare Treasury Chests containing Currency\r\nRoom [IncursionDestabilization|Destabilises] once accessible",
+            "zh": "内含包含通货的稀有金库秘箱\r\n在可进入后，房间将[IncursionDestabilization|瓦解]"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Kishara's Vault",
+            "zh": "琪莎拉的宝库"
+          }
+        ]
+      }
+    },
+    {
+      "id": "lineage_support_reward",
+      "index": 63,
+      "columns": {
+        "Description": [
+          {
+            "en": "Contains a Historic Chest containing a random [LineageSupports|Lineage Support Gem]\r\nRoom [IncursionDestabilization|Destabilises] once accessible",
+            "zh": "内含包含随机[LineageSupports|血脉辅助宝石]的史迹秘箱\r\n在可进入后，房间将[IncursionDestabilization|瓦解]"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Vault of Reverence",
+            "zh": "敬畏宝库"
+          }
+        ]
+      }
+    },
+    {
+      "id": "socketable_reward",
+      "index": 64,
+      "columns": {
+        "Description": [
+          {
+            "en": "Contains a Rune Cache containing [Rune|Runes]\r\nRoom [IncursionDestabilization|Destabilises] once accessible",
+            "zh": "内含包含[Rune|符文]的符文秘藏箱\r\n在可进入后，房间将[IncursionDestabilization|瓦解]"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Jiquani's Vault",
+            "zh": "佳华尼的宝库"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tablet_reward",
+      "index": 65,
+      "columns": {
+        "Description": [
+          {
+            "en": "Contains the Corrupted Precursor Machine which allows the [Corrupted|Corruption] of a [Tablet|Tablet]\r\nRoom [IncursionDestabilization|Destabilises] once accessible",
+            "zh": "内含已腐化的先驱机械，可用于[Corrupted|腐化]一件[Tablet|石板]\r\n在可进入后，房间将[IncursionDestabilization|瓦解]"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Tablet Research Vault",
+            "zh": "石板研究宝库"
+          }
+        ]
+      }
+    },
+    {
+      "id": "unique_reward",
+      "index": 66,
+      "columns": {
+        "Description": [
+          {
+            "en": "Contains a Reliquary Display which holds a Unique item\r\nRoom [IncursionDestabilization|Destabilises] once accessible",
+            "zh": "内含包含一件传奇物品的遗珍展柜\r\n在可进入后，房间将[IncursionDestabilization|瓦解]"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Ancient Reliquary Vault",
+            "zh": "古藏宝库"
+          }
+        ]
+      }
+    },
+    {
+      "id": "access_chamber",
+      "index": 67,
+      "columns": {
+        "Description": [
+          {
+            "en": "Completion unlocks access to Atziri's Chamber\r\nRoom [IncursionDestabilization|Destabilises] once accessible",
+            "zh": "完成后即可解锁通往阿兹里殿堂的入口\r\n在可进入后，房间将[IncursionDestabilization|瓦解]"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Royal Access Chamber",
+            "zh": "皇家谒见厅"
+          }
+        ]
+      }
+    },
+    {
+      "id": "unsocketing_reward",
+      "index": 68,
+      "columns": {
+        "Description": [
+          {
+            "en": "Contains the Extraction Workbench which can be used to destroy an [Equipment] item, returning any [Augment|Augments] socketed in it\r\nRoom [IncursionDestabilization|Destabilises] once accessible",
+            "zh": "内含萃取工作台，可用于摧毁一件[Equipment|装备]，并返还其镶嵌的所有[Augment|增幅器]\r\n在可进入后，房间将[IncursionDestabilization|瓦解]"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Extraction Chamber",
+            "zh": "萃取厅"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 69,
+      "columns": {
+        "Name": [
+          {
+            "en": "Sacrifice Room",
+            "zh": "献祭间"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 70,
+      "columns": {
+        "Description": [
+          {
+            "en": "Complete the Royal Access Chamber to unlock",
+            "zh": "完成皇家谒见厅以解锁"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Atziri's Chamber",
+            "zh": "阿兹里的殿堂"
+          }
+        ]
+      }
+    },
+    {
+      "id": "viperspymaster_defeated_lvl1",
+      "index": 71,
+      "columns": {
+        "Name": [
+          {
+            "en": "Spymaster's Study",
+            "zh": "密探书房"
+          }
+        ]
+      }
+    },
+    {
+      "id": "viperspymaster_defeated_lvl2",
+      "index": 72,
+      "columns": {
+        "Name": [
+          {
+            "en": "Hall of Shadows",
+            "zh": "暗影大厅"
+          }
+        ]
+      }
+    },
+    {
+      "id": "viperspymaster_defeated_lvl3",
+      "index": 73,
+      "columns": {
+        "Name": [
+          {
+            "en": "Omnipresent Panopticon",
+            "zh": "全视监察所"
+          }
+        ]
+      }
+    },
+    {
+      "id": "viperspymaster_defeated_lvl4",
+      "index": 74,
+      "columns": {
+        "Name": [
+          {
+            "en": "Espionage Core",
+            "zh": "间谍核心"
+          }
+        ]
+      }
+    },
+    {
+      "id": "biome_water",
+      "index": 75,
+      "columns": {
+        "Description": [
+          {
+            "en": "Room [IncursionDestabilization|Destabilises] once accessible",
+            "zh": "在可进入后，房间将[IncursionDestabilization|瓦解]"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Terraforming Research: Water",
+            "zh": "地貌改造研究：水域"
+          }
+        ]
+      }
+    },
+    {
+      "id": "biome_mountain",
+      "index": 76,
+      "columns": {
+        "Description": [
+          {
+            "en": "Room [IncursionDestabilization|Destabilises] once accessible",
+            "zh": "在可进入后，房间将[IncursionDestabilization|瓦解]"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Terraforming Research: Mountain",
+            "zh": "地貌改造研究：山地"
+          }
+        ]
+      }
+    },
+    {
+      "id": "biome_grass",
+      "index": 77,
+      "columns": {
+        "Description": [
+          {
+            "en": "Room [IncursionDestabilization|Destabilises] once accessible",
+            "zh": "在可进入后，房间将[IncursionDestabilization|瓦解]"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Terraforming Research: Grass",
+            "zh": "地貌改造研究：草地"
+          }
+        ]
+      }
+    },
+    {
+      "id": "biome_forest",
+      "index": 78,
+      "columns": {
+        "Description": [
+          {
+            "en": "Room [IncursionDestabilization|Destabilises] once accessible",
+            "zh": "在可进入后，房间将[IncursionDestabilization|瓦解]"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Terraforming Research: Forest",
+            "zh": "地貌改造研究：森林"
+          }
+        ]
+      }
+    },
+    {
+      "id": "biome_swamp",
+      "index": 79,
+      "columns": {
+        "Description": [
+          {
+            "en": "Room [IncursionDestabilization|Destabilises] once accessible",
+            "zh": "在可进入后，房间将[IncursionDestabilization|瓦解]"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Terraforming Research: Swamp",
+            "zh": "地貌改造研究：沼泽"
+          }
+        ]
+      }
+    },
+    {
+      "id": "biome_desert",
+      "index": 80,
+      "columns": {
+        "Description": [
+          {
+            "en": "Room [IncursionDestabilization|Destabilises] once accessible",
+            "zh": "在可进入后，房间将[IncursionDestabilization|瓦解]"
+          }
+        ],
+        "Name": [
+          {
+            "en": "Terraforming Research: Desert",
+            "zh": "地貌改造研究：沙漠"
+          }
+        ]
+      }
+    }
+  ]
+}

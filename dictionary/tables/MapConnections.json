@@ -1,0 +1,21 @@
+{
+  "table": "MapConnections",
+  "key": "_index",
+  "columns": [
+    "RestrictedAreaText"
+  ],
+  "entries": [
+    {
+      "id": null,
+      "index": 59,
+      "columns": {
+        "RestrictedAreaText": [
+          {
+            "en": "[DNT-UNUSED] You must find a way to access The Matlan Waterways.",
+            "zh": "你必须设法进入马特兰水道。"
+          }
+        ]
+      }
+    }
+  ]
+}

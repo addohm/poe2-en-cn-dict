@@ -1,0 +1,2362 @@
+{
+  "table": "ArchnemesisMods",
+  "key": "_index",
+  "columns": [
+    "Name",
+    "TextStyles"
+  ],
+  "entries": [
+    {
+      "id": null,
+      "index": 0,
+      "columns": {
+        "Name": [
+          {
+            "en": "Extra Fire Damage",
+            "zh": "额外火焰伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 1,
+      "columns": {
+        "Name": [
+          {
+            "en": "[MonsterDamageGainedAsFire1|Extra Fire Damage]",
+            "zh": "[MonsterDamageGainedAsFire1|额外火焰伤害]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 2,
+      "columns": {
+        "Name": [
+          {
+            "en": "Extra Cold Damage",
+            "zh": "额外冰霜伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 3,
+      "columns": {
+        "Name": [
+          {
+            "en": "[MonsterDamageGainedAsCold1|Extra Cold Damage]",
+            "zh": "[MonsterDamageGainedAsCold1|额外冰霜伤害]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 4,
+      "columns": {
+        "Name": [
+          {
+            "en": "Extra Lightning Damage",
+            "zh": "额外闪电伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 5,
+      "columns": {
+        "Name": [
+          {
+            "en": "[MonsterDamageGainedAsLightning1|Extra Lightning Damage]",
+            "zh": "[MonsterDamageGainedAsLightning1|额外闪电伤害]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 6,
+      "columns": {
+        "Name": [
+          {
+            "en": "Hasted",
+            "zh": "迅捷"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 7,
+      "columns": {
+        "Name": [
+          {
+            "en": "[MonsterIncreasedSpeed1|Hasted]",
+            "zh": "[MonsterIncreasedSpeed1|迅捷]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 8,
+      "columns": {
+        "Name": [
+          {
+            "en": "Extra Crits",
+            "zh": "额外暴击"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 9,
+      "columns": {
+        "Name": [
+          {
+            "en": "[MonsterCriticalStrikeChance1|Extra Crits]",
+            "zh": "[MonsterCriticalStrikeChance1|额外暴击]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 10,
+      "columns": {
+        "Name": [
+          {
+            "en": "Stuns",
+            "zh": "晕眩"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 11,
+      "columns": {
+        "Name": [
+          {
+            "en": "[MonsterStunDamageIncrease1|Stuns]",
+            "zh": "[MonsterStunDamageIncrease1|晕眩]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 12,
+      "columns": {
+        "Name": [
+          {
+            "en": "Armoured",
+            "zh": "重甲"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 13,
+      "columns": {
+        "Name": [
+          {
+            "en": "[MonsterExtraArmour1|Armoured]",
+            "zh": "[MonsterExtraArmour1|重甲]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 14,
+      "columns": {
+        "Name": [
+          {
+            "en": "Evasive",
+            "zh": "闪避"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 15,
+      "columns": {
+        "Name": [
+          {
+            "en": "[MonsterExtraEvasion1|Evasive]",
+            "zh": "[MonsterExtraEvasion1|躲闪]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 16,
+      "columns": {
+        "Name": [
+          {
+            "en": "Extra Energy Shield",
+            "zh": "额外能量护盾"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 17,
+      "columns": {
+        "Name": [
+          {
+            "en": "[MonsterExtraEnergyShield1|Extra Energy Shield]",
+            "zh": "[MonsterExtraEnergyShield1|额外能量护盾]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 18,
+      "columns": {
+        "Name": [
+          {
+            "en": "Always Poisons",
+            "zh": "必定中毒"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 19,
+      "columns": {
+        "Name": [
+          {
+            "en": "[Poison|Always Poisons]",
+            "zh": "[Poison|必定中毒]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 20,
+      "columns": {
+        "Name": [
+          {
+            "en": "Always Bleeds",
+            "zh": "必定流血"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 21,
+      "columns": {
+        "Name": [
+          {
+            "en": "[Bleeding|Always Bleeds]",
+            "zh": "[Bleeding|必定流血]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 22,
+      "columns": {
+        "Name": [
+          {
+            "en": "Periodically unleashes Fire",
+            "zh": "周期性释放火焰"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 23,
+      "columns": {
+        "Name": [
+          {
+            "en": "[IgnitedGround|Burning Ground] on Death",
+            "zh": "被击败时留下[IgnitedGround|燃烧地面]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 24,
+      "columns": {
+        "Name": [
+          {
+            "en": "Burning Ground on Death",
+            "zh": "被击败时留下燃烧地面"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 25,
+      "columns": {
+        "Name": [
+          {
+            "en": "Periodically unleashes Ice",
+            "zh": "周期性释放寒冰"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 26,
+      "columns": {
+        "Name": [
+          {
+            "en": "Periodically unleashes [Cold|Ice]",
+            "zh": "周期性释放[Cold|寒冰]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 27,
+      "columns": {
+        "Name": [
+          {
+            "en": "Chilled Ground on Death",
+            "zh": "被击败时留下冰缓地面"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 28,
+      "columns": {
+        "Name": [
+          {
+            "en": "Periodically unleashes Lightning",
+            "zh": "周期性释放闪电"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 29,
+      "columns": {
+        "Name": [
+          {
+            "en": "Periodically unleashes [Lightning]",
+            "zh": "周期性释放[Lightning|闪电]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 30,
+      "columns": {
+        "Name": [
+          {
+            "en": "Shocked Ground on Death",
+            "zh": "被击败时留下感电地面"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 31,
+      "columns": {
+        "Name": [
+          {
+            "en": "Increased Stun Threshold",
+            "zh": "提高晕眩阈值"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 32,
+      "columns": {
+        "Name": [
+          {
+            "en": "[MonsterImmuneToStun1|Increased Stun Threshold]",
+            "zh": "[MonsterImmuneToStun1|提高晕眩阈值]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 33,
+      "columns": {
+        "Name": [
+          {
+            "en": "Stun Resistant",
+            "zh": "晕眩抗性"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 34,
+      "columns": {
+        "Name": [
+          {
+            "en": "[MonsterStunResilience1|Stun Resistant]",
+            "zh": "[MonsterStunResilience1|晕眩抗性]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 35,
+      "columns": {
+        "Name": [
+          {
+            "en": "Fire Resistant",
+            "zh": "火焰抗性"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 36,
+      "columns": {
+        "Name": [
+          {
+            "en": "[MonsterFireResistance1|Fire Resistant]",
+            "zh": "[MonsterFireResistance1|火焰抗性]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 37,
+      "columns": {
+        "Name": [
+          {
+            "en": "Cold Resistant",
+            "zh": "冰霜抗性"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 38,
+      "columns": {
+        "Name": [
+          {
+            "en": "[MonsterColdResistance1|Cold Resistant]",
+            "zh": "[MonsterColdResistance1|冰冷抗性]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 39,
+      "columns": {
+        "Name": [
+          {
+            "en": "Lightning Resistant",
+            "zh": "闪电抗性"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 40,
+      "columns": {
+        "Name": [
+          {
+            "en": "[MonsterLightningResistance1|Lightning Resistant]",
+            "zh": "[MonsterLightningResistance1|闪电抗性]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 41,
+      "columns": {
+        "Name": [
+          {
+            "en": "Breaks Armour",
+            "zh": "粉碎护甲"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 42,
+      "columns": {
+        "Name": [
+          {
+            "en": "[MonsterArmourPenetration1|Breaks Armour]",
+            "zh": "[MonsterArmourPenetration1|粉碎护甲]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 43,
+      "columns": {
+        "Name": [
+          {
+            "en": "Accurate",
+            "zh": "精准"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 44,
+      "columns": {
+        "Name": [
+          {
+            "en": "[MonsterIncreasedAccuracy1|Accurate]",
+            "zh": "[MonsterIncreasedAccuracy1|精准]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 45,
+      "columns": {
+        "Name": [
+          {
+            "en": "Extra Chaos Damage",
+            "zh": "额外混沌伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 46,
+      "columns": {
+        "Name": [
+          {
+            "en": "[MonsterDamageGainedAsChaos1|Extra Chaos Damage]",
+            "zh": "[MonsterDamageGainedAsChaos1|额外混沌伤害]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 47,
+      "columns": {
+        "Name": [
+          {
+            "en": "Regenerates Life",
+            "zh": "生命再生"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 48,
+      "columns": {
+        "Name": [
+          {
+            "en": "[MonsterLifeRegenerationRatePercentage1|Regenerates Life]",
+            "zh": "[MonsterLifeRegenerationRatePercentage1|生命再生]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 49,
+      "columns": {
+        "Name": [
+          {
+            "en": "Additional Projectiles",
+            "zh": "额外投射物"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 50,
+      "columns": {
+        "Name": [
+          {
+            "en": "[MonsterAdditionalProjectiles1|Additional Projectiles]",
+            "zh": "[MonsterAdditionalProjectiles1|额外投射物]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 51,
+      "columns": {
+        "Name": [
+          {
+            "en": "Increased Area of Effect",
+            "zh": "效果区域扩大"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 52,
+      "columns": {
+        "Name": [
+          {
+            "en": "[MonsterAreaOfEffect1|Increased Area of Effect]",
+            "zh": "[MonsterAreaOfEffect1|效果区域扩大]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 53,
+      "columns": {
+        "Name": [
+          {
+            "en": "All Damage Ignites",
+            "zh": "所有伤害造成点燃"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 54,
+      "columns": {
+        "Name": [
+          {
+            "en": "All Damage [Ignite|Ignites]",
+            "zh": "所有伤害造成[Ignite|点燃]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 55,
+      "columns": {
+        "Name": [
+          {
+            "en": "All Damage Chills",
+            "zh": "所有伤害造成冰缓"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 56,
+      "columns": {
+        "Name": [
+          {
+            "en": "All Damage [Chill|Chills]",
+            "zh": "所有伤害造成[Chill|冰缓]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 57,
+      "columns": {
+        "Name": [
+          {
+            "en": "All Damage Shocks",
+            "zh": "所有伤害造成感电"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 58,
+      "columns": {
+        "Name": [
+          {
+            "en": "All Damage [Shock|Shocks]",
+            "zh": "所有伤害造成[Shock|感电]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 59,
+      "columns": {
+        "Name": [
+          {
+            "en": "Trail of Fire",
+            "zh": "火焰之路"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 60,
+      "columns": {
+        "Name": [
+          {
+            "en": "[IgnitedGround|Trail of Fire]",
+            "zh": "[IgnitedGround|火焰之路]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 61,
+      "columns": {
+        "Name": [
+          {
+            "en": "Trail of Ice",
+            "zh": "冰霜之路"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 62,
+      "columns": {
+        "Name": [
+          {
+            "en": "[ChilledGround|Trail of Ice]",
+            "zh": "[ChilledGround|冰霜之路]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 63,
+      "columns": {
+        "Name": [
+          {
+            "en": "Trail of Lightning",
+            "zh": "闪电之路"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 64,
+      "columns": {
+        "Name": [
+          {
+            "en": "[MonsterShockedGroundTrail1|Trail of Lightning]",
+            "zh": "[MonsterShockedGroundTrail1|闪电之路]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 65,
+      "columns": {
+        "Name": [
+          {
+            "en": "Slow Resistant",
+            "zh": "减速抗性"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 66,
+      "columns": {
+        "Name": [
+          {
+            "en": "[MonsterImmuneToSlow1|Slow Resistant]",
+            "zh": "[MonsterImmuneToSlow1|减速抗性]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 67,
+      "columns": {
+        "Name": [
+          {
+            "en": "Crit Resistant",
+            "zh": "暴击抗性"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 68,
+      "columns": {
+        "Name": [
+          {
+            "en": "[MonsterModReducedCritMulti1|Crit Resistant]",
+            "zh": "[MonsterModReducedCritMulti1|暴击抗性]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 69,
+      "columns": {
+        "Name": [
+          {
+            "en": "Chaos Resistant",
+            "zh": "混沌抗性"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 70,
+      "columns": {
+        "Name": [
+          {
+            "en": "[MonsterChaosResistance1|Chaos Resistant]",
+            "zh": "[MonsterChaosResistance1|混沌抗性]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 71,
+      "columns": {
+        "Name": [
+          {
+            "en": "Periodic Fire Explosions",
+            "zh": "周期性火焰爆炸"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 72,
+      "columns": {
+        "Name": [
+          {
+            "en": "Periodic [Fire] Explosions",
+            "zh": "周期性[Fire|火焰]爆炸"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 73,
+      "columns": {
+        "Name": [
+          {
+            "en": "Periodic Cold Explosions",
+            "zh": "周期性冰霜爆炸"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 74,
+      "columns": {
+        "Name": [
+          {
+            "en": "Periodic [Cold] Explosions",
+            "zh": "周期性[Cold|冰霜]爆炸"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 75,
+      "columns": {
+        "Name": [
+          {
+            "en": "Periodic Lightning Explosions",
+            "zh": "周期性闪电爆炸"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 76,
+      "columns": {
+        "Name": [
+          {
+            "en": "Periodic [Lightning] Explosions",
+            "zh": "周期性[Lightning|闪电]爆炸"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 77,
+      "columns": {
+        "Name": [
+          {
+            "en": "Fire Explosion on Death",
+            "zh": "被击败时产生火焰爆炸"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 78,
+      "columns": {
+        "Name": [
+          {
+            "en": "Cold Explosion on Death",
+            "zh": "被击败时产生冰霜爆炸"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 79,
+      "columns": {
+        "Name": [
+          {
+            "en": "Lightning Explosion on Death",
+            "zh": "被击败时产生闪电爆炸"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 80,
+      "columns": {
+        "Name": [
+          {
+            "en": "Powerful Minions",
+            "zh": "强力怪物仆从"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 81,
+      "columns": {
+        "Name": [
+          {
+            "en": "[MonsterStrongerMinions1|Powerful Minions]",
+            "zh": "[MonsterStrongerMinions1|强力怪物仆从]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 82,
+      "columns": {
+        "Name": [
+          {
+            "en": "Empowered",
+            "zh": "强化"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 83,
+      "columns": {
+        "Name": [
+          {
+            "en": "Extra Physical Damage Aura",
+            "zh": "额外物理伤害光环"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 84,
+      "columns": {
+        "Name": [
+          {
+            "en": "[MonsterPhysicalDamageAura1|Extra Physical Damage Aura]",
+            "zh": "[MonsterPhysicalDamageAura1|额外物理伤害光环]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 85,
+      "columns": {
+        "Name": [
+          {
+            "en": "Haste Aura",
+            "zh": "迅捷光环"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 86,
+      "columns": {
+        "Name": [
+          {
+            "en": "[MonsterIncreasedSpeedAura1|Haste Aura]",
+            "zh": "[MonsterIncreasedSpeedAura1|迅捷光环]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 87,
+      "columns": {
+        "Name": [
+          {
+            "en": "[MonsterIncreasedSpeedAura1|Haste Aura]",
+            "zh": "[MonsterIncreasedSpeedAura1|迅捷光环]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 88,
+      "columns": {
+        "Name": [
+          {
+            "en": "Energy Shield Aura",
+            "zh": "能量护盾光环"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 89,
+      "columns": {
+        "Name": [
+          {
+            "en": "[MonsterEnergyShieldAura1|Energy Shield Aura]",
+            "zh": "[MonsterEnergyShieldAura1|能量护盾光环]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 90,
+      "columns": {
+        "Name": [
+          {
+            "en": "[MonsterEnergyShieldAura1|Energy Shield Aura]",
+            "zh": "[MonsterEnergyShieldAura1|能量护盾光环]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 91,
+      "columns": {
+        "Name": [
+          {
+            "en": "Elemental Resistance Aura",
+            "zh": "元素抗性光环"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 92,
+      "columns": {
+        "Name": [
+          {
+            "en": "[MonsterResistanceAura1|Elemental Resistance Aura]",
+            "zh": "[MonsterResistanceAura1|元素抗性光环]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 93,
+      "columns": {
+        "Name": [
+          {
+            "en": "Temporal Bubble",
+            "zh": "时空泡泡"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 94,
+      "columns": {
+        "Name": [
+          {
+            "en": "[MonsterTemporalAura1|Temporal Bubble]",
+            "zh": "[MonsterTemporalAura1|时空泡泡]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 95,
+      "columns": {
+        "Name": [
+          {
+            "en": "[MonsterTemporalAura1|Temporal Bubble]",
+            "zh": "[MonsterTemporalAura1|时空泡泡]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 96,
+      "columns": {
+        "Name": [
+          {
+            "en": "Hinder Aura",
+            "zh": "缓速光环"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 97,
+      "columns": {
+        "Name": [
+          {
+            "en": "[MonsterHinderAura1|Hinder Aura]",
+            "zh": "[MonsterHinderAura1|缓速光环]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 98,
+      "columns": {
+        "Name": [
+          {
+            "en": "Prevents Recovery Above 50%",
+            "zh": "不能恢复超过 50%"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 99,
+      "columns": {
+        "Name": [
+          {
+            "en": "[MonsterPreventRecoveryAura1|Prevents Recovery Above 50%]",
+            "zh": "[MonsterPreventRecoveryAura1|不能恢复超过 50%]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 100,
+      "columns": {
+        "Name": [
+          {
+            "en": "Periodic Invulnerability Aura",
+            "zh": "周期性无敌光环"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 101,
+      "columns": {
+        "Name": [
+          {
+            "en": "[MonsterImmuneAura1|Periodic Invulnerability Aura]",
+            "zh": "[MonsterImmuneAura1|周期性无敌光环]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 102,
+      "columns": {
+        "Name": [
+          {
+            "en": "Empowered Periodic Invulnerability Aura",
+            "zh": "强化周期性无敌光环"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 103,
+      "columns": {
+        "Name": [
+          {
+            "en": "[MonsterImmuneAura2|Empowered Periodic Invulnerability Aura]",
+            "zh": "[MonsterImmuneAura2|强化周期性无敌光环]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 104,
+      "columns": {
+        "Name": [
+          {
+            "en": "Increased Life",
+            "zh": "生命提高"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 105,
+      "columns": {
+        "Name": [
+          {
+            "en": "Siphons Mana and Deals Lightning Damage",
+            "zh": "抽取魔力并造成闪电伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 106,
+      "columns": {
+        "Name": [
+          {
+            "en": "[MonsterManaSiphonAura1|Siphons Mana and Deals Lightning Damage]",
+            "zh": "[MonsterManaSiphonAura1|抽取魔力并造成闪电伤害]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 107,
+      "columns": {
+        "Name": [
+          {
+            "en": "Siphons Mana and Deals Lightning Damage",
+            "zh": "抽取魔力并造成闪电伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 108,
+      "columns": {
+        "Name": [
+          {
+            "en": "[MonsterManaSiphonAura2|Siphons Mana and Deals Lightning Damage]",
+            "zh": "[MonsterManaSiphonAura2|抽取魔力并造成闪电伤害]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 109,
+      "columns": {
+        "Name": [
+          {
+            "en": "Heals Allies and Suppresses Foe Recovery",
+            "zh": "治疗友军并压制敌方回复"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 110,
+      "columns": {
+        "Name": [
+          {
+            "en": "[MonsterHealingNova1|Heals Allies and Suppresses Foe Recovery]",
+            "zh": "[MonsterHealingNova1|治疗友军并压制敌方回复]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 111,
+      "columns": {
+        "Name": [
+          {
+            "en": "Siphons Flask Charges",
+            "zh": "抽取药剂充能"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 112,
+      "columns": {
+        "Name": [
+          {
+            "en": "[MonsterFlaskRemovalAura1|Siphons Flask Charges]",
+            "zh": "[MonsterFlaskRemovalAura1|抽取药剂充能]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 113,
+      "columns": {
+        "Name": [
+          {
+            "en": "Reviving Minions",
+            "zh": "复活怪物仆从"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 114,
+      "columns": {
+        "Name": [
+          {
+            "en": "[MonsterRevivesMinions1|Reviving Minions]",
+            "zh": "[MonsterRevivesMinions1|复活怪物仆从]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 115,
+      "columns": {
+        "Name": [
+          {
+            "en": "Empowered Reviving Minions",
+            "zh": "强化复活怪物仆从"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 116,
+      "columns": {
+        "Name": [
+          {
+            "en": "[MonsterRevivesMinions2|Empowered Reviving Minions]",
+            "zh": "[MonsterRevivesMinions2|强化复活怪物仆从]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 117,
+      "columns": {
+        "Name": [
+          {
+            "en": "Damage Taken From Minions First",
+            "zh": "怪物仆从优先承受伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 118,
+      "columns": {
+        "Name": [
+          {
+            "en": "[MonsterMinionsTakeLifeInstead1|Damage Taken From Minions First]",
+            "zh": "[MonsterMinionsTakeLifeInstead1|怪物仆从优先承受伤害]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 120,
+      "columns": {
+        "Name": [
+          {
+            "en": "Shroud Walker",
+            "zh": "迷雾之体"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 121,
+      "columns": {
+        "Name": [
+          {
+            "en": "[MonsterShroudWalker1|Shroud Walker]",
+            "zh": "[MonsterShroudWalker1|迷雾之体]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 122,
+      "columns": {
+        "Name": [
+          {
+            "en": "Shroud Walker",
+            "zh": "迷雾之体"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 123,
+      "columns": {
+        "Name": [
+          {
+            "en": "[MonsterShroudWalker2|Shroud Walker]",
+            "zh": "[MonsterShroudWalker2|迷雾之体]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 124,
+      "columns": {
+        "Name": [
+          {
+            "en": "Periodically Enrages",
+            "zh": "周期性狂暴"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 125,
+      "columns": {
+        "Name": [
+          {
+            "en": "[MonsterPeriodicEnrage1|Periodically Enrages]",
+            "zh": "[MonsterPeriodicEnrage1|周期性狂暴]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 126,
+      "columns": {
+        "Name": [
+          {
+            "en": "Enraged",
+            "zh": "狂暴"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 127,
+      "columns": {
+        "Name": [
+          {
+            "en": "[MonsterPeriodicEnrage2|Enraged]",
+            "zh": "[MonsterPeriodicEnrage2|狂暴]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 128,
+      "columns": {
+        "Name": [
+          {
+            "en": "[MonsterPeriodicEnrage2|Enraged]",
+            "zh": "[MonsterPeriodicEnrage2|狂暴]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 129,
+      "columns": {
+        "Name": [
+          {
+            "en": "Explodes Nearby Corpses",
+            "zh": "引爆周围的灵柩"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 130,
+      "columns": {
+        "Name": [
+          {
+            "en": "Explodes Nearby [Corpse|Corpses]",
+            "zh": "引爆周围[Corpse|灵柩]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 131,
+      "columns": {
+        "Name": [
+          {
+            "en": "Lightning Mirage When Hit",
+            "zh": "被击中时施放闪电幻象"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 132,
+      "columns": {
+        "Name": [
+          {
+            "en": "[MonsterLightningMirage1|Lightning Mirage When Hit]",
+            "zh": "[MonsterLightningMirage1|被击中时施放闪电幻象]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 133,
+      "columns": {
+        "Name": [
+          {
+            "en": "Lightning Mirages When Hit",
+            "zh": "被击中时施放多个闪电幻象"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 134,
+      "columns": {
+        "Name": [
+          {
+            "en": "[MonsterLightningMirage2|Lightning Mirages When Hit]",
+            "zh": "[MonsterLightningMirage2|被击中时施放多个闪电幻象]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 135,
+      "columns": {
+        "Name": [
+          {
+            "en": "Magma Barrier",
+            "zh": "岩浆屏障"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 136,
+      "columns": {
+        "Name": [
+          {
+            "en": "[MonsterMagmaBarrier1|Magma Barrier]",
+            "zh": "[MonsterMagmaBarrier1|岩浆屏障]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 137,
+      "columns": {
+        "Name": [
+          {
+            "en": "Conjures Ice Prisons",
+            "zh": "召唤冰牢"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 138,
+      "columns": {
+        "Name": [
+          {
+            "en": "[MonsterGlacialPrison1|Conjures Ice Prisons]",
+            "zh": "[MonsterGlacialPrison1|召唤冰牢]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 139,
+      "columns": {
+        "Name": [
+          {
+            "en": "Conjures Flamewalls",
+            "zh": "召唤烈焰之墙"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 140,
+      "columns": {
+        "Name": [
+          {
+            "en": "[MonsterFlamewaller1|Conjures Flamewalls]",
+            "zh": "[MonsterFlamewaller1|召唤烈焰之墙]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 141,
+      "columns": {
+        "Name": [
+          {
+            "en": "Conjures Lightning Storms",
+            "zh": "召唤闪电风暴"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 142,
+      "columns": {
+        "Name": [
+          {
+            "en": "Conjures [Lightning] Storms",
+            "zh": "召唤[Lightning|闪电]风暴"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 143,
+      "columns": {
+        "Name": [
+          {
+            "en": "Volatile Crystals",
+            "zh": "无常水晶"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 144,
+      "columns": {
+        "Name": [
+          {
+            "en": "[MonsterLivingCrystals1|Volatile Crystals]",
+            "zh": "[MonsterLivingCrystals1|无常水晶]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 145,
+      "columns": {
+        "Name": [
+          {
+            "en": "Volatile Plants",
+            "zh": "无常植物"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 146,
+      "columns": {
+        "Name": [
+          {
+            "en": "[MonsterVolatilePlants1|Volatile Plants]",
+            "zh": "[MonsterVolatilePlants1|无常植物]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 147,
+      "columns": {
+        "Name": [
+          {
+            "en": "Empowering Volatile Plants",
+            "zh": "强化无常植物"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 148,
+      "columns": {
+        "Name": [
+          {
+            "en": "[MonsterVolatilePlants2|Empowering Volatile Plants]",
+            "zh": "[MonsterVolatilePlants2|强化无常植物]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 149,
+      "columns": {
+        "Name": [
+          {
+            "en": "Volatile Crag",
+            "zh": "无常碎岩"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 150,
+      "columns": {
+        "Name": [
+          {
+            "en": "[MonsterVolatileRocks1|Volatile Crag]",
+            "zh": "[MonsterVolatileRocks1|无常碎岩]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 151,
+      "columns": {
+        "Name": [
+          {
+            "en": "Empowering Volatile Crag",
+            "zh": "强化无常碎岩"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 152,
+      "columns": {
+        "Name": [
+          {
+            "en": "[MonsterVolatileRocks2|Empowering Volatile Crag]",
+            "zh": "[MonsterVolatileRocks2|强化无常碎岩]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 153,
+      "columns": {
+        "Name": [
+          {
+            "en": "Proximal Tangibility",
+            "zh": "近距实体"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 154,
+      "columns": {
+        "Name": [
+          {
+            "en": "[MonsterProximalTangibility1|Proximal Tangibility]",
+            "zh": "[MonsterProximalTangibility1|近距实体]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 155,
+      "columns": {
+        "Name": [
+          {
+            "en": "Bombardier",
+            "zh": "投弹手"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 156,
+      "columns": {
+        "Name": [
+          {
+            "en": "Periodically unleashes [Fire]",
+            "zh": "周期性释放[Fire|火焰]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 157,
+      "columns": {
+        "Name": [
+          {
+            "en": "Soul Eater",
+            "zh": "噬魂者"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 158,
+      "columns": {
+        "Name": [
+          {
+            "en": "[SoulEater|Soul Eater]",
+            "zh": "[SoulEater|噬魂者]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 159,
+      "columns": {
+        "Name": [
+          {
+            "en": "Conjures Elemental Hazards",
+            "zh": "召唤元素危害"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 160,
+      "columns": {
+        "Name": [
+          {
+            "en": "Conjures Elemental Hazards",
+            "zh": "召唤元素危害"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 161,
+      "columns": {
+        "Name": [
+          {
+            "en": "Volatile Souls",
+            "zh": "无常之魂"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 162,
+      "columns": {
+        "Name": [
+          {
+            "en": "Volatile Souls",
+            "zh": "无常之魂"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 163,
+      "columns": {
+        "Name": [
+          {
+            "en": "Soul Siphoner",
+            "zh": "吸魂者"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 164,
+      "columns": {
+        "Name": [
+          {
+            "en": "Soul Siphoner",
+            "zh": "吸魂者"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 165,
+      "columns": {
+        "Name": [
+          {
+            "en": "Kurgal's Last Gasp",
+            "zh": "古加尔的亡命之息"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 166,
+      "columns": {
+        "Name": [
+          {
+            "en": "Kurgal's Last Gasp",
+            "zh": "古加尔的亡命之息"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 167,
+      "columns": {
+        "Name": [
+          {
+            "en": "Undying Will",
+            "zh": "不朽意志"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 168,
+      "columns": {
+        "Name": [
+          {
+            "en": "Undying Will",
+            "zh": "不朽意志"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 169,
+      "columns": {
+        "Name": [
+          {
+            "en": "Lithomantic Runes",
+            "zh": "石术符文"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 170,
+      "columns": {
+        "Name": [
+          {
+            "en": "Lithomantic Runes",
+            "zh": "石术符文"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 171,
+      "columns": {
+        "Name": [
+          {
+            "en": "Meteoric Demise",
+            "zh": "流星殒灭"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 172,
+      "columns": {
+        "Name": [
+          {
+            "en": "Meteoric Demise",
+            "zh": "流星殒灭"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 173,
+      "columns": {
+        "Name": [
+          {
+            "en": "Kulemak's Desecration",
+            "zh": "库勒马克的亵渎"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 174,
+      "columns": {
+        "Name": [
+          {
+            "en": "Kulemak's Desecration",
+            "zh": "库勒马克的亵渎"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 175,
+      "columns": {
+        "Name": [
+          {
+            "en": "Ulaman's Legion",
+            "zh": "乌拉曼的军团"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 176,
+      "columns": {
+        "Name": [
+          {
+            "en": "Ulaman's Legion",
+            "zh": "乌拉曼的军团"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 177,
+      "columns": {
+        "Name": [
+          {
+            "en": "Amanamu's Void",
+            "zh": "阿曼娜姆的虚空"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 178,
+      "columns": {
+        "Name": [
+          {
+            "en": "Amanamu's Void",
+            "zh": "阿曼娜姆的虚空"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 179,
+      "columns": {
+        "Name": [
+          {
+            "en": "Lifestealer Aura",
+            "zh": "窃命者光环"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 180,
+      "columns": {
+        "Name": [
+          {
+            "en": "Unstable Revenants",
+            "zh": "不稳定的亡魂"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 181,
+      "columns": {
+        "Name": [
+          {
+            "en": "Bubonic Trail",
+            "zh": "鼠疫之源"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 182,
+      "columns": {
+        "Name": [
+          {
+            "en": "Bubonic Trail",
+            "zh": "鼠疫之源"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 183,
+      "columns": {
+        "Name": [
+          {
+            "en": "Crystalline Barrier",
+            "zh": "水晶屏障"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 184,
+      "columns": {
+        "Name": [
+          {
+            "en": "Crystalline Barrier",
+            "zh": "水晶屏障"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 185,
+      "columns": {
+        "Name": [
+          {
+            "en": "Soulflame Geysers",
+            "zh": "魂焰喷泉"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 186,
+      "columns": {
+        "Name": [
+          {
+            "en": "Soulflame Geysers",
+            "zh": "魂焰喷泉"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 187,
+      "columns": {
+        "Name": [
+          {
+            "en": "Shade Walker",
+            "zh": "暗影行者"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 188,
+      "columns": {
+        "Name": [
+          {
+            "en": "Shade Walker",
+            "zh": "暗影行者"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 189,
+      "columns": {
+        "Name": [
+          {
+            "en": "Eruption of Souls",
+            "zh": "灵魂爆发"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 190,
+      "columns": {
+        "Name": [
+          {
+            "en": "Eruption of Souls",
+            "zh": "灵魂爆发"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 277,
+      "columns": {
+        "Name": [
+          {
+            "en": "Corrupted",
+            "zh": "已腐化"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 278,
+      "columns": {
+        "Name": [
+          {
+            "en": "Corrupted",
+            "zh": "已腐化"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 279,
+      "columns": {
+        "Name": [
+          {
+            "en": "Corrupted",
+            "zh": "已腐化"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 280,
+      "columns": {
+        "Name": [
+          {
+            "en": "Corrupted",
+            "zh": "已腐化"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 281,
+      "columns": {
+        "Name": [
+          {
+            "en": "Corrupted",
+            "zh": "已腐化"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 282,
+      "columns": {
+        "Name": [
+          {
+            "en": "Corrupted",
+            "zh": "已腐化"
+          }
+        ]
+      }
+    }
+  ]
+}

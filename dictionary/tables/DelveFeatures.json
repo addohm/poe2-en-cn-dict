@@ -1,0 +1,4325 @@
+{
+  "table": "DelveFeatures",
+  "key": "Id",
+  "columns": [
+    "Name",
+    "Image",
+    "Description"
+  ],
+  "entries": [
+    {
+      "id": "MineEntrance",
+      "index": 1,
+      "columns": {
+        "Name": [
+          {
+            "en": "Mine Entrance",
+            "zh": "矿坑入口"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Azurite1_Q",
+      "index": 7,
+      "columns": {
+        "Name": [
+          {
+            "en": "Azurite Cavity",
+            "zh": "蓝晶凹洞"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Azurite",
+            "zh": "内有蓝晶"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Breach",
+      "index": 8,
+      "columns": {
+        "Name": [
+          {
+            "en": "Whispering Gallery",
+            "zh": "低语画廊"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains a Breach",
+            "zh": "内含裂隙碎片。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Harbinger",
+      "index": 9,
+      "columns": {
+        "Name": [
+          {
+            "en": "Runed Cavern",
+            "zh": "符文洞穴"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains a Harbinger",
+            "zh": "内有先驱者"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Azurite1_1",
+      "index": 10,
+      "columns": {
+        "Name": [
+          {
+            "en": "Azurite Cavity",
+            "zh": "蓝晶凹洞"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Azurite",
+            "zh": "内有蓝晶"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Azurite1_2",
+      "index": 11,
+      "columns": {
+        "Name": [
+          {
+            "en": "Azurite Cavity",
+            "zh": "蓝晶凹洞"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Azurite",
+            "zh": "内有蓝晶"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Azurite1_3",
+      "index": 12,
+      "columns": {
+        "Name": [
+          {
+            "en": "Azurite Cavity",
+            "zh": "蓝晶凹洞"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Azurite",
+            "zh": "内有蓝晶"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Azurite1_4",
+      "index": 13,
+      "columns": {
+        "Name": [
+          {
+            "en": "Azurite Cavity",
+            "zh": "蓝晶凹洞"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Azurite",
+            "zh": "内有蓝晶"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Azurite2_1",
+      "index": 14,
+      "columns": {
+        "Name": [
+          {
+            "en": "Azurite Vault",
+            "zh": "蓝晶宝库"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Azurite",
+            "zh": "内有蓝晶"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Azurite2_2",
+      "index": 15,
+      "columns": {
+        "Name": [
+          {
+            "en": "Azurite Vault",
+            "zh": "蓝晶宝库"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Azurite",
+            "zh": "内有蓝晶"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Azurite2_3",
+      "index": 16,
+      "columns": {
+        "Name": [
+          {
+            "en": "Azurite Vault",
+            "zh": "蓝晶宝库"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Azurite",
+            "zh": "内有蓝晶"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Azurite2_4",
+      "index": 17,
+      "columns": {
+        "Name": [
+          {
+            "en": "Azurite Vault",
+            "zh": "蓝晶宝库"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Azurite",
+            "zh": "内有蓝晶"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Azurite3_1",
+      "index": 18,
+      "columns": {
+        "Name": [
+          {
+            "en": "Azurite Fissure",
+            "zh": "蓝晶裂缝"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Azurite",
+            "zh": "内有蓝晶"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Azurite3_2",
+      "index": 19,
+      "columns": {
+        "Name": [
+          {
+            "en": "Azurite Fissure",
+            "zh": "蓝晶裂缝"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Azurite",
+            "zh": "内有蓝晶"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Azurite3_3",
+      "index": 20,
+      "columns": {
+        "Name": [
+          {
+            "en": "Azurite Fissure",
+            "zh": "蓝晶裂缝"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Azurite",
+            "zh": "内有蓝晶"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FungalCavernsFossil",
+      "index": 21,
+      "columns": {
+        "Name": [
+          {
+            "en": "Haunted Tomb",
+            "zh": "幽魂陵墓"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Fossils",
+            "zh": "内有化石"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PetrifiedForestFossil",
+      "index": 22,
+      "columns": {
+        "Name": [
+          {
+            "en": "Stonewood Hollow",
+            "zh": "石林空谷"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Fossils",
+            "zh": "内有化石"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AbyssalDepthsFossil",
+      "index": 23,
+      "columns": {
+        "Name": [
+          {
+            "en": "Crystal Spire",
+            "zh": "水晶尖塔"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Fossils",
+            "zh": "内有化石"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FrozenHollowFossil",
+      "index": 24,
+      "columns": {
+        "Name": [
+          {
+            "en": "Time-Lost Cavern",
+            "zh": "失落洞窟"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Fossils",
+            "zh": "内有化石"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MagmaFissureFossil",
+      "index": 25,
+      "columns": {
+        "Name": [
+          {
+            "en": "Molten Cavity",
+            "zh": "熔火凹洞"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Fossils",
+            "zh": "内有化石"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SulphurVentsFossil",
+      "index": 26,
+      "columns": {
+        "Name": [
+          {
+            "en": "Humid Fissure",
+            "zh": "湿气裂缝"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Fossils",
+            "zh": "内有化石"
+          }
+        ]
+      }
+    },
+    {
+      "id": "WolvesGeneric",
+      "index": 27,
+      "columns": {
+        "Name": [
+          {
+            "en": "Howling Den",
+            "zh": "怒嗥之穴"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Items",
+            "zh": "内有物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": "WolvesArmour",
+      "index": 28,
+      "columns": {
+        "Name": [
+          {
+            "en": "Howling Den",
+            "zh": "怒嗥之穴"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Armour",
+            "zh": "内有护甲"
+          }
+        ]
+      }
+    },
+    {
+      "id": "WolvesWeapon",
+      "index": 29,
+      "columns": {
+        "Name": [
+          {
+            "en": "Howling Den",
+            "zh": "怒嗥之穴"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Weapons",
+            "zh": "内有武器"
+          }
+        ]
+      }
+    },
+    {
+      "id": "WolvesTrinkets",
+      "index": 30,
+      "columns": {
+        "Name": [
+          {
+            "en": "Howling Den",
+            "zh": "怒嗥之穴"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Jewellery",
+            "zh": "内有珠宝"
+          }
+        ]
+      }
+    },
+    {
+      "id": "WolvesGems",
+      "index": 31,
+      "columns": {
+        "Name": [
+          {
+            "en": "Howling Den",
+            "zh": "怒嗥之穴"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Gems",
+            "zh": "内有宝石"
+          }
+        ]
+      }
+    },
+    {
+      "id": "WolvesCurrency",
+      "index": 32,
+      "columns": {
+        "Name": [
+          {
+            "en": "Howling Den",
+            "zh": "怒嗥之穴"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Currency",
+            "zh": "内有通货"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ExilesArmour",
+      "index": 33,
+      "columns": {
+        "Name": [
+          {
+            "en": "Smuggler's Stash",
+            "zh": "旅人的仓库"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Armour",
+            "zh": "内有护甲"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ExilesWeapon",
+      "index": 34,
+      "columns": {
+        "Name": [
+          {
+            "en": "Smuggler's Stash",
+            "zh": "旅人的仓库"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Weapons",
+            "zh": "内有武器"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ExilesMaps",
+      "index": 35,
+      "columns": {
+        "Name": [
+          {
+            "en": "Smuggler's Stash",
+            "zh": "旅人的仓库"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Maps",
+            "zh": "内有地图"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ExilesFossils",
+      "index": 36,
+      "columns": {
+        "Name": [
+          {
+            "en": "Smuggler's Stash",
+            "zh": "旅人的仓库"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Fossils",
+            "zh": "内有化石"
+          }
+        ]
+      }
+    },
+    {
+      "id": "IceGolemGeneric",
+      "index": 37,
+      "columns": {
+        "Name": [
+          {
+            "en": "Restless Rubble",
+            "zh": "躁动的碎石"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Items",
+            "zh": "内有物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": "IceGolemGems",
+      "index": 38,
+      "columns": {
+        "Name": [
+          {
+            "en": "Restless Rubble",
+            "zh": "躁动的碎石"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Gems",
+            "zh": "内有宝石"
+          }
+        ]
+      }
+    },
+    {
+      "id": "IceGolemCold",
+      "index": 39,
+      "columns": {
+        "Name": [
+          {
+            "en": "Restless Rubble",
+            "zh": "躁动的碎石"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Cold Items",
+            "zh": "内有冰霜物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FireGolemGeneric",
+      "index": 40,
+      "columns": {
+        "Name": [
+          {
+            "en": "Restless Rubble",
+            "zh": "躁动的碎石"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Items",
+            "zh": "内有物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FireGolemGems",
+      "index": 41,
+      "columns": {
+        "Name": [
+          {
+            "en": "Restless Rubble",
+            "zh": "躁动的碎石"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Gems",
+            "zh": "内有宝石"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FireGolemFire",
+      "index": 42,
+      "columns": {
+        "Name": [
+          {
+            "en": "Restless Rubble",
+            "zh": "躁动的碎石"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Fire Items",
+            "zh": "内有火焰物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MantleHellionsGeneric",
+      "index": 43,
+      "columns": {
+        "Name": [
+          {
+            "en": "Sweltering Burrow",
+            "zh": "闷热地穴"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Items",
+            "zh": "内有物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MantleHellionsArmour",
+      "index": 44,
+      "columns": {
+        "Name": [
+          {
+            "en": "Sweltering Burrow",
+            "zh": "闷热地穴"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Armour",
+            "zh": "内有护甲"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MantleHellionsWeapon",
+      "index": 45,
+      "columns": {
+        "Name": [
+          {
+            "en": "Sweltering Burrow",
+            "zh": "闷热地穴"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Weapons",
+            "zh": "内有武器"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MantleHellionsTrinkets",
+      "index": 46,
+      "columns": {
+        "Name": [
+          {
+            "en": "Sweltering Burrow",
+            "zh": "闷热地穴"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Jewellery",
+            "zh": "内有珠宝"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MantleHellionsCurrency",
+      "index": 47,
+      "columns": {
+        "Name": [
+          {
+            "en": "Sweltering Burrow",
+            "zh": "闷热地穴"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Currency",
+            "zh": "内有通货"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MantleHellionsFire",
+      "index": 48,
+      "columns": {
+        "Name": [
+          {
+            "en": "Sweltering Burrow",
+            "zh": "闷热地穴"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Fire Items",
+            "zh": "内有火焰物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MantleCampsiteGeneric",
+      "index": 49,
+      "columns": {
+        "Name": [
+          {
+            "en": "Singed Camp",
+            "zh": "烤焦的营地"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Items",
+            "zh": "内有物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MantleCampsiteArmour",
+      "index": 50,
+      "columns": {
+        "Name": [
+          {
+            "en": "Singed Camp",
+            "zh": "烤焦的营地"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Armour",
+            "zh": "内有护甲"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MantleCampsiteWeapon",
+      "index": 51,
+      "columns": {
+        "Name": [
+          {
+            "en": "Singed Camp",
+            "zh": "烤焦的营地"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Weapons",
+            "zh": "内有武器"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MantleCampsiteTrinkets",
+      "index": 52,
+      "columns": {
+        "Name": [
+          {
+            "en": "Singed Camp",
+            "zh": "烤焦的营地"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Jewellery",
+            "zh": "内有珠宝"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MantleCampsiteCurrency",
+      "index": 53,
+      "columns": {
+        "Name": [
+          {
+            "en": "Singed Camp",
+            "zh": "烤焦的营地"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Currency",
+            "zh": "内有通货"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MantleCampsiteMaps",
+      "index": 54,
+      "columns": {
+        "Name": [
+          {
+            "en": "Singed Camp",
+            "zh": "烤焦的营地"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Maps",
+            "zh": "内有地图"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MantleSkeletonGeneric",
+      "index": 55,
+      "columns": {
+        "Name": [
+          {
+            "en": "Smoldering Grave",
+            "zh": "闷烧坟茔"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Items",
+            "zh": "内有物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MantleSkeletonArmour",
+      "index": 56,
+      "columns": {
+        "Name": [
+          {
+            "en": "Smoldering Grave",
+            "zh": "闷烧坟茔"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Armour",
+            "zh": "内有护甲"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MantleSkeletonWeapon",
+      "index": 57,
+      "columns": {
+        "Name": [
+          {
+            "en": "Smoldering Grave",
+            "zh": "闷烧坟茔"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Weapons",
+            "zh": "内有武器"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MantleSkeletonTrinkets",
+      "index": 58,
+      "columns": {
+        "Name": [
+          {
+            "en": "Smoldering Grave",
+            "zh": "闷烧坟茔"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Jewellery",
+            "zh": "内有珠宝"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MantleSkeletonGems",
+      "index": 59,
+      "columns": {
+        "Name": [
+          {
+            "en": "Smoldering Grave",
+            "zh": "闷烧坟茔"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Gems",
+            "zh": "内有宝石"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MantleSkeletonCurrency",
+      "index": 60,
+      "columns": {
+        "Name": [
+          {
+            "en": "Smoldering Grave",
+            "zh": "闷烧坟茔"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Currency",
+            "zh": "内有通货"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MantleSkeletonMaps",
+      "index": 61,
+      "columns": {
+        "Name": [
+          {
+            "en": "Smoldering Grave",
+            "zh": "闷烧坟茔"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Maps",
+            "zh": "内有地图"
+          }
+        ]
+      }
+    },
+    {
+      "id": "VaalChamberTier0",
+      "index": 62,
+      "columns": {
+        "Name": [
+          {
+            "en": "Ruined Chamber",
+            "zh": "废墟密室"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contents Unknown",
+            "zh": "内有未知之物"
+          }
+        ]
+      }
+    },
+    {
+      "id": "VaalChamberTier1",
+      "index": 63,
+      "columns": {
+        "Name": [
+          {
+            "en": "Ruined Chamber",
+            "zh": "废墟密室"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contents Unknown",
+            "zh": "内有未知之物"
+          }
+        ]
+      }
+    },
+    {
+      "id": "VaalChamberTier2",
+      "index": 64,
+      "columns": {
+        "Name": [
+          {
+            "en": "Ruined Chamber",
+            "zh": "废墟密室"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contents Unknown",
+            "zh": "内有未知之物"
+          }
+        ]
+      }
+    },
+    {
+      "id": "VaalChamberTier3",
+      "index": 65,
+      "columns": {
+        "Name": [
+          {
+            "en": "Ruined Chamber",
+            "zh": "废墟密室"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contents Unknown",
+            "zh": "内有未知之物"
+          }
+        ]
+      }
+    },
+    {
+      "id": "VaalChamberTier4",
+      "index": 66,
+      "columns": {
+        "Name": [
+          {
+            "en": "Ruined Chamber",
+            "zh": "废墟密室"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contents Unknown",
+            "zh": "内有未知之物"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ProtoVaalChamberTier0",
+      "index": 67,
+      "columns": {
+        "Name": [
+          {
+            "en": "Primeval Chamber",
+            "zh": "原始密室"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contents Unknown",
+            "zh": "内有未知之物"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ProtoVaalChamberTier1",
+      "index": 68,
+      "columns": {
+        "Name": [
+          {
+            "en": "Primeval Chamber",
+            "zh": "原始密室"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contents Unknown",
+            "zh": "内有未知之物"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ProtoVaalChamberTier2",
+      "index": 69,
+      "columns": {
+        "Name": [
+          {
+            "en": "Primeval Chamber",
+            "zh": "原始密室"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contents Unknown",
+            "zh": "内有未知之物"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ProtoVaalChamberTier3",
+      "index": 70,
+      "columns": {
+        "Name": [
+          {
+            "en": "Primeval Chamber",
+            "zh": "原始密室"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contents Unknown",
+            "zh": "内有未知之物"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ProtoVaalChamberTier4",
+      "index": 71,
+      "columns": {
+        "Name": [
+          {
+            "en": "Primeval Chamber",
+            "zh": "原始密室"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contents Unknown",
+            "zh": "内有未知之物"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AbyssalChamberTier0",
+      "index": 72,
+      "columns": {
+        "Name": [
+          {
+            "en": "Abyssal Chamber",
+            "zh": "深渊密室"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contents Unknown",
+            "zh": "内有未知之物"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AbyssalChamberTier1",
+      "index": 73,
+      "columns": {
+        "Name": [
+          {
+            "en": "Abyssal Chamber",
+            "zh": "深渊密室"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contents Unknown",
+            "zh": "内有未知之物"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AbyssalChamberTier2",
+      "index": 74,
+      "columns": {
+        "Name": [
+          {
+            "en": "Abyssal Chamber",
+            "zh": "深渊密室"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contents Unknown",
+            "zh": "内有未知之物"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AbyssalChamberTier3",
+      "index": 75,
+      "columns": {
+        "Name": [
+          {
+            "en": "Abyssal Chamber",
+            "zh": "深渊密室"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contents Unknown",
+            "zh": "内有未知之物"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AbyssalChamberTier4",
+      "index": 76,
+      "columns": {
+        "Name": [
+          {
+            "en": "Abyssal Chamber",
+            "zh": "深渊密室"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contents Unknown",
+            "zh": "内有未知之物"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AbyssalBoss",
+      "index": 77,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Lich's Tomb",
+            "zh": "巫妖墓穴"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contents Unknown",
+            "zh": "内有未知之物"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ProtoVaalBoss",
+      "index": 78,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Crystal King's Throne",
+            "zh": "水晶之王的王座"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contents Unknown",
+            "zh": "内有未知之物"
+          }
+        ]
+      }
+    },
+    {
+      "id": "VaalBoss",
+      "index": 79,
+      "columns": {
+        "Name": [
+          {
+            "en": "The Grand Architect's Temple",
+            "zh": "大建筑师的神庙"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contents Unknown",
+            "zh": "内有未知之物"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MantleFireWarbands1",
+      "index": 80,
+      "columns": {
+        "Name": [
+          {
+            "en": "Redblade Retreat",
+            "zh": "红刃军团撤退点"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Fire Items",
+            "zh": "内有火焰物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MantleFireWarbands2",
+      "index": 81,
+      "columns": {
+        "Name": [
+          {
+            "en": "Redblade Base",
+            "zh": "红刃军团基地"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Fire Items",
+            "zh": "内有火焰物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": "IceCavesColdWarbands1",
+      "index": 82,
+      "columns": {
+        "Name": [
+          {
+            "en": "Mutewind Retreat",
+            "zh": "哑风军团撤退点"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Cold Items",
+            "zh": "内有冰霜物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": "IceCavesColdWarbands2",
+      "index": 83,
+      "columns": {
+        "Name": [
+          {
+            "en": "Mutewind Base",
+            "zh": "哑风军团基地"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Cold Items",
+            "zh": "内有冰霜物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": "IceCavesEssence1",
+      "index": 84,
+      "columns": {
+        "Name": [
+          {
+            "en": "Frigid Recess",
+            "zh": "冰冽凹洞"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Essences",
+            "zh": "内有精华"
+          }
+        ]
+      }
+    },
+    {
+      "id": "IceCavesPiratesGeneric",
+      "index": 85,
+      "columns": {
+        "Name": [
+          {
+            "en": "Frigid Recess",
+            "zh": "冰冽凹洞"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Items",
+            "zh": "内有物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": "IceCavesPiratesArmour",
+      "index": 86,
+      "columns": {
+        "Name": [
+          {
+            "en": "Frigid Recess",
+            "zh": "冰冽凹洞"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Armour",
+            "zh": "内有护甲"
+          }
+        ]
+      }
+    },
+    {
+      "id": "IceCavesPiratesWeapon",
+      "index": 87,
+      "columns": {
+        "Name": [
+          {
+            "en": "Frigid Recess",
+            "zh": "冰冽凹洞"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Weapons",
+            "zh": "内有武器"
+          }
+        ]
+      }
+    },
+    {
+      "id": "IceCavesPiratesTrinkets",
+      "index": 88,
+      "columns": {
+        "Name": [
+          {
+            "en": "Frigid Recess",
+            "zh": "冰冽凹洞"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Jewellery",
+            "zh": "内有珠宝"
+          }
+        ]
+      }
+    },
+    {
+      "id": "IceCavesPiratesCurrency",
+      "index": 89,
+      "columns": {
+        "Name": [
+          {
+            "en": "Frigid Recess",
+            "zh": "冰冽凹洞"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Currency",
+            "zh": "内有通货"
+          }
+        ]
+      }
+    },
+    {
+      "id": "IceCavesPiratesCold",
+      "index": 90,
+      "columns": {
+        "Name": [
+          {
+            "en": "Frigid Recess",
+            "zh": "冰冽凹洞"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Cold Items",
+            "zh": "内有冰霜物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": "IceCavesCampsiteGeneric",
+      "index": 91,
+      "columns": {
+        "Name": [
+          {
+            "en": "Inhospitable Camp",
+            "zh": "荒弃的营地"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Items",
+            "zh": "内有物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": "IceCavesCampsiteArmour",
+      "index": 92,
+      "columns": {
+        "Name": [
+          {
+            "en": "Inhospitable Camp",
+            "zh": "荒弃的营地"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Armour",
+            "zh": "内有护甲"
+          }
+        ]
+      }
+    },
+    {
+      "id": "IceCavesCampsiteWeapon",
+      "index": 93,
+      "columns": {
+        "Name": [
+          {
+            "en": "Inhospitable Camp",
+            "zh": "荒弃的营地"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Weapons",
+            "zh": "内有武器"
+          }
+        ]
+      }
+    },
+    {
+      "id": "IceCavesCampsiteTrinkets",
+      "index": 94,
+      "columns": {
+        "Name": [
+          {
+            "en": "Inhospitable Camp",
+            "zh": "荒弃的营地"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Jewellery",
+            "zh": "内有珠宝"
+          }
+        ]
+      }
+    },
+    {
+      "id": "IceCavesCampsiteCurrency",
+      "index": 95,
+      "columns": {
+        "Name": [
+          {
+            "en": "Inhospitable Camp",
+            "zh": "荒弃的营地"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Currency",
+            "zh": "内有通货"
+          }
+        ]
+      }
+    },
+    {
+      "id": "IceCavesCampsiteMaps",
+      "index": 96,
+      "columns": {
+        "Name": [
+          {
+            "en": "Inhospitable Camp",
+            "zh": "荒弃的营地"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Maps",
+            "zh": "内有地图"
+          }
+        ]
+      }
+    },
+    {
+      "id": "IceCavesSkeletonGeneric",
+      "index": 97,
+      "columns": {
+        "Name": [
+          {
+            "en": "Frozen Grave",
+            "zh": "冰封坟茔"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Items",
+            "zh": "内有物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": "IceCavesSkeletonArmour",
+      "index": 98,
+      "columns": {
+        "Name": [
+          {
+            "en": "Frozen Grave",
+            "zh": "冰封坟茔"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Armour",
+            "zh": "内有护甲"
+          }
+        ]
+      }
+    },
+    {
+      "id": "IceCavesSkeletonWeapon",
+      "index": 99,
+      "columns": {
+        "Name": [
+          {
+            "en": "Frozen Grave",
+            "zh": "冰封坟茔"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Weapons",
+            "zh": "内有武器"
+          }
+        ]
+      }
+    },
+    {
+      "id": "IceCavesSkeletonTrinkets",
+      "index": 100,
+      "columns": {
+        "Name": [
+          {
+            "en": "Frozen Grave",
+            "zh": "冰封坟茔"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Jewellery",
+            "zh": "内有珠宝"
+          }
+        ]
+      }
+    },
+    {
+      "id": "IceCavesSkeletonGems",
+      "index": 101,
+      "columns": {
+        "Name": [
+          {
+            "en": "Frozen Grave",
+            "zh": "冰封坟茔"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Gems",
+            "zh": "内有宝石"
+          }
+        ]
+      }
+    },
+    {
+      "id": "IceCavesSkeletonCurrency",
+      "index": 102,
+      "columns": {
+        "Name": [
+          {
+            "en": "Frozen Grave",
+            "zh": "冰封坟茔"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Currency",
+            "zh": "内有通货"
+          }
+        ]
+      }
+    },
+    {
+      "id": "IceCavesSkeletonMaps",
+      "index": 103,
+      "columns": {
+        "Name": [
+          {
+            "en": "Frozen Grave",
+            "zh": "冰封坟茔"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Maps",
+            "zh": "内有地图"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SulphurLightningWarbands1",
+      "index": 104,
+      "columns": {
+        "Name": [
+          {
+            "en": "Brinerot Retreat",
+            "zh": "布琳洛特军团撤退点"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Lightning Items",
+            "zh": "内有闪电物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SulphurLightningWarbands2",
+      "index": 105,
+      "columns": {
+        "Name": [
+          {
+            "en": "Brinerot Base",
+            "zh": "布琳洛特军团基地"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Lightning Items",
+            "zh": "内有闪电物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SulphurCrabsGeneric",
+      "index": 106,
+      "columns": {
+        "Name": [
+          {
+            "en": "Humid Hive",
+            "zh": "潮湿巢穴"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Items",
+            "zh": "内有物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SulphurCrabsArmour",
+      "index": 107,
+      "columns": {
+        "Name": [
+          {
+            "en": "Humid Hive",
+            "zh": "潮湿巢穴"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Armour",
+            "zh": "内有护甲"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SulphurCrabsWeapon",
+      "index": 108,
+      "columns": {
+        "Name": [
+          {
+            "en": "Humid Hive",
+            "zh": "潮湿巢穴"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Weapons",
+            "zh": "内有武器"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SulphurCrabsTrinkets",
+      "index": 109,
+      "columns": {
+        "Name": [
+          {
+            "en": "Humid Hive",
+            "zh": "潮湿巢穴"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Jewellery",
+            "zh": "内有珠宝"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SulphurCrabsCurrency",
+      "index": 110,
+      "columns": {
+        "Name": [
+          {
+            "en": "Humid Hive",
+            "zh": "潮湿巢穴"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Currency",
+            "zh": "内有通货"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SulphurCampsiteGeneric",
+      "index": 111,
+      "columns": {
+        "Name": [
+          {
+            "en": "Wretched Camp",
+            "zh": "邪恶营地"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Items",
+            "zh": "内有物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SulphurCampsiteArmour",
+      "index": 112,
+      "columns": {
+        "Name": [
+          {
+            "en": "Wretched Camp",
+            "zh": "邪恶营地"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Armour",
+            "zh": "内有护甲"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SulphurCampsiteWeapon",
+      "index": 113,
+      "columns": {
+        "Name": [
+          {
+            "en": "Wretched Camp",
+            "zh": "邪恶营地"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Weapons",
+            "zh": "内有武器"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SulphurCampsiteTrinkets",
+      "index": 114,
+      "columns": {
+        "Name": [
+          {
+            "en": "Wretched Camp",
+            "zh": "邪恶营地"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Jewellery",
+            "zh": "内有珠宝"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SulphurCampsiteCurrency",
+      "index": 115,
+      "columns": {
+        "Name": [
+          {
+            "en": "Wretched Camp",
+            "zh": "邪恶营地"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Currency",
+            "zh": "内有通货"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SulphurCampsiteMaps",
+      "index": 116,
+      "columns": {
+        "Name": [
+          {
+            "en": "Wretched Camp",
+            "zh": "邪恶营地"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Maps",
+            "zh": "内有地图"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SulphurSandTrinkets",
+      "index": 117,
+      "columns": {
+        "Name": [
+          {
+            "en": "Dust Vents",
+            "zh": "喷砂泉口"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Jewellery",
+            "zh": "内有珠宝"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SulphurSandCurrency",
+      "index": 118,
+      "columns": {
+        "Name": [
+          {
+            "en": "Dust Vents",
+            "zh": "喷砂泉口"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Currency",
+            "zh": "内有通货"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SulphurSandMaps",
+      "index": 119,
+      "columns": {
+        "Name": [
+          {
+            "en": "Dust Vents",
+            "zh": "喷砂泉口"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Maps",
+            "zh": "内有地图"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LightningGolemsGeneric",
+      "index": 120,
+      "columns": {
+        "Name": [
+          {
+            "en": "Restless Rubble",
+            "zh": "躁动的碎石"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Items",
+            "zh": "内有物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LightningGolemsGems",
+      "index": 121,
+      "columns": {
+        "Name": [
+          {
+            "en": "Restless Rubble",
+            "zh": "躁动的碎石"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Gems",
+            "zh": "内有宝石"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LightningGolemsLightning",
+      "index": 122,
+      "columns": {
+        "Name": [
+          {
+            "en": "Restless Rubble",
+            "zh": "躁动的碎石"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Lightning Items",
+            "zh": "内有闪电物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CavernsChaosWarbands1",
+      "index": 123,
+      "columns": {
+        "Name": [
+          {
+            "en": "Renegade Camp",
+            "zh": "叛军营地"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Chaos Items",
+            "zh": "内有混沌物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MineSandTrinkets",
+      "index": 124,
+      "columns": {
+        "Name": [
+          {
+            "en": "Dusty Chamber",
+            "zh": "尘土密室"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Jewellery",
+            "zh": "内有珠宝"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MineSandCurrency",
+      "index": 125,
+      "columns": {
+        "Name": [
+          {
+            "en": "Dusty Chamber",
+            "zh": "尘土密室"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Currency",
+            "zh": "内有通货"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MineAnimatedWeapon",
+      "index": 126,
+      "columns": {
+        "Name": [
+          {
+            "en": "Ringing Cavern",
+            "zh": "响铃洞穴"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Weapons",
+            "zh": "内有武器"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MineAnimatedArmour",
+      "index": 127,
+      "columns": {
+        "Name": [
+          {
+            "en": "Ringing Cavern",
+            "zh": "响铃洞穴"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Armour",
+            "zh": "内有护甲"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MineSkeletonGeneric",
+      "index": 128,
+      "columns": {
+        "Name": [
+          {
+            "en": "Buried Camp",
+            "zh": "埋葬的营地"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Items",
+            "zh": "内有物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MineSkeletonArmour",
+      "index": 129,
+      "columns": {
+        "Name": [
+          {
+            "en": "Buried Camp",
+            "zh": "埋葬的营地"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Armour",
+            "zh": "内有护甲"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MineSkeletonWeapon",
+      "index": 130,
+      "columns": {
+        "Name": [
+          {
+            "en": "Buried Camp",
+            "zh": "埋葬的营地"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Weapons",
+            "zh": "内有武器"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MineSkeletonTrinkets",
+      "index": 131,
+      "columns": {
+        "Name": [
+          {
+            "en": "Buried Camp",
+            "zh": "埋葬的营地"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Jewellery",
+            "zh": "内有珠宝"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MineSkeletonGems",
+      "index": 132,
+      "columns": {
+        "Name": [
+          {
+            "en": "Buried Camp",
+            "zh": "埋葬的营地"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Gems",
+            "zh": "内有宝石"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MineSkeletonCurrency",
+      "index": 133,
+      "columns": {
+        "Name": [
+          {
+            "en": "Buried Camp",
+            "zh": "埋葬的营地"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Currency",
+            "zh": "内有通货"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MineRockGolemGeneric",
+      "index": 134,
+      "columns": {
+        "Name": [
+          {
+            "en": "Restless Rubble",
+            "zh": "躁动的碎石"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Items",
+            "zh": "内有物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MineRockGolemGems",
+      "index": 135,
+      "columns": {
+        "Name": [
+          {
+            "en": "Restless Rubble",
+            "zh": "躁动的碎石"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Gems",
+            "zh": "内有宝石"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MineChaosGolemGeneric",
+      "index": 136,
+      "columns": {
+        "Name": [
+          {
+            "en": "Restless Rubble",
+            "zh": "躁动的碎石"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Items",
+            "zh": "内有物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MineChaosGolemGems",
+      "index": 137,
+      "columns": {
+        "Name": [
+          {
+            "en": "Restless Rubble",
+            "zh": "躁动的碎石"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Gems",
+            "zh": "内有宝石"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MineAmplifierGeneric",
+      "index": 138,
+      "columns": {
+        "Name": [
+          {
+            "en": "Abandoned Amplifier",
+            "zh": "被遗弃的增幅器"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Items",
+            "zh": "内有物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MineAmplifierArmour",
+      "index": 139,
+      "columns": {
+        "Name": [
+          {
+            "en": "Abandoned Amplifier",
+            "zh": "被遗弃的增幅器"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Armour",
+            "zh": "内有护甲"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MineAmplifierWeapons",
+      "index": 140,
+      "columns": {
+        "Name": [
+          {
+            "en": "Abandoned Amplifier",
+            "zh": "被遗弃的增幅器"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Weapons",
+            "zh": "内有武器"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MineAmplifierTrinkets",
+      "index": 141,
+      "columns": {
+        "Name": [
+          {
+            "en": "Abandoned Amplifier",
+            "zh": "被遗弃的增幅器"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Jewellery",
+            "zh": "内有珠宝"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MineAmplifierGems",
+      "index": 142,
+      "columns": {
+        "Name": [
+          {
+            "en": "Abandoned Amplifier",
+            "zh": "被遗弃的增幅器"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Gems",
+            "zh": "内有宝石"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MineAmplifierCurrency",
+      "index": 143,
+      "columns": {
+        "Name": [
+          {
+            "en": "Abandoned Amplifier",
+            "zh": "被遗弃的增幅器"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Currency",
+            "zh": "内有通货"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MineSpiderGeneric",
+      "index": 144,
+      "columns": {
+        "Name": [
+          {
+            "en": "Webbed Mineshaft",
+            "zh": "爬满蛛网的矿井"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Items",
+            "zh": "内有物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MineSpiderTrinkets",
+      "index": 145,
+      "columns": {
+        "Name": [
+          {
+            "en": "Webbed Mineshaft",
+            "zh": "爬满蛛网的矿井"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Jewellery",
+            "zh": "内有珠宝"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MineSpiderCurrency",
+      "index": 146,
+      "columns": {
+        "Name": [
+          {
+            "en": "Webbed Mineshaft",
+            "zh": "爬满蛛网的矿井"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Currency",
+            "zh": "内有通货"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MineCampsiteGeneric",
+      "index": 147,
+      "columns": {
+        "Name": [
+          {
+            "en": "Abandoned Camp",
+            "zh": "被遗弃的营地"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Items",
+            "zh": "内有物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MineCampsiteArmour",
+      "index": 148,
+      "columns": {
+        "Name": [
+          {
+            "en": "Abandoned Camp",
+            "zh": "被遗弃的营地"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Armour",
+            "zh": "内有护甲"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MineCampsiteWeapon",
+      "index": 149,
+      "columns": {
+        "Name": [
+          {
+            "en": "Abandoned Camp",
+            "zh": "被遗弃的营地"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Weapons",
+            "zh": "内有武器"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MineCampsiteTrinkets",
+      "index": 150,
+      "columns": {
+        "Name": [
+          {
+            "en": "Abandoned Camp",
+            "zh": "被遗弃的营地"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Jewellery",
+            "zh": "内有珠宝"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MineCampsiteCurrency",
+      "index": 151,
+      "columns": {
+        "Name": [
+          {
+            "en": "Abandoned Camp",
+            "zh": "被遗弃的营地"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Currency",
+            "zh": "内有通货"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Beyond",
+      "index": 152,
+      "columns": {
+        "Name": [
+          {
+            "en": "Pulsating Grotto",
+            "zh": "搏动地穴"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Monsters from Beyond",
+            "zh": "内有界外的生物"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ForestRhoaGeneric",
+      "index": 153,
+      "columns": {
+        "Name": [
+          {
+            "en": "Nesting Grounds",
+            "zh": "筑巢之园"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Items",
+            "zh": "内有物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ForestRhoaArmour",
+      "index": 154,
+      "columns": {
+        "Name": [
+          {
+            "en": "Nesting Grounds",
+            "zh": "筑巢之园"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Armour",
+            "zh": "内有护甲"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ForestRhoaWeapon",
+      "index": 155,
+      "columns": {
+        "Name": [
+          {
+            "en": "Nesting Grounds",
+            "zh": "筑巢之园"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Weapons",
+            "zh": "内有武器"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ForestRhoaTrinkets",
+      "index": 156,
+      "columns": {
+        "Name": [
+          {
+            "en": "Nesting Grounds",
+            "zh": "筑巢之园"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Jewellery",
+            "zh": "内有珠宝"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ForestRhoaCurrency",
+      "index": 157,
+      "columns": {
+        "Name": [
+          {
+            "en": "Nesting Grounds",
+            "zh": "筑巢之园"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Currency",
+            "zh": "内有通货"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ForestRhoaBlood",
+      "index": 158,
+      "columns": {
+        "Name": [
+          {
+            "en": "Nesting Grounds",
+            "zh": "筑巢之园"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Physical Items",
+            "zh": "内有物理物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ForestCampsiteGeneric",
+      "index": 159,
+      "columns": {
+        "Name": [
+          {
+            "en": "Lifeless Camp",
+            "zh": "亡者营地"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Items",
+            "zh": "内有物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ForestCampsiteArmour",
+      "index": 160,
+      "columns": {
+        "Name": [
+          {
+            "en": "Lifeless Camp",
+            "zh": "亡者营地"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Armour",
+            "zh": "内有护甲"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ForestCampsiteWeapon",
+      "index": 161,
+      "columns": {
+        "Name": [
+          {
+            "en": "Lifeless Camp",
+            "zh": "亡者营地"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Weapons",
+            "zh": "内有武器"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ForestCampsiteTrinkets",
+      "index": 162,
+      "columns": {
+        "Name": [
+          {
+            "en": "Lifeless Camp",
+            "zh": "亡者营地"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Jewellery",
+            "zh": "内有珠宝"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ForestCampsiteCurrency",
+      "index": 163,
+      "columns": {
+        "Name": [
+          {
+            "en": "Lifeless Camp",
+            "zh": "亡者营地"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Currency",
+            "zh": "内有通货"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ForestCampsiteMaps",
+      "index": 164,
+      "columns": {
+        "Name": [
+          {
+            "en": "Lifeless Camp",
+            "zh": "亡者营地"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Maps",
+            "zh": "内有地图"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ForestTalisman",
+      "index": 165,
+      "columns": {
+        "Name": [
+          {
+            "en": "Ritual Grounds",
+            "zh": "祭祀之园"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Talismans",
+            "zh": "内有魔符"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ForestSandTrinkets",
+      "index": 166,
+      "columns": {
+        "Name": [
+          {
+            "en": "Dusty Grove",
+            "zh": "尘封林地"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Jewellery",
+            "zh": "内有珠宝"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ForestSandCurrency",
+      "index": 167,
+      "columns": {
+        "Name": [
+          {
+            "en": "Dusty Grove",
+            "zh": "尘封林地"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Currency",
+            "zh": "内有通货"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ForestSandMaps",
+      "index": 168,
+      "columns": {
+        "Name": [
+          {
+            "en": "Dusty Grove",
+            "zh": "尘封林地"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Maps",
+            "zh": "内有地图"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ForestNecromancerGeneric",
+      "index": 169,
+      "columns": {
+        "Name": [
+          {
+            "en": "Grim Copse",
+            "zh": "邪林灌木"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Items",
+            "zh": "内有物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ForestNecromancerTinkets",
+      "index": 170,
+      "columns": {
+        "Name": [
+          {
+            "en": "Grim Copse",
+            "zh": "邪林灌木"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Jewellery",
+            "zh": "内有珠宝"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ForestNecromancerCurrency",
+      "index": 171,
+      "columns": {
+        "Name": [
+          {
+            "en": "Grim Copse",
+            "zh": "邪林灌木"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Currency",
+            "zh": "内有通货"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ForestNecromancerMinions",
+      "index": 172,
+      "columns": {
+        "Name": [
+          {
+            "en": "Grim Copse",
+            "zh": "邪林灌木"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Minion or Aura Items",
+            "zh": "内有召唤生物或光环物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ForestDropbearsGeneric",
+      "index": 173,
+      "columns": {
+        "Name": [
+          {
+            "en": "Growling Grove",
+            "zh": "嚎叫之林"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Items",
+            "zh": "内有物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ForestDropbearsArmour",
+      "index": 174,
+      "columns": {
+        "Name": [
+          {
+            "en": "Growling Grove",
+            "zh": "嚎叫之林"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Armour",
+            "zh": "内有护甲"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ForestDropbearsWeapon",
+      "index": 175,
+      "columns": {
+        "Name": [
+          {
+            "en": "Growling Grove",
+            "zh": "嚎叫之林"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Weapons",
+            "zh": "内有武器"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ForestDropbearsTrinkets",
+      "index": 176,
+      "columns": {
+        "Name": [
+          {
+            "en": "Growling Grove",
+            "zh": "嚎叫之林"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Jewellery",
+            "zh": "内有珠宝"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ForestDropbearsCurrency",
+      "index": 177,
+      "columns": {
+        "Name": [
+          {
+            "en": "Growling Grove",
+            "zh": "嚎叫之林"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Currency",
+            "zh": "内有通货"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ForestDevourersGeneric",
+      "index": 178,
+      "columns": {
+        "Name": [
+          {
+            "en": "Infested Thicket",
+            "zh": "感染树丛"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Items",
+            "zh": "内有物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ForestDevourersArmour",
+      "index": 179,
+      "columns": {
+        "Name": [
+          {
+            "en": "Infested Thicket",
+            "zh": "感染树丛"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Armour",
+            "zh": "内有护甲"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ForestDevourersWeapon",
+      "index": 180,
+      "columns": {
+        "Name": [
+          {
+            "en": "Infested Thicket",
+            "zh": "感染树丛"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Weapons",
+            "zh": "内有武器"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ForestDevourersTrinkets",
+      "index": 181,
+      "columns": {
+        "Name": [
+          {
+            "en": "Infested Thicket",
+            "zh": "感染树丛"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Jewellery",
+            "zh": "内有珠宝"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ForestDevourersCurrency",
+      "index": 182,
+      "columns": {
+        "Name": [
+          {
+            "en": "Infested Thicket",
+            "zh": "感染树丛"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Currency",
+            "zh": "内有通货"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CavernsNecromancerGeneric",
+      "index": 183,
+      "columns": {
+        "Name": [
+          {
+            "en": "Necromancer's Excavation",
+            "zh": "死灵法师的挖掘场"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Items",
+            "zh": "内有物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CavernsNecromancerTrinkets",
+      "index": 184,
+      "columns": {
+        "Name": [
+          {
+            "en": "Necromancer's Excavation",
+            "zh": "死灵法师的挖掘场"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Jewellery",
+            "zh": "内有珠宝"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CavernsNecromancerCurrency",
+      "index": 185,
+      "columns": {
+        "Name": [
+          {
+            "en": "Necromancer's Excavation",
+            "zh": "死灵法师的挖掘场"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Currency",
+            "zh": "内有通货"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CavernsNecromancerMinions",
+      "index": 186,
+      "columns": {
+        "Name": [
+          {
+            "en": "Necromancer's Excavation",
+            "zh": "死灵法师的挖掘场"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Minion or Aura Items",
+            "zh": "内有召唤生物或光环物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CavernsBeastGeneric",
+      "index": 187,
+      "columns": {
+        "Name": [
+          {
+            "en": "Beast Burrow",
+            "zh": "魔物之穴"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Items",
+            "zh": "内有物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CavernsBeastArmour",
+      "index": 188,
+      "columns": {
+        "Name": [
+          {
+            "en": "Beast Burrow",
+            "zh": "魔物之穴"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Armour",
+            "zh": "内有护甲"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CavernsBeastWeapon",
+      "index": 189,
+      "columns": {
+        "Name": [
+          {
+            "en": "Beast Burrow",
+            "zh": "魔物之穴"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Weapons",
+            "zh": "内有武器"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CavernsBeastTrinkets",
+      "index": 190,
+      "columns": {
+        "Name": [
+          {
+            "en": "Beast Burrow",
+            "zh": "魔物之穴"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Jewellery",
+            "zh": "内有珠宝"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CavernsBeastCurrency",
+      "index": 191,
+      "columns": {
+        "Name": [
+          {
+            "en": "Beast Burrow",
+            "zh": "魔物之穴"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Currency",
+            "zh": "内有通货"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CavernsBeastMinions",
+      "index": 192,
+      "columns": {
+        "Name": [
+          {
+            "en": "Beast Burrow",
+            "zh": "魔物之穴"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Minion or Aura Items",
+            "zh": "内有召唤生物或光环物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CavernsMossMonsterGeneric",
+      "index": 193,
+      "columns": {
+        "Name": [
+          {
+            "en": "Slumbering Boulders",
+            "zh": "昏睡之石"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Items",
+            "zh": "内有物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CavernsMossMonsterTrinkets",
+      "index": 194,
+      "columns": {
+        "Name": [
+          {
+            "en": "Slumbering Boulders",
+            "zh": "昏睡之石"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Jewellery",
+            "zh": "内有珠宝"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CavernsMossMonsterCurrency",
+      "index": 195,
+      "columns": {
+        "Name": [
+          {
+            "en": "Slumbering Boulders",
+            "zh": "昏睡之石"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Currency",
+            "zh": "内有通货"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CavernsMossMonsterGems",
+      "index": 196,
+      "columns": {
+        "Name": [
+          {
+            "en": "Slumbering Boulders",
+            "zh": "昏睡之石"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Gems",
+            "zh": "内有宝石"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CavernsRockGolemGeneric",
+      "index": 197,
+      "columns": {
+        "Name": [
+          {
+            "en": "Restless Rubble",
+            "zh": "躁动的碎石"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Items",
+            "zh": "内有物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CavernsRockGolemGems",
+      "index": 198,
+      "columns": {
+        "Name": [
+          {
+            "en": "Restless Rubble",
+            "zh": "躁动的碎石"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Gems",
+            "zh": "内有宝石"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CavernsChaosGolemGeneric",
+      "index": 199,
+      "columns": {
+        "Name": [
+          {
+            "en": "Restless Rubble",
+            "zh": "躁动的碎石"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Items",
+            "zh": "内有物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CavernsChaosGolemGems",
+      "index": 200,
+      "columns": {
+        "Name": [
+          {
+            "en": "Restless Rubble",
+            "zh": "躁动的碎石"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Gems",
+            "zh": "内有宝石"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CavernsChaosGolemChaos",
+      "index": 201,
+      "columns": {
+        "Name": [
+          {
+            "en": "Restless Rubble",
+            "zh": "躁动的碎石"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Chaos Items",
+            "zh": "内有混沌物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Strongbox",
+      "index": 202,
+      "columns": {
+        "Name": [
+          {
+            "en": "Underground Stash",
+            "zh": "地下密窟"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Strongboxes",
+            "zh": "内有保险箱"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CavernsBestiaryYellow",
+      "index": 203,
+      "columns": {
+        "Name": [
+          {
+            "en": "Echoing Lair",
+            "zh": "回响巢穴"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Animalistic Items",
+            "zh": "内有兽性物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CavernsBestiaryRed",
+      "index": 204,
+      "columns": {
+        "Name": [
+          {
+            "en": "Echoing Lair",
+            "zh": "回响巢穴"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Animalistic Items",
+            "zh": "内有兽性物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CavernsCampsiteGeneric",
+      "index": 205,
+      "columns": {
+        "Name": [
+          {
+            "en": "Mouldy Camp",
+            "zh": "霉烂营地"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Items",
+            "zh": "内有物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CavernsCampsiteArmour",
+      "index": 206,
+      "columns": {
+        "Name": [
+          {
+            "en": "Mouldy Camp",
+            "zh": "霉烂营地"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Armour",
+            "zh": "内有护甲"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CavernsCampsiteWeapons",
+      "index": 207,
+      "columns": {
+        "Name": [
+          {
+            "en": "Mouldy Camp",
+            "zh": "霉烂营地"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Weapons",
+            "zh": "内有武器"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CavernsCampsiteTrinkets",
+      "index": 208,
+      "columns": {
+        "Name": [
+          {
+            "en": "Mouldy Camp",
+            "zh": "霉烂营地"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Jewellery",
+            "zh": "内有珠宝"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CavernsCampsiteCurrency",
+      "index": 209,
+      "columns": {
+        "Name": [
+          {
+            "en": "Mouldy Camp",
+            "zh": "霉烂营地"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Currency",
+            "zh": "内有通货"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CavernsSkeletonGeneric",
+      "index": 210,
+      "columns": {
+        "Name": [
+          {
+            "en": "Musty Grave",
+            "zh": "霉烂坟茔"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Items",
+            "zh": "内有物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CavernsSkeletonArmour",
+      "index": 211,
+      "columns": {
+        "Name": [
+          {
+            "en": "Musty Grave",
+            "zh": "霉烂坟茔"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Armour",
+            "zh": "内有护甲"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CavernsSkeletonWeapon",
+      "index": 212,
+      "columns": {
+        "Name": [
+          {
+            "en": "Musty Grave",
+            "zh": "霉烂坟茔"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Weapons",
+            "zh": "内有武器"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CavernsSkeletonTrinkets",
+      "index": 213,
+      "columns": {
+        "Name": [
+          {
+            "en": "Musty Grave",
+            "zh": "霉烂坟茔"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Jewellery",
+            "zh": "内有珠宝"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CavernsSkeletonGems",
+      "index": 214,
+      "columns": {
+        "Name": [
+          {
+            "en": "Musty Grave",
+            "zh": "霉烂坟茔"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Gems",
+            "zh": "内有宝石"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CavernsSkeletonCurrency",
+      "index": 215,
+      "columns": {
+        "Name": [
+          {
+            "en": "Musty Grave",
+            "zh": "霉烂坟茔"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Currency",
+            "zh": "内有通货"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CavernsSkeletonMaps",
+      "index": 216,
+      "columns": {
+        "Name": [
+          {
+            "en": "Musty Grave",
+            "zh": "霉烂坟茔"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Maps",
+            "zh": "内有地图"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CavernsDropbearsGeneric",
+      "index": 217,
+      "columns": {
+        "Name": [
+          {
+            "en": "Growling Den",
+            "zh": "咆哮之穴"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Items",
+            "zh": "内有物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CavernsDropbearsArmour",
+      "index": 218,
+      "columns": {
+        "Name": [
+          {
+            "en": "Growling Den",
+            "zh": "咆哮之穴"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Armour",
+            "zh": "内有护甲"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CavernsDropbearsWeapon",
+      "index": 219,
+      "columns": {
+        "Name": [
+          {
+            "en": "Growling Den",
+            "zh": "咆哮之穴"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Weapons",
+            "zh": "内有武器"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CavernsDropbearsTrinkets",
+      "index": 220,
+      "columns": {
+        "Name": [
+          {
+            "en": "Growling Den",
+            "zh": "咆哮之穴"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Jewellery",
+            "zh": "内有珠宝"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CavernsDropbearsCurrency",
+      "index": 221,
+      "columns": {
+        "Name": [
+          {
+            "en": "Growling Den",
+            "zh": "咆哮之穴"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Currency",
+            "zh": "内有通货"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CavernsDevourersGeneric",
+      "index": 222,
+      "columns": {
+        "Name": [
+          {
+            "en": "Infested Warren",
+            "zh": "感染兽栏"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Items",
+            "zh": "内有物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CavernsDevourersArmour",
+      "index": 223,
+      "columns": {
+        "Name": [
+          {
+            "en": "Infested Warren",
+            "zh": "感染兽栏"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Armour",
+            "zh": "内有护甲"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CavernsDevourersWeapon",
+      "index": 224,
+      "columns": {
+        "Name": [
+          {
+            "en": "Infested Warren",
+            "zh": "感染兽栏"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Weapons",
+            "zh": "内有武器"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CavernsDevourersTrinkets",
+      "index": 225,
+      "columns": {
+        "Name": [
+          {
+            "en": "Infested Warren",
+            "zh": "感染兽栏"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Jewellery",
+            "zh": "内有珠宝"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CavernsDevourersCurrency",
+      "index": 226,
+      "columns": {
+        "Name": [
+          {
+            "en": "Infested Warren",
+            "zh": "感染兽栏"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Currency",
+            "zh": "内有通货"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AbyssalDepthsGhostGeneric",
+      "index": 227,
+      "columns": {
+        "Name": [
+          {
+            "en": "Haunted Remains",
+            "zh": "幽魂残迹"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Items",
+            "zh": "内有物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AbyssalDepthsGhostArmour",
+      "index": 228,
+      "columns": {
+        "Name": [
+          {
+            "en": "Haunted Remains",
+            "zh": "幽魂残迹"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Armour",
+            "zh": "内有护甲"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AbyssalDepthsGhostWeapons",
+      "index": 229,
+      "columns": {
+        "Name": [
+          {
+            "en": "Haunted Remains",
+            "zh": "幽魂残迹"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Weapons",
+            "zh": "内有武器"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AbyssalDepthsGhostTrinkets",
+      "index": 230,
+      "columns": {
+        "Name": [
+          {
+            "en": "Haunted Remains",
+            "zh": "幽魂残迹"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Jewellery",
+            "zh": "内有珠宝"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AbyssalDepthsGhostCurrency",
+      "index": 231,
+      "columns": {
+        "Name": [
+          {
+            "en": "Haunted Remains",
+            "zh": "幽魂残迹"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Currency",
+            "zh": "内有通货"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AbyssalDepthsGhostCurse",
+      "index": 232,
+      "columns": {
+        "Name": [
+          {
+            "en": "Haunted Remains",
+            "zh": "幽魂残迹"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Mana or Curse Items",
+            "zh": "内有魔力或诅咒物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AbyssalDepthsAbyss",
+      "index": 233,
+      "columns": {
+        "Name": [
+          {
+            "en": "Haunted Remains",
+            "zh": "幽魂残迹"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Abyss Items",
+            "zh": "内有深渊物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AbyssalDepthsCampsiteGeneric",
+      "index": 234,
+      "columns": {
+        "Name": [
+          {
+            "en": "Ravaged Camp",
+            "zh": "被清洗的营地"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Items",
+            "zh": "内有物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AbyssalDepthsCampsiteArmour",
+      "index": 235,
+      "columns": {
+        "Name": [
+          {
+            "en": "Ravaged Camp",
+            "zh": "被清洗的营地"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Armour",
+            "zh": "内有护甲"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AbyssalDepthsCampsiteWeapon",
+      "index": 236,
+      "columns": {
+        "Name": [
+          {
+            "en": "Ravaged Camp",
+            "zh": "被清洗的营地"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Weapons",
+            "zh": "内有武器"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AbyssalDepthsCampsiteTrinkets",
+      "index": 237,
+      "columns": {
+        "Name": [
+          {
+            "en": "Ravaged Camp",
+            "zh": "被清洗的营地"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Jewellery",
+            "zh": "内有珠宝"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AbyssalDepthsCampsiteCurrency",
+      "index": 238,
+      "columns": {
+        "Name": [
+          {
+            "en": "Ravaged Camp",
+            "zh": "被清洗的营地"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Currency",
+            "zh": "内有通货"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AbyssalDepthsCampsiteMaps",
+      "index": 239,
+      "columns": {
+        "Name": [
+          {
+            "en": "Ravaged Camp",
+            "zh": "被清洗的营地"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Maps",
+            "zh": "内有地图"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AbyssalDepthsNecromancerGeneric",
+      "index": 240,
+      "columns": {
+        "Name": [
+          {
+            "en": "Necromancer's Excavation",
+            "zh": "死灵法师的挖掘场"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Items",
+            "zh": "内有物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AbyssalDepthsNecromancerTrinkets",
+      "index": 241,
+      "columns": {
+        "Name": [
+          {
+            "en": "Necromancer's Excavation",
+            "zh": "死灵法师的挖掘场"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Jewellery",
+            "zh": "内有珠宝"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AbyssalDepthsNecromancerCurrency",
+      "index": 242,
+      "columns": {
+        "Name": [
+          {
+            "en": "Necromancer's Excavation",
+            "zh": "死灵法师的挖掘场"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Currency",
+            "zh": "内有通货"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AbyssalDepthsNecromancerMinions",
+      "index": 243,
+      "columns": {
+        "Name": [
+          {
+            "en": "Necromancer's Excavation",
+            "zh": "死灵法师的挖掘场"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Minion or Aura Items",
+            "zh": "内有召唤生物或光环物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AbyssalDepthsCultists",
+      "index": 244,
+      "columns": {
+        "Name": [
+          {
+            "en": "Unspeakable Shrine",
+            "zh": "极恶圣坛"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains Abyss Items",
+            "zh": "内有深渊物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Legion",
+      "index": 245,
+      "columns": {
+        "Name": [
+          {
+            "en": "Buried Monolith",
+            "zh": "埋葬的石碑"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Contains a Legion Encounter",
+            "zh": "内有一场战乱之殇遭遇战"
+          }
+        ]
+      }
+    }
+  ]
+}

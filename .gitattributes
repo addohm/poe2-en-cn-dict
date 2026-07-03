@@ -1,0 +1,8 @@
+# Normalize line endings so the repo stores LF and consumers get consistent files.
+* text=auto eol=lf
+
+# PowerShell is happiest with CRLF on Windows.
+*.ps1 text eol=crlf
+
+# Binary assets must never be munged.
+*.wasm binary

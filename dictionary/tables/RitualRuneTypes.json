@@ -1,0 +1,190 @@
+{
+  "table": "RitualRuneTypes",
+  "key": "Id",
+  "columns": [
+    "Type",
+    "Description"
+  ],
+  "entries": [
+    {
+      "id": "Blood1",
+      "index": 0,
+      "columns": {
+        "Type": [
+          {
+            "en": "Contaminated",
+            "zh": "污秽的"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Waves of Blood pass through the Ritual Site",
+            "zh": "猩红之潮扫过场地"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Blood2",
+      "index": 1,
+      "columns": {
+        "Type": [
+          {
+            "en": "Prowling",
+            "zh": "潜伏的"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Crimson Wolves strike from the Darkness",
+            "zh": "赤红的狼群从黑暗中袭来"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Blood3",
+      "index": 2,
+      "columns": {
+        "Type": [
+          {
+            "en": "Fractured",
+            "zh": "分裂的"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Exploding Corpses rise into the Ritual Site",
+            "zh": "易爆之躯在场地中现身"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Locust1",
+      "index": 3,
+      "columns": {
+        "Type": [
+          {
+            "en": "Plagued",
+            "zh": "疫毒的"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Swarms of Locusts fill the Ritual Site",
+            "zh": "蝗群在场地中肆虐"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Rats1",
+      "index": 4,
+      "columns": {
+        "Type": [
+          {
+            "en": "Infested",
+            "zh": "感染的"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Tornadoes of Rats traverse the Ritual Site",
+            "zh": "鼠害狂风席卷现场"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Infection1",
+      "index": 5,
+      "columns": {
+        "Type": [
+          {
+            "en": "Tainted",
+            "zh": "污染的"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Chaotic Boils grow and explode when Touched",
+            "zh": "混沌疥疮恣意生长，一触即发"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Miasma1",
+      "index": 6,
+      "columns": {
+        "Type": [
+          {
+            "en": "Smothered",
+            "zh": "窒息的"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Chaotic Plants release explosive Pods",
+            "zh": "混沌植物传播易爆的种荚"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Miasma2",
+      "index": 7,
+      "columns": {
+        "Type": [
+          {
+            "en": "Sapping",
+            "zh": "力竭的"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Clouds of Elemental Disturbance slow you, lower your Elemental Resistances\nand enhance Monster Resistances",
+            "zh": "元素扰动之云使你减速，降低元素抗性\n并强化怪物的抗性"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Frog1",
+      "index": 8,
+      "columns": {
+        "Type": [
+          {
+            "en": "Croaking",
+            "zh": "蛙鸣的"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Giant plaguebringing Toads emerge from the Darkness",
+            "zh": "巨型感染蟾蜍从黑暗中现身"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Queen1",
+      "index": 9,
+      "columns": {
+        "Type": [
+          {
+            "en": "Queen's",
+            "zh": "女王的"
+          }
+        ],
+        "Description": [
+          {
+            "en": "The Queen in the Mists guards this Ritual",
+            "zh": "迷雾女王守卫着仪式"
+          }
+        ]
+      }
+    }
+  ]
+}

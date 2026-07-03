@@ -1,0 +1,82 @@
+{
+  "table": "WorldPopupIconTypes",
+  "key": "Id",
+  "columns": [
+    "__col1",
+    "__col8"
+  ],
+  "entries": [
+    {
+      "id": "HeistTime",
+      "index": 0,
+      "columns": {
+        "__col8": [
+          {
+            "en": "Sec",
+            "zh": "秒"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SanctumCurrency",
+      "index": 2,
+      "columns": {
+        "__col8": [
+          {
+            "en": "Sacred Water",
+            "zh": "圣水"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GoldCoin",
+      "index": 3,
+      "columns": {
+        "__col8": [
+          {
+            "en": "Gold",
+            "zh": "金币"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GamepadUseHealingWellPrompt",
+      "index": 4,
+      "columns": {
+        "__col8": [
+          {
+            "en": "Flasks and Charms Refilled",
+            "zh": "药剂和咒符已补充"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BreachSplinter",
+      "index": 5,
+      "columns": {
+        "__col8": [
+          {
+            "en": "Breach Splinter",
+            "zh": "裂隙碎片"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BrequelBlood",
+      "index": 6,
+      "columns": {
+        "__col8": [
+          {
+            "en": "Hiveblood",
+            "zh": "虫巢之血"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "table": "BetrayalJobs",
+  "key": "_index",
+  "columns": [
+    "Id",
+    "Text",
+    "IconArt"
+  ],
+  "entries": [
+    {
+      "id": null,
+      "index": 0,
+      "columns": {
+        "Text": [
+          {
+            "en": "None",
+            "zh": "无"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 1,
+      "columns": {
+        "Text": [
+          {
+            "en": "Fortification",
+            "zh": "防卫部"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 2,
+      "columns": {
+        "Text": [
+          {
+            "en": "Transportation",
+            "zh": "运输部"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 3,
+      "columns": {
+        "Text": [
+          {
+            "en": "Intervention",
+            "zh": "调停部"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 4,
+      "columns": {
+        "Text": [
+          {
+            "en": "Research",
+            "zh": "科研部"
+          }
+        ]
+      }
+    }
+  ]
+}

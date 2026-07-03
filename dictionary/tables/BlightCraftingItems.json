@@ -1,0 +1,165 @@
+{
+  "table": "BlightCraftingItems",
+  "key": "_index",
+  "columns": [
+    "NameShort"
+  ],
+  "entries": [
+    {
+      "id": null,
+      "index": 0,
+      "columns": {
+        "NameShort": [
+          {
+            "en": "Ire",
+            "zh": "愤怒"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 1,
+      "columns": {
+        "NameShort": [
+          {
+            "en": "Guilt",
+            "zh": "内疚"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 2,
+      "columns": {
+        "NameShort": [
+          {
+            "en": "Greed",
+            "zh": "贪婪"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 3,
+      "columns": {
+        "NameShort": [
+          {
+            "en": "Paranoia",
+            "zh": "偏执"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 4,
+      "columns": {
+        "NameShort": [
+          {
+            "en": "Envy",
+            "zh": "嫉妒"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 5,
+      "columns": {
+        "NameShort": [
+          {
+            "en": "Disgust",
+            "zh": "憎恶"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 6,
+      "columns": {
+        "NameShort": [
+          {
+            "en": "Despair",
+            "zh": "绝望"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 7,
+      "columns": {
+        "NameShort": [
+          {
+            "en": "Fear",
+            "zh": "恐惧"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 8,
+      "columns": {
+        "NameShort": [
+          {
+            "en": "Suffering",
+            "zh": "痛苦"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 9,
+      "columns": {
+        "NameShort": [
+          {
+            "en": "Isolation",
+            "zh": "孤独"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 10,
+      "columns": {
+        "NameShort": [
+          {
+            "en": "Melancholy",
+            "zh": "悲哀"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 11,
+      "columns": {
+        "NameShort": [
+          {
+            "en": "Ferocity",
+            "zh": "凶残"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 12,
+      "columns": {
+        "NameShort": [
+          {
+            "en": "Contempt",
+            "zh": "轻蔑"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,730 @@
+{
+  "table": "BuffVisuals",
+  "key": "Id",
+  "columns": [
+    "BuffDDSFile",
+    "EPKFiles1",
+    "EPKFiles2",
+    "BuffName",
+    "BuffDescription",
+    "EPKFile",
+    "ExtraArt",
+    "EPKFiles"
+  ],
+  "entries": [
+    {
+      "id": "blinded_uniquewand13",
+      "index": 195,
+      "columns": {
+        "BuffDescription": [
+          {
+            "en": "You are blinded by an enemy Blinding Aura",
+            "zh": "敌人的光环使你被致盲"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ground_smoke_blind",
+      "index": 247,
+      "columns": {
+        "BuffDescription": [
+          {
+            "en": "You are significantly less accurate while standing in smoke",
+            "zh": "在烟雾中会大幅降低你的命中值"
+          }
+        ]
+      }
+    },
+    {
+      "id": "corrupted_blood_rain",
+      "index": 252,
+      "columns": {
+        "BuffName": [
+          {
+            "en": "Corrupted Blood Rain",
+            "zh": "腐化之血雨"
+          }
+        ],
+        "BuffDescription": [
+          {
+            "en": "The Corrupted Blood Rain on you is causing  you to take Physical Damage over time - Move to the safe area to escape the rain.",
+            "zh": "腐化之血雨使你持续受到物理伤害。赶快移动到安全区域摆脱血雨。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "stone_gaze",
+      "index": 783,
+      "columns": {
+        "BuffName": [
+          {
+            "en": "Stone Gaze",
+            "zh": "石化凝视"
+          }
+        ],
+        "BuffDescription": [
+          {
+            "en": "You are becoming Petrified.",
+            "zh": "你正在被石化！"
+          }
+        ]
+      }
+    },
+    {
+      "id": "stone_gaze_siren",
+      "index": 784,
+      "columns": {
+        "BuffName": [
+          {
+            "en": "Stone Gaze",
+            "zh": "石化凝视"
+          }
+        ],
+        "BuffDescription": [
+          {
+            "en": "You are becoming Petrified.",
+            "zh": "你正在被石化！"
+          }
+        ]
+      }
+    },
+    {
+      "id": "stone_gaze_ultimatum",
+      "index": 785,
+      "columns": {
+        "BuffName": [
+          {
+            "en": "Stone Gaze",
+            "zh": "石化凝视"
+          }
+        ],
+        "BuffDescription": [
+          {
+            "en": "You are becoming Petrified.",
+            "zh": "你正在被石化！"
+          }
+        ]
+      }
+    },
+    {
+      "id": "slam_temporal_anomaly",
+      "index": 851,
+      "columns": {
+        "BuffName": [
+          {
+            "en": "Temporal Anomaly",
+            "zh": "时间异动"
+          }
+        ],
+        "BuffDescription": [
+          {
+            "en": "You are being slowed by a temporal anomaly.",
+            "zh": "时间异动使你变慢了。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "quicksand_display_buff_architect",
+      "index": 930,
+      "columns": {
+        "BuffName": [
+          {
+            "en": "Breach Void",
+            "zh": "裂隙虚空"
+          }
+        ],
+        "BuffDescription": [
+          {
+            "en": "The Breach consumes you, dealing Physical Damage over time.",
+            "zh": "裂隙在吞噬你，持续造成物理伤害。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "quicksand_display_buff_synthesis",
+      "index": 1043,
+      "columns": {
+        "BuffName": [
+          {
+            "en": "Void Pit",
+            "zh": "虚空巨坑"
+          }
+        ],
+        "BuffDescription": [
+          {
+            "en": "You are slowed and taking physical damage over time.",
+            "zh": "你被缓速，并持续承受物理伤害。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "quicksand_display_buff_maven",
+      "index": 1044,
+      "columns": {
+        "BuffName": [
+          {
+            "en": "Gravity Well",
+            "zh": "重力之墙"
+          }
+        ],
+        "BuffDescription": [
+          {
+            "en": "You are slowed and taking Cold Damage over time.",
+            "zh": "你被缓速，并持续承受冰霜伤害。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ground_oil_burning",
+      "index": 1457,
+      "columns": {
+        "BuffName": [
+          {
+            "en": "Burning Oil",
+            "zh": "燃烧之油"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ground_oil_as_tar",
+      "index": 1458,
+      "columns": {
+        "BuffName": [
+          {
+            "en": "Tarred Ground",
+            "zh": "污油地面"
+          }
+        ],
+        "BuffDescription": [
+          {
+            "en": "Your movement speed is reduced while standing in tar",
+            "zh": "你正站在布满焦油的地面上，移动速度降低"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ground_oil_as_tar_burning",
+      "index": 1459,
+      "columns": {
+        "BuffName": [
+          {
+            "en": "Burning Tar",
+            "zh": "燃烧焦油"
+          }
+        ],
+        "BuffDescription": [
+          {
+            "en": "You are taking Fire Damage over time",
+            "zh": "你正持续受到火焰伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": "quicksand_display_buff_heist_freidrich",
+      "index": 1480,
+      "columns": {
+        "BuffName": [
+          {
+            "en": "Boiling Blood",
+            "zh": "沸血"
+          }
+        ],
+        "BuffDescription": [
+          {
+            "en": "You are slowed and taking physical damage over time.",
+            "zh": "你的移动速度降低，并且持续受到物理伤害。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "quicksand_display_buff_ritual",
+      "index": 1541,
+      "columns": {
+        "BuffName": [
+          {
+            "en": "Smothering Mist",
+            "zh": "窒息之雾"
+          }
+        ],
+        "BuffDescription": [
+          {
+            "en": "You are slowed and your life recovery is lowered.",
+            "zh": "你的移动速度降低，并且生命回复减慢。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "quicksand_display_buff_swamp_behemoth",
+      "index": 1543,
+      "columns": {
+        "BuffName": [
+          {
+            "en": "Toxic Swamp",
+            "zh": "毒瘴沼泽"
+          }
+        ],
+        "BuffDescription": [
+          {
+            "en": "You are slowed and are taking chaos damage over time",
+            "zh": "你的移动速度降低，并且持续受到混沌伤害。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "maven_frosty_ground",
+      "index": 1553,
+      "columns": {
+        "BuffName": [
+          {
+            "en": "Frozen Ground",
+            "zh": "冰冻地面"
+          }
+        ],
+        "BuffDescription": [
+          {
+            "en": "You are taking cold damage from Frozen Ground",
+            "zh": "你在受到冰冻地面的冰霜伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": "maven_decay",
+      "index": 1555,
+      "columns": {
+        "BuffName": [
+          {
+            "en": "Spatial Decay",
+            "zh": "空间腐坏"
+          }
+        ],
+        "BuffDescription": [
+          {
+            "en": "You are taking Chaos Damage over time",
+            "zh": "你正持续承受混沌伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vaal_smite_aura",
+      "index": 1972,
+      "columns": {
+        "BuffName": [
+          {
+            "en": "Vaal Smite Aura",
+            "zh": "瓦尔：惩击光环"
+          }
+        ],
+        "BuffDescription": [
+          {
+            "en": "Grants additional Lightning Damage and chance to Shock, and Smite hits additional targets with lightning",
+            "zh": "获得额外闪电伤害和感电几率，并且惩击用闪电命中额外的目标。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "mutant_bird_boss_vomit",
+      "index": 2087,
+      "columns": {
+        "BuffName": [
+          {
+            "en": "Tainted Viscera",
+            "zh": "污秽脏腑"
+          }
+        ],
+        "BuffDescription": [
+          {
+            "en": "You are taking Physical Damage over time",
+            "zh": "你正持续受到物理伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ground_sulphite",
+      "index": 2112,
+      "columns": {
+        "BuffName": [
+          {
+            "en": "Voltaxic Sulphite Ground",
+            "zh": "魔暴亚硫酸地面"
+          }
+        ],
+        "BuffDescription": [
+          {
+            "en": "You are taking Lightning and Physical damage over time.",
+            "zh": "你正持续受到闪电伤害和物理伤害。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ground_sulphite_abyss",
+      "index": 2114,
+      "columns": {
+        "BuffName": [
+          {
+            "en": "Voltaxic Desecrated Ground",
+            "zh": "魔暴腐化地面"
+          }
+        ],
+        "BuffDescription": [
+          {
+            "en": "You are taking Lightning and Physical damage over time.",
+            "zh": "你正持续受到闪电伤害和物理伤害。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "stolen_life_regen_debuff",
+      "index": 2121,
+      "columns": {
+        "BuffName": [
+          {
+            "en": "Blood Harvest",
+            "zh": "鲜血收获"
+          }
+        ],
+        "BuffDescription": [
+          {
+            "en": "Your Life Regeneration is being siphoned",
+            "zh": "你的生命回复遭到吸取"
+          }
+        ]
+      }
+    },
+    {
+      "id": "voodoo_king_fire_blood",
+      "index": 2228,
+      "columns": {
+        "BuffName": [
+          {
+            "en": "Boiling Blood",
+            "zh": "沸血"
+          }
+        ],
+        "BuffDescription": [
+          {
+            "en": "You are taking Fire and Physical Damage over time",
+            "zh": "你正在持续受到火焰和物理伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ground_jagged_slow",
+      "index": 2250,
+      "columns": {
+        "BuffName": [
+          {
+            "en": "Unstable Ground",
+            "zh": "摇晃地面"
+          }
+        ],
+        "BuffDescription": [
+          {
+            "en": "Your movement speed is reduced while standing on Unstable Ground",
+            "zh": "站在摇晃地面上时，移动速度降低"
+          }
+        ]
+      }
+    },
+    {
+      "id": "trialmaster_slow_ground",
+      "index": 2283,
+      "columns": {
+        "BuffName": [
+          {
+            "en": "Unstable Ground",
+            "zh": "摇晃地面"
+          }
+        ],
+        "BuffDescription": [
+          {
+            "en": "Your movement speed is reduced while standing on Unstable Ground",
+            "zh": "站在摇晃地面上时，移动速度降低"
+          }
+        ]
+      }
+    },
+    {
+      "id": "demon_claw_blackflame_ignite",
+      "index": 2324,
+      "columns": {
+        "BuffName": [
+          {
+            "en": "Blackflame Ground",
+            "zh": "黑焰地面"
+          }
+        ],
+        "BuffDescription": [
+          {
+            "en": "You have no Life or Energy Shield Recovery",
+            "zh": "你没有生命或能量护盾回复"
+          }
+        ]
+      }
+    },
+    {
+      "id": "double_vision_buff_cold",
+      "index": 2437,
+      "columns": {
+        "BuffDescription": [
+          {
+            "en": "Your next reload will grant you [Surge|Cold Surge]",
+            "zh": "你的下一次装填将获得[Surge|冰霜涌动]。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "double_vision_buff_fire",
+      "index": 2438,
+      "columns": {
+        "BuffDescription": [
+          {
+            "en": "Your next reload will grant you [Surge|Fire Surge]",
+            "zh": "你的下一次装填将获得[Surge|火焰涌动]。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "wolf_lunar_blessing_inactive",
+      "index": 2477,
+      "columns": {
+        "BuffName": [
+          {
+            "en": "Lunar Blessing Inactive",
+            "zh": "月神赐福未激活"
+          }
+        ],
+        "BuffDescription": [
+          {
+            "en": "Your Lunar Blessing is inactive until you return to Werewolf form.",
+            "zh": "在恢复狼人形态之前，你的月神赐福处于未激活状态。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "unique_shrine_fire",
+      "index": 2479,
+      "columns": {
+        "BuffName": [
+          {
+            "en": "Guided Meteoric Shrine",
+            "zh": "导引陨星神龛"
+          }
+        ],
+        "BuffDescription": [
+          {
+            "en": "Meteors rain down around you when in range of enemies.",
+            "zh": "靠近敌人时，陨石会从天而降。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "unique_shrine_lightning",
+      "index": 2480,
+      "columns": {
+        "BuffName": [
+          {
+            "en": "Guided Tempest Shrine",
+            "zh": "导引风暴神龛"
+          }
+        ],
+        "BuffDescription": [
+          {
+            "en": "Lightning bolts strike the ground around you when in range of enemies.",
+            "zh": "靠近敌人时，闪电会击中地面。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "unique_shrine_cold",
+      "index": 2481,
+      "columns": {
+        "BuffName": [
+          {
+            "en": "Guided Freezing Shrine",
+            "zh": "导引霜寒神龛"
+          }
+        ],
+        "BuffDescription": [
+          {
+            "en": "Freezing shards fire around you in a spiral when in range of enemies.",
+            "zh": "靠近敌人时，急冻碎片会螺旋射出。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "unique_shrine_chaos",
+      "index": 2482,
+      "columns": {
+        "BuffName": [
+          {
+            "en": "Dreaming Gloom Shrine",
+            "zh": "梦想隐忍神龛"
+          }
+        ],
+        "BuffDescription": [
+          {
+            "en": "Slain enemies explode, dealing [Chaos] damage equal to a quarter of their maximum Life.",
+            "zh": "被击败的敌人会爆炸，造成其生命上限四分之一的[Chaos|混沌]伤害。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "piranha_ground",
+      "index": 2539,
+      "columns": {
+        "BuffName": [
+          {
+            "en": "Feeding Frenzy",
+            "zh": "狂噬"
+          }
+        ],
+        "BuffDescription": [
+          {
+            "en": "The fish are biting today, dealing you physical damage over time",
+            "zh": "鱼儿正在咬钩，对你造成持续物理伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": "rimeshield_buff",
+      "index": 2546,
+      "columns": {
+        "BuffName": [
+          {
+            "en": "Ice Armour",
+            "zh": "冰霜护甲"
+          }
+        ]
+      }
+    },
+    {
+      "id": "walking_calamity_inactive",
+      "index": 2644,
+      "columns": {
+        "BuffName": [
+          {
+            "en": "Walking Calamity Inactive",
+            "zh": "灾厄行者未激活"
+          }
+        ],
+        "BuffDescription": [
+          {
+            "en": "Your Walking Calamity is inactive until you return to Bear form.",
+            "zh": "在恢复巨熊形态之前，你的灾厄行者处于未激活状态。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "scattering_calamity_projectile_count",
+      "index": 2680,
+      "columns": {
+        "BuffName": [
+          {
+            "en": "Wellsprites",
+            "zh": "魂井之灵"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ground_ritual_wendigo_brambles",
+      "index": 2760,
+      "columns": {
+        "BuffName": [
+          {
+            "en": "Brambles",
+            "zh": "荆刺"
+          }
+        ],
+        "BuffDescription": [
+          {
+            "en": "You are taking Physical Damage over time",
+            "zh": "你正受到持续的物理伤害。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "honey_ant_honey_chill",
+      "index": 2783,
+      "columns": {
+        "BuffName": [
+          {
+            "en": "Verisium Infused Honey",
+            "zh": "维金蜜酿"
+          }
+        ],
+        "BuffDescription": [
+          {
+            "en": "You are being [Slow|Slowed] by Verisium Infused Honey.",
+            "zh": "你正在被维金蜜酿[Slow|减速]。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "manifest_rune_reservation",
+      "index": 2821,
+      "columns": {
+        "BuffName": [
+          {
+            "en": "Verisium Manifestations",
+            "zh": "维金化形"
+          }
+        ],
+        "BuffDescription": [
+          {
+            "en": "Your [Attack] [HitDamage|Hits] [Trigger] Manifest Rune to summon Verisium Manifestations.",
+            "zh": "你的[Attack|攻击] [HitDamage|击中]会[Trigger|触发]化形符文，以召唤维金化形。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "explosive_transmutation",
+      "index": 2823,
+      "columns": {
+        "BuffName": [
+          {
+            "en": "Explosive Transmutation",
+            "zh": "烈性转化"
+          }
+        ],
+        "BuffDescription": [
+          {
+            "en": "Picking up a [Remnant] will [Trigger] a deadly explosion.",
+            "zh": "拾取[Remnant|残片]会[Trigger|触发]一次致命爆炸。"
+          }
+        ]
+      }
+    }
+  ]
+}

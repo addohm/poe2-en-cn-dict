@@ -1,0 +1,144 @@
+{
+  "table": "PassiveTreeDecorators",
+  "key": "_index",
+  "columns": [
+    "Id",
+    "BackgroundArt",
+    "BlockedArt",
+    "Description"
+  ],
+  "entries": [
+    {
+      "id": null,
+      "index": 0,
+      "columns": {
+        "Description": [
+          {
+            "en": "Complete the Western Enigma Chamber to unlock",
+            "zh": "完成西方谜题大厅以解锁"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 1,
+      "columns": {
+        "Description": [
+          {
+            "en": "Complete the Eastern Enigma Chamber to unlock",
+            "zh": "完成东方谜题大厅以解锁"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 2,
+      "columns": {
+        "Description": [
+          {
+            "en": "Complete the Eastern or Western Gateway to unlock",
+            "zh": "完成东方或西方通道以解锁"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 3,
+      "columns": {
+        "Description": [
+          {
+            "en": "Complete the Eastern or Western Gateway to unlock",
+            "zh": "完成东方或西方通道以解锁"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 4,
+      "columns": {
+        "Description": [
+          {
+            "en": "Complete the Eastern or Western Gateway to unlock",
+            "zh": "完成东方或西方通道以解锁"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 5,
+      "columns": {
+        "Description": [
+          {
+            "en": "Complete the Burning Monolith to unlock",
+            "zh": "完成燃石巨塔以解锁"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 6,
+      "columns": {
+        "Description": [
+          {
+            "en": "Complete the Burning Monolith to unlock",
+            "zh": "完成燃石巨塔以解锁"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 7,
+      "columns": {
+        "Description": [
+          {
+            "en": "Complete the Burning Monolith to unlock",
+            "zh": "完成燃石巨塔以解锁"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 8,
+      "columns": {
+        "Description": [
+          {
+            "en": "Complete the Matriarch Halls to unlock",
+            "zh": "完成主母殿堂以解锁"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 9,
+      "columns": {
+        "Description": [
+          {
+            "en": "Defeat the Arbiter of Divinity to unlock",
+            "zh": "击败神圣仲裁官以解锁"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 10,
+      "columns": {
+        "Description": [
+          {
+            "en": "Complete the Patriarch Halls to unlock",
+            "zh": "完成长老殿堂以解锁"
+          }
+        ]
+      }
+    }
+  ]
+}

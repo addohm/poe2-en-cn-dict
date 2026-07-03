@@ -1,0 +1,70 @@
+{
+  "table": "BetrayalChoices",
+  "key": "_index",
+  "columns": [
+    "Id",
+    "Text"
+  ],
+  "entries": [
+    {
+      "id": null,
+      "index": 0,
+      "columns": {
+        "Text": [
+          {
+            "en": "Interrogate",
+            "zh": "审讯"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 1,
+      "columns": {
+        "Text": [
+          {
+            "en": "Execute",
+            "zh": "处决"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 2,
+      "columns": {
+        "Text": [
+          {
+            "en": "Betray",
+            "zh": "背叛"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 3,
+      "columns": {
+        "Text": [
+          {
+            "en": "Bargain",
+            "zh": "商谈"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 4,
+      "columns": {
+        "Text": [
+          {
+            "en": "Release",
+            "zh": "释放"
+          }
+        ]
+      }
+    }
+  ]
+}

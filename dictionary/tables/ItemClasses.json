@@ -1,0 +1,1113 @@
+{
+  "table": "ItemClasses",
+  "key": "Id",
+  "columns": [
+    "Name"
+  ],
+  "entries": [
+    {
+      "id": "LifeFlask",
+      "index": 0,
+      "columns": {
+        "Name": [
+          {
+            "en": "Life Flasks",
+            "zh": "生命药剂"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ManaFlask",
+      "index": 1,
+      "columns": {
+        "Name": [
+          {
+            "en": "Mana Flasks",
+            "zh": "魔力药剂"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Currency",
+      "index": 3,
+      "columns": {
+        "Name": [
+          {
+            "en": "Currency",
+            "zh": "通货"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Amulet",
+      "index": 4,
+      "columns": {
+        "Name": [
+          {
+            "en": "Amulets",
+            "zh": "项链"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Ring",
+      "index": 5,
+      "columns": {
+        "Name": [
+          {
+            "en": "Rings",
+            "zh": "戒指"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Claw",
+      "index": 6,
+      "columns": {
+        "Name": [
+          {
+            "en": "Claws",
+            "zh": "爪类"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Dagger",
+      "index": 7,
+      "columns": {
+        "Name": [
+          {
+            "en": "Daggers",
+            "zh": "匕首"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Wand",
+      "index": 8,
+      "columns": {
+        "Name": [
+          {
+            "en": "Wands",
+            "zh": "法杖"
+          }
+        ]
+      }
+    },
+    {
+      "id": "One Hand Sword",
+      "index": 9,
+      "columns": {
+        "Name": [
+          {
+            "en": "One Hand Swords",
+            "zh": "单手剑"
+          }
+        ]
+      }
+    },
+    {
+      "id": "One Hand Axe",
+      "index": 11,
+      "columns": {
+        "Name": [
+          {
+            "en": "One Hand Axes",
+            "zh": "单手斧"
+          }
+        ]
+      }
+    },
+    {
+      "id": "One Hand Mace",
+      "index": 12,
+      "columns": {
+        "Name": [
+          {
+            "en": "One Hand Maces",
+            "zh": "单手锤"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Bow",
+      "index": 13,
+      "columns": {
+        "Name": [
+          {
+            "en": "Bows",
+            "zh": "弓类"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Staff",
+      "index": 14,
+      "columns": {
+        "Name": [
+          {
+            "en": "Staves",
+            "zh": "长杖"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Two Hand Sword",
+      "index": 15,
+      "columns": {
+        "Name": [
+          {
+            "en": "Two Hand Swords",
+            "zh": "双手剑"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Two Hand Axe",
+      "index": 16,
+      "columns": {
+        "Name": [
+          {
+            "en": "Two Hand Axes",
+            "zh": "双手斧"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Two Hand Mace",
+      "index": 17,
+      "columns": {
+        "Name": [
+          {
+            "en": "Two Hand Maces",
+            "zh": "双手锤"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Active Skill Gem",
+      "index": 18,
+      "columns": {
+        "Name": [
+          {
+            "en": "Skill Gems",
+            "zh": "技能宝石"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Support Skill Gem",
+      "index": 19,
+      "columns": {
+        "Name": [
+          {
+            "en": "Support Gems",
+            "zh": "辅助宝石"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Quiver",
+      "index": 20,
+      "columns": {
+        "Name": [
+          {
+            "en": "Quivers",
+            "zh": "箭袋"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Belt",
+      "index": 21,
+      "columns": {
+        "Name": [
+          {
+            "en": "Belts",
+            "zh": "腰带"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Gloves",
+      "index": 22,
+      "columns": {
+        "Name": [
+          {
+            "en": "Gloves",
+            "zh": "手套"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Boots",
+      "index": 23,
+      "columns": {
+        "Name": [
+          {
+            "en": "Boots",
+            "zh": "鞋子"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Body Armour",
+      "index": 24,
+      "columns": {
+        "Name": [
+          {
+            "en": "Body Armours",
+            "zh": "护甲"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Helmet",
+      "index": 25,
+      "columns": {
+        "Name": [
+          {
+            "en": "Helmets",
+            "zh": "头盔"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Shield",
+      "index": 26,
+      "columns": {
+        "Name": [
+          {
+            "en": "Shields",
+            "zh": "盾牌"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SmallRelic",
+      "index": 27,
+      "columns": {
+        "Name": [
+          {
+            "en": "Small Relics",
+            "zh": "小型圣物"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MediumRelic",
+      "index": 28,
+      "columns": {
+        "Name": [
+          {
+            "en": "Medium Relics",
+            "zh": "中型圣物"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LargeRelic",
+      "index": 29,
+      "columns": {
+        "Name": [
+          {
+            "en": "Large Relics",
+            "zh": "大型圣物"
+          }
+        ]
+      }
+    },
+    {
+      "id": "StackableCurrency",
+      "index": 30,
+      "columns": {
+        "Name": [
+          {
+            "en": "Stackable Currency",
+            "zh": "可堆叠通货"
+          }
+        ]
+      }
+    },
+    {
+      "id": "QuestItem",
+      "index": 31,
+      "columns": {
+        "Name": [
+          {
+            "en": "Quest Items",
+            "zh": "任务物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Sceptre",
+      "index": 32,
+      "columns": {
+        "Name": [
+          {
+            "en": "Sceptres",
+            "zh": "权杖"
+          }
+        ]
+      }
+    },
+    {
+      "id": "UtilityFlask",
+      "index": 33,
+      "columns": {
+        "Name": [
+          {
+            "en": "Charms",
+            "zh": "咒符"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Map",
+      "index": 35,
+      "columns": {
+        "Name": [
+          {
+            "en": "Waystones",
+            "zh": "引路石"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FishingRod",
+      "index": 37,
+      "columns": {
+        "Name": [
+          {
+            "en": "Fishing Rods",
+            "zh": "鱼竿"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MapFragment",
+      "index": 38,
+      "columns": {
+        "Name": [
+          {
+            "en": "Map Fragments",
+            "zh": "地图碎片"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HideoutDoodad",
+      "index": 39,
+      "columns": {
+        "Name": [
+          {
+            "en": "Hideout Doodads",
+            "zh": "藏身处装饰"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Microtransaction",
+      "index": 40,
+      "columns": {
+        "Name": [
+          {
+            "en": "Microtransactions",
+            "zh": "商城物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jewel",
+      "index": 41,
+      "columns": {
+        "Name": [
+          {
+            "en": "Jewels",
+            "zh": "珠宝"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DivinationCard",
+      "index": 42,
+      "columns": {
+        "Name": [
+          {
+            "en": "Divination Cards",
+            "zh": "命运卡"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MiscMapItem",
+      "index": 46,
+      "columns": {
+        "Name": [
+          {
+            "en": "Misc Map Items",
+            "zh": "裂隙之石"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Leaguestone",
+      "index": 47,
+      "columns": {
+        "Name": [
+          {
+            "en": "Leaguestones",
+            "zh": "赛季石"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PantheonSoul",
+      "index": 48,
+      "columns": {
+        "Name": [
+          {
+            "en": "Pantheon Souls",
+            "zh": "万神殿之魂"
+          }
+        ]
+      }
+    },
+    {
+      "id": "UniqueFragment",
+      "index": 49,
+      "columns": {
+        "Name": [
+          {
+            "en": "Pieces",
+            "zh": "片段"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AbyssJewel",
+      "index": 50,
+      "columns": {
+        "Name": [
+          {
+            "en": "Abyss Jewels",
+            "zh": "深渊珠宝"
+          }
+        ]
+      }
+    },
+    {
+      "id": "IncursionItem",
+      "index": 51,
+      "columns": {
+        "Name": [
+          {
+            "en": "Incursion Items",
+            "zh": "穿越物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DelveSocketableCurrency",
+      "index": 52,
+      "columns": {
+        "Name": [
+          {
+            "en": "Delve Socketable Currency",
+            "zh": "地心探索：可镶嵌的通货"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Incubator",
+      "index": 53,
+      "columns": {
+        "Name": [
+          {
+            "en": "Incubators",
+            "zh": "孕育石"
+          }
+        ]
+      }
+    },
+    {
+      "id": "UniqueShard",
+      "index": 54,
+      "columns": {
+        "Name": [
+          {
+            "en": "Shards",
+            "zh": "碎片"
+          }
+        ]
+      }
+    },
+    {
+      "id": "UniqueShardBase",
+      "index": 55,
+      "columns": {
+        "Name": [
+          {
+            "en": "Shard Hearts",
+            "zh": "破碎之心"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Warstaff",
+      "index": 57,
+      "columns": {
+        "Name": [
+          {
+            "en": "Quarterstaves",
+            "zh": "节杖"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DelveStackableSocketableCurrency",
+      "index": 58,
+      "columns": {
+        "Name": [
+          {
+            "en": "Delve Stackable Socketable Currency",
+            "zh": "地心探索可堆叠可插入通货"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AtlasUpgradeItem",
+      "index": 59,
+      "columns": {
+        "Name": [
+          {
+            "en": "Atlas Upgrade Items",
+            "zh": "异界升级物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HiddenItem",
+      "index": 61,
+      "columns": {
+        "Name": [
+          {
+            "en": "Hidden Items",
+            "zh": "隐藏物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HeistContract",
+      "index": 65,
+      "columns": {
+        "Name": [
+          {
+            "en": "Contracts",
+            "zh": "契约"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HeistEquipmentWeapon",
+      "index": 66,
+      "columns": {
+        "Name": [
+          {
+            "en": "Heist Gear",
+            "zh": "赏金猎人装备"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HeistEquipmentTool",
+      "index": 67,
+      "columns": {
+        "Name": [
+          {
+            "en": "Heist Tools",
+            "zh": "赏金猎人工具"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HeistEquipmentUtility",
+      "index": 68,
+      "columns": {
+        "Name": [
+          {
+            "en": "Heist Cloaks",
+            "zh": "赏金猎人披风"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HeistEquipmentReward",
+      "index": 69,
+      "columns": {
+        "Name": [
+          {
+            "en": "Heist Brooches",
+            "zh": "赏金猎人胸针"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HeistBlueprint",
+      "index": 70,
+      "columns": {
+        "Name": [
+          {
+            "en": "Blueprints",
+            "zh": "蓝图"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Trinket",
+      "index": 71,
+      "columns": {
+        "Name": [
+          {
+            "en": "Trinkets",
+            "zh": "饰品"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HeistObjective",
+      "index": 72,
+      "columns": {
+        "Name": [
+          {
+            "en": "Heist Targets",
+            "zh": "赏金目标"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ExpeditionLogbook",
+      "index": 73,
+      "columns": {
+        "Name": [
+          {
+            "en": "Expedition Logbooks",
+            "zh": "先祖秘藏日志"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Expedition2Logbooks",
+      "index": 74,
+      "columns": {
+        "Name": [
+          {
+            "en": "Expedition Logbook",
+            "zh": "先祖秘藏日志"
+          }
+        ]
+      }
+    },
+    {
+      "id": "IncubatorStackable",
+      "index": 75,
+      "columns": {
+        "Name": [
+          {
+            "en": "Incubators",
+            "zh": "孕育石"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ArchnemesisMod",
+      "index": 76,
+      "columns": {
+        "Name": [
+          {
+            "en": "Archnemesis Mods",
+            "zh": "罪恶枷锁词缀"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Spear",
+      "index": 78,
+      "columns": {
+        "Name": [
+          {
+            "en": "Spears",
+            "zh": "战矛"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Crossbow",
+      "index": 79,
+      "columns": {
+        "Name": [
+          {
+            "en": "Crossbows",
+            "zh": "战弩"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Focus",
+      "index": 80,
+      "columns": {
+        "Name": [
+          {
+            "en": "Foci",
+            "zh": "法器"
+          }
+        ]
+      }
+    },
+    {
+      "id": "InstanceLocalItem",
+      "index": 81,
+      "columns": {
+        "Name": [
+          {
+            "en": "Instance Local Items",
+            "zh": "副本本地物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SentinelDrone",
+      "index": 82,
+      "columns": {
+        "Name": [
+          {
+            "en": "Sentinels",
+            "zh": "近卫"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MemoryLine",
+      "index": 83,
+      "columns": {
+        "Name": [
+          {
+            "en": "Memories",
+            "zh": "回忆"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Flail",
+      "index": 84,
+      "columns": {
+        "Name": [
+          {
+            "en": "Flails",
+            "zh": "连枷"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Relic",
+      "index": 85,
+      "columns": {
+        "Name": [
+          {
+            "en": "Relics",
+            "zh": "遗物"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SanctumSpecialRelic",
+      "index": 86,
+      "columns": {
+        "Name": [
+          {
+            "en": "Sanctified Relics",
+            "zh": "圣洁遗物"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Breachstone",
+      "index": 87,
+      "columns": {
+        "Name": [
+          {
+            "en": "Breachstones",
+            "zh": "裂隙石"
+          }
+        ]
+      }
+    },
+    {
+      "id": "VaultKey",
+      "index": 89,
+      "columns": {
+        "Name": [
+          {
+            "en": "Vault Keys",
+            "zh": "宝库钥匙"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ItemisedSanctum",
+      "index": 90,
+      "columns": {
+        "Name": [
+          {
+            "en": "Trial Coins",
+            "zh": "试炼硬币"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Buckler",
+      "index": 93,
+      "columns": {
+        "Name": [
+          {
+            "en": "Bucklers",
+            "zh": "轻盾"
+          }
+        ]
+      }
+    },
+    {
+      "id": "TrapTool",
+      "index": 97,
+      "columns": {
+        "Name": [
+          {
+            "en": "Traps",
+            "zh": "陷阱"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SkillGemToken",
+      "index": 99,
+      "columns": {
+        "Name": [
+          {
+            "en": "Currency",
+            "zh": "通货"
+          }
+        ]
+      }
+    },
+    {
+      "id": "UltimatumKey",
+      "index": 101,
+      "columns": {
+        "Name": [
+          {
+            "en": "Inscribed Ultimatum",
+            "zh": "贪婪战书"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SoulCore",
+      "index": 105,
+      "columns": {
+        "Name": [
+          {
+            "en": "Augment",
+            "zh": "增幅器"
+          }
+        ]
+      }
+    },
+    {
+      "id": "TowerAugmentation",
+      "index": 106,
+      "columns": {
+        "Name": [
+          {
+            "en": "Tablet",
+            "zh": "石板"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Omen",
+      "index": 107,
+      "columns": {
+        "Name": [
+          {
+            "en": "Omen",
+            "zh": "预兆"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Talisman",
+      "index": 109,
+      "columns": {
+        "Name": [
+          {
+            "en": "Talismans",
+            "zh": "魔符"
+          }
+        ]
+      }
+    },
+    {
+      "id": "UncutSkillGemStackable",
+      "index": 110,
+      "columns": {
+        "Name": [
+          {
+            "en": "Uncut Skill Gems",
+            "zh": "未切割的技能宝石"
+          }
+        ]
+      }
+    },
+    {
+      "id": "UncutSupportGemStackable",
+      "index": 111,
+      "columns": {
+        "Name": [
+          {
+            "en": "Uncut Support Gems",
+            "zh": "未切割的辅助宝石"
+          }
+        ]
+      }
+    },
+    {
+      "id": "UncutReservationGemStackable",
+      "index": 112,
+      "columns": {
+        "Name": [
+          {
+            "en": "Uncut Spirit Gems",
+            "zh": "未切割的精魂宝石"
+          }
+        ]
+      }
+    },
+    {
+      "id": "IncursionArm",
+      "index": 113,
+      "columns": {
+        "Name": [
+          {
+            "en": "Transcendent Arm",
+            "zh": "超凡之臂"
+          }
+        ]
+      }
+    },
+    {
+      "id": "IncursionLeg",
+      "index": 114,
+      "columns": {
+        "Name": [
+          {
+            "en": "Transcendent Leg",
+            "zh": "超凡之腿"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BrequelFruit",
+      "index": 115,
+      "columns": {
+        "Name": [
+          {
+            "en": "Wombgifts",
+            "zh": "孕育赠礼"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PinnacleKeyStackable",
+      "index": 116,
+      "columns": {
+        "Name": [
+          {
+            "en": "Pinnacle Keys",
+            "zh": "巅峰钥匙"
+          }
+        ]
+      }
+    }
+  ]
+}

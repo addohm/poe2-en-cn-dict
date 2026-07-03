@@ -1,0 +1,3682 @@
+{
+  "table": "BetrayalTraitorRewards",
+  "key": "_index",
+  "columns": [
+    "Description",
+    "Description2"
+  ],
+  "entries": [
+    {
+      "id": null,
+      "index": 0,
+      "columns": {
+        "Description": [
+          {
+            "en": "Pilfering Torment Scarabs",
+            "zh": "偷窃苦痛圣甲虫"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Pilfering Torment Scarabs",
+            "zh": "偷窃苦痛圣甲虫"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 1,
+      "columns": {
+        "Description": [
+          {
+            "en": "Pilfering Torment Scarabs",
+            "zh": "偷窃苦痛圣甲虫"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Pilfering Torment Scarabs",
+            "zh": "偷窃苦痛圣甲虫"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 2,
+      "columns": {
+        "Description": [
+          {
+            "en": "Pilfering Torment Scarabs",
+            "zh": "偷窃苦痛圣甲虫"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Pilfering Torment Scarabs",
+            "zh": "偷窃苦痛圣甲虫"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 3,
+      "columns": {
+        "Description": [
+          {
+            "en": "Guarding Veiled Equipment",
+            "zh": "保护加密装备"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Smuggling Boots (Trapped Chests!)",
+            "zh": "私运鞋子（陷阱宝箱！）"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 4,
+      "columns": {
+        "Description": [
+          {
+            "en": "Guarding Veiled Equipment",
+            "zh": "保护加密装备"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Smuggling Boots (Trapped Chests!)",
+            "zh": "私运鞋子（陷阱宝箱！）"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 5,
+      "columns": {
+        "Description": [
+          {
+            "en": "Guarding Veiled Equipment",
+            "zh": "保护加密装备"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Smuggling Boots (Trapped Chests!)",
+            "zh": "私运鞋子（陷阱宝箱！）"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 6,
+      "columns": {
+        "Description": [
+          {
+            "en": "Smuggling Attuned Equipment (Trapped Chests!)",
+            "zh": "私运加密装备"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Transporting Boots",
+            "zh": "运输鞋子"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 7,
+      "columns": {
+        "Description": [
+          {
+            "en": "Smuggling Attuned Equipment (Trapped Chests!)",
+            "zh": "私运加密装备"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Transporting Boots",
+            "zh": "运输鞋子"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 8,
+      "columns": {
+        "Description": [
+          {
+            "en": "Smuggling Attuned Equipment (Trapped Chests!)",
+            "zh": "私运加密装备"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Transporting Boots",
+            "zh": "运输鞋子"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 9,
+      "columns": {
+        "Description": [
+          {
+            "en": "Imbuing Veiled Magic",
+            "zh": "萃取加密魔法"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Gambling with Boot Properties",
+            "zh": "博鞋子属性"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 10,
+      "columns": {
+        "Description": [
+          {
+            "en": "Imbuing Veiled Magic",
+            "zh": "萃取加密魔法"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Gambling with Boot Properties",
+            "zh": "博鞋子属性"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 11,
+      "columns": {
+        "Description": [
+          {
+            "en": "Imbuing Veiled Magic",
+            "zh": "萃取加密魔法"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Gambling with Boot Properties",
+            "zh": "博鞋子属性"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 12,
+      "columns": {
+        "Description": [
+          {
+            "en": "Looting Breach Scarabs",
+            "zh": "夺取裂隙圣甲虫"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Looting Breach Scarabs",
+            "zh": "夺取裂隙圣甲虫"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 13,
+      "columns": {
+        "Description": [
+          {
+            "en": "Looting Breach Scarabs",
+            "zh": "夺取裂隙圣甲虫"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Looting Breach Scarabs",
+            "zh": "夺取裂隙圣甲虫"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 14,
+      "columns": {
+        "Description": [
+          {
+            "en": "Looting Breach Scarabs",
+            "zh": "夺取裂隙圣甲虫"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Looting Breach Scarabs",
+            "zh": "夺取裂隙圣甲虫"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 15,
+      "columns": {
+        "Description": [
+          {
+            "en": "Mapping Breaches (Go home, freak!)",
+            "zh": "裂隙行动（滚回去，怪物！）"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Smuggling Jewels (Trapped Chests!)",
+            "zh": "私运珠宝（陷阱宝箱！）"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 16,
+      "columns": {
+        "Description": [
+          {
+            "en": "Mapping Breaches (Go home, freak!)",
+            "zh": "裂隙行动（滚回去，怪物！）"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Smuggling Jewels (Trapped Chests!)",
+            "zh": "私运珠宝（陷阱宝箱！）"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 17,
+      "columns": {
+        "Description": [
+          {
+            "en": "Mapping Breaches (Go home, freak!)",
+            "zh": "裂隙行动（滚回去，怪物！）"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Smuggling Jewels (Trapped Chests!)",
+            "zh": "私运珠宝（陷阱宝箱！）"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 18,
+      "columns": {
+        "Description": [
+          {
+            "en": "Transporting Breach Splinters",
+            "zh": "运输裂隙碎片"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Transporting Jewels",
+            "zh": "运输珠宝"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 19,
+      "columns": {
+        "Description": [
+          {
+            "en": "Transporting Breach Splinters",
+            "zh": "运输裂隙碎片"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Transporting Jewels",
+            "zh": "运输珠宝"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 20,
+      "columns": {
+        "Description": [
+          {
+            "en": "Transporting Breach Splinters",
+            "zh": "运输裂隙碎片"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Transporting Jewels",
+            "zh": "运输珠宝"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 21,
+      "columns": {
+        "Description": [
+          {
+            "en": "Enriching Breachstones",
+            "zh": "强化裂隙石"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Gambling with Jewel Properties",
+            "zh": "博珠宝属性"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 22,
+      "columns": {
+        "Description": [
+          {
+            "en": "Enriching Breachstones",
+            "zh": "强化裂隙石"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Gambling with Jewel Properties",
+            "zh": "博珠宝属性"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 23,
+      "columns": {
+        "Description": [
+          {
+            "en": "Enriching Breachstones",
+            "zh": "强化裂隙石"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Gambling with Jewel Properties",
+            "zh": "博珠宝属性"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 24,
+      "columns": {
+        "Description": [
+          {
+            "en": "Pillaging Sulphite Scarabs",
+            "zh": "抢夺亚硫酸圣甲虫"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Securing Rare Equipment",
+            "zh": "保护稀有装备"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 25,
+      "columns": {
+        "Description": [
+          {
+            "en": "Pillaging Sulphite Scarabs",
+            "zh": "抢夺亚硫酸圣甲虫"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Securing Rare Equipment",
+            "zh": "保护稀有装备"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 26,
+      "columns": {
+        "Description": [
+          {
+            "en": "Pillaging Sulphite Scarabs",
+            "zh": "抢夺亚硫酸圣甲虫"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Securing Rare Equipment",
+            "zh": "保护稀有装备"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 27,
+      "columns": {
+        "Description": [
+          {
+            "en": "Sheltering Harbinger Orbs",
+            "zh": "掩蔽先驱球"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Smuggling Rings (Trapped Chests!)",
+            "zh": "私运戒指（陷阱宝箱！）"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 28,
+      "columns": {
+        "Description": [
+          {
+            "en": "Sheltering Harbinger Orbs",
+            "zh": "掩蔽先驱球"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Smuggling Rings (Trapped Chests!)",
+            "zh": "私运戒指（陷阱宝箱！）"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 29,
+      "columns": {
+        "Description": [
+          {
+            "en": "Sheltering Harbinger Orbs",
+            "zh": "掩蔽先驱球"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Smuggling Rings (Trapped Chests!)",
+            "zh": "私运戒指（陷阱宝箱！）"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 30,
+      "columns": {
+        "Description": [
+          {
+            "en": "Smuggling Timeworn Uniques",
+            "zh": "私运尘封奇物"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Transporting Rings",
+            "zh": "运输戒指"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 31,
+      "columns": {
+        "Description": [
+          {
+            "en": "Smuggling Timeworn Uniques",
+            "zh": "私运尘封奇物"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Transporting Rings",
+            "zh": "运输戒指"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 32,
+      "columns": {
+        "Description": [
+          {
+            "en": "Smuggling Timeworn Uniques",
+            "zh": "私运尘封奇物"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Transporting Rings",
+            "zh": "运输戒指"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 33,
+      "columns": {
+        "Description": [
+          {
+            "en": "Fabricating Unmaking Orbs",
+            "zh": "组装撤销石"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Gambling with Ring Properties",
+            "zh": "博戒指属性"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 34,
+      "columns": {
+        "Description": [
+          {
+            "en": "Fabricating Unmaking Orbs",
+            "zh": "组装撤销石"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Gambling with Ring Properties",
+            "zh": "博戒指属性"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 35,
+      "columns": {
+        "Description": [
+          {
+            "en": "Fabricating Unmaking Orbs",
+            "zh": "组装撤销石"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Gambling with Ring Properties",
+            "zh": "博戒指属性"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 36,
+      "columns": {
+        "Description": [
+          {
+            "en": "\"Reappropriating\" Reliquary Scarabs",
+            "zh": "“再挪用”遗物厅圣甲虫"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "\"Reappropriating\" Reliquary Scarabs",
+            "zh": "“再挪用”遗物厅圣甲虫"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 37,
+      "columns": {
+        "Description": [
+          {
+            "en": "\"Reappropriating\" Reliquary Scarabs",
+            "zh": "“再挪用”遗物厅圣甲虫"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "\"Reappropriating\" Reliquary Scarabs",
+            "zh": "“再挪用”遗物厅圣甲虫"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 38,
+      "columns": {
+        "Description": [
+          {
+            "en": "\"Reappropriating\" Reliquary Scarabs",
+            "zh": "“再挪用”遗物厅圣甲虫"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "\"Reappropriating\" Reliquary Scarabs",
+            "zh": "“再挪用”遗物厅圣甲虫"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 39,
+      "columns": {
+        "Description": [
+          {
+            "en": "Safeguarding Unique Armour",
+            "zh": "防护传奇护甲"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Smuggling Shields (Trapped Chests!)",
+            "zh": "私运盾牌（陷阱宝箱！）"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 40,
+      "columns": {
+        "Description": [
+          {
+            "en": "Safeguarding Unique Armour",
+            "zh": "防护传奇护甲"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Smuggling Shields (Trapped Chests!)",
+            "zh": "私运盾牌（陷阱宝箱！）"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 41,
+      "columns": {
+        "Description": [
+          {
+            "en": "Safeguarding Unique Armour",
+            "zh": "防护传奇护甲"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Smuggling Shields (Trapped Chests!)",
+            "zh": "私运盾牌（陷阱宝箱！）"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 42,
+      "columns": {
+        "Description": [
+          {
+            "en": "Escorting Unique Weaponry",
+            "zh": "护卫传奇武器"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Transporting Shields",
+            "zh": "运输盾牌"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 43,
+      "columns": {
+        "Description": [
+          {
+            "en": "Escorting Unique Weaponry",
+            "zh": "护卫传奇武器"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Transporting Shields",
+            "zh": "运输盾牌"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 44,
+      "columns": {
+        "Description": [
+          {
+            "en": "Escorting Unique Weaponry",
+            "zh": "护卫传奇武器"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Transporting Shields",
+            "zh": "运输盾牌"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 45,
+      "columns": {
+        "Description": [
+          {
+            "en": "Manufacturing Unique Forgeries",
+            "zh": "制造传奇赝品"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Gambling with Shield Properties",
+            "zh": "博盾牌属性"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 46,
+      "columns": {
+        "Description": [
+          {
+            "en": "Manufacturing Unique Forgeries",
+            "zh": "制造传奇赝品"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Gambling with Shield Properties",
+            "zh": "博盾牌属性"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 47,
+      "columns": {
+        "Description": [
+          {
+            "en": "Manufacturing Unique Forgeries",
+            "zh": "制造传奇赝品"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Gambling with Shield Properties",
+            "zh": "博盾牌属性"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 48,
+      "columns": {
+        "Description": [
+          {
+            "en": "Acquiring Divination Scarab \"Donations\"",
+            "zh": "获取神恩圣甲虫“捐赠”"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Securing Socketed Equipment",
+            "zh": "保护已镶嵌装备"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 49,
+      "columns": {
+        "Description": [
+          {
+            "en": "Acquiring Divination Scarab \"Donations\"",
+            "zh": "获取神恩圣甲虫“捐赠”"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Securing Socketed Equipment",
+            "zh": "保护已镶嵌装备"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 50,
+      "columns": {
+        "Description": [
+          {
+            "en": "Acquiring Divination Scarab \"Donations\"",
+            "zh": "获取神恩圣甲虫“捐赠”"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Securing Socketed Equipment",
+            "zh": "保护已镶嵌装备"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 51,
+      "columns": {
+        "Description": [
+          {
+            "en": "Amassing Divination Cards",
+            "zh": "积攒命运卡"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Smuggling Body Armours (Trapped Chests!)",
+            "zh": "私运护甲（陷阱宝箱！）"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 52,
+      "columns": {
+        "Description": [
+          {
+            "en": "Amassing Divination Cards",
+            "zh": "积攒命运卡"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Smuggling Body Armours (Trapped Chests!)",
+            "zh": "私运护甲（陷阱宝箱！）"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 53,
+      "columns": {
+        "Description": [
+          {
+            "en": "Amassing Divination Cards",
+            "zh": "积攒命运卡"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Smuggling Body Armours (Trapped Chests!)",
+            "zh": "私运护甲（陷阱宝箱！）"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 54,
+      "columns": {
+        "Description": [
+          {
+            "en": "Laundering Divination Card Collections",
+            "zh": "偷换命运卡收藏"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Transporting Body Armours",
+            "zh": "运输护甲"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 55,
+      "columns": {
+        "Description": [
+          {
+            "en": "Laundering Divination Card Collections",
+            "zh": "偷换命运卡收藏"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Transporting Body Armours",
+            "zh": "运输护甲"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 56,
+      "columns": {
+        "Description": [
+          {
+            "en": "Laundering Divination Card Collections",
+            "zh": "偷换命运卡收藏"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Transporting Body Armours",
+            "zh": "运输护甲"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 57,
+      "columns": {
+        "Description": [
+          {
+            "en": "Trialing Divination Card Metamorphosis",
+            "zh": "追踪命运卡变形"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Gambling with Body Armour Properties",
+            "zh": "博护甲属性"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 58,
+      "columns": {
+        "Description": [
+          {
+            "en": "Trialing Divination Card Metamorphosis",
+            "zh": "追踪命运卡变形"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Gambling with Body Armour Properties",
+            "zh": "博护甲属性"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 59,
+      "columns": {
+        "Description": [
+          {
+            "en": "Trialing Divination Card Metamorphosis",
+            "zh": "追踪命运卡变形"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Gambling with Body Armour Properties",
+            "zh": "博护甲属性"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 60,
+      "columns": {
+        "Description": [
+          {
+            "en": "Gambling with Item Properties",
+            "zh": "博物品属性"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Gambling with Weapon Properties",
+            "zh": "博武器属性"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 61,
+      "columns": {
+        "Description": [
+          {
+            "en": "Gambling with Item Properties",
+            "zh": "博物品属性"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Gambling with Weapon Properties",
+            "zh": "博武器属性"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 62,
+      "columns": {
+        "Description": [
+          {
+            "en": "Gambling with Item Properties",
+            "zh": "博物品属性"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Gambling with Weapon Properties",
+            "zh": "博武器属性"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 63,
+      "columns": {
+        "Description": [
+          {
+            "en": "Betting on Item Outcomes",
+            "zh": "为物品产出下注"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Smuggling Gloves (Trapped Chests!)",
+            "zh": "私运手套（陷阱宝箱！）"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 64,
+      "columns": {
+        "Description": [
+          {
+            "en": "Betting on Item Outcomes",
+            "zh": "为物品产出下注"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Smuggling Gloves (Trapped Chests!)",
+            "zh": "私运手套（陷阱宝箱！）"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 65,
+      "columns": {
+        "Description": [
+          {
+            "en": "Betting on Item Outcomes",
+            "zh": "为物品产出下注"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Smuggling Gloves (Trapped Chests!)",
+            "zh": "私运手套（陷阱宝箱！）"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 66,
+      "columns": {
+        "Description": [
+          {
+            "en": "Wagering on Item Worth",
+            "zh": "为物品价值下注"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Transporting Gloves",
+            "zh": "运输手套"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 67,
+      "columns": {
+        "Description": [
+          {
+            "en": "Wagering on Item Worth",
+            "zh": "为物品价值下注"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Transporting Gloves",
+            "zh": "运输手套"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 68,
+      "columns": {
+        "Description": [
+          {
+            "en": "Wagering on Item Worth",
+            "zh": "为物品价值下注"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Transporting Gloves",
+            "zh": "运输手套"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 69,
+      "columns": {
+        "Description": [
+          {
+            "en": "Investigating Item Odds",
+            "zh": "调查物品几率"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Gambling with Glove Properties",
+            "zh": "博手套属性"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 70,
+      "columns": {
+        "Description": [
+          {
+            "en": "Investigating Item Odds",
+            "zh": "调查物品几率"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Gambling with Glove Properties",
+            "zh": "博手套属性"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 71,
+      "columns": {
+        "Description": [
+          {
+            "en": "Investigating Item Odds",
+            "zh": "调查物品几率"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Gambling with Glove Properties",
+            "zh": "博手套属性"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 72,
+      "columns": {
+        "Description": [
+          {
+            "en": "Stealing Strongbox Scarabs",
+            "zh": "探取保险箱里的圣甲虫"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Stealing Strongbox Scarabs",
+            "zh": "探取保险箱里的圣甲虫"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 73,
+      "columns": {
+        "Description": [
+          {
+            "en": "Stealing Strongbox Scarabs",
+            "zh": "探取保险箱里的圣甲虫"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Stealing Strongbox Scarabs",
+            "zh": "探取保险箱里的圣甲虫"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 74,
+      "columns": {
+        "Description": [
+          {
+            "en": "Stealing Strongbox Scarabs",
+            "zh": "探取保险箱里的圣甲虫"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Stealing Strongbox Scarabs",
+            "zh": "探取保险箱里的圣甲虫"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 75,
+      "columns": {
+        "Description": [
+          {
+            "en": "Guarding Unique Strongbox",
+            "zh": "保护传奇保险箱"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Guarding Trapped Chests",
+            "zh": "保护陷阱宝箱"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 76,
+      "columns": {
+        "Description": [
+          {
+            "en": "Guarding Unique Strongbox",
+            "zh": "保护传奇保险箱"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Guarding Trapped Chests",
+            "zh": "保护陷阱宝箱"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 77,
+      "columns": {
+        "Description": [
+          {
+            "en": "Guarding Unique Strongbox",
+            "zh": "保护传奇保险箱"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Guarding Trapped Chests",
+            "zh": "保护陷阱宝箱"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 78,
+      "columns": {
+        "Description": [
+          {
+            "en": "Transporting Rare Equipment",
+            "zh": "护送稀有装备"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Transporting Rare Equipment",
+            "zh": "护送稀有装备"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 79,
+      "columns": {
+        "Description": [
+          {
+            "en": "Transporting Rare Equipment",
+            "zh": "护送稀有装备"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Transporting Rare Equipment",
+            "zh": "护送稀有装备"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 80,
+      "columns": {
+        "Description": [
+          {
+            "en": "Transporting Rare Equipment",
+            "zh": "护送稀有装备"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Transporting Rare Equipment",
+            "zh": "护送稀有装备"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 81,
+      "columns": {
+        "Description": [
+          {
+            "en": "Forging Powerful Equipment",
+            "zh": "打造强力装备"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Guarding Fine Armoursmithing Equipment",
+            "zh": "守护上等护甲装备"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 82,
+      "columns": {
+        "Description": [
+          {
+            "en": "Forging Powerful Equipment",
+            "zh": "打造强力装备"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Guarding Fine Armoursmithing Equipment",
+            "zh": "守护上等护甲装备"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 83,
+      "columns": {
+        "Description": [
+          {
+            "en": "Forging Powerful Equipment",
+            "zh": "打造强力装备"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Guarding Fine Armoursmithing Equipment",
+            "zh": "守护上等护甲装备"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 84,
+      "columns": {
+        "Description": [
+          {
+            "en": "Collecting 'Shiny Things' (Abyss Scarabs?)",
+            "zh": "收集宝贝（深渊圣甲虫？）"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Collecting 'Shiny Things' (Abyss Scarabs?)",
+            "zh": "收集宝贝（深渊圣甲虫？）"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 85,
+      "columns": {
+        "Description": [
+          {
+            "en": "Collecting 'Shiny Things' (Abyss Scarabs?)",
+            "zh": "收集宝贝（深渊圣甲虫？）"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Collecting 'Shiny Things' (Abyss Scarabs?)",
+            "zh": "收集宝贝（深渊圣甲虫？）"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 86,
+      "columns": {
+        "Description": [
+          {
+            "en": "Collecting 'Shiny Things' (Abyss Scarabs?)",
+            "zh": "收集宝贝（深渊圣甲虫？）"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Collecting 'Shiny Things' (Abyss Scarabs?)",
+            "zh": "收集宝贝（深渊圣甲虫？）"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 87,
+      "columns": {
+        "Description": [
+          {
+            "en": "Guarding Fine Armoursmithing Equipment",
+            "zh": "守护上等护甲装备"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Smuggling Belts (Trapped Chests!)",
+            "zh": "私运腰带（陷阱宝箱！）"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 88,
+      "columns": {
+        "Description": [
+          {
+            "en": "Guarding Fine Armoursmithing Equipment",
+            "zh": "守护上等护甲装备"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Smuggling Belts (Trapped Chests!)",
+            "zh": "私运腰带（陷阱宝箱！）"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 89,
+      "columns": {
+        "Description": [
+          {
+            "en": "Guarding Fine Armoursmithing Equipment",
+            "zh": "守护上等护甲装备"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Smuggling Belts (Trapped Chests!)",
+            "zh": "私运腰带（陷阱宝箱！）"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 90,
+      "columns": {
+        "Description": [
+          {
+            "en": "Escorting Personal Weaponsmithing Equipment",
+            "zh": "护送私人武器装备"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Transporting Belts",
+            "zh": "运输腰带"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 91,
+      "columns": {
+        "Description": [
+          {
+            "en": "Escorting Personal Weaponsmithing Equipment",
+            "zh": "护送私人武器装备"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Transporting Belts",
+            "zh": "运输腰带"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 92,
+      "columns": {
+        "Description": [
+          {
+            "en": "Escorting Personal Weaponsmithing Equipment",
+            "zh": "护送私人武器装备"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Transporting Belts",
+            "zh": "运输腰带"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 93,
+      "columns": {
+        "Description": [
+          {
+            "en": "Glassblowing (Impressive Lung Capacity!)",
+            "zh": "吹制玻璃（肺活量惊人！）"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Gambling with Belt Properties",
+            "zh": "博腰带属性"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 94,
+      "columns": {
+        "Description": [
+          {
+            "en": "Glassblowing (Impressive Lung Capacity!)",
+            "zh": "吹制玻璃（肺活量惊人！）"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Gambling with Belt Properties",
+            "zh": "博腰带属性"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 95,
+      "columns": {
+        "Description": [
+          {
+            "en": "Glassblowing (Impressive Lung Capacity!)",
+            "zh": "吹制玻璃（肺活量惊人！）"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Gambling with Belt Properties",
+            "zh": "博腰带属性"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 96,
+      "columns": {
+        "Description": [
+          {
+            "en": "\"Finding\" Expedition Scarabs",
+            "zh": "“寻宝”之先祖秘藏圣甲虫"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "\"Finding\" Expedition Scarabs",
+            "zh": "“寻宝”之先祖秘藏圣甲虫"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 97,
+      "columns": {
+        "Description": [
+          {
+            "en": "\"Finding\" Expedition Scarabs",
+            "zh": "“寻宝”之先祖秘藏圣甲虫"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "\"Finding\" Expedition Scarabs",
+            "zh": "“寻宝”之先祖秘藏圣甲虫"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 98,
+      "columns": {
+        "Description": [
+          {
+            "en": "\"Finding\" Expedition Scarabs",
+            "zh": "“寻宝”之先祖秘藏圣甲虫"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "\"Finding\" Expedition Scarabs",
+            "zh": "“寻宝”之先祖秘藏圣甲虫"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 99,
+      "columns": {
+        "Description": [
+          {
+            "en": "Accumulating Currency Shards (Pathetic!)",
+            "zh": "累积通货碎片（可悲！）"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Securing Quality-Modifying Currency",
+            "zh": "保护品质修改通货"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 100,
+      "columns": {
+        "Description": [
+          {
+            "en": "Accumulating Currency Shards (Pathetic!)",
+            "zh": "累积通货碎片（可悲！）"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Securing Quality-Modifying Currency",
+            "zh": "保护品质修改通货"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 101,
+      "columns": {
+        "Description": [
+          {
+            "en": "Accumulating Currency Shards (Pathetic!)",
+            "zh": "累积通货碎片（可悲！）"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Securing Quality-Modifying Currency",
+            "zh": "保护品质修改通货"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 102,
+      "columns": {
+        "Description": [
+          {
+            "en": "Transporting Quality-Modifying Currency",
+            "zh": "运输品质修改通货"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Banking Currency",
+            "zh": "银行通货"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 103,
+      "columns": {
+        "Description": [
+          {
+            "en": "Transporting Quality-Modifying Currency",
+            "zh": "运输品质修改通货"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Banking Currency",
+            "zh": "银行通货"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 104,
+      "columns": {
+        "Description": [
+          {
+            "en": "Transporting Quality-Modifying Currency",
+            "zh": "运输品质修改通货"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Banking Currency",
+            "zh": "银行通货"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 105,
+      "columns": {
+        "Description": [
+          {
+            "en": "Securing Kalguuran Currencies (Fool!)",
+            "zh": "保护卡古兰人货币（蠢货！）"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Securing White Socketed Equipment",
+            "zh": "保护白色已镶嵌装备"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 106,
+      "columns": {
+        "Description": [
+          {
+            "en": "Securing Kalguuran Currencies (Fool!)",
+            "zh": "保护卡古兰人货币（蠢货！）"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Securing White Socketed Equipment",
+            "zh": "保护白色已镶嵌装备"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 107,
+      "columns": {
+        "Description": [
+          {
+            "en": "Securing Kalguuran Currencies (Fool!)",
+            "zh": "保护卡古兰人货币（蠢货！）"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Securing White Socketed Equipment",
+            "zh": "保护白色已镶嵌装备"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 108,
+      "columns": {
+        "Description": [
+          {
+            "en": "Snatching Elder Scarabs",
+            "zh": "夺走裂界者圣甲虫"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Snatching Elder Scarabs",
+            "zh": "夺走裂界者圣甲虫"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 109,
+      "columns": {
+        "Description": [
+          {
+            "en": "Snatching Elder Scarabs",
+            "zh": "夺走裂界者圣甲虫"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Snatching Elder Scarabs",
+            "zh": "夺走裂界者圣甲虫"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 110,
+      "columns": {
+        "Description": [
+          {
+            "en": "Snatching Elder Scarabs",
+            "zh": "夺走裂界者圣甲虫"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Snatching Elder Scarabs",
+            "zh": "夺走裂界者圣甲虫"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 111,
+      "columns": {
+        "Description": [
+          {
+            "en": "Assembling Fragments",
+            "zh": "拼装碎片"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Smuggling Helmets (Trapped Chests!)",
+            "zh": "私运头盔（陷阱宝箱！）"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 112,
+      "columns": {
+        "Description": [
+          {
+            "en": "Assembling Fragments",
+            "zh": "拼装碎片"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Smuggling Helmets (Trapped Chests!)",
+            "zh": "私运头盔（陷阱宝箱！）"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 113,
+      "columns": {
+        "Description": [
+          {
+            "en": "Assembling Fragments",
+            "zh": "拼装碎片"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Smuggling Helmets (Trapped Chests!)",
+            "zh": "私运头盔（陷阱宝箱！）"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 114,
+      "columns": {
+        "Description": [
+          {
+            "en": "Smuggling Essences",
+            "zh": "私运精髓"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Transporting Helmets",
+            "zh": "运输头盔"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 115,
+      "columns": {
+        "Description": [
+          {
+            "en": "Smuggling Essences",
+            "zh": "私运精髓"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Transporting Helmets",
+            "zh": "运输头盔"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 116,
+      "columns": {
+        "Description": [
+          {
+            "en": "Smuggling Essences",
+            "zh": "私运精髓"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Transporting Helmets",
+            "zh": "运输头盔"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 117,
+      "columns": {
+        "Description": [
+          {
+            "en": "Examining Fossils",
+            "zh": "检查化石"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Gambling with Helmet Properties",
+            "zh": "博头盔属性"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 118,
+      "columns": {
+        "Description": [
+          {
+            "en": "Examining Fossils",
+            "zh": "检查化石"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Gambling with Helmet Properties",
+            "zh": "博头盔属性"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 119,
+      "columns": {
+        "Description": [
+          {
+            "en": "Examining Fossils",
+            "zh": "检查化石"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Gambling with Helmet Properties",
+            "zh": "博头盔属性"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 120,
+      "columns": {
+        "Description": [
+          {
+            "en": "Claiming Metamorph Scarabs",
+            "zh": "索要灾变圣甲虫"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Claiming Metamorph Scarabs",
+            "zh": "索要灾变圣甲虫"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 121,
+      "columns": {
+        "Description": [
+          {
+            "en": "Claiming Metamorph Scarabs",
+            "zh": "索要灾变圣甲虫"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Claiming Metamorph Scarabs",
+            "zh": "索要灾变圣甲虫"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 122,
+      "columns": {
+        "Description": [
+          {
+            "en": "Claiming Metamorph Scarabs",
+            "zh": "索要灾变圣甲虫"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Claiming Metamorph Scarabs",
+            "zh": "索要灾变圣甲虫"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 123,
+      "columns": {
+        "Description": [
+          {
+            "en": "Banking Currency (Winnings?)",
+            "zh": "银行通货（彩金？）"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Smuggling Flasks (Trapped Chests!)",
+            "zh": "私运药剂（陷阱宝箱！）"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 124,
+      "columns": {
+        "Description": [
+          {
+            "en": "Banking Currency (Winnings?)",
+            "zh": "银行通货（彩金？）"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Smuggling Flasks (Trapped Chests!)",
+            "zh": "私运药剂（陷阱宝箱！）"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 125,
+      "columns": {
+        "Description": [
+          {
+            "en": "Banking Currency (Winnings?)",
+            "zh": "银行通货（彩金？）"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Smuggling Flasks (Trapped Chests!)",
+            "zh": "私运药剂（陷阱宝箱！）"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 126,
+      "columns": {
+        "Description": [
+          {
+            "en": "Stockpiling Catalysts",
+            "zh": "储存催化剂"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Transporting Flasks",
+            "zh": "运输药剂"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 127,
+      "columns": {
+        "Description": [
+          {
+            "en": "Stockpiling Catalysts",
+            "zh": "储存催化剂"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Transporting Flasks",
+            "zh": "运输药剂"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 128,
+      "columns": {
+        "Description": [
+          {
+            "en": "Stockpiling Catalysts",
+            "zh": "储存催化剂"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Transporting Flasks",
+            "zh": "运输药剂"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 129,
+      "columns": {
+        "Description": [
+          {
+            "en": "Fabricating Unusual Socket Colours",
+            "zh": "制作不寻常的插槽颜色"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Glassblowing (Impressive Lung Capacity!)",
+            "zh": "吹制玻璃（肺活量惊人！）"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 130,
+      "columns": {
+        "Description": [
+          {
+            "en": "Testing Item Socket Limits",
+            "zh": "测试物品插槽限制"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Glassblowing (Impressive Lung Capacity!)",
+            "zh": "吹制玻璃（肺活量惊人！）"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 131,
+      "columns": {
+        "Description": [
+          {
+            "en": "Testing Item Link Limits",
+            "zh": "测试物品链接限制"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Glassblowing (Impressive Lung Capacity!)",
+            "zh": "吹制玻璃（肺活量惊人！）"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 132,
+      "columns": {
+        "Description": [
+          {
+            "en": "Investigating Blight Scarabs",
+            "zh": "调查菌潮圣甲虫"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Investigating Blight Scarabs",
+            "zh": "调查菌潮圣甲虫"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 133,
+      "columns": {
+        "Description": [
+          {
+            "en": "Investigating Blight Scarabs",
+            "zh": "调查菌潮圣甲虫"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Investigating Blight Scarabs",
+            "zh": "调查菌潮圣甲虫"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 134,
+      "columns": {
+        "Description": [
+          {
+            "en": "Investigating Blight Scarabs",
+            "zh": "调查菌潮圣甲虫"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Investigating Blight Scarabs",
+            "zh": "调查菌潮圣甲虫"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 135,
+      "columns": {
+        "Description": [
+          {
+            "en": "Protecting Items from Theft (Paranoid?)",
+            "zh": "保护物品不被探取（妄想？）"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Smuggling Quivers (Trapped Chests!)",
+            "zh": "私运箭袋（陷阱宝箱！）"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 136,
+      "columns": {
+        "Description": [
+          {
+            "en": "Protecting Items from Theft (Paranoid?)",
+            "zh": "保护物品不被探取（妄想？）"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Smuggling Quivers (Trapped Chests!)",
+            "zh": "私运箭袋（陷阱宝箱！）"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 137,
+      "columns": {
+        "Description": [
+          {
+            "en": "Protecting Items from Theft (Paranoid?)",
+            "zh": "保护物品不被探取（妄想？）"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Smuggling Quivers (Trapped Chests!)",
+            "zh": "私运箭袋（陷阱宝箱！）"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 138,
+      "columns": {
+        "Description": [
+          {
+            "en": "Rigging Item Selections (Likes Contraptions!)",
+            "zh": "配置物品选项（例如奇异箱！）"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Transporting Quivers",
+            "zh": "运输箭袋"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 139,
+      "columns": {
+        "Description": [
+          {
+            "en": "Rigging Item Selections (Likes Contraptions!)",
+            "zh": "配置物品选项（例如奇异箱！）"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Transporting Quivers",
+            "zh": "运输箭袋"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 140,
+      "columns": {
+        "Description": [
+          {
+            "en": "Rigging Item Selections (Likes Contraptions!)",
+            "zh": "配置物品选项（例如奇异箱！）"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Transporting Quivers",
+            "zh": "运输箭袋"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 141,
+      "columns": {
+        "Description": [
+          {
+            "en": "Studying Anomalous Materials",
+            "zh": "研究诡异材料"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Securing Fractured Equipment",
+            "zh": "保护分裂装备"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 142,
+      "columns": {
+        "Description": [
+          {
+            "en": "Studying Anomalous Materials",
+            "zh": "研究诡异材料"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Securing Fractured Equipment",
+            "zh": "保护分裂装备"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 143,
+      "columns": {
+        "Description": [
+          {
+            "en": "Studying Anomalous Materials",
+            "zh": "研究诡异材料"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Securing Fractured Equipment",
+            "zh": "保护分裂装备"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 144,
+      "columns": {
+        "Description": [
+          {
+            "en": "Swiping Cartography Scarabs",
+            "zh": "猛击制图者圣甲虫"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Securing Linked Equipment",
+            "zh": "保护连接装备"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 145,
+      "columns": {
+        "Description": [
+          {
+            "en": "Swiping Cartography Scarabs",
+            "zh": "猛击制图者圣甲虫"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Securing Linked Equipment",
+            "zh": "保护连接装备"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 146,
+      "columns": {
+        "Description": [
+          {
+            "en": "Swiping Cartography Scarabs",
+            "zh": "猛击制图者圣甲虫"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Securing Linked Equipment",
+            "zh": "保护连接装备"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 147,
+      "columns": {
+        "Description": [
+          {
+            "en": "Securing Rare Maps",
+            "zh": "保护稀有地图"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Smuggling Maps (Trapped Chests!)",
+            "zh": "私运地图（陷阱宝箱！）"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 148,
+      "columns": {
+        "Description": [
+          {
+            "en": "Securing Rare Maps",
+            "zh": "保护稀有地图"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Smuggling Maps (Trapped Chests!)",
+            "zh": "私运地图（陷阱宝箱！）"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 149,
+      "columns": {
+        "Description": [
+          {
+            "en": "Securing Rare Maps",
+            "zh": "保护稀有地图"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Smuggling Maps (Trapped Chests!)",
+            "zh": "私运地图（陷阱宝箱！）"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 150,
+      "columns": {
+        "Description": [
+          {
+            "en": "Guiding Maps Between Locations",
+            "zh": "地点间指引地图"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Transporting Maps",
+            "zh": "运输地图"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 151,
+      "columns": {
+        "Description": [
+          {
+            "en": "Guiding Maps Between Locations",
+            "zh": "地点间指引地图"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Transporting Maps",
+            "zh": "运输地图"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 152,
+      "columns": {
+        "Description": [
+          {
+            "en": "Guiding Maps Between Locations",
+            "zh": "地点间指引地图"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Transporting Maps",
+            "zh": "运输地图"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 153,
+      "columns": {
+        "Description": [
+          {
+            "en": "Cataloguing Unique Maps",
+            "zh": "分类传奇地图"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Guiding Maps Between Locations",
+            "zh": "地点间指引地图"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 154,
+      "columns": {
+        "Description": [
+          {
+            "en": "Cataloguing Unique Maps",
+            "zh": "分类传奇地图"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Guiding Maps Between Locations",
+            "zh": "地点间指引地图"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 155,
+      "columns": {
+        "Description": [
+          {
+            "en": "Cataloguing Unique Maps",
+            "zh": "分类传奇地图"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Guiding Maps Between Locations",
+            "zh": "地点间指引地图"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 156,
+      "columns": {
+        "Description": [
+          {
+            "en": "Seizing Bestiary Scarabs",
+            "zh": "攫取猎魔圣甲虫"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Gambling with Amulet Properties",
+            "zh": "博项链属性"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 157,
+      "columns": {
+        "Description": [
+          {
+            "en": "Seizing Bestiary Scarabs",
+            "zh": "攫取猎魔圣甲虫"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Gambling with Amulet Properties",
+            "zh": "博项链属性"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 158,
+      "columns": {
+        "Description": [
+          {
+            "en": "Seizing Bestiary Scarabs",
+            "zh": "攫取猎魔圣甲虫"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Gambling with Amulet Properties",
+            "zh": "博项链属性"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 159,
+      "columns": {
+        "Description": [
+          {
+            "en": "Channeling the First Ones",
+            "zh": "引导初生子"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Smuggling Amulets (Trapped Chests!)",
+            "zh": "私运项链（陷阱宝箱！）"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 160,
+      "columns": {
+        "Description": [
+          {
+            "en": "Channeling the First Ones",
+            "zh": "引导初生子"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Smuggling Amulets (Trapped Chests!)",
+            "zh": "私运项链（陷阱宝箱！）"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 161,
+      "columns": {
+        "Description": [
+          {
+            "en": "Channeling the First Ones",
+            "zh": "引导初生子"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Smuggling Amulets (Trapped Chests!)",
+            "zh": "私运项链（陷阱宝箱！）"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 162,
+      "columns": {
+        "Description": [
+          {
+            "en": "Carrying Talismans on Pilgrimage",
+            "zh": "在朝圣时带着魔符"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Transporting Amulets",
+            "zh": "运输项链"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 163,
+      "columns": {
+        "Description": [
+          {
+            "en": "Carrying Talismans on Pilgrimage",
+            "zh": "在朝圣时带着魔符"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Transporting Amulets",
+            "zh": "运输项链"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 164,
+      "columns": {
+        "Description": [
+          {
+            "en": "Carrying Talismans on Pilgrimage",
+            "zh": "在朝圣时带着魔符"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Transporting Amulets",
+            "zh": "运输项链"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 165,
+      "columns": {
+        "Description": [
+          {
+            "en": "Imbuing Amulets with Talismanic Power",
+            "zh": "用魔符之力灌注项链"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Imbuing Amulets with Talismanic Power",
+            "zh": "用魔符之力灌注项链"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 166,
+      "columns": {
+        "Description": [
+          {
+            "en": "Imbuing Amulets with Talismanic Power",
+            "zh": "用魔符之力灌注项链"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Imbuing Amulets with Talismanic Power",
+            "zh": "用魔符之力灌注项链"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 167,
+      "columns": {
+        "Description": [
+          {
+            "en": "Imbuing Amulets with Talismanic Power",
+            "zh": "用魔符之力灌注项链"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Imbuing Amulets with Talismanic Power",
+            "zh": "用魔符之力灌注项链"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 168,
+      "columns": {
+        "Description": [
+          {
+            "en": "Hunting for Harbinger Scarabs",
+            "zh": "猎取先驱圣甲虫"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Hunting for Harbinger Scarabs",
+            "zh": "猎取先驱圣甲虫"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 169,
+      "columns": {
+        "Description": [
+          {
+            "en": "Hunting for Harbinger Scarabs",
+            "zh": "猎取先驱圣甲虫"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Hunting for Harbinger Scarabs",
+            "zh": "猎取先驱圣甲虫"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 170,
+      "columns": {
+        "Description": [
+          {
+            "en": "Hunting for Harbinger Scarabs",
+            "zh": "猎取先驱圣甲虫"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Hunting for Harbinger Scarabs",
+            "zh": "猎取先驱圣甲虫"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 171,
+      "columns": {
+        "Description": [
+          {
+            "en": "Enchanting Gloves",
+            "zh": "附魔手套"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Securing Support Gems",
+            "zh": "保护辅助宝石"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 172,
+      "columns": {
+        "Description": [
+          {
+            "en": "Enchanting Boots",
+            "zh": "附魔靴子"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Securing Support Gems",
+            "zh": "保护辅助宝石"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 173,
+      "columns": {
+        "Description": [
+          {
+            "en": "Enchanting Helmets",
+            "zh": "附魔头盔"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Securing Support Gems",
+            "zh": "保护辅助宝石"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 174,
+      "columns": {
+        "Description": [
+          {
+            "en": "Creating Timed Item Traps (Careful!)",
+            "zh": "制造限时物品陷阱（小心！）"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Transporting Skill Gems",
+            "zh": "运输技能宝石"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 175,
+      "columns": {
+        "Description": [
+          {
+            "en": "Creating Timed Item Traps (Careful!)",
+            "zh": "制造限时物品陷阱（小心！）"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Transporting Skill Gems",
+            "zh": "运输技能宝石"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 176,
+      "columns": {
+        "Description": [
+          {
+            "en": "Creating Timed Item Traps (Careful!)",
+            "zh": "制造限时物品陷阱（小心！）"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Transporting Skill Gems",
+            "zh": "运输技能宝石"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 177,
+      "columns": {
+        "Description": [
+          {
+            "en": "Exposing Gems to Combat",
+            "zh": "将宝石用于战斗"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Exposing Gems to Combat",
+            "zh": "将宝石用于战斗"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 178,
+      "columns": {
+        "Description": [
+          {
+            "en": "Exposing Gems to Combat",
+            "zh": "将宝石用于战斗"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Exposing Gems to Combat",
+            "zh": "将宝石用于战斗"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 179,
+      "columns": {
+        "Description": [
+          {
+            "en": "Exposing Gems to Combat",
+            "zh": "将宝石用于战斗"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Exposing Gems to Combat",
+            "zh": "将宝石用于战斗"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 180,
+      "columns": {
+        "Description": [
+          {
+            "en": "Selectively Stealing Legion Scarabs",
+            "zh": "有选择地探取军团圣甲虫"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Selectively Stealing Legion Scarabs",
+            "zh": "有选择地探取军团圣甲虫"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 181,
+      "columns": {
+        "Description": [
+          {
+            "en": "Selectively Stealing Legion Scarabs",
+            "zh": "有选择地探取军团圣甲虫"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Selectively Stealing Legion Scarabs",
+            "zh": "有选择地探取军团圣甲虫"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 182,
+      "columns": {
+        "Description": [
+          {
+            "en": "Selectively Stealing Legion Scarabs",
+            "zh": "有选择地探取军团圣甲虫"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Selectively Stealing Legion Scarabs",
+            "zh": "有选择地探取军团圣甲虫"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 183,
+      "columns": {
+        "Description": [
+          {
+            "en": "Patrolling Legion Cache",
+            "zh": "巡视军团密盒"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Smuggling Weapons (Trapped Chests!)",
+            "zh": "私运武器（陷阱宝箱！）"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 184,
+      "columns": {
+        "Description": [
+          {
+            "en": "Patrolling Legion Cache",
+            "zh": "巡视军团密盒"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Smuggling Weapons (Trapped Chests!)",
+            "zh": "私运武器（陷阱宝箱！）"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 185,
+      "columns": {
+        "Description": [
+          {
+            "en": "Patrolling Legion Cache",
+            "zh": "巡视军团密盒"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Smuggling Weapons (Trapped Chests!)",
+            "zh": "私运武器（陷阱宝箱！）"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 186,
+      "columns": {
+        "Description": [
+          {
+            "en": "Relocating Timeless Splinters",
+            "zh": "重新放置永恒裂片"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Transporting Weapons",
+            "zh": "运输武器"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 187,
+      "columns": {
+        "Description": [
+          {
+            "en": "Relocating Timeless Splinters",
+            "zh": "重新放置永恒裂片"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Transporting Weapons",
+            "zh": "运输武器"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 188,
+      "columns": {
+        "Description": [
+          {
+            "en": "Relocating Timeless Splinters",
+            "zh": "重新放置永恒裂片"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Transporting Weapons",
+            "zh": "运输武器"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 189,
+      "columns": {
+        "Description": [
+          {
+            "en": "Stashing Incubators",
+            "zh": "储存孕育石"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Guarding Personal Weaponsmithing Equipment",
+            "zh": "保护私人武器装备"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 190,
+      "columns": {
+        "Description": [
+          {
+            "en": "Stashing Incubators",
+            "zh": "储存孕育石"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Guarding Personal Weaponsmithing Equipment",
+            "zh": "保护私人武器装备"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 191,
+      "columns": {
+        "Description": [
+          {
+            "en": "Stashing Incubators",
+            "zh": "储存孕育石"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Guarding Personal Weaponsmithing Equipment",
+            "zh": "保护私人武器装备"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 192,
+      "columns": {
+        "Description": [
+          {
+            "en": "Thieving Shaper Scarabs",
+            "zh": "偷取塑界者圣甲虫"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Thieving Shaper Scarabs",
+            "zh": "偷取塑界者圣甲虫"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 193,
+      "columns": {
+        "Description": [
+          {
+            "en": "Thieving Shaper Scarabs",
+            "zh": "偷取塑界者圣甲虫"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Thieving Shaper Scarabs",
+            "zh": "偷取塑界者圣甲虫"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 194,
+      "columns": {
+        "Description": [
+          {
+            "en": "Thieving Shaper Scarabs",
+            "zh": "偷取塑界者圣甲虫"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Thieving Shaper Scarabs",
+            "zh": "偷取塑界者圣甲虫"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 195,
+      "columns": {
+        "Description": [
+          {
+            "en": "Stowing Socket-Modifying Orbs",
+            "zh": "收藏插槽修改天球"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Testing Item Socket Limits",
+            "zh": "测试物品插槽限制"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 196,
+      "columns": {
+        "Description": [
+          {
+            "en": "Stowing Socket-Modifying Orbs",
+            "zh": "收藏插槽修改天球"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Testing Item Socket Limits",
+            "zh": "测试物品插槽限制"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 197,
+      "columns": {
+        "Description": [
+          {
+            "en": "Stowing Socket-Modifying Orbs",
+            "zh": "收藏插槽修改天球"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Testing Item Socket Limits",
+            "zh": "测试物品插槽限制"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 198,
+      "columns": {
+        "Description": [
+          {
+            "en": "Smuggling High-quality Gems",
+            "zh": "私运高质量宝石"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Fabricating Unusual Socket Colours",
+            "zh": "制作不寻常的插槽颜色"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 199,
+      "columns": {
+        "Description": [
+          {
+            "en": "Smuggling High-quality Gems",
+            "zh": "私运高质量宝石"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Fabricating Unusual Socket Colours",
+            "zh": "制作不寻常的插槽颜色"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 200,
+      "columns": {
+        "Description": [
+          {
+            "en": "Smuggling High-quality Gems",
+            "zh": "私运高质量宝石"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Fabricating Unusual Socket Colours",
+            "zh": "制作不寻常的插槽颜色"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 201,
+      "columns": {
+        "Description": [
+          {
+            "en": "Forging Gem-Agnostic Sockets",
+            "zh": "铸造未知宝石插槽"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Testing Item Link Limits",
+            "zh": "测试物品链接限制"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 202,
+      "columns": {
+        "Description": [
+          {
+            "en": "Forging Gem-Agnostic Sockets",
+            "zh": "铸造未知宝石插槽"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Testing Item Link Limits",
+            "zh": "测试物品链接限制"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 203,
+      "columns": {
+        "Description": [
+          {
+            "en": "Forging Gem-Agnostic Sockets",
+            "zh": "铸造未知宝石插槽"
+          }
+        ],
+        "Description2": [
+          {
+            "en": "Testing Item Link Limits",
+            "zh": "测试物品链接限制"
+          }
+        ]
+      }
+    }
+  ]
+}

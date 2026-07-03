@@ -1,0 +1,467 @@
+{
+  "table": "WorldMapLegends",
+  "key": "Id",
+  "columns": [
+    "Icon",
+    "Name",
+    "__col7"
+  ],
+  "entries": [
+    {
+      "id": "Player",
+      "index": 0,
+      "columns": {
+        "Name": [
+          {
+            "en": "Current Location",
+            "zh": "目前位置"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Town",
+      "index": 1,
+      "columns": {
+        "Name": [
+          {
+            "en": "Town",
+            "zh": "城镇"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Unknown",
+      "index": 2,
+      "columns": {
+        "Name": [
+          {
+            "en": "Unknown Area",
+            "zh": "未探索区域"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ActPin",
+      "index": 3,
+      "columns": {
+        "Name": [
+          {
+            "en": "Visited Area",
+            "zh": "已探索区域"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Waypoint",
+      "index": 4,
+      "columns": {
+        "Name": [
+          {
+            "en": "Area with Inactive Waypoint",
+            "zh": "传送点未启动"
+          }
+        ]
+      }
+    },
+    {
+      "id": "VisitedWaypoint",
+      "index": 5,
+      "columns": {
+        "Name": [
+          {
+            "en": "Area with Active Waypoint",
+            "zh": "传送点已启动"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Quest",
+      "index": 6,
+      "columns": {
+        "Name": [
+          {
+            "en": "Quest Location",
+            "zh": "任务所在区域"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Travel",
+      "index": 7,
+      "columns": {
+        "Name": [
+          {
+            "en": "Travel Destination",
+            "zh": "移动目标"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LandmarkRare",
+      "index": 8,
+      "columns": {
+        "Name": [
+          {
+            "en": "Rare Monster Encounter",
+            "zh": "稀有怪物遭遇战"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LandmarkRareUpgrade",
+      "index": 9,
+      "columns": {
+        "Name": [
+          {
+            "en": "Rare Monster Encounter with Upgrade",
+            "zh": "提供能力强化的稀有怪物遭遇战"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LandmarkRareSanctumKey",
+      "index": 10,
+      "columns": {
+        "Name": [
+          {
+            "en": "Rare Monster Encounter with Djinn Barya",
+            "zh": "提供巨灵币的稀有怪物遭遇战"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LandmarkRareUltimatumKey",
+      "index": 11,
+      "columns": {
+        "Name": [
+          {
+            "en": "Rare Monster Encounter with Inscribed Ultimatum",
+            "zh": "提供贪婪战书的稀有怪物遭遇战"
+          }
+        ]
+      }
+    },
+    {
+      "id": "UniqueMonster",
+      "index": 12,
+      "columns": {
+        "Name": [
+          {
+            "en": "Boss Encounter",
+            "zh": "首领战"
+          }
+        ]
+      }
+    },
+    {
+      "id": "UniqueMonsterUpgrade",
+      "index": 13,
+      "columns": {
+        "Name": [
+          {
+            "en": "Boss Encounter with Upgrade",
+            "zh": "提供能力强化的首领战"
+          }
+        ]
+      }
+    },
+    {
+      "id": "UniqueMonsterSanctumKey",
+      "index": 14,
+      "columns": {
+        "Name": [
+          {
+            "en": "Boss Encounter with Djinn Barya",
+            "zh": "提供巨灵币的首领战"
+          }
+        ]
+      }
+    },
+    {
+      "id": "UniqueMonsterUltimatumKey",
+      "index": 15,
+      "columns": {
+        "Name": [
+          {
+            "en": "Boss Encounter with Inscribed Ultimatum",
+            "zh": "提供贪婪战书的首领战"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ActBoss",
+      "index": 16,
+      "columns": {
+        "Name": [
+          {
+            "en": "Act Boss Encounter",
+            "zh": "章节首领战"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LandmarkChest",
+      "index": 17,
+      "columns": {
+        "Name": [
+          {
+            "en": "Notable Chest",
+            "zh": "重要宝箱"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LandmarkLoot",
+      "index": 18,
+      "columns": {
+        "Name": [
+          {
+            "en": "Notable Item",
+            "zh": "重要物品"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LandmarkCamp",
+      "index": 19,
+      "columns": {
+        "Name": [
+          {
+            "en": "Notable Camp",
+            "zh": "重要营地"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LandmarkEvent",
+      "index": 20,
+      "columns": {
+        "Name": [
+          {
+            "en": "Notable Event",
+            "zh": "重要事件"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LandmarkEventUpgrade",
+      "index": 21,
+      "columns": {
+        "Name": [
+          {
+            "en": "Notable Event with Upgrade",
+            "zh": "提供能力强化的重要事件"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EndGameCurrentLocation",
+      "index": 22,
+      "columns": {
+        "Name": [
+          {
+            "en": "Current Location",
+            "zh": "目前位置"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EndGamePin",
+      "index": 23,
+      "columns": {
+        "Name": [
+          {
+            "en": "[MapNode|Map Node]",
+            "zh": "[MapNode|地图节点]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EndGamePinAccessible",
+      "index": 24,
+      "columns": {
+        "Name": [
+          {
+            "en": "Map Node (Accessible)",
+            "zh": "地图节点（可前往）"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EndGamePinInProgress",
+      "index": 25,
+      "columns": {
+        "Name": [
+          {
+            "en": "Map Node (In Progress)",
+            "zh": "地图节点（进行中）"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EndGamePinComplete",
+      "index": 26,
+      "columns": {
+        "Name": [
+          {
+            "en": "Map Node (Complete)",
+            "zh": "地图节点（已完成）"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EndGamePinFailed",
+      "index": 27,
+      "columns": {
+        "Name": [
+          {
+            "en": "Map Node (Failed)",
+            "zh": "地图节点（已失败）"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EndGameTower",
+      "index": 28,
+      "columns": {
+        "Name": [
+          {
+            "en": "[PrecursorTower|Precursor Tower]",
+            "zh": "[PrecursorTower|先驱高塔]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EndGameWaypoint",
+      "index": 29,
+      "columns": {
+        "Name": [
+          {
+            "en": "[EndgameHub|Landmark Areas]",
+            "zh": "[EndgameHub|地标区域]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EndGameMapBoss",
+      "index": 30,
+      "columns": {
+        "Name": [
+          {
+            "en": "[PowerfulMapBoss|Powerful Map Boss]",
+            "zh": "[PowerfulMapBoss|强力地图首领]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EndGameDeadlyMapBoss",
+      "index": 31,
+      "columns": {
+        "Name": [
+          {
+            "en": "[DeadlyMapBoss|Deadly Map Boss]",
+            "zh": "[DeadlyMapBoss|危险的地图首领]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EndGameCorrupted",
+      "index": 32,
+      "columns": {
+        "Name": [
+          {
+            "en": "[ContainsCorruption|Corruption]",
+            "zh": "[ContainsCorruption|腐化]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EndGameCorruptedNexus",
+      "index": 33,
+      "columns": {
+        "Name": [
+          {
+            "en": "[CorruptedNexus|Corrupted Nexus]",
+            "zh": "[CorruptedNexus|腐化枢纽]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EndGameCleansed",
+      "index": 34,
+      "columns": {
+        "Name": [
+          {
+            "en": "[Cleansed]",
+            "zh": "[Cleansed|已净化]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EndGameUnique",
+      "index": 35,
+      "columns": {
+        "Name": [
+          {
+            "en": "[ContainsUniqueMap|Unique Map]",
+            "zh": "[ContainsUniqueMap|传奇地图]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EndGameHideout",
+      "index": 36,
+      "columns": {
+        "Name": [
+          {
+            "en": "[ContainsHideout|Hideout]",
+            "zh": "[ContainsHideout|藏身处]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EndGameTrader",
+      "index": 37,
+      "columns": {
+        "Name": [
+          {
+            "en": "[ContainsWanderingTrader|Wandering Trader]",
+            "zh": "[ContainsWanderingTrader|流浪的商人]"
+          }
+        ]
+      }
+    }
+  ]
+}

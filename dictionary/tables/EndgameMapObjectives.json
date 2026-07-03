@@ -1,0 +1,354 @@
+{
+  "table": "EndgameMapObjectives",
+  "key": "_index",
+  "columns": [
+    "Id",
+    "ObjectiveText",
+    "CompletionText",
+    "ContentIcon"
+  ],
+  "entries": [
+    {
+      "id": null,
+      "index": 0,
+      "columns": {
+        "ObjectiveText": [
+          {
+            "en": "Defeat the [MapBoss|Map Boss]",
+            "zh": "击败[MapBoss|地图首领]"
+          }
+        ],
+        "CompletionText": [
+          {
+            "en": "[MapBoss|Map Boss] Defeated",
+            "zh": "已击败[MapBoss|地图首领]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 1,
+      "columns": {
+        "ObjectiveText": [
+          {
+            "en": "Defeat the [CorruptedBoss|Corrupted Boss]",
+            "zh": "击败[CorruptedBoss|已腐化的首领]"
+          }
+        ],
+        "CompletionText": [
+          {
+            "en": "[CorruptedNexus|Corrupted Nexus] Cleansed",
+            "zh": "已净化[CorruptedNexus|腐化枢纽]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 2,
+      "columns": {
+        "ObjectiveText": [
+          {
+            "en": "Activate all [CheckpointMaps|Checkpoints]",
+            "zh": "激活所有[CheckpointMaps|记录点]"
+          }
+        ],
+        "CompletionText": [
+          {
+            "en": "All [CheckpointMaps|Checkpoints] Activated",
+            "zh": "已激活所有[CheckpointMaps|记录点]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 3,
+      "columns": {
+        "ObjectiveText": [
+          {
+            "en": "Defeat all Rare Monsters",
+            "zh": "击败所有稀有怪物"
+          }
+        ],
+        "CompletionText": [
+          {
+            "en": "All Rare Monsters Defeated",
+            "zh": "已击败所有稀有怪物"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 4,
+      "columns": {
+        "ObjectiveText": [
+          {
+            "en": "Open all [ContainsBreach|Unstable Breaches]",
+            "zh": "打开所有[ContainsBreach|不稳定裂隙]"
+          }
+        ],
+        "CompletionText": [
+          {
+            "en": "All [ContainsBreach|Unstable Breaches] Opened",
+            "zh": "已打开所有[ContainsBreach|不稳定裂隙]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 5,
+      "columns": {
+        "ObjectiveText": [
+          {
+            "en": "Complete the [ContainsExpedition|Kalguuran Expedition]",
+            "zh": "完成所有[ContainsExpedition|卡古兰人先祖秘藏]"
+          }
+        ],
+        "CompletionText": [
+          {
+            "en": "[ContainsExpedition|Expedition] Complete",
+            "zh": "已完成[ContainsExpedition|先祖秘藏]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 6,
+      "columns": {
+        "ObjectiveText": [
+          {
+            "en": "Activate the [ContainsDelirium|Delirium Mirror]",
+            "zh": "激活[ContainsDelirium|惊悸迷雾之镜]"
+          }
+        ],
+        "CompletionText": [
+          {
+            "en": "[ContainsDelirium|Delirium] Mirror Activated",
+            "zh": "[ContainsDelirium|惊悸迷雾]之镜已激活"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 7,
+      "columns": {
+        "ObjectiveText": [
+          {
+            "en": "Complete all [ContainsRitual|Ritual Altars]",
+            "zh": "完成所有[ContainsRitual|驱灵祭坛]"
+          }
+        ],
+        "CompletionText": [
+          {
+            "en": "All [ContainsRitual|Rituals] Complete",
+            "zh": "已完成所有[ContainsRitual|驱灵祭坛]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 8,
+      "columns": {
+        "ObjectiveText": [
+          {
+            "en": "Complete all [ContainsAbyss|Abysses]",
+            "zh": "完成所有[ContainsAbyss|深渊]"
+          }
+        ],
+        "CompletionText": [
+          {
+            "en": "All [ContainsAbyss|Abysses] Complete",
+            "zh": "已完成所有[ContainsAbyss|深渊]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 9,
+      "columns": {
+        "ObjectiveText": [
+          {
+            "en": "Complete the Abyssal Depths",
+            "zh": "完成绝望深渊"
+          }
+        ],
+        "CompletionText": [
+          {
+            "en": "Abyssal Depths Complete",
+            "zh": "已完成绝望深渊"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 10,
+      "columns": {
+        "ObjectiveText": [
+          {
+            "en": "Activate all [Shrine|Shrines]",
+            "zh": "激活所有[Shrine|神龛]"
+          }
+        ],
+        "CompletionText": [
+          {
+            "en": "All [Shrine|Shrines] Activated",
+            "zh": "已激活所有[Shrine|神龛]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 11,
+      "columns": {
+        "ObjectiveText": [
+          {
+            "en": "Open all [Strongbox|Strongboxes]",
+            "zh": "打开所有[Strongbox|保险箱]"
+          }
+        ],
+        "CompletionText": [
+          {
+            "en": "All [Strongbox|Strongboxes] Opened",
+            "zh": "已打开所有[Strongbox|保险箱]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 12,
+      "columns": {
+        "ObjectiveText": [
+          {
+            "en": "Free all [Essence|Essence] Monsters",
+            "zh": "净化所有[Essence|精华]怪物"
+          }
+        ],
+        "CompletionText": [
+          {
+            "en": "All [Essence|Essence] Monsters Freed",
+            "zh": "已释放所有[Essence|精华]怪物"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 13,
+      "columns": {
+        "ObjectiveText": [
+          {
+            "en": "Defeat all [RogueExile|Rogue Exiles]",
+            "zh": "击败所有[RogueExile|盗贼流放者]"
+          }
+        ],
+        "CompletionText": [
+          {
+            "en": "All [RogueExile|Rogue Exiles] Defeated",
+            "zh": "已击败所有[RogueExile|盗贼流放者]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 14,
+      "columns": {
+        "ObjectiveText": [
+          {
+            "en": "Complete all [AzmeriSpirit|Azmeri Spirits]",
+            "zh": "完成所有[AzmeriSpirit|阿兹莫里之灵]"
+          }
+        ],
+        "CompletionText": [
+          {
+            "en": "All [AzmeriSpirit|Azmeri Spirits] Completed",
+            "zh": "已完成所有[AzmeriSpirit|阿兹莫里之灵]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 15,
+      "columns": {
+        "ObjectiveText": [
+          {
+            "en": "Complete all [StoneSummoningCircle|Summoning Circles]",
+            "zh": "完成所有[StoneSummoningCircle|召唤石圈]"
+          }
+        ],
+        "CompletionText": [
+          {
+            "en": "All [StoneSummoningCircle|Summoning Circles] Completed",
+            "zh": "已完成所有[StoneSummoningCircle|召唤石圈]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 16,
+      "columns": {
+        "ObjectiveText": [
+          {
+            "en": "Energise the [ContainsIncursion|Vaal Beacons]",
+            "zh": "为[ContainsIncursion|瓦尔灯塔]充能"
+          }
+        ],
+        "CompletionText": [
+          {
+            "en": "[ContainsIncursion|Vaal Beacons] Energised",
+            "zh": "已为[ContainsIncursion|瓦尔灯塔]充能"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 17,
+      "columns": {
+        "ObjectiveText": [
+          {
+            "en": "Collect the [ContainsExpedition2|Verisium Remnants]",
+            "zh": "收集[ContainsExpedition2|维金残片]"
+          }
+        ],
+        "CompletionText": [
+          {
+            "en": "All [ContainsExpedition2|Verisium Remnants] Collected",
+            "zh": "已收集所有[ContainsExpedition2|维金残片]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 18,
+      "columns": {
+        "ObjectiveText": [
+          {
+            "en": "Complete all [ContainsBreach|Breach Hives]",
+            "zh": "完成所有[ContainsBreach|裂隙巢穴]"
+          }
+        ],
+        "CompletionText": [
+          {
+            "en": "All [ContainsBreach|Breach Hives] Completed",
+            "zh": "已完成所有[ContainsBreach|裂隙巢穴]"
+          }
+        ]
+      }
+    }
+  ]
+}

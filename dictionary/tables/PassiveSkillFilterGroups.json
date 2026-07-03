@@ -1,0 +1,153 @@
+{
+  "table": "PassiveSkillFilterGroups",
+  "key": "Id",
+  "columns": [
+    "Name"
+  ],
+  "entries": [
+    {
+      "id": "PrimaryStat",
+      "index": 0,
+      "columns": {
+        "Name": [
+          {
+            "en": "Primary Stats",
+            "zh": "核心属性"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Attribute",
+      "index": 1,
+      "columns": {
+        "Name": [
+          {
+            "en": "Attributes",
+            "zh": "角色属性"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DamageType",
+      "index": 2,
+      "columns": {
+        "Name": [
+          {
+            "en": "Damage Types",
+            "zh": "伤害类型"
+          }
+        ]
+      }
+    },
+    {
+      "id": "WeaponType",
+      "index": 3,
+      "columns": {
+        "Name": [
+          {
+            "en": "Weapon Types",
+            "zh": "武器类型"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Caster",
+      "index": 4,
+      "columns": {
+        "Name": [
+          {
+            "en": "Caster",
+            "zh": "施法"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Offensive",
+      "index": 5,
+      "columns": {
+        "Name": [
+          {
+            "en": "Offensive",
+            "zh": "进攻"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Defensive",
+      "index": 6,
+      "columns": {
+        "Name": [
+          {
+            "en": "Defensive",
+            "zh": "防御"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Charges",
+      "index": 7,
+      "columns": {
+        "Name": [
+          {
+            "en": "Charges",
+            "zh": "充能球"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Ailment",
+      "index": 8,
+      "columns": {
+        "Name": [
+          {
+            "en": "Ailments",
+            "zh": "异常状态"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Influence",
+      "index": 9,
+      "columns": {
+        "Name": [
+          {
+            "en": "Influences",
+            "zh": "势力影响"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Actions",
+      "index": 10,
+      "columns": {
+        "Name": [
+          {
+            "en": "Actions",
+            "zh": "动作"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Terms",
+      "index": 11,
+      "columns": {
+        "Name": [
+          {
+            "en": "Terms",
+            "zh": "术语"
+          }
+        ]
+      }
+    }
+  ]
+}

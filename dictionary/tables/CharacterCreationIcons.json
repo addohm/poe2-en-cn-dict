@@ -1,0 +1,445 @@
+{
+  "table": "CharacterCreationIcons",
+  "key": "_index",
+  "columns": [
+    "Id",
+    "Name",
+    "Description",
+    "Video",
+    "Icon"
+  ],
+  "entries": [
+    {
+      "id": null,
+      "index": 0,
+      "columns": {
+        "Name": [
+          {
+            "en": "Long Range",
+            "zh": "远程"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Let arrows fly from afar. Kill them before they arrive. ",
+            "zh": "从远处倾泻箭矢，使敌人无暇近身便一命呜呼。 "
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 1,
+      "columns": {
+        "Name": [
+          {
+            "en": "Agility",
+            "zh": "灵敏"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Shoot on the move. Jump over your enemies. Leap away from danger.",
+            "zh": "移动射击，跃过敌人，远离危险。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 2,
+      "columns": {
+        "Name": [
+          {
+            "en": "Crowd Control",
+            "zh": "群体控制"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Slow your enemies. Freeze them in place. Don't let them reach you.",
+            "zh": "减速敌人，将其冻结，不留近身之机。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 3,
+      "columns": {
+        "Name": [
+          {
+            "en": "Hit and Run",
+            "zh": "连打带跑"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Close in for the kill, then cover your retreat with a hail of spears. Don't let your enemies catch you.",
+            "zh": "近战克敌制胜，立起枪阵掩护撤退，不给对手可乘之机。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 4,
+      "columns": {
+        "Name": [
+          {
+            "en": "Savage Attacks",
+            "zh": "凶狠攻击"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Blind them, bleed them, maim them. Prevail at any cost.",
+            "zh": "致盲、流血和瘫痪，不惜代价争取胜利。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 5,
+      "columns": {
+        "Name": [
+          {
+            "en": "Primal Fury",
+            "zh": "原始的狂怒"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Harness the ferocity of the wilds. Tame beasts and whip up storms.",
+            "zh": "驾驭荒野的凶悍之力，驯服野兽并掀起风暴。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 6,
+      "columns": {
+        "Name": [
+          {
+            "en": "Heavy Slams",
+            "zh": "大力猛击"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Hit hard. Slam your mace on the ground. Crack the earth.",
+            "zh": "倾尽全力，重锤砸向地面，引得地裂天崩。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 7,
+      "columns": {
+        "Name": [
+          {
+            "en": "Stuns and Knockback",
+            "zh": "晕眩和击退"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Stun your enemies. Push them back. Knock them to the ground.",
+            "zh": "击晕敌人，将其逼退，甚至砸倒在地。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 8,
+      "columns": {
+        "Name": [
+          {
+            "en": "Defences",
+            "zh": "坚实防御"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Shrug off small hits with heavy armour. Block big attacks with your shield. Use your large life pool to absorb the rest.",
+            "zh": "重甲令小刮小蹭不值一提，坚盾可直面重击而面不改色，庞大的生命池足以背负一切。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 9,
+      "columns": {
+        "Name": [
+          {
+            "en": "Fire Spells",
+            "zh": "火焰法术"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Create large explosions. Set your enemies on fire. Watch them burn.",
+            "zh": "引燃爆炸，点燃敌人，让他们陷入火海。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 10,
+      "columns": {
+        "Name": [
+          {
+            "en": "Cold Spells",
+            "zh": "冰霜法术"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Slow your enemies down. Freeze them in place. Control their movement.",
+            "zh": "减速敌人，将其冻结，限制他们的移动。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 11,
+      "columns": {
+        "Name": [
+          {
+            "en": "Lightning Spells",
+            "zh": "闪电法术"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Bounce lightning around your foes. Shock them for even higher damage.",
+            "zh": "让闪电在敌人之间来回弹射，通过感电造成高额伤害。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 12,
+      "columns": {
+        "Name": [
+          {
+            "en": "Minions",
+            "zh": "召唤生物"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Send forth armies of the dead. Command them to do your bidding.",
+            "zh": "复活无尽大军，自由发号施令。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 13,
+      "columns": {
+        "Name": [
+          {
+            "en": "Chaos Magic",
+            "zh": "混沌魔法"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Let loose plague and withering afflictions. A slow but painful death.",
+            "zh": "散播瘟疫和凋零等异常，带来缓慢而痛苦的结局。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 14,
+      "columns": {
+        "Name": [
+          {
+            "en": "Osteomancy",
+            "zh": "白骨法术"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Spikes of bone grow at your command. A fast and deadly magic.",
+            "zh": "任你掌控的尖刺，迅速致命的魔法。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 15,
+      "columns": {
+        "Name": [
+          {
+            "en": "Quick Strikes",
+            "zh": "迅捷打击"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Overwhelm them with a ceaseless flurry of blows. Don't let up.",
+            "zh": "施展无休无止的凌厉攻势，令对手难以招架。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 16,
+      "columns": {
+        "Name": [
+          {
+            "en": "Mobility",
+            "zh": "机动"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Weave through hordes. Dodge out of danger. Close in for the kill.",
+            "zh": "来去如风，闪转腾挪，近身克敌。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 17,
+      "columns": {
+        "Name": [
+          {
+            "en": "Combos",
+            "zh": "连击"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Build up power before unleashing devastating finishers.",
+            "zh": "厚积薄发，使出势大力沉的终极技。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 18,
+      "columns": {
+        "Name": [
+          {
+            "en": "Ammunition",
+            "zh": "弹药"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Switch between varied crossbow ammunition. Adapt to enemy behaviour. Exploit their weaknesses.",
+            "zh": "切换花样百出的战弩弹药，根据敌人的状况灵活应变，利用他们暴露的弱点。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 19,
+      "columns": {
+        "Name": [
+          {
+            "en": "Elemental Rounds",
+            "zh": "元素弹药"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Use cold to freeze them. Use fire rounds to set them aflame. Unleash cascading lightning bolts.",
+            "zh": "以冰霜之力冻结敌人，用烈火弹药将其点燃，再倾泻闪电弩箭予以痛击。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 20,
+      "columns": {
+        "Name": [
+          {
+            "en": "Versatile Range",
+            "zh": "远程多面手"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Adapt to enemy behaviour. Pick them off from afar. Destroy any that get close.",
+            "zh": "根据敌人的状况灵活应变，从远处各个击破，令他们不敢近身。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 21,
+      "columns": {
+        "Name": [
+          {
+            "en": "Shapeshifting",
+            "zh": "变形"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Crush your enemies as a Bear. Tear them to pieces as a Werewolf. Incinerate them as a Wyvern.",
+            "zh": "变形为巨熊碾碎敌人；变形为狼人撕碎敌人；变形为双足飞龙将敌人焚灭殆尽。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 22,
+      "columns": {
+        "Name": [
+          {
+            "en": "Lasting Destruction",
+            "zh": "无尽毁灭"
+          }
+        ],
+        "Description": [
+          {
+            "en": "The wrath of the earth is not easily stilled. The storming sky and fractured earth will not relent until your foes are dust.",
+            "zh": "大地之怒，不会轻易止息。风暴笼罩的天空与崩裂的大地，只有敌人化作尘埃，才会罢休。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 23,
+      "columns": {
+        "Name": [
+          {
+            "en": "Nature's Bounty",
+            "zh": "荒野统御"
+          }
+        ],
+        "Description": [
+          {
+            "en": "The full might of the wilds is yours to command as you see fit. Wing and claw, fire and stone, root and vine — the choice is yours.",
+            "zh": "荒野的全部力量，都任你随心驱使。飞翼与利爪，火焰与岩石，根须与藤蔓——选择权在你手中。"
+          }
+        ]
+      }
+    }
+  ]
+}

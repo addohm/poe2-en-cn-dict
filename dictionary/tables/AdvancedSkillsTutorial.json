@@ -1,0 +1,407 @@
+{
+  "table": "AdvancedSkillsTutorial",
+  "key": "Id",
+  "columns": [
+    "Description",
+    "International_BK2File",
+    "China_BK2File"
+  ],
+  "entries": [
+    {
+      "id": "Blight",
+      "index": 0,
+      "columns": {
+        "Description": [
+          {
+            "en": "A channelled, area of effect chaos spell that applies a debuff to enemies. Debuffed enemies take chaos damage over time as well as having reduced movement speed.",
+            "zh": "一种引导类的混沌法术，会对敌人施加减益效果，持续对其造成混沌伤害，并使其减速。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FreezingPulse",
+      "index": 1,
+      "columns": {
+        "Description": [
+          {
+            "en": "A cold based projectile spell that pierces enemies, dealing cold damage with a chance to freeze. The projectile loses damage and freeze chance based on how far it has travelled.",
+            "zh": "一种冰霜类的投射物法术，可穿透敌人，造成冰霜伤害并有几率冻结敌人。投射物的伤害和冻结几率随飞行距离而降低。 "
+          }
+        ]
+      }
+    },
+    {
+      "id": "LightningTendrils",
+      "index": 2,
+      "columns": {
+        "Description": [
+          {
+            "en": "An area of effect, channelled spell that deals pulses of lightning damage to enemies. The skill releases a stronger pulse every 4 pulses.",
+            "zh": "一种引导类的范围效果法术，对敌人造成闪电伤害。该技能每施放 4 次后，下一次效果增强。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MagmaOrb",
+      "index": 3,
+      "columns": {
+        "Description": [
+          {
+            "en": "A fire based, projectile, area of effect spell. Projectiles bounce towards the target dealing fire damage. The skill chains at higher levels resulting in the projectiles bouncing more times.",
+            "zh": "一种火系投射物类范围法术。投射物向敌人飞去，造成火焰伤害，在高等级时还会有连锁效果，投射物将在多个敌人之间进行弹射。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Fireball ",
+      "index": 4,
+      "columns": {
+        "Description": [
+          {
+            "en": "A fire based, projectile, area of effect spell that deals fire damage to enemies with a high chance to ignite, causing fire damage over time. ",
+            "zh": "一种火系投射物类范围法术，对敌人造成火焰伤害。有较高几率点燃敌人，持续造成火焰伤害。 "
+          }
+        ]
+      }
+    },
+    {
+      "id": "RaiseZombies",
+      "index": 5,
+      "columns": {
+        "Description": [
+          {
+            "en": "A minion spell that raises a zombie from a corpse. The zombie will follow and fight for you with melee attacks.",
+            "zh": "一种仆从技能，可以从尸体中召唤一只魔卫。魔卫将跟随你，并在近战距离中为你战斗。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GlacialHammer",
+      "index": 6,
+      "columns": {
+        "Description": [
+          {
+            "en": "A physical/cold based melee single target attack. Glacial Hammer has a built in chance to freeze and will shatter frozen enemies if they are on low life.",
+            "zh": "一种冰系单目标物理攻击。冰霜之锤自带一定冻结几率，并可击碎低血并被冻结的敌人。 "
+          }
+        ]
+      }
+    },
+    {
+      "id": "EtheralKnives",
+      "index": 7,
+      "columns": {
+        "Description": [
+          {
+            "en": "A physical based projectile spell that launches several projectiles in an arc in front of the caster.",
+            "zh": "一种物理系投射物类法术，在施法者前方圆弧范围内发射投射物。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ExplosiveTrap",
+      "index": 8,
+      "columns": {
+        "Description": [
+          {
+            "en": "Throws a trap that when triggered creates several small explosions that deal physical and fire damage to nearby enemies.",
+            "zh": "投下一个陷阱，触发时产生数次小型爆炸，对周围敌人造成物理和火焰伤害。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FrostBlades",
+      "index": 9,
+      "columns": {
+        "Description": [
+          {
+            "en": "A projectile based melee attack skill that converts 60% of physical damage to cold damage. The melee strike splits into multiple projectiles when hitting the targeted enemy, potentially dealing damage to multiple secondary targets.",
+            "zh": "一种投射物类近战攻击技能，将60%的物理伤害转化为冰霜伤害。该近战攻击在击中敌人后会分裂成多个投射物，并可能对后续多个目标造成伤害。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ViperStrike",
+      "index": 10,
+      "columns": {
+        "Description": [
+          {
+            "en": "A melee single target attack skill that converts 25% of physical damage to chaos damage and has a high chance to poison the targeted enemy.",
+            "zh": "一种近战单体攻击技能，将25%的物理伤害转化为混沌伤害，并有较高几率使目标敌人中毒。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SpectralThrow",
+      "index": 11,
+      "columns": {
+        "Description": [
+          {
+            "en": "Throws a copy of your weapon as a projectile at enemies. The projectile pierces enemies and returns back to the player, potentially hitting an enemy a second time.",
+            "zh": "将你的武器的复制品投向敌人。投射物穿透敌人后返回至施法者处，有可能击中另一名敌人。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "IceShot",
+      "index": 12,
+      "columns": {
+        "Description": [
+          {
+            "en": "Fires an arrow that converts 60% of physical damage to cold. When an arrow hits a target it leaves a patch of chilled ground, slowing affected enemies. It also deals a cone of cold area damage behind the target on impact.",
+            "zh": "射出一枝冰箭，将60%的物理伤害转化为冰霜伤害。冰箭击中目标后产生一片冰缓地面，使敌人减速。在接触时还会在目标后方的锥形区域内造成冰霜范围伤害。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ShrapnelShot",
+      "index": 13,
+      "columns": {
+        "Description": [
+          {
+            "en": "Release a ferocious burst of lightning from your bow. The burst damages close enemies and shoots three arrows in a cone infront of you. The arrows do not last long, and fizzle after a short duration. Galvanic arrow is a skill best used against nearby enemies.",
+            "zh": "用弓箭释放一股闪电爆，对近距敌人造成伤害，并向前方锥形区域发射三枚箭矢。它们会绽放电光，存在很短时间后就会消失。电光箭是用来对付近距敌人的好办法。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SplitArrow",
+      "index": 14,
+      "columns": {
+        "Description": [
+          {
+            "en": "A simple projectile attack that fires multiple arrows.",
+            "zh": "一种简单的投射物类技能，发射多个投射物。 "
+          }
+        ]
+      }
+    },
+    {
+      "id": "GroundSlam",
+      "index": 15,
+      "columns": {
+        "Description": [
+          {
+            "en": "An area of effect, melee attack that deals a wave of area damage with your main hand weapon. Enemies closer to you take more damage. Ground Slam also has an increased chance to stun enemies.",
+            "zh": "一种近战类范围效果攻击技能，使用你的主手武器造成一波范围伤害。与你距离较近的敌人所受伤害较高。裂地之击也可以提高晕眩敌人的几率。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HeavyStrike",
+      "index": 16,
+      "columns": {
+        "Description": [
+          {
+            "en": "A simple melee single target attack that can knock enemies back.",
+            "zh": "一种简单的近战单体攻击技能，可击退敌人。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Cleave ",
+      "index": 17,
+      "columns": {
+        "Description": [
+          {
+            "en": "An area of effect melee attack that deals damage in an arc. When dual-wielding Cleave uses both weapons. ",
+            "zh": "一种近战类范围攻击，造成弧形物理伤害。双持时劈砍会发动两次。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DoubleStrike",
+      "index": 18,
+      "columns": {
+        "Description": [
+          {
+            "en": "A simple single target melee attack that hits a targeted enemy twice in rapid succession. It deals extra physical damage against bleeding enemies.",
+            "zh": "一种简单的单体近战攻击，迅速打击目标敌人两次，对流血的敌人可造成更多物理伤害。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MoltenStrike",
+      "index": 19,
+      "columns": {
+        "Description": [
+          {
+            "en": "An area of effect, melee attack that launches molten projectile balls at enemies. 50% of physical damage is converted to fire damage.",
+            "zh": "一种近战类范围效果攻击，向敌人发射熔岩投射物，并将50%的物理伤害转化为火焰伤害。 "
+          }
+        ]
+      }
+    },
+    {
+      "id": "Smite",
+      "index": 20,
+      "columns": {
+        "Description": [
+          {
+            "en": "A melee attack that causes lightning to strike a targeted location or nearby enemy, dealing area of effect damage. Smite also grants an aura on hit which provides additional lightning damage to you and your allies for a short duration. ",
+            "zh": "一种近战攻击，用闪电打击目标区域或附近的敌人，造成范围伤害。该技能击中后会产生一个光环，在较短时间内支持你和你的队友继续造成闪电伤害。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CausticArrow",
+      "index": 21,
+      "columns": {
+        "Description": [
+          {
+            "en": "A projectile attack that creates a patch of caustic ground on hit which deals chaos damage over time to affected enemies.",
+            "zh": "是一种投射物类攻击，击中后腐蚀一片地面，对受影响的敌人持续造成混沌伤害。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Frostbolt",
+      "index": 22,
+      "columns": {
+        "Description": [
+          {
+            "en": "Fires a slow-moving projectile spell that pierces through enemies, dealing cold damage with a chance to inflict chill and freeze.",
+            "zh": "一种投射物类法术，可穿透敌人，并有几率造成冰缓和冻结。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PurifyingFlame",
+      "index": 23,
+      "columns": {
+        "Description": [
+          {
+            "en": "An area of effect spell that deals physical and fire damage in an area and creates Consecrated Ground. Casting the spell again creates a wave that damages enemies standing on nearby Consecrated Ground.",
+            "zh": "一种范围法术，在一块区域制造物理和火焰伤害，并创造奉献地面。再次施放此法术可以创造一股冲击波，对站在周围奉献地面上的敌人造成伤害。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CobraLash",
+      "index": 24,
+      "columns": {
+        "Description": [
+          {
+            "en": "Throw a projectile copy of your weapon at enemies that bounces between them, poisoning them. \n\nPoison deals chaos damage over time to your enemies based on your chaos and physical damage. You can poison enemies multiple times at once. Requires a Dagger or Claw to use.",
+            "zh": "投掷武器的副本，在敌人之间弹跳，给它们施毒。\n\n基于你的混沌和物理伤害给敌人施加混沌持续伤害。你可以同时对敌人反复施毒。需要匕首或爪类发动。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "StormblastMine",
+      "index": 25,
+      "columns": {
+        "Description": [
+          {
+            "en": "Throw a mine that can be detonated to deal lightning damage to nearby enemies. Can also Shock nearby enemies, increasing their damage taken.\n\nStormblast mines increase the damage taken of nearby enemies. More mines near enemies increases their damage taken.",
+            "zh": "投掷地雷，引爆后对周围敌人造成闪电伤害。可以感电周围的敌人，提高它们受到的闪电伤害。\n\n雷暴地雷可以提高周围敌人受到的伤害。敌人周围的地雷越多，他们受到的伤害就越高。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Perforate",
+      "index": 26,
+      "columns": {
+        "Description": [
+          {
+            "en": "Slam the ground to launch deadly spikes up at enemies. The spikes are tightly packed, can hit multiple enemies, and can hit the same enemy multiple times.\n\nSwitch to Sand Stance using Blood & Sand gems to explode spikes out over a wider area.",
+            "zh": "猛击地面，对敌人发出致命钉刺。钉刺非常密集，可以击中多个敌人，也可以反复击中相同的敌人。\n\n用【血与沙】切换到【沙姿态】可以使钉刺爆发更大的范围。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Frostblink",
+      "index": 27,
+      "columns": {
+        "Description": [
+          {
+            "en": "A Travel utility skill that moves you a short distance, leaving behind an explosion of cold damage and chilled ground to slow enemies. Frostblink is an invaluable skill for avoiding danger.\n\nTravel Skills do not benefit much from support gems, and Frostblink can be used well without supports.",
+            "zh": "实用的旅行技能，让你移动一小段距离，在身后留下爆发的寒冰，冻结地面，给敌人造成冰霜伤害并使其冰缓。【冰霜闪现】用来避开危险时相当好用。\n\n旅行技能不太能从辅助宝石获得好处，而且【冰霜闪现】不用辅助宝石也能发挥良好功效。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Dash",
+      "index": 28,
+      "columns": {
+        "Description": [
+          {
+            "en": "Dash is a Travel utility skill that moves you a short distance, useful for dodging out of harm's way.\n\nTravel skills do not get much benefit from support gems, and Dash can be used well without supports.",
+            "zh": "冲刺是一个实用的旅行技能，让你移动一小段距离，有效避开伤害。\n\n旅行技能不太能从辅助宝石获得好处，而且冲刺不用辅助宝石也能发挥良好功效。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Steelskin",
+      "index": 29,
+      "columns": {
+        "Description": [
+          {
+            "en": "Strengthen your defense, greatly reducing damage taken from hits for a short duration. Steelskin is a Guard utility skill that blocks an amount of damage. Once depleted, the damage will go through to you.\n\nGuard skills do not benefit much from support gems, and Steelskin can be used well without supports.",
+            "zh": "提高防御力，让你在极短时间内大幅降低受到的击中伤害。【钢铁之肤】是一个实用的防卫技能，能有效格挡伤害。一旦耗尽，伤害会重新恢复正常。\n\n防卫技能不太能从辅助宝石获得好处，而且【钢铁之肤】不用辅助宝石也能发挥良好功效。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "KineticBolt",
+      "index": 30,
+      "columns": {
+        "Description": [
+          {
+            "en": "Launch a damaging bolt from your wand that zig zags in front of you. The darting bolt launches a projectile as it turns, damaging enemies.",
+            "zh": "发射一枚伤害性箭矢向前曲折前进，在沿途每次转弯就会发射出一枚投射物，对敌人造成伤害。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SplittingSteel",
+      "index": 31,
+      "columns": {
+        "Description": [
+          {
+            "en": "Throw a splitting bolt of steel from your weapon that explodes on impact, dealing damage in an area. Use the Call of Steel ability from this gem to create Steel Shards that launch with Splitting Steel, exploding into multiple shards to damage nearby enemies.",
+            "zh": "从武器上发射一枚钢铁箭矢，击中时爆炸，造成范围伤害。该技能石可以通过钢铁呼唤产生钢刃碎片，发射分裂钢刃，对周围的敌人反复造成伤害。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ShieldCrush",
+      "index": 32,
+      "columns": {
+        "Description": [
+          {
+            "en": "Swipe your shield, dealing area damage in three waves in front of you. Enemies can be hit by two of the waves where they overlap.",
+            "zh": "挥舞盾牌，朝你面前造成三道范围伤害的冲击波。敌人可以被两道交叠的冲击波伤害。"
+          }
+        ]
+      }
+    }
+  ]
+}

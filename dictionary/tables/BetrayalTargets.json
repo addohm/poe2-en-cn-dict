@@ -1,0 +1,338 @@
+{
+  "table": "BetrayalTargets",
+  "key": "_index",
+  "columns": [
+    "Id",
+    "Art",
+    "FullName",
+    "Safehouse_ARMFile",
+    "ShortName",
+    "ScriptArgument"
+  ],
+  "entries": [
+    {
+      "id": null,
+      "index": 0,
+      "columns": {
+        "FullName": [
+          {
+            "en": "Catarina, Master of Undeath",
+            "zh": "亡灵大师卡塔莉娜"
+          }
+        ],
+        "ShortName": [
+          {
+            "en": "Catarina",
+            "zh": "卡塔莉娜"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 1,
+      "columns": {
+        "FullName": [
+          {
+            "en": "Haku, Warmaster",
+            "zh": "战争大师哈库"
+          }
+        ],
+        "ShortName": [
+          {
+            "en": "Haku",
+            "zh": "哈库"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 2,
+      "columns": {
+        "FullName": [
+          {
+            "en": "Elreon, Light's Judge",
+            "zh": "艾尔雷恩，光之制裁者"
+          }
+        ],
+        "ShortName": [
+          {
+            "en": "Elreon",
+            "zh": "艾尔雷恩"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 3,
+      "columns": {
+        "FullName": [
+          {
+            "en": "Tora, the Culler",
+            "zh": "拣选者，托拉"
+          }
+        ],
+        "ShortName": [
+          {
+            "en": "Tora",
+            "zh": "托拉"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 4,
+      "columns": {
+        "FullName": [
+          {
+            "en": "Vagan, Victory's Herald",
+            "zh": "胜利之捷，瓦甘"
+          }
+        ],
+        "ShortName": [
+          {
+            "en": "Vagan",
+            "zh": "瓦甘"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 5,
+      "columns": {
+        "FullName": [
+          {
+            "en": "Vorici, Silent Brother",
+            "zh": "沉默的兄弟，瓦里西"
+          }
+        ],
+        "ShortName": [
+          {
+            "en": "Vorici",
+            "zh": "瓦里西"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 6,
+      "columns": {
+        "FullName": [
+          {
+            "en": "Hillock, the Blacksmith",
+            "zh": "铁匠西拉克"
+          }
+        ],
+        "ShortName": [
+          {
+            "en": "Hillock",
+            "zh": "西拉克"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 7,
+      "columns": {
+        "FullName": [
+          {
+            "en": "Leo, Wolf of the Pits",
+            "zh": "深渊之狼，里奥"
+          }
+        ],
+        "ShortName": [
+          {
+            "en": "Leo",
+            "zh": "里奥"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 8,
+      "columns": {
+        "FullName": [
+          {
+            "en": "Guff \"Tiny\" Grenn",
+            "zh": "古夫·“小个子”·格伦"
+          }
+        ],
+        "ShortName": [
+          {
+            "en": "Guff",
+            "zh": "古夫"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 9,
+      "columns": {
+        "FullName": [
+          {
+            "en": "Janus Perandus",
+            "zh": "杨纳斯·普兰德斯"
+          }
+        ],
+        "ShortName": [
+          {
+            "en": "Janus",
+            "zh": "杨纳斯"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 10,
+      "columns": {
+        "FullName": [
+          {
+            "en": "It That Fled",
+            "zh": "逃逸怪"
+          }
+        ],
+        "ShortName": [
+          {
+            "en": "It That Fled",
+            "zh": "逃逸怪"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 11,
+      "columns": {
+        "FullName": [
+          {
+            "en": "Gravicius Reborn",
+            "zh": "重生的格拉维奇"
+          }
+        ],
+        "ShortName": [
+          {
+            "en": "Gravicius",
+            "zh": "格拉维奇"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 12,
+      "columns": {
+        "FullName": [
+          {
+            "en": "Thane Jorgin the Banished ",
+            "zh": "被放逐者萨恩·尤尔金 "
+          }
+        ],
+        "ShortName": [
+          {
+            "en": "Jorgin",
+            "zh": "尤尔金"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 13,
+      "columns": {
+        "FullName": [
+          {
+            "en": "Korell Goya, Son of Stone",
+            "zh": "克雷尔·戈亚，石之子"
+          }
+        ],
+        "ShortName": [
+          {
+            "en": "Korell",
+            "zh": "克雷尔"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 14,
+      "columns": {
+        "FullName": [
+          {
+            "en": "Rin Yuushu",
+            "zh": "麟玉树"
+          }
+        ],
+        "ShortName": [
+          {
+            "en": "Rin",
+            "zh": "麟"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 15,
+      "columns": {
+        "FullName": [
+          {
+            "en": "Cameria the Coldblooded",
+            "zh": "冷血的卡美利亚"
+          }
+        ],
+        "ShortName": [
+          {
+            "en": "Cameria",
+            "zh": "卡美利亚"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 16,
+      "columns": {
+        "FullName": [
+          {
+            "en": "Aisling Laffrey, The Silent Butcher",
+            "zh": "爱斯林·拉佛瑞，沉默屠斧"
+          }
+        ],
+        "ShortName": [
+          {
+            "en": "Aisling",
+            "zh": "爱斯林"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 17,
+      "columns": {
+        "FullName": [
+          {
+            "en": "Riker Maloney, Midnight Tinkerer",
+            "zh": "莱克·马洛尼，午夜修补匠"
+          }
+        ],
+        "ShortName": [
+          {
+            "en": "Riker",
+            "zh": "莱克"
+          }
+        ]
+      }
+    }
+  ]
+}

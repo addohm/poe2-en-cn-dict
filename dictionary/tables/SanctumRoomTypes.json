@@ -1,0 +1,193 @@
+{
+  "table": "SanctumRoomTypes",
+  "key": "_index",
+  "columns": [
+    "Id",
+    "Icon",
+    "Description",
+    "__col9",
+    "__col11"
+  ],
+  "entries": [
+    {
+      "id": null,
+      "index": 10,
+      "columns": {
+        "Description": [
+          {
+            "en": "Contains Merchant",
+            "zh": "包含商人"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 11,
+      "columns": {
+        "Description": [
+          {
+            "en": "Awards a Shrine to restore Honour",
+            "zh": "奖励一个神龛，能够恢复荣誉"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 12,
+      "columns": {
+        "Description": [
+          {
+            "en": "Awards a Pledge which can be accepted to change the Trial's Parameters",
+            "zh": "奖励一个誓约，接受誓约可以改变试炼的参数"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 13,
+      "columns": {
+        "Description": [
+          {
+            "en": "Awards a Shrine to restore Honour and gain Sacred Water",
+            "zh": "奖励一个神龛，能够恢复荣誉并获得圣水"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 14,
+      "columns": {
+        "Description": [
+          {
+            "en": "Awards a Shrine that greatly restores Honour and burdens you with an Affliction",
+            "zh": "奖励一个神龛，能够大幅恢复荣誉，并使你受到痛苦折磨"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 15,
+      "columns": {
+        "Description": [
+          {
+            "en": "Awards a Shrine that restores Honour and grants you a Boon",
+            "zh": "奖励一个神龛，能够恢复荣誉，并使你获得一项恩赐"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 16,
+      "columns": {
+        "Description": [
+          {
+            "en": "Awards a Shrine that bestows the fickle Blessings of the Wind",
+            "zh": "奖励一个神龛，能够提供变幻无常的风之祝福"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 17,
+      "columns": {
+        "Description": [
+          {
+            "en": "Awards a Large Sacred Water Fountain",
+            "zh": "奖励一个大型圣水喷泉"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 18,
+      "columns": {
+        "Description": [
+          {
+            "en": "Awards a Sacred Water Fountain",
+            "zh": "奖励一个圣水喷泉"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 20,
+      "columns": {
+        "Description": [
+          {
+            "en": "Awards Bronze Key",
+            "zh": "奖励青铜钥匙"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 21,
+      "columns": {
+        "Description": [
+          {
+            "en": "Awards Silver Key",
+            "zh": "奖励白银钥匙"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 22,
+      "columns": {
+        "Description": [
+          {
+            "en": "Awards Gold Key",
+            "zh": "奖励黄金钥匙"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 23,
+      "columns": {
+        "Description": [
+          {
+            "en": "Awards a Bronze Cache. Requires a Bronze Key to Open",
+            "zh": "奖励一个青铜宝匣，需要一把青铜钥匙才能开启"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 24,
+      "columns": {
+        "Description": [
+          {
+            "en": "Awards a Silver Cache. Requires a Silver Key to Open",
+            "zh": "奖励一个白银宝匣，需要一把白银钥匙才能开启"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 25,
+      "columns": {
+        "Description": [
+          {
+            "en": "Awards a Gold Cache. Requires a Gold Key to Open",
+            "zh": "奖励一个黄金宝匣，需要一把黄金钥匙才能开启"
+          }
+        ]
+      }
+    }
+  ]
+}

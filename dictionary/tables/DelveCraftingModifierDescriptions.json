@@ -1,0 +1,969 @@
+{
+  "table": "DelveCraftingModifierDescriptions",
+  "key": "Id",
+  "columns": [
+    "Description"
+  ],
+  "entries": [
+    {
+      "id": "BetterSellPrice",
+      "index": 0,
+      "columns": {
+        "Description": [
+          {
+            "en": "Item is overvalued by vendors",
+            "zh": "物品会被商贩高价购买"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LuckyMods",
+      "index": 1,
+      "columns": {
+        "Description": [
+          {
+            "en": "Numeric modifier values are lucky\r\nHigh Level modifiers are more common",
+            "zh": "数字属性值特别幸运\r\n高等级属性变得更普通"
+          }
+        ]
+      }
+    },
+    {
+      "id": "RandomModifier",
+      "index": 2,
+      "columns": {
+        "Description": [
+          {
+            "en": "Random effects revealed when resonator is fully socketed",
+            "zh": "插满共振器可以解开一个随机效果"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CorruptEssence",
+      "index": 3,
+      "columns": {
+        "Description": [
+          {
+            "en": "Has a Corrupt Essence modifier",
+            "zh": "具有腐化的精华属性"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Duplicate",
+      "index": 4,
+      "columns": {
+        "Description": [
+          {
+            "en": "Creates a split copy",
+            "zh": "创造一个分裂副本"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AbyssSocket",
+      "index": 5,
+      "columns": {
+        "Description": [
+          {
+            "en": "Has an Abyssal socket",
+            "zh": "具有深渊插槽"
+          }
+        ]
+      }
+    },
+    {
+      "id": "VaalMod",
+      "index": 6,
+      "columns": {
+        "Description": [
+          {
+            "en": "Has a Vaal modifier",
+            "zh": "具有瓦尔属性"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Sockets",
+      "index": 7,
+      "columns": {
+        "Description": [
+          {
+            "en": "More sockets\r\nCan have white sockets",
+            "zh": "更多插槽\r\n可以有白色插槽"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LabryinthEnchant",
+      "index": 8,
+      "columns": {
+        "Description": [
+          {
+            "en": "Has a Labyrinth Enchantment",
+            "zh": "具有升华试炼附魔"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Quality",
+      "index": 9,
+      "columns": {
+        "Description": [
+          {
+            "en": "Improved Quality",
+            "zh": "提高品质"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MorePhysical",
+      "index": 10,
+      "columns": {
+        "Description": [
+          {
+            "en": "More Physical modifiers",
+            "zh": "更多物理属性"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MoreFire",
+      "index": 11,
+      "columns": {
+        "Description": [
+          {
+            "en": "More Fire modifiers",
+            "zh": "更多火焰属性"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MoreCold",
+      "index": 12,
+      "columns": {
+        "Description": [
+          {
+            "en": "More Cold modifiers",
+            "zh": "更多冰霜属性"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MoreLightning",
+      "index": 13,
+      "columns": {
+        "Description": [
+          {
+            "en": "More Lightning modifiers",
+            "zh": "更多闪电属性"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MoreChaos",
+      "index": 14,
+      "columns": {
+        "Description": [
+          {
+            "en": "More Chaos modifiers",
+            "zh": "更多混沌属性"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MoreElemental",
+      "index": 15,
+      "columns": {
+        "Description": [
+          {
+            "en": "More Elemental modifiers",
+            "zh": "更多元素属性"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MoreBleedPoison",
+      "index": 16,
+      "columns": {
+        "Description": [
+          {
+            "en": "More Physical Ailment or Chaos Ailment modifiers",
+            "zh": "更多物理异常状态或混沌异常状态词缀"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MoreLife",
+      "index": 17,
+      "columns": {
+        "Description": [
+          {
+            "en": "More Life modifiers",
+            "zh": "更多生命属性"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MoreDefences",
+      "index": 18,
+      "columns": {
+        "Description": [
+          {
+            "en": "More Defence modifiers",
+            "zh": "更多防御词缀"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MoreCaster",
+      "index": 19,
+      "columns": {
+        "Description": [
+          {
+            "en": "More Caster modifiers",
+            "zh": "更多施法属性"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MoreAttack",
+      "index": 20,
+      "columns": {
+        "Description": [
+          {
+            "en": "More Attack modifiers",
+            "zh": "更多攻击属性"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MoreMana",
+      "index": 21,
+      "columns": {
+        "Description": [
+          {
+            "en": "More Mana modifiers",
+            "zh": "更多魔力属性"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MoreSpeed",
+      "index": 22,
+      "columns": {
+        "Description": [
+          {
+            "en": "More Speed modifiers",
+            "zh": "更多速度属性"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MoreMinionAura",
+      "index": 23,
+      "columns": {
+        "Description": [
+          {
+            "en": "More Minion, Aura or Curse modifiers",
+            "zh": "更多召唤生物、光环或诅咒词缀"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MoreGemLevel",
+      "index": 24,
+      "columns": {
+        "Description": [
+          {
+            "en": "More Gem modifiers",
+            "zh": "更多宝石词缀"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LessCaster",
+      "index": 25,
+      "columns": {
+        "Description": [
+          {
+            "en": "Fewer Caster modifiers",
+            "zh": "更少施法属性"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LessAttack",
+      "index": 26,
+      "columns": {
+        "Description": [
+          {
+            "en": "Fewer Attack modifiers",
+            "zh": "更少攻击属性"
+          }
+        ]
+      }
+    },
+    {
+      "id": "NoPhysical",
+      "index": 27,
+      "columns": {
+        "Description": [
+          {
+            "en": "No Physical modifiers",
+            "zh": "无物理属性"
+          }
+        ]
+      }
+    },
+    {
+      "id": "NoFire",
+      "index": 28,
+      "columns": {
+        "Description": [
+          {
+            "en": "No Fire modifiers",
+            "zh": "无火焰属性"
+          }
+        ]
+      }
+    },
+    {
+      "id": "NoCold",
+      "index": 29,
+      "columns": {
+        "Description": [
+          {
+            "en": "No Cold modifiers",
+            "zh": "无冰霜属性"
+          }
+        ]
+      }
+    },
+    {
+      "id": "NoLightning",
+      "index": 30,
+      "columns": {
+        "Description": [
+          {
+            "en": "No Lightning modifiers",
+            "zh": "无闪电属性"
+          }
+        ]
+      }
+    },
+    {
+      "id": "NoChaos",
+      "index": 31,
+      "columns": {
+        "Description": [
+          {
+            "en": "No Chaos modifiers",
+            "zh": "无混沌属性"
+          }
+        ]
+      }
+    },
+    {
+      "id": "NoLife",
+      "index": 32,
+      "columns": {
+        "Description": [
+          {
+            "en": "No Life modifiers",
+            "zh": "无生命属性"
+          }
+        ]
+      }
+    },
+    {
+      "id": "NoDefences",
+      "index": 33,
+      "columns": {
+        "Description": [
+          {
+            "en": "No Defence modifiers",
+            "zh": "无防御词缀"
+          }
+        ]
+      }
+    },
+    {
+      "id": "NoElemental",
+      "index": 34,
+      "columns": {
+        "Description": [
+          {
+            "en": "No Elemental modifiers",
+            "zh": "无元素属性"
+          }
+        ]
+      }
+    },
+    {
+      "id": "NoBleedPoison",
+      "index": 35,
+      "columns": {
+        "Description": [
+          {
+            "en": "No Physical Ailment or Chaos Ailment Modifiers",
+            "zh": "无物理异常状态或混沌异常状态词缀"
+          }
+        ]
+      }
+    },
+    {
+      "id": "NoMana",
+      "index": 36,
+      "columns": {
+        "Description": [
+          {
+            "en": "No Mana modifiers",
+            "zh": "无魔力属性"
+          }
+        ]
+      }
+    },
+    {
+      "id": "NoSpeed",
+      "index": 37,
+      "columns": {
+        "Description": [
+          {
+            "en": "No Speed modifiers",
+            "zh": "无速度属性"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CorruptedImplicit",
+      "index": 38,
+      "columns": {
+        "Description": [
+          {
+            "en": "Corrupted\r\nHas a Corrupted implicit modifier",
+            "zh": "已腐化\r\n有已腐化的基底词缀"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MoreCritical",
+      "index": 39,
+      "columns": {
+        "Description": [
+          {
+            "en": "More Critical modifiers",
+            "zh": "更多暴击词缀"
+          }
+        ]
+      }
+    },
+    {
+      "id": "NoCritical",
+      "index": 40,
+      "columns": {
+        "Description": [
+          {
+            "en": "No Critical modifiers",
+            "zh": "没有暴击词缀"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MoreAttribute",
+      "index": 41,
+      "columns": {
+        "Description": [
+          {
+            "en": "More Attribute modifiers",
+            "zh": "更多属性词缀"
+          }
+        ]
+      }
+    },
+    {
+      "id": "NoAttribute",
+      "index": 42,
+      "columns": {
+        "Description": [
+          {
+            "en": "No Attribute modifiers",
+            "zh": "没有属性词缀"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GreatlyMoreSpeed",
+      "index": 43,
+      "columns": {
+        "Description": [
+          {
+            "en": "Greatly more Speed modifiers",
+            "zh": "超多速度词缀"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GreatlyMoreResistance",
+      "index": 44,
+      "columns": {
+        "Description": [
+          {
+            "en": "Greatly more Resistance modifiers",
+            "zh": "超多抗性词缀"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GreatlyMorePhysical",
+      "index": 45,
+      "columns": {
+        "Description": [
+          {
+            "en": "Greatly more Physical modifiers",
+            "zh": "超多物理词缀"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GreatlyMoreMinion",
+      "index": 46,
+      "columns": {
+        "Description": [
+          {
+            "en": "Greatly more Minion modifiers",
+            "zh": "超多召唤生物词缀"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GreatlyMoreMana",
+      "index": 47,
+      "columns": {
+        "Description": [
+          {
+            "en": "Greatly more Mana modifiers",
+            "zh": "超多魔力词缀"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GreatlyMoreLightning",
+      "index": 48,
+      "columns": {
+        "Description": [
+          {
+            "en": "Greatly more Lightning modifiers",
+            "zh": "超多闪电词缀"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GreatlyMoreLife",
+      "index": 49,
+      "columns": {
+        "Description": [
+          {
+            "en": "Greatly more Life modifiers",
+            "zh": "超多生命词缀"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GreatlyMoreGem",
+      "index": 50,
+      "columns": {
+        "Description": [
+          {
+            "en": "Greatly more Gem modifiers",
+            "zh": "超多宝石词缀"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GreatlyMoreFire",
+      "index": 51,
+      "columns": {
+        "Description": [
+          {
+            "en": "Greatly more Fire modifiers",
+            "zh": "超多火焰词缀"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GreatlyMoreElemental",
+      "index": 52,
+      "columns": {
+        "Description": [
+          {
+            "en": "Greatly more Elemental modifiers",
+            "zh": "超多元素词缀"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GreatlyMoreDefences",
+      "index": 53,
+      "columns": {
+        "Description": [
+          {
+            "en": "Greatly more Defences modifiers",
+            "zh": "超多防御词缀"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GreatlyMoreDamage",
+      "index": 54,
+      "columns": {
+        "Description": [
+          {
+            "en": "Greatly more Damage modifiers",
+            "zh": "超多伤害总增词缀"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GreatlyMoreCurse",
+      "index": 55,
+      "columns": {
+        "Description": [
+          {
+            "en": "Greatly more Curse modifiers",
+            "zh": "超多诅咒词缀"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GreatlyMoreCritical",
+      "index": 56,
+      "columns": {
+        "Description": [
+          {
+            "en": "Greatly more Critical modifiers",
+            "zh": "超多暴击词缀"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GreatlyMoreCold",
+      "index": 57,
+      "columns": {
+        "Description": [
+          {
+            "en": "Greatly more Cold modifiers",
+            "zh": "超多冰霜词缀"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GreatlyMoreChaos",
+      "index": 58,
+      "columns": {
+        "Description": [
+          {
+            "en": "Greatly more Chaos modifiers",
+            "zh": "超多混沌词缀"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GreatlyMoreCaster",
+      "index": 59,
+      "columns": {
+        "Description": [
+          {
+            "en": "Greatly more Caster modifiers",
+            "zh": "超多施法词缀"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GreatlyMoreAura",
+      "index": 60,
+      "columns": {
+        "Description": [
+          {
+            "en": "Greatly more Aura modifiers",
+            "zh": "超多光环词缀"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GreatlyMoreAttribute",
+      "index": 61,
+      "columns": {
+        "Description": [
+          {
+            "en": "Greatly more Attribute modifiers",
+            "zh": "超多属性词缀"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GreatlyMoreAttack",
+      "index": 62,
+      "columns": {
+        "Description": [
+          {
+            "en": "Greatly more Attack modifiers",
+            "zh": "超多攻击词缀"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GreatlyMoreAilment",
+      "index": 63,
+      "columns": {
+        "Description": [
+          {
+            "en": "Greatly more Ailment modifiers",
+            "zh": "超多异常状态词缀"
+          }
+        ]
+      }
+    },
+    {
+      "id": "NoResistance",
+      "index": 64,
+      "columns": {
+        "Description": [
+          {
+            "en": "No Resistance modifiers",
+            "zh": "没有抗性词缀"
+          }
+        ]
+      }
+    },
+    {
+      "id": "NoMinion",
+      "index": 65,
+      "columns": {
+        "Description": [
+          {
+            "en": "No Minion modifiers",
+            "zh": "没有召唤生物词缀"
+          }
+        ]
+      }
+    },
+    {
+      "id": "NoGem",
+      "index": 66,
+      "columns": {
+        "Description": [
+          {
+            "en": "No Gem modifiers",
+            "zh": "没有宝石词缀"
+          }
+        ]
+      }
+    },
+    {
+      "id": "NoDamage",
+      "index": 67,
+      "columns": {
+        "Description": [
+          {
+            "en": "No Damage modifiers",
+            "zh": "没有伤害词缀"
+          }
+        ]
+      }
+    },
+    {
+      "id": "NoCurse",
+      "index": 68,
+      "columns": {
+        "Description": [
+          {
+            "en": "No Curse modifiers",
+            "zh": "没有诅咒词缀"
+          }
+        ]
+      }
+    },
+    {
+      "id": "NoCaster",
+      "index": 69,
+      "columns": {
+        "Description": [
+          {
+            "en": "No Caster modifiers",
+            "zh": "没有施法词缀"
+          }
+        ]
+      }
+    },
+    {
+      "id": "NoAura",
+      "index": 70,
+      "columns": {
+        "Description": [
+          {
+            "en": "No Aura modifiers",
+            "zh": "没有光环词缀"
+          }
+        ]
+      }
+    },
+    {
+      "id": "NoAttack",
+      "index": 71,
+      "columns": {
+        "Description": [
+          {
+            "en": "No Attack modifiers",
+            "zh": "没有攻击词缀"
+          }
+        ]
+      }
+    },
+    {
+      "id": "NoAilment",
+      "index": 72,
+      "columns": {
+        "Description": [
+          {
+            "en": "No Ailment modifiers",
+            "zh": "没有异常状态词缀"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MoreResistance",
+      "index": 73,
+      "columns": {
+        "Description": [
+          {
+            "en": "More Resistance modifiers",
+            "zh": "更多抗性词缀"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MoreMinion",
+      "index": 74,
+      "columns": {
+        "Description": [
+          {
+            "en": "More Minion modifiers",
+            "zh": "更多召唤生物词缀"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MoreGem",
+      "index": 75,
+      "columns": {
+        "Description": [
+          {
+            "en": "More Gem modifiers",
+            "zh": "更多宝石词缀"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MoreDamage",
+      "index": 76,
+      "columns": {
+        "Description": [
+          {
+            "en": "More Damage modifiers",
+            "zh": "更多伤害词缀"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MoreCurse",
+      "index": 77,
+      "columns": {
+        "Description": [
+          {
+            "en": "More Curse modifiers",
+            "zh": "更多诅咒词缀"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MoreAura",
+      "index": 78,
+      "columns": {
+        "Description": [
+          {
+            "en": "More Aura modifiers",
+            "zh": "更多光环词缀"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MoreAilment",
+      "index": 79,
+      "columns": {
+        "Description": [
+          {
+            "en": "More Ailment modifiers",
+            "zh": "更多异常状态词缀"
+          }
+        ]
+      }
+    }
+  ]
+}

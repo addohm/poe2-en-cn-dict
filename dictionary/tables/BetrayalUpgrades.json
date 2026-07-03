@@ -1,0 +1,905 @@
+{
+  "table": "BetrayalUpgrades",
+  "key": "Id",
+  "columns": [
+    "Name",
+    "Description",
+    "ArtFile"
+  ],
+  "entries": [
+    {
+      "id": "NoItem",
+      "index": 0,
+      "columns": {
+        "Name": [
+          {
+            "en": "None",
+            "zh": "无"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Boots1",
+      "index": 1,
+      "columns": {
+        "Name": [
+          {
+            "en": "Korim's Journey",
+            "zh": "克里姆的旅靴"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Increased Movement Speed",
+            "zh": "跑得飞快！"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Boots2",
+      "index": 2,
+      "columns": {
+        "Name": [
+          {
+            "en": "Azal's Alacrium",
+            "zh": "阿扎尔的软靴"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Attack Speed",
+            "zh": "攻击速度"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Boots3",
+      "index": 3,
+      "columns": {
+        "Name": [
+          {
+            "en": "Harimal's Invasion",
+            "zh": "哈利马尔的侵略之靴"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Onslaught on Hit",
+            "zh": "击中造成猛攻"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Boots4",
+      "index": 4,
+      "columns": {
+        "Name": [
+          {
+            "en": "Urdamel's Age",
+            "zh": "乌达梅尔的老鞋"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Increased Life",
+            "zh": "生命提高"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Boots5",
+      "index": 5,
+      "columns": {
+        "Name": [
+          {
+            "en": "Tau Poh's Toes",
+            "zh": "陶彭的十趾靴"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Cast Speed",
+            "zh": "施法速度"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Boots6",
+      "index": 6,
+      "columns": {
+        "Name": [
+          {
+            "en": "Lorag's Firestarter",
+            "zh": "罗格的踏火靴"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Physical Damage added as Fire. All Damage Ignites",
+            "zh": "物理伤害作为火焰伤害。所有伤害都可以点燃"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Boots7",
+      "index": 7,
+      "columns": {
+        "Name": [
+          {
+            "en": "Tekiton's Heel",
+            "zh": "泰希顿之足"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Stun Chance",
+            "zh": "晕眩几率"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Boots8",
+      "index": 8,
+      "columns": {
+        "Name": [
+          {
+            "en": "Elgan's Crossing",
+            "zh": "艾尔根的十字靴"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Cannot be Slowed below Base Speed",
+            "zh": "减缓不会低于基础速度"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Boots9",
+      "index": 9,
+      "columns": {
+        "Name": [
+          {
+            "en": "Bu's Green Path",
+            "zh": "布尔的绿草靴"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Poison on Hit",
+            "zh": "击中造成中毒"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Boots10",
+      "index": 10,
+      "columns": {
+        "Name": [
+          {
+            "en": "Cantar's Tangle",
+            "zh": "坎塔尔的混乱之靴"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Explodes Corpses into Vines",
+            "zh": "爆炸的灵柩变成藤壁"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HelmetAttachment1",
+      "index": 11,
+      "columns": {
+        "Name": [
+          {
+            "en": "Raust's Blessings",
+            "zh": "劳斯特的祝福之靴"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Extra Energy Shield",
+            "zh": "额外能量护盾"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HelmetAttachment2",
+      "index": 12,
+      "columns": {
+        "Name": [
+          {
+            "en": "Gogori's Army",
+            "zh": "果戈里的大军"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Bleed on Hit",
+            "zh": "击中造成流血"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HelmetAttachment3",
+      "index": 13,
+      "columns": {
+        "Name": [
+          {
+            "en": "Urdamel's Madness",
+            "zh": "乌达梅尔的疯狂"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Creates Unholy Sentinels",
+            "zh": "创造邪恶哨兵"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HelmetAttachment4",
+      "index": 14,
+      "columns": {
+        "Name": [
+          {
+            "en": "Silas' Spires",
+            "zh": "希拉斯的尖顶"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Increased Area of Effect",
+            "zh": "效果区域扩大"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HelmetAttachment5",
+      "index": 15,
+      "columns": {
+        "Name": [
+          {
+            "en": "Lorag's Dream",
+            "zh": "罗格之梦"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Hexproof",
+            "zh": "诅咒免疫"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HelmetAttachment6",
+      "index": 16,
+      "columns": {
+        "Name": [
+          {
+            "en": "Azal's Eye",
+            "zh": "阿扎尔之眼"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Physical Damage added as Cold. All Damage Chills",
+            "zh": "物理伤害作为冰冷伤害。所有伤害都可以冰缓"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HelmetAttachment7",
+      "index": 17,
+      "columns": {
+        "Name": [
+          {
+            "en": "Moknuma's Watch",
+            "zh": "蒙克姆码的守望"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Critical Strike and Accuracy",
+            "zh": "暴击和命中"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HelmetAttachment8",
+      "index": 18,
+      "columns": {
+        "Name": [
+          {
+            "en": "Bu's Delight",
+            "zh": "布尔的喜悦"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Consumes corpses for Life",
+            "zh": "吞噬灵柩换取生命"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HelmetAttachment9",
+      "index": 19,
+      "columns": {
+        "Name": [
+          {
+            "en": "Harimal's Wall",
+            "zh": "哈利马尔之墙"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Grants Summon Petrify Statue",
+            "zh": "获得召唤石化塑像"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HelmetAttachment10",
+      "index": 20,
+      "columns": {
+        "Name": [
+          {
+            "en": "Sen-Kin's Descent",
+            "zh": "森金的头冠"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Cannot be Leeched From",
+            "zh": "无法生命偷取于"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BackAttachment1",
+      "index": 21,
+      "columns": {
+        "Name": [
+          {
+            "en": "Akanilim's Hide",
+            "zh": "阿卡尼尔姆之皮"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Fire Resistance",
+            "zh": "火焰抗性"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BackAttachment2",
+      "index": 22,
+      "columns": {
+        "Name": [
+          {
+            "en": "Shiaphet's Pall",
+            "zh": "夏菲特之幕"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Lightning Resistance",
+            "zh": "闪电抗性"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BackAttachment3",
+      "index": 23,
+      "columns": {
+        "Name": [
+          {
+            "en": "Xunti's Parasol",
+            "zh": "夏安缇之伞"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Cold Resistance",
+            "zh": "冰霜抗性"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BackAttachment4",
+      "index": 24,
+      "columns": {
+        "Name": [
+          {
+            "en": "Tekiton's Spine",
+            "zh": "泰希顿之脊"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Physical Reduction",
+            "zh": "物理减免"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BackAttachment5",
+      "index": 25,
+      "columns": {
+        "Name": [
+          {
+            "en": "Gogori's Plague",
+            "zh": "果戈里的瘟疫"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Chaos Resistance",
+            "zh": "混沌抗性"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BackAttachment6",
+      "index": 26,
+      "columns": {
+        "Name": [
+          {
+            "en": "Harimal's Campaign",
+            "zh": "哈利马尔的战役"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Multiple Projectiles",
+            "zh": "多重投射物"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BackAttachment7",
+      "index": 27,
+      "columns": {
+        "Name": [
+          {
+            "en": "Tau Poh's Banner",
+            "zh": "陶彭的旗帜"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Ailment Avoidance",
+            "zh": "异常状态减免"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BackAttachment8",
+      "index": 28,
+      "columns": {
+        "Name": [
+          {
+            "en": "Bu's Bottle",
+            "zh": "布尔的瓶子"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Creates Unholy Relics",
+            "zh": "创造邪恶圣物"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BackAttachment9",
+      "index": 29,
+      "columns": {
+        "Name": [
+          {
+            "en": "Rithkin's Dance",
+            "zh": "里锡金之舞"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Physical Damage added as Lightning. All Damage Shocks",
+            "zh": "物理伤害作为闪电伤害。所有伤害都可以感电"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BackAttachment10",
+      "index": 30,
+      "columns": {
+        "Name": [
+          {
+            "en": "Cantar's Coffin",
+            "zh": "坎塔尔的棺木"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Explodes corpses into Acid",
+            "zh": "爆炸的灵柩变成强酸"
+          }
+        ]
+      }
+    },
+    {
+      "id": "TwoHandAxe1",
+      "index": 31,
+      "columns": {
+        "Name": [
+          {
+            "en": "Silas' Flattener",
+            "zh": "希拉斯的平锤"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Increased Area of Effect",
+            "zh": "效果区域扩大"
+          }
+        ]
+      }
+    },
+    {
+      "id": "TwoHandMace1",
+      "index": 32,
+      "columns": {
+        "Name": [
+          {
+            "en": "Moknuma's Storm",
+            "zh": "蒙克姆码的风暴"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Maim on Hit",
+            "zh": "击中造成瘫痪"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Bow1",
+      "index": 33,
+      "columns": {
+        "Name": [
+          {
+            "en": "Gogori's Stinger",
+            "zh": "果戈里的刺弓"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Far Shot",
+            "zh": "远射"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Bow2",
+      "index": 34,
+      "columns": {
+        "Name": [
+          {
+            "en": "Xunti's Zither",
+            "zh": "夏安缇的琴弓"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Point Blank",
+            "zh": "零点射击"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Bow3",
+      "index": 35,
+      "columns": {
+        "Name": [
+          {
+            "en": "Rithkin's Burden",
+            "zh": "里锡金的负罪"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Gain Frenzy Charge on Hit",
+            "zh": "击中获得狂怒球"
+          }
+        ]
+      }
+    },
+    {
+      "id": "OneHandSword1",
+      "index": 36,
+      "columns": {
+        "Name": [
+          {
+            "en": "Sen-Kin's Haunt",
+            "zh": "森金之魂"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Critical Strike Chance and Multiplier",
+            "zh": "暴击率和加成"
+          }
+        ]
+      }
+    },
+    {
+      "id": "OneHandSword2",
+      "index": 37,
+      "columns": {
+        "Name": [
+          {
+            "en": "Akanilim's Pattern",
+            "zh": "阿卡尼尔姆的图剑"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Attack Speed",
+            "zh": "攻击速度"
+          }
+        ]
+      }
+    },
+    {
+      "id": "OneHandSword3",
+      "index": 38,
+      "columns": {
+        "Name": [
+          {
+            "en": "Korim's Decapitator",
+            "zh": "克里姆的斩首者"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Attack Damage",
+            "zh": "攻击伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": "OneHandSword4",
+      "index": 39,
+      "columns": {
+        "Name": [
+          {
+            "en": "Shiaphet's Needle",
+            "zh": "夏菲特之针"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Impale on Hit",
+            "zh": "击中造成穿刺"
+          }
+        ]
+      }
+    },
+    {
+      "id": "OneHandMace1",
+      "index": 40,
+      "columns": {
+        "Name": [
+          {
+            "en": "Raust's Judgement",
+            "zh": "劳斯特的审判"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Gain Endurance Charge on Hit",
+            "zh": "击中获得耐力球"
+          }
+        ]
+      }
+    },
+    {
+      "id": "OneHandMace2",
+      "index": 41,
+      "columns": {
+        "Name": [
+          {
+            "en": "Elgan's Ritual",
+            "zh": "艾尔根的祭祀"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Attack Speed",
+            "zh": "攻击速度"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Sceptre1",
+      "index": 42,
+      "columns": {
+        "Name": [
+          {
+            "en": "Urdamel's Tyranny",
+            "zh": "乌达梅尔的暴虐"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Elemental Damage",
+            "zh": "元素伤害"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Dagger1",
+      "index": 43,
+      "columns": {
+        "Name": [
+          {
+            "en": "Tau Poh's Deception",
+            "zh": "陶彭的欺诈"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Gain Power Charge on Hit",
+            "zh": "击中获得暴击球"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Dagger2",
+      "index": 44,
+      "columns": {
+        "Name": [
+          {
+            "en": "Bu's Blossom",
+            "zh": "布尔的死亡绽放"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Blind on Hit",
+            "zh": "击中造成盲目"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Shield1",
+      "index": 45,
+      "columns": {
+        "Name": [
+          {
+            "en": "Tekiton's Mountain",
+            "zh": "泰希顿的山巅"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Additional Block Chance",
+            "zh": "额外格挡几率"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Shield2",
+      "index": 46,
+      "columns": {
+        "Name": [
+          {
+            "en": "Harimal's Feint",
+            "zh": "哈利马尔的佯攻"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Fortify on Hit",
+            "zh": "击中获得护体"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Claw1",
+      "index": 47,
+      "columns": {
+        "Name": [
+          {
+            "en": "Cantar's Pack",
+            "zh": "坎塔尔的兽爪"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Life Leech",
+            "zh": "生命偷取"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Gloves1",
+      "index": 48,
+      "columns": {
+        "Name": [
+          {
+            "en": "Moknuma's Conjuring",
+            "zh": "蒙克姆码的魔力"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Arcane Surge on Hit",
+            "zh": "击中获得秘术增强"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Gloves2",
+      "index": 49,
+      "columns": {
+        "Name": [
+          {
+            "en": "Azal's Manipulation",
+            "zh": "阿扎尔的操控"
+          }
+        ],
+        "Description": [
+          {
+            "en": "Hinder on Hit",
+            "zh": "击中造成缓速"
+          }
+        ]
+      }
+    }
+  ]
+}

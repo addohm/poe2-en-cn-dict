@@ -1,0 +1,284 @@
+{
+  "table": "GamepadButton",
+  "key": "_index",
+  "columns": [
+    "__col0",
+    "__col1",
+    "__col2",
+    "__col3",
+    "__col4",
+    "__col5"
+  ],
+  "entries": [
+    {
+      "id": null,
+      "index": 0,
+      "columns": {
+        "__col1": [
+          {
+            "en": "D-pad Up",
+            "zh": "十字键上"
+          }
+        ],
+        "__col3": [
+          {
+            "en": "Up",
+            "zh": "上"
+          }
+        ],
+        "__col4": [
+          {
+            "en": "D-pad Up",
+            "zh": "十字键上"
+          }
+        ],
+        "__col5": [
+          {
+            "en": "Up",
+            "zh": "上"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 1,
+      "columns": {
+        "__col1": [
+          {
+            "en": "D-pad Down",
+            "zh": "十字键下"
+          }
+        ],
+        "__col3": [
+          {
+            "en": "Down",
+            "zh": "下"
+          }
+        ],
+        "__col4": [
+          {
+            "en": "D-pad Down",
+            "zh": "十字键下"
+          }
+        ],
+        "__col5": [
+          {
+            "en": "Down",
+            "zh": "下"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 2,
+      "columns": {
+        "__col1": [
+          {
+            "en": "D-pad Left",
+            "zh": "十字键左"
+          }
+        ],
+        "__col3": [
+          {
+            "en": "Left",
+            "zh": "左"
+          }
+        ],
+        "__col4": [
+          {
+            "en": "D-pad Left",
+            "zh": "十字键左"
+          }
+        ],
+        "__col5": [
+          {
+            "en": "Left",
+            "zh": "左"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 3,
+      "columns": {
+        "__col1": [
+          {
+            "en": "D-pad Right",
+            "zh": "十字键右"
+          }
+        ],
+        "__col3": [
+          {
+            "en": "Right",
+            "zh": "右"
+          }
+        ],
+        "__col4": [
+          {
+            "en": "D-pad Right",
+            "zh": "十字键右"
+          }
+        ],
+        "__col5": [
+          {
+            "en": "Right",
+            "zh": "右"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 4,
+      "columns": {
+        "__col1": [
+          {
+            "en": "Menu",
+            "zh": "菜单"
+          }
+        ],
+        "__col3": [
+          {
+            "en": "OPTIONS",
+            "zh": "选项"
+          }
+        ],
+        "__col4": [
+          {
+            "en": "Options",
+            "zh": "选项"
+          }
+        ],
+        "__col5": [
+          {
+            "en": "Options",
+            "zh": "选项"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 5,
+      "columns": {
+        "__col1": [
+          {
+            "en": "View",
+            "zh": "查看"
+          }
+        ],
+        "__col3": [
+          {
+            "en": "Touch Pad Button",
+            "zh": "触控板按钮"
+          }
+        ],
+        "__col4": [
+          {
+            "en": "View",
+            "zh": "查看"
+          }
+        ],
+        "__col5": [
+          {
+            "en": "Touch Pad Button",
+            "zh": "触控板按钮"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 10,
+      "columns": {
+        "__col3": [
+          {
+            "en": "Cross",
+            "zh": "十字键"
+          }
+        ],
+        "__col5": [
+          {
+            "en": "Cross",
+            "zh": "十字键"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 11,
+      "columns": {
+        "__col3": [
+          {
+            "en": "Circle",
+            "zh": "圆圈键"
+          }
+        ],
+        "__col5": [
+          {
+            "en": "Circle",
+            "zh": "圆圈键"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 12,
+      "columns": {
+        "__col3": [
+          {
+            "en": "Triangle",
+            "zh": "三角键"
+          }
+        ],
+        "__col5": [
+          {
+            "en": "Triangle",
+            "zh": "三角键"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 13,
+      "columns": {
+        "__col3": [
+          {
+            "en": "Square",
+            "zh": "正方键"
+          }
+        ],
+        "__col5": [
+          {
+            "en": "Square",
+            "zh": "正方键"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 20,
+      "columns": {
+        "__col3": [
+          {
+            "en": "Share",
+            "zh": "分享"
+          }
+        ],
+        "__col5": [
+          {
+            "en": "Create",
+            "zh": "创建"
+          }
+        ]
+      }
+    }
+  ]
+}

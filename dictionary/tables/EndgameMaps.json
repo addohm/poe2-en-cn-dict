@@ -1,0 +1,2269 @@
+{
+  "table": "EndgameMaps",
+  "key": "_index",
+  "columns": [
+    "FlavourText",
+    "SpecialMapText",
+    "SpecialMapFlavourText",
+    "SpecialMapHelpText",
+    "__col25"
+  ],
+  "entries": [
+    {
+      "id": null,
+      "index": 0,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "The last light at the end of the world.",
+            "zh": "世界尽头的最后一点微光。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 1,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "Bright colours hide the rot beneath.",
+            "zh": "明艳的色彩掩盖了底下的腐朽。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 2,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "Wild lands spurn those who claim to rule them.",
+            "zh": "荒芜之地唾弃那些自诩为统治者的人。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 3,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "Time overwhelms even the sturdiest walls.",
+            "zh": "时光终将淹没最坚固的城墙。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 4,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "Restless prisoners yearn for freedom.",
+            "zh": "不安的囚徒渴望着自由。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 5,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "The grandest of monuments, standing proudly before an audience of none.",
+            "zh": "最宏伟的纪念碑，傲然矗立在没有观众的舞台上。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 6,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "A haven for seabirds. A hazard for sailors.",
+            "zh": "海鸟的庇护所，水手的险途。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 7,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "No living hands ever stoked these flames.",
+            "zh": "从无活人的手曾为这些火焰添薪。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 8,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "Beasts of many kinds sought shelter one final time.",
+            "zh": "百兽最后一次在此寻求庇护。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 9,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "These waters devour the same souls they feed.",
+            "zh": "这片水域既滋养灵魂，也吞噬灵魂。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 10,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "The woods give their leaves to the seasons. Man takes the rest.",
+            "zh": "树林随季节更迭献出叶片，其余则尽归人类之手。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 11,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "Humanity trapped within a cage of desperation and agony.",
+            "zh": "人类被困于绝望与痛苦的牢笼之中。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 12,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "Leaves cling to trees as souls cling to life.",
+            "zh": "叶附于枝，如魂恋于生。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 13,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "Sturdy walls held out an armada, but not the famine it brought.",
+            "zh": "坚固的城墙抵御了舰队，却未能抵挡随之而来的饥荒。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 14,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "The last vestiges of earth, lost beyond the sky.",
+            "zh": "大地最后的残迹，迷失于苍穹之外。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 15,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "Silent stones mark ancient graves and forgotten sorrows.",
+            "zh": "沉默的石头标记着古老的坟墓与被遗忘的哀伤。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 16,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "Those killed in battle do not rest peacefully.",
+            "zh": "战死沙场者，不得安息。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 17,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "The tears of a ravaged earth.",
+            "zh": "饱受摧残的大地流下的泪水。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 18,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "The fetid home of foul generations.",
+            "zh": "污秽世代的恶臭家园。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 19,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "Rushing waters threaten to move the earth.",
+            "zh": "湍急的流水誓要撼动大地。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 20,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "Even the sparse vegetation does not linger here long.",
+            "zh": "连稀疏的植被也不会在此久留。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 21,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "Stagnant oils mix to form a deadly concoction.",
+            "zh": "停滞的油料混合成致命的毒剂。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 22,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "Vast lairs of silk span the treetops.",
+            "zh": "巨大的丝巢横跨树梢。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 23,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "Darkness enshrouds these endless chasms.",
+            "zh": "黑暗笼罩着无尽深渊。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 24,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "Hubris convinces men they can survive the mistakes of their forebears.",
+            "zh": "狂妄使人相信，自己能逃脱先辈错误的覆辙。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 25,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "Poisoned trees bear pestilent fruits.",
+            "zh": "毒树结恶果。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 26,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "The ground shifts underfoot with disturbing ease.",
+            "zh": "脚下的大地轻易便会松动。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 27,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "Shafts of light raise life where they fall.",
+            "zh": "光束落处，生命萌发。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 28,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "A wound carved into the world, never to heal.",
+            "zh": "刻在世上的伤口，永远无法愈合。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 29,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "The path grows treacherous as the world falls away.",
+            "zh": "随着世界分崩离析，前路也变得险恶。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 30,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "They watched the birds to foretell what any fool could see.",
+            "zh": "他们观测鸟类的预兆，而愚者一目了然之事，他们却视而不见。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 31,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "The final court for aristocrats no longer deemed fit to rule.",
+            "zh": "贵族们最后的法庭，他们已不再被认为适合统治。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 32,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "Dark energies congeal the lifeblood of the forest.",
+            "zh": "黑暗的能量凝结成森林的命脉。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 33,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "Fishermen once reaped a rich bounty here.",
+            "zh": "渔民曾在此收获丰饶。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 34,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "Spores dance through the air in search of new hosts.",
+            "zh": "孢子在空中舞动，寻觅新的宿主。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 35,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "A city ravaged by time and sands.",
+            "zh": "被时光与黄沙摧残的城市。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 36,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "Avarice in the conqueror builds contempt among the conquered.",
+            "zh": "征服者的贪婪，在被征服者心中种下仇恨。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 37,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "The work of an invisible empire.",
+            "zh": "一个无形帝国的手笔。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 38,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "Embers swirl as bark crackles and sparks.",
+            "zh": "余烬飞舞，树皮爆裂，火星四溅。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 39,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "A dark labyrinth of steel and stone.",
+            "zh": "钢铁与岩石构筑的黑暗迷宫。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 40,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "Hidden amongst sunbleached wastes lies a mockery of paradise.",
+            "zh": "隐匿于日光炙烤的废土之中，是对天堂的嘲弄。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 41,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "Stone shelters brace against the doom of the desert.",
+            "zh": "石质掩体抵御着沙漠的毁灭之力。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 42,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "Life abounds on the shells of its dead ancestors.",
+            "zh": "生命在其死去先祖的壳上蓬勃生长。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 43,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "This Vaal structure is not lost in the jungle. Not yet.",
+            "zh": "这座瓦尔建筑尚未被丛林吞没，尚未。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 44,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "A heart of corruption, borne of steel.",
+            "zh": "腐化的心脏，由钢铁所生。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 45,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "A heart of corruption, borne of stone.",
+            "zh": "腐化的心脏，由岩石所生。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 46,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "A heart of corruption, borne of copper.",
+            "zh": "腐化的心脏，由古铜所生。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 47,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "Hulls crash and splinter upon the shores.",
+            "zh": "船体撞击海岸，碎裂四散。"
+          }
+        ],
+        "__col25": [
+          {
+            "en": "All that glitters...",
+            "zh": "所有闪闪发光之物……"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 48,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "Life grows strong in this realm of plenty.",
+            "zh": "生命在这片丰饶之地茁壮成长。"
+          }
+        ],
+        "__col25": [
+          {
+            "en": "Almost paradise.",
+            "zh": "近乎天堂。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 49,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "By that era, Kamasa was just a name. Gold was their true god.",
+            "zh": "那个时代，卡马萨不过是一个名字。黄金才是他们真正的神。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 50,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "A travelling merchant offers wares in perilous times.",
+            "zh": "游商于危难之际，贩卖货物。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 51,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "A travelling merchant offers wares in perilous times.",
+            "zh": "游商于危难之际，贩卖货物。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 52,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "A travelling merchant offers wares in perilous times.",
+            "zh": "游商于危难之际，贩卖货物。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 53,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "A travelling merchant offers wares in perilous times.",
+            "zh": "游商于危难之际，贩卖货物。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 54,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "A travelling merchant offers wares in perilous times.",
+            "zh": "游商于危难之际，贩卖货物。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 55,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "The hunt never ends... but it does pause for rests.",
+            "zh": "狩猎永无止境……但确实也会歇歇脚。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 56,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "A travelling merchant offers wares in perilous times.",
+            "zh": "游商于危难之际，贩卖货物。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 57,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "A travelling merchant offers wares in perilous times.",
+            "zh": "游商于危难之际，贩卖货物。"
+          }
+        ],
+        "__col25": [
+          {
+            "en": "A good fellow...",
+            "zh": "一个好人……"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 58,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "A travelling merchant offers wares in perilous times.",
+            "zh": "游商于危难之际，贩卖货物。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 59,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "Vice wears a mask of simplicity.",
+            "zh": "恶习戴着朴素的面具。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 60,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "Aeons of wear have rotted steel to its core.",
+            "zh": "万古侵蚀，钢铁已然朽烂。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 61,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "Humid air chokes and twists everything it touches.",
+            "zh": "潮湿的空气令人窒息，扭曲其所触及的一切。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 62,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "The land returns the dead as easily as it received them.",
+            "zh": "大地接纳亡者，一如来时那般轻易。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 63,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "Mud and air seethes with warped life.",
+            "zh": "泥泞与空气中翻涌着扭曲的生命。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 64,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "A fortress of fallen wood.",
+            "zh": "由朽木筑成的堡垒。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 65,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "A forgotten grotto, lost to the world.",
+            "zh": "一处被世界遗忘的幽僻洞穴。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 66,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "A fragment of a glorious past.",
+            "zh": "辉煌往昔的碎片。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 67,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "A moment in time, on the eve of the end.",
+            "zh": "终结前夕的瞬间。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 68,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "Wet stone emanates an inner warmth. Vaal brilliance lies in wait.",
+            "zh": "潮湿的岩石，内在的温热，都是瓦尔的智慧。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 69,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "The waters have returned, but no empire remains to greet them.",
+            "zh": "潮水已归，却再无帝国相迎。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 70,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "The cult of Kamasa exploited Utzaal long before its fall.",
+            "zh": "早在乌扎尔陷落之前，卡马萨邪教便已在此盘踞。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 71,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "Remnants of Vaal artifice still remain.",
+            "zh": "瓦尔的神奇技艺依然留存着只鳞片爪。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 72,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "Bleak heights overlook a devastated land.",
+            "zh": "荒凉的高地俯瞰着满目疮痍的大地。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 73,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "Life still clings to the highest places.",
+            "zh": "生命仍在至高处顽强存续。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 74,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "As separate worlds draw ever closer, the Nameless gather at the edge of existence.",
+            "zh": "随着诸界日益临近，无名者聚于存在的边缘。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 75,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "The prismatic patterns of Time shimmer and coalesce in vast geodes hidden from sight.",
+            "zh": "时间的虹彩在隐秘的巨型晶洞中闪烁凝聚。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 76,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "<i>{\"Sons from foreign shores}\n<i>{Took refuge from the storm}\n<i>{Bringing knowledge of runes}\n<i>{Our fate was carved soon.\"} \r\n- Ezomyte Folklore",
+            "zh": "<i>{“异邦之子远渡重洋}\n<i>{避风暴之灾殃}\n<i>{携符文之智识}\n<i>{铸吾等之命章。\"} \r\n——艾兹麦民谣"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 77,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "The Spirit guides the mountain-born.",
+            "zh": "万灵指引着山岳之子。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 78,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "A mirror is a perfect prison for one's sense of self... until it cracks.",
+            "zh": "镜子是自我意识的完美牢笼……直到它碎裂。"
+          }
+        ],
+        "__col25": [
+          {
+            "en": "Reflective waters...",
+            "zh": "倒映的水面……"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 79,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "Beware a chill colder than death itself.",
+            "zh": "当心比死亡本身更冰冷的寒意。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 80,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "The Cataclysm tore the land asunder.",
+            "zh": "灾变将大地撕裂。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 81,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "A rare enclave of fertile earth.",
+            "zh": "一处罕见的沃土飞地。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 82,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "A refuge from the villains it once contained.",
+            "zh": "曾囚恶徒之所，今成其避难之地。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 83,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "Valako kept them here, to perfect their skills for war... but the Blood Fever consumed them.",
+            "zh": "瓦拉克将他们留于此地，精进战技……但血热病吞噬了他们。"
+          }
+        ],
+        "SpecialMapText": [
+          {
+            "en": "Eye of the Storm",
+            "zh": "风暴之眼"
+          }
+        ],
+        "SpecialMapFlavourText": [
+          {
+            "en": "Within the storm, warriors can be seen, heard and feared.",
+            "zh": "风暴之中，可见战士的身影，可闻其战吼，可感其威压。"
+          }
+        ],
+        "SpecialMapHelpText": [
+          {
+            "en": "Find and activate a Karui Beacon in a nearby Map to remove the Maelstrom and gain access to this Map.",
+            "zh": "在附近的地图中找到并激活一个卡鲁信标，以驱散大漩涡，进入此地图。"
+          }
+        ],
+        "__col25": [
+          {
+            "en": "Crazed Chieftain...",
+            "zh": "疯狂的酋长……"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 84,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "The Temporal's tongue captures the ear of those vying for power.",
+            "zh": "时空之舌攫住了那些争权夺利者的耳朵。"
+          }
+        ],
+        "SpecialMapText": [
+          {
+            "en": "Temporal Sandstorm",
+            "zh": "时空沙暴"
+          }
+        ],
+        "SpecialMapFlavourText": [
+          {
+            "en": "The Temporal's tongue captures the ear of those vying for power.",
+            "zh": "时空之舌攫住了那些争权夺利者的耳朵。"
+          }
+        ],
+        "SpecialMapHelpText": [
+          {
+            "en": "Find and activate Temporal Tethers in nearby Maps to dispel the Sandstorm and gain access to this Map.",
+            "zh": "在附近的地图中找到并激活时光套索，以驱散沙暴，进入此地图。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 85,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "Darkness always finds its way into the minds of the weak.",
+            "zh": "黑暗总能侵入弱者的心智。"
+          }
+        ],
+        "SpecialMapText": [
+          {
+            "en": "Mansion in the Mists",
+            "zh": "迷雾豪邸"
+          }
+        ],
+        "SpecialMapFlavourText": [
+          {
+            "en": "Dead litter the surrounding woods, their blood drained and taken.",
+            "zh": "周围的树林中横陈着死者，血液已被抽干取尽。"
+          }
+        ],
+        "SpecialMapHelpText": [
+          {
+            "en": "Lure nearby Draiocht Wisps to this Mansion to purge the evil surrounding it.\r\nDraiocht Wisps can be lured closer by completing Maps that they gather about.",
+            "zh": "将附近的德莱契鬼灵引至这座豪邸，以净化周围的邪祟。\r\n德莱契鬼灵会聚集在地图周围，完成这些地图即可将其引近。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 86,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "The Vaal who survived the Cataclysm must now survive each other.",
+            "zh": "在灾变中幸存的瓦尔人，如今必须在彼此之间求存。"
+          }
+        ],
+        "SpecialMapText": [
+          {
+            "en": "Estazunti's Vault",
+            "zh": "埃斯塔祖提的宝库"
+          }
+        ],
+        "SpecialMapFlavourText": [
+          {
+            "en": "Closed and forgotten to time, the Vault holds living secrets.",
+            "zh": "尘封已久、被时光遗忘的宝库，其中蕴藏着鲜活的秘密。"
+          }
+        ],
+        "SpecialMapHelpText": [
+          {
+            "en": "Find and activate a Vessel of Estazunti in one of the connected Maps to access the Sealed Vault.",
+            "zh": "在附近的地图中找到并激活埃斯塔祖提的容器，即可进入封印宝库。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 87,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "Where nomads share tales of a time before drought.",
+            "zh": "游牧民在此讲述干旱之前的故事。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 88,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "A garden bereft of its gardener still grows as it pleases.",
+            "zh": "失去园丁的花园，依旧肆意生长。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 89,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "Merchants and pirates alike need a safe port to peddle their wares.",
+            "zh": "商贾与海盗皆需一处安全的港口兜售货物。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 90,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "In the end, the river will always conquer the dam.",
+            "zh": "河流终将征服堤坝。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 91,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "In these lands, a pure water source is the most valuable treasure.",
+            "zh": "在这片土地上，纯净的水源便是最珍贵的宝藏。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 92,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "The bones of marooned wanderers assemble here.",
+            "zh": "被困于此的流浪者，骸骨在此汇聚。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 93,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "We know the minds of generations past only by the works they left behind.",
+            "zh": "我们对先辈思想的了解，仅来自他们留下的作品。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 94,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "The grandest sculptures are carved with neither hammer nor chisel.",
+            "zh": "最宏伟的雕塑，并非以锤凿雕就。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 95,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "Spirits gather where the world falls away.",
+            "zh": "灵魂在世界分崩离析之处聚集。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 96,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "An undrinkable lagoon girt in unbreathable air.",
+            "zh": "一片无法饮用的环礁湖，环绕着令人窒息的空气。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 97,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "Violent seas and hungry shores devour vessels, crew and all.",
+            "zh": "狂暴的海洋与饥渴的海岸，吞噬着船只与船员。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 98,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "Our world is becoming... their world.",
+            "zh": "我们的世界正在变成……他们的世界。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 99,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "A rare chance to strike back at the horde...",
+            "zh": "反击虫群的良机难得一遇……"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 100,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "Silent and imposing, it dominates the landscape.",
+            "zh": "它沉默而威严，主宰着这片大地。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 101,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "Long lost secrets lie buried beyond.",
+            "zh": "久远的秘密埋藏在彼岸。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 102,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "What kind of people could have built such a thing?",
+            "zh": "什么样的人才能造出这样的东西？"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 103,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "Perhaps the truth of history may be found within.",
+            "zh": "或许，历史的真相就藏于其中。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 104,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "One cannot create life without the power to take it.",
+            "zh": "若无夺取生命之力，便无法创造生命。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 105,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "One cannot take life without the power to create it.",
+            "zh": "若无创造生命之力，便无法夺取生命。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 106,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "Within lies power beyond comprehension.",
+            "zh": "其中蕴藏着超乎认知的力量。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 107,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "Where reality begins and ends is uncertain.",
+            "zh": "现实始于何处、终于何处，无人知晓。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 108,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "Your eyes betray you at every turn.",
+            "zh": "你的双眼处处都在背叛你。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 109,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "There is no bleaker tundra than a city at night.",
+            "zh": "没有比夜晚的城市更阴冷的荒原了。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 110,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "Fell blooms and grasping roots grow in shadow.",
+            "zh": "邪恶的花朵与攫取的根须在阴影中滋生。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 111,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "Haunting echoes carry a song of sorrow...",
+            "zh": "萦绕的回声传唱着哀伤的歌谣……"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 112,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "They scrabble and dig; they know not why...",
+            "zh": "他们胡乱扒挖，却不知为何……"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 113,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "The sea returns everything eventually. Even the dead.",
+            "zh": "大海终将归还一切，甚至死者。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 114,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "Cruel time and change, now plains only in name.",
+            "zh": "无情的时光与变迁，如今平原徒有其名。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 115,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "Live by the power of Corruption... die by madness.",
+            "zh": "借腐化之力而生……终将因疯狂而死。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 116,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "The air is acrid. The skin burns. No doubt... sulphite.",
+            "zh": "空气刺鼻，皮肤灼烧。毫无疑问……是亚硫酸。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 117,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "It's always raining, but the channels never fill...",
+            "zh": "雨一直下，但沟渠永远填不满……"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 118,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "Calm, bleak twilight holds only despair.",
+            "zh": "平静、阴郁的暮色只带来绝望。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 119,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "A mad Thane rules over ruin.",
+            "zh": "一个疯癫的领主统治着废墟。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 120,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "Follow in her footsteps... if you dare.",
+            "zh": "跟随她的足迹……如果你敢。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 121,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "It continues still, its purpose unknown.",
+            "zh": "它仍在运转，目的不明。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 122,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "When does protection become a prison?",
+            "zh": "保护何时会变成囚笼？"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 123,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "Something rumbles in the lava-lit gloom.",
+            "zh": "有什么在熔岩照亮的幽暗中隆隆作响。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 124,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "The felling continues, unto insanity.",
+            "zh": "砍伐仍在继续，直至疯狂。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 125,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "This cavern burns hot and deadly.",
+            "zh": "这座洞穴炽热而致命。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 126,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "Exactly as you remember it...",
+            "zh": "正如你记忆中的那样……"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 127,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "This lonely island lay untouched for centuries.",
+            "zh": "这座孤岛数个世纪以来无人踏足。"
+          }
+        ],
+        "__col25": [
+          {
+            "en": "Somethin' fishy...",
+            "zh": "有点可疑……"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 128,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "Delusions of suffering...\r\nand death.",
+            "zh": "“痛苦……\r\n与死亡的妄想。”"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 129,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "What ruin the sky wreaks...",
+            "zh": "天空降下了怎样的灾厄……"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 130,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "And it shall be a legendary battle!",
+            "zh": "这将是一场传奇般的战斗！"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 131,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "Through the Dreamer they see their path.",
+            "zh": "透过幻梦者，他们看到了自己的道路。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 132,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "Heroes of many different cultures gather to save the world.",
+            "zh": "来自不同文化的英雄们齐聚一堂，拯救世界。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 133,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "Once the heart of Druidic power and culture...",
+            "zh": "曾是德鲁伊力量与文化的中心……"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 134,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "A gnarled tree reflects a terrifying truth.",
+            "zh": "一棵虬结的树，倒映出可怖的真相。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 135,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "From anywhere, and everywhere, it is... down.",
+            "zh": "无论从何处来，往何处去，它终究是……向下。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 136,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "The secrets of the Vaal await an intrepid explorer.",
+            "zh": "瓦尔的秘密等待着无畏的探索者。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 137,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "Ancient treasures await.",
+            "zh": "上古奇珍，唾手可得。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 138,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "Secrets and shadows...",
+            "zh": "秘密与阴影……"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 139,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "Drown in the black waters of nightmare...",
+            "zh": "沉溺于梦魇的黑水之中……"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 140,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "Madness has no home.",
+            "zh": "疯狂无处为家。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 141,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "What once was, shall be again.",
+            "zh": "过去曾有的，必将再次降临。"
+          }
+        ],
+        "__col25": [
+          {
+            "en": "End of the circle...",
+            "zh": "循环的尽头……"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 142,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "Her one-woman crusade continues still.",
+            "zh": "她孤身一人的圣战仍在继续。"
+          }
+        ],
+        "__col25": [
+          {
+            "en": "The last to fall...",
+            "zh": "最后一个倒下……"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 143,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "What lies beyond the limits of mortal understanding?",
+            "zh": "凡人的理解之外究竟有何物？"
+          }
+        ],
+        "__col25": [
+          {
+            "en": "Stardrinker...",
+            "zh": "吞星者……"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 144,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "The truth lies somewhere between light and shadow.",
+            "zh": "真相潜藏于光与影之间。"
+          }
+        ],
+        "__col25": [
+          {
+            "en": "Origin of the fall...",
+            "zh": "陨落的源头……"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 145,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "There is no how, or why, or when. Only awe.",
+            "zh": "没有如何，没有为何，没有何时。唯有敬畏。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 146,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "There is no how, or why, or when. Only awe.",
+            "zh": "没有如何，没有为何，没有何时。唯有敬畏。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 147,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "There is no how, or why, or when. Only awe.",
+            "zh": "没有如何，没有为何，没有何时。唯有敬畏。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 148,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "There is no how, or why, or when. Only awe.",
+            "zh": "没有如何，没有为何，没有何时。唯有敬畏。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 149,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "There is no how, or why, or when. Only awe.",
+            "zh": "没有如何，没有为何，没有何时。唯有敬畏。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 150,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "On the crumbling edge of meaning, He awaits.",
+            "zh": "在意义崩解的边缘，他等待着。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 151,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "The crumbling landscape reveals what lies beneath...",
+            "zh": "崩裂的大地露出了底下的东西……"
+          }
+        ],
+        "__col25": [
+          {
+            "en": "Nothin' to drink...",
+            "zh": "没东西喝……"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 152,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "You will find what they did not.",
+            "zh": "你会找到他们未能发现之物。"
+          }
+        ],
+        "__col25": [
+          {
+            "en": "Unknown ruins...",
+            "zh": "未知的废墟……"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 153,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "The past lies piled under dirt and rot.",
+            "zh": "过去掩埋于尘土与腐烂之下。"
+          }
+        ],
+        "__col25": [
+          {
+            "en": "It's dry at least...",
+            "zh": "至少很干燥……"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 154,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "Traces of history remain.",
+            "zh": "历史的痕迹依然留存。"
+          }
+        ],
+        "__col25": [
+          {
+            "en": "Fallen stars...",
+            "zh": "坠落的星辰……"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 155,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "On the edge of the sea, the dead are closest to home.",
+            "zh": "在海的边缘，亡者离故乡最近。"
+          }
+        ],
+        "__col25": [
+          {
+            "en": "Endless cliffs...",
+            "zh": "无尽的悬崖……"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 156,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "The land has forgotten what came before.",
+            "zh": "这片土地已遗忘了往昔。"
+          }
+        ],
+        "__col25": [
+          {
+            "en": "Warm but risky...",
+            "zh": "温暖但危险……"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 157,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "They came by ship... and they never left.",
+            "zh": "他们乘船而来……却再未离去。"
+          }
+        ],
+        "__col25": [
+          {
+            "en": "Bleak and awful...",
+            "zh": "荒凉而可怕……"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 158,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "Life roils over layers of bones.",
+            "zh": "生命在层层骸骨之上翻涌。"
+          }
+        ],
+        "__col25": [
+          {
+            "en": "Wild roaming free...",
+            "zh": "肆意奔走的野性……"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 159,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "This place was not always so bleak.",
+            "zh": "此地并非一直如此荒凉。"
+          }
+        ],
+        "__col25": [
+          {
+            "en": "Cold as ice...",
+            "zh": "寒冷如冰……"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 160,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "The past lies untouched where the living dare not tread.",
+            "zh": "生者不敢踏足之处，过去安然沉睡。"
+          }
+        ],
+        "__col25": [
+          {
+            "en": "Sulphite!",
+            "zh": "亚硫酸！"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 161,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "They dig not to discover, but to escape.",
+            "zh": "他们挖掘不是为了发现，而是为了逃离。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 162,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "The chill is second only to the stench.",
+            "zh": "寒意仅次于恶臭。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 163,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "Strife and terror rule the night.",
+            "zh": "纷争与恐惧统治着黑夜。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 164,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "Only the shadow of death lives here now.",
+            "zh": "如今只有死亡的阴影居住于此。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 165,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "There is beauty to be found in the depths.",
+            "zh": "在深处也能发现美。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 166,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "These halls weren't meant for you...",
+            "zh": "这些殿堂并非为你而设……"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 167,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "One cannot create life without the power to take it.",
+            "zh": "若无夺取生命之力，便无法创造生命。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 168,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "One cannot take life without the power to create it.",
+            "zh": "若无创造生命之力，便无法夺取生命。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 170,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "Selfless ancients gave themselves to save tomorrow.",
+            "zh": "无私的先祖献出自身，只为拯救未来。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 171,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "These gates have facilitated many trades. Silks, spices, and now horrors.",
+            "zh": "这些大门曾促成无数交易。丝绸，香料，如今则是恐惧。"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 172,
+      "columns": {
+        "FlavourText": [
+          {
+            "en": "A sanctuary for the unsanctified.",
+            "zh": "不洁者的避难所。"
+          }
+        ]
+      }
+    }
+  ]
+}

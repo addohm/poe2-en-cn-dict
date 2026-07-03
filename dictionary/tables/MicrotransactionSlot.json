@@ -1,0 +1,731 @@
+{
+  "table": "MicrotransactionSlot",
+  "key": "Name",
+  "columns": [
+    "SlotName",
+    "FrameArt",
+    "__col12"
+  ],
+  "entries": [
+    {
+      "id": "Weapon Skin",
+      "index": 0,
+      "columns": {
+        "SlotName": [
+          {
+            "en": "Weapon Skin",
+            "zh": "武器外观"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Weapon Effect",
+      "index": 1,
+      "columns": {
+        "SlotName": [
+          {
+            "en": "Weapon Effect",
+            "zh": "武器特效"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Weapon Added Effect",
+      "index": 2,
+      "columns": {
+        "SlotName": [
+          {
+            "en": "Weapon Added Effect",
+            "zh": "武器附加特效"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Weapon Skin",
+      "index": 3,
+      "columns": {
+        "SlotName": [
+          {
+            "en": "Offhand Weapon Skin",
+            "zh": "副手武器外观"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Weapon Effect",
+      "index": 4,
+      "columns": {
+        "SlotName": [
+          {
+            "en": "Offhand Weapon Effect",
+            "zh": "副手武器特效"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Weapon Added Effect",
+      "index": 5,
+      "columns": {
+        "SlotName": [
+          {
+            "en": "Offhand Weapon Added Effect",
+            "zh": "副手武器附加特效"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Helmet Skin",
+      "index": 6,
+      "columns": {
+        "SlotName": [
+          {
+            "en": "Helmet Skin",
+            "zh": "头部外观"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Helmet Attachment",
+      "index": 7,
+      "columns": {
+        "SlotName": [
+          {
+            "en": "Helmet Attachment",
+            "zh": "头部附加外观"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Body Armour Skin",
+      "index": 8,
+      "columns": {
+        "SlotName": [
+          {
+            "en": "Body Armour Skin",
+            "zh": "身体外观"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Back Attachment",
+      "index": 9,
+      "columns": {
+        "SlotName": [
+          {
+            "en": "Back Attachment",
+            "zh": "背饰"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Gloves Skin",
+      "index": 10,
+      "columns": {
+        "SlotName": [
+          {
+            "en": "Gloves Skin",
+            "zh": "手部外观"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Boots Skin",
+      "index": 11,
+      "columns": {
+        "SlotName": [
+          {
+            "en": "Boots Skin",
+            "zh": "脚部外观"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Footprints",
+      "index": 12,
+      "columns": {
+        "SlotName": [
+          {
+            "en": "Footprints",
+            "zh": "足迹特效"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Apparition",
+      "index": 13,
+      "columns": {
+        "SlotName": [
+          {
+            "en": "Apparition",
+            "zh": "映像"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Character Effect",
+      "index": 14,
+      "columns": {
+        "SlotName": [
+          {
+            "en": "Character Effect",
+            "zh": "角色特效"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Portrait",
+      "index": 15,
+      "columns": {
+        "SlotName": [
+          {
+            "en": "Portrait",
+            "zh": "角色头像"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Social Frame",
+      "index": 16,
+      "columns": {
+        "SlotName": [
+          {
+            "en": "Social Frame",
+            "zh": "头像框"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Pet",
+      "index": 17,
+      "columns": {
+        "SlotName": [
+          {
+            "en": "Pet",
+            "zh": "宠物"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Pet",
+      "index": 18,
+      "columns": {
+        "SlotName": [
+          {
+            "en": "Pet",
+            "zh": "宠物"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Portal",
+      "index": 19,
+      "columns": {
+        "SlotName": [
+          {
+            "en": "Portal",
+            "zh": "时空之门"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Helmet Attachment",
+      "index": 20,
+      "columns": {
+        "SlotName": [
+          {
+            "en": "Helmet Attachment",
+            "zh": "头部附加外观"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HUD",
+      "index": 21,
+      "columns": {
+        "SlotName": [
+          {
+            "en": "HUD",
+            "zh": "界面"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Cursor",
+      "index": 22,
+      "columns": {
+        "SlotName": [
+          {
+            "en": "Cursor",
+            "zh": "游标"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Belt Skin",
+      "index": 23,
+      "columns": {
+        "SlotName": [
+          {
+            "en": "Belt Skin",
+            "zh": "腰带外观"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Amulet Skin",
+      "index": 24,
+      "columns": {
+        "SlotName": [
+          {
+            "en": "Amulet Skin",
+            "zh": "项链外观"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Flask Skin",
+      "index": 25,
+      "columns": {
+        "SlotName": [
+          {
+            "en": "Flask Skin",
+            "zh": "药剂外观"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Flask Skin",
+      "index": 26,
+      "columns": {
+        "SlotName": [
+          {
+            "en": "Flask Skin",
+            "zh": "药剂外观"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Flask Skin",
+      "index": 27,
+      "columns": {
+        "SlotName": [
+          {
+            "en": "Flask Skin",
+            "zh": "药剂外观"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Flask Skin",
+      "index": 28,
+      "columns": {
+        "SlotName": [
+          {
+            "en": "Flask Skin",
+            "zh": "药剂外观"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Flask Skin",
+      "index": 29,
+      "columns": {
+        "SlotName": [
+          {
+            "en": "Flask Skin",
+            "zh": "药剂外观"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Ring Skin",
+      "index": 30,
+      "columns": {
+        "SlotName": [
+          {
+            "en": "Ring Skin",
+            "zh": "戒指外观"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Ring Skin",
+      "index": 31,
+      "columns": {
+        "SlotName": [
+          {
+            "en": "Ring Skin",
+            "zh": "戒指外观"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Hip Attachment",
+      "index": 32,
+      "columns": {
+        "SlotName": [
+          {
+            "en": "Hip Attachment",
+            "zh": "腰部附加外观"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Alternate Charge Skin",
+      "index": 33,
+      "columns": {
+        "SlotName": [
+          {
+            "en": "Alternate Charge Skin",
+            "zh": "替换能量球外观"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Extra Effect",
+      "index": 34,
+      "columns": {
+        "SlotName": [
+          {
+            "en": "Extra Effect",
+            "zh": "额外特效"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Weapon Skin",
+      "index": 35,
+      "columns": {
+        "SlotName": [
+          {
+            "en": "Weapon 2 Skin",
+            "zh": "武器2外观"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Weapon Effect",
+      "index": 36,
+      "columns": {
+        "SlotName": [
+          {
+            "en": "Weapon 2 Effect",
+            "zh": "武器2特效"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Weapon Added Effect",
+      "index": 37,
+      "columns": {
+        "SlotName": [
+          {
+            "en": "Weapon 2 Added Effect",
+            "zh": "武器2附加特效"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Weapon Skin",
+      "index": 38,
+      "columns": {
+        "SlotName": [
+          {
+            "en": "Offhand Weapon 2 Skin",
+            "zh": "副手武器2外观"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Weapon Effect",
+      "index": 39,
+      "columns": {
+        "SlotName": [
+          {
+            "en": "Offhand Weapon 2 Effect",
+            "zh": "副手武器2特效"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Weapon Added Effect",
+      "index": 40,
+      "columns": {
+        "SlotName": [
+          {
+            "en": "Offhand Weapon 2 Added Effect",
+            "zh": "副手武器2附加特效"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Weapon Skin",
+      "index": 41,
+      "columns": {
+        "SlotName": [
+          {
+            "en": "Weapon 3 Skin",
+            "zh": "武器3外观"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Weapon Effect",
+      "index": 42,
+      "columns": {
+        "SlotName": [
+          {
+            "en": "Weapon 3 Effect",
+            "zh": "武器3特效"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Weapon Added Effect",
+      "index": 43,
+      "columns": {
+        "SlotName": [
+          {
+            "en": "Weapon 3 Added Effect",
+            "zh": "武器3附加特效"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Weapon Skin",
+      "index": 44,
+      "columns": {
+        "SlotName": [
+          {
+            "en": "Offhand Weapon 3 Skin",
+            "zh": "副手武器3外观"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Weapon Effect",
+      "index": 45,
+      "columns": {
+        "SlotName": [
+          {
+            "en": "Offhand Weapon 3 Effect",
+            "zh": "副手武器3特效"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Weapon Added Effect",
+      "index": 46,
+      "columns": {
+        "SlotName": [
+          {
+            "en": "Offhand Weapon 3 Added Effect",
+            "zh": "副手武器3附加特效"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Charm Effect",
+      "index": 47,
+      "columns": {
+        "SlotName": [
+          {
+            "en": "Charm Effect",
+            "zh": "咒符效果"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Charm Effect",
+      "index": 48,
+      "columns": {
+        "SlotName": [
+          {
+            "en": "Charm Effect",
+            "zh": "咒符效果"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Charm Effect",
+      "index": 49,
+      "columns": {
+        "SlotName": [
+          {
+            "en": "Charm Effect",
+            "zh": "咒符效果"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Charm Effect",
+      "index": 50,
+      "columns": {
+        "SlotName": [
+          {
+            "en": "Charm Effect",
+            "zh": "咒符效果"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Charm Effect",
+      "index": 51,
+      "columns": {
+        "SlotName": [
+          {
+            "en": "Charm Effect",
+            "zh": "咒符效果"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Charm Effect",
+      "index": 52,
+      "columns": {
+        "SlotName": [
+          {
+            "en": "Charm Effect",
+            "zh": "咒符效果"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Passive Jewel Skin",
+      "index": 53,
+      "columns": {
+        "SlotName": [
+          {
+            "en": "Passive Jewel Skin",
+            "zh": "天赋珠宝外观"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Skill Gem Effect",
+      "index": 54,
+      "columns": {
+        "SlotName": [
+          {
+            "en": "Skill Gem Effect",
+            "zh": "技能特效"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Character Skin",
+      "index": 55,
+      "columns": {
+        "SlotName": [
+          {
+            "en": "Character Skin",
+            "zh": "角色外观"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Bear Shapeshift Skin",
+      "index": 56,
+      "columns": {
+        "SlotName": [
+          {
+            "en": "Bear Shapeshift Skin",
+            "zh": "巨熊变形外观"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Wolf Shapeshift Skin",
+      "index": 57,
+      "columns": {
+        "SlotName": [
+          {
+            "en": "Wolf Shapeshift Skin",
+            "zh": "狼人变形外观"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Demon Shapeshift Skin",
+      "index": 58,
+      "columns": {
+        "SlotName": [
+          {
+            "en": "Demon Shapeshift Skin",
+            "zh": "恶魔变形外观"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Wyvern Shapeshift Skin",
+      "index": 59,
+      "columns": {
+        "SlotName": [
+          {
+            "en": "Wyvern Shapeshift Skin",
+            "zh": "飞龙变形外观"
+          }
+        ]
+      }
+    }
+  ]
+}

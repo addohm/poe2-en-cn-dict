@@ -1,0 +1,34 @@
+{
+  "table": "MicrotransactionSlotAdditionalDefaultOptions",
+  "key": "_index",
+  "columns": [
+    "__col2",
+    "__col3"
+  ],
+  "entries": [
+    {
+      "id": null,
+      "index": 0,
+      "columns": {
+        "__col2": [
+          {
+            "en": "Use one random variation for every portal",
+            "zh": "给每个时空之门使用一种随机外观"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 1,
+      "columns": {
+        "__col2": [
+          {
+            "en": "Use random variations for all portals",
+            "zh": "给所有时空之门使用随机外观"
+          }
+        ]
+      }
+    }
+  ]
+}

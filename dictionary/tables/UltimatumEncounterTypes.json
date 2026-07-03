@@ -1,0 +1,93 @@
+{
+  "table": "UltimatumEncounterTypes",
+  "key": "Id",
+  "columns": [
+    "Name"
+  ],
+  "entries": [
+    {
+      "id": "Slay",
+      "index": 0,
+      "columns": {
+        "Name": [
+          {
+            "en": "Slay all Monsters",
+            "zh": "击败全部怪物"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Survive",
+      "index": 1,
+      "columns": {
+        "Name": [
+          {
+            "en": "Survive",
+            "zh": "生存下去"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Collect",
+      "index": 2,
+      "columns": {
+        "Name": [
+          {
+            "en": "Implant the Soul Cores",
+            "zh": "插入灵核"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Escort",
+      "index": 3,
+      "columns": {
+        "Name": [
+          {
+            "en": "Escort the Statue",
+            "zh": "护送雕像"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Sacrifice",
+      "index": 4,
+      "columns": {
+        "Name": [
+          {
+            "en": "Sacrifice Monsters",
+            "zh": "奉献怪物"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Destroy",
+      "index": 5,
+      "columns": {
+        "Name": [
+          {
+            "en": "Destroy the Idols",
+            "zh": "摧毁雕像"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Boss",
+      "index": 6,
+      "columns": {
+        "Name": [
+          {
+            "en": "Slay the Boss",
+            "zh": "击败首领"
+          }
+        ]
+      }
+    }
+  ]
+}

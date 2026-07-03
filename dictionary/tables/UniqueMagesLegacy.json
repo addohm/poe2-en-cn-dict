@@ -1,0 +1,178 @@
+{
+  "table": "UniqueMagesLegacy",
+  "key": "_index",
+  "columns": [
+    "Name",
+    "DisplayText"
+  ],
+  "entries": [
+    {
+      "id": null,
+      "index": 0,
+      "columns": {
+        "DisplayText": [
+          {
+            "en": "[LegacyOfAmethyst|Amethyst]",
+            "zh": "[LegacyOfAmethyst|紫晶]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 1,
+      "columns": {
+        "DisplayText": [
+          {
+            "en": "[LegacyOfBasalt|Basalt]",
+            "zh": "[LegacyOfBasalt|玄武岩]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 2,
+      "columns": {
+        "DisplayText": [
+          {
+            "en": "[LegacyOfBismuth|Bismuth]",
+            "zh": "[LegacyOfBismuth|灰岩]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 3,
+      "columns": {
+        "DisplayText": [
+          {
+            "en": "[LegacyOfDiamond|Diamond]",
+            "zh": "[LegacyOfDiamond|钻石]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 4,
+      "columns": {
+        "DisplayText": [
+          {
+            "en": "[LegacyOfGold|Gold]",
+            "zh": "[LegacyOfGold|黄金]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 5,
+      "columns": {
+        "DisplayText": [
+          {
+            "en": "[LegacyOfGranite|Granite]",
+            "zh": "[LegacyOfGranite|坚岩]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 6,
+      "columns": {
+        "DisplayText": [
+          {
+            "en": "[LegacyOfJade|Jade]",
+            "zh": "[LegacyOfJade|青玉]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 7,
+      "columns": {
+        "DisplayText": [
+          {
+            "en": "[LegacyOfQuicksilver|Quicksilver]",
+            "zh": "[LegacyOfQuicksilver|水银]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 8,
+      "columns": {
+        "DisplayText": [
+          {
+            "en": "[LegacyOfRuby|Ruby]",
+            "zh": "[LegacyOfRuby|红玉]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 9,
+      "columns": {
+        "DisplayText": [
+          {
+            "en": "[LegacyOfSapphire|Sapphire]",
+            "zh": "[LegacyOfSapphire|蓝玉]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 10,
+      "columns": {
+        "DisplayText": [
+          {
+            "en": "[LegacyOfSilver|Silver]",
+            "zh": "[LegacyOfSilver|白银]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 11,
+      "columns": {
+        "DisplayText": [
+          {
+            "en": "[LegacyOfStibnite|Stibnite]",
+            "zh": "[LegacyOfStibnite|黑锑]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 12,
+      "columns": {
+        "DisplayText": [
+          {
+            "en": "[LegacyOfSulphur|Sulphur]",
+            "zh": "[LegacyOfSulphur|硫磺]"
+          }
+        ]
+      }
+    },
+    {
+      "id": null,
+      "index": 13,
+      "columns": {
+        "DisplayText": [
+          {
+            "en": "[LegacyOfTopaz|Topaz]",
+            "zh": "[LegacyOfTopaz|黄玉]"
+          }
+        ]
+      }
+    }
+  ]
+}

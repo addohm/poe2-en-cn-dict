@@ -1,0 +1,165 @@
+{
+  "table": "EndgameMapBiomes",
+  "key": "Id",
+  "columns": [
+    "Name"
+  ],
+  "entries": [
+    {
+      "id": "Water",
+      "index": 0,
+      "columns": {
+        "Name": [
+          {
+            "en": "Water",
+            "zh": "水域"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Mountain",
+      "index": 1,
+      "columns": {
+        "Name": [
+          {
+            "en": "Mountain",
+            "zh": "高山"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Grass",
+      "index": 2,
+      "columns": {
+        "Name": [
+          {
+            "en": "Grass",
+            "zh": "草原"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Forest",
+      "index": 3,
+      "columns": {
+        "Name": [
+          {
+            "en": "Forest",
+            "zh": "森林"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Swamp",
+      "index": 4,
+      "columns": {
+        "Name": [
+          {
+            "en": "Swamp",
+            "zh": "沼泽"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Desert",
+      "index": 5,
+      "columns": {
+        "Name": [
+          {
+            "en": "Desert",
+            "zh": "沙漠"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EzomyteCity",
+      "index": 6,
+      "columns": {
+        "Name": [
+          {
+            "en": "Ezomyte City",
+            "zh": "艾兹麦城市"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FaridunCity",
+      "index": 7,
+      "columns": {
+        "Name": [
+          {
+            "en": "Faridun City",
+            "zh": "法里顿城市"
+          }
+        ]
+      }
+    },
+    {
+      "id": "VaalCity",
+      "index": 8,
+      "columns": {
+        "Name": [
+          {
+            "en": "Vaal City",
+            "zh": "瓦尔城市"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BreachCity",
+      "index": 9,
+      "columns": {
+        "Name": [
+          {
+            "en": "Breach Stronghold",
+            "zh": "裂隙要塞"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Ocean",
+      "index": 10,
+      "columns": {
+        "Name": [
+          {
+            "en": "Ocean",
+            "zh": "海洋"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Island",
+      "index": 11,
+      "columns": {
+        "Name": [
+          {
+            "en": "Island",
+            "zh": "岛屿"
+          }
+        ]
+      }
+    },
+    {
+      "id": "OriathCity",
+      "index": 12,
+      "columns": {
+        "Name": [
+          {
+            "en": "Oriath",
+            "zh": "奥瑞亚"
+          }
+        ]
+      }
+    }
+  ]
+}

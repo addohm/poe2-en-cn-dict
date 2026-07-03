@@ -1,0 +1,107 @@
+# PoE2 Simplified-Chinese ⇄ English Translation Dictionary
+
+A complete, patch-updatable translation dictionary between the **Path of Exile 2
+China (WeGame/Tencent)** client and the **International (Steam)** client.
+
+It covers everything in the game data that has a one-to-one translation: item and
+currency names, skill/gem names, mod (affix) text, passive tree notables, quest
+names, NPC and monster names, zone names, UI strings, achievements, and more —
+**~118,000 entries / ~143,000 translated strings** across **192 data tables**.
+
+The generated dictionary lives in [`dictionary/`](dictionary/) and is meant to be
+consumed by other software (e.g. to internationalize a tool between the CN and
+global clients). See [`dictionary/README.md`](dictionary/README.md) for formats.
+
+## Two implementations (both maintained)
+
+Both generators read the shared [`config.json`](config.json) and produce the
+**same** [`dictionary/`](dictionary/) output (validated byte-for-byte).
+
+| | [Python](#python-root) (root) | [Node.js](nodejs/) (`nodejs/`) |
+|---|---|---|
+| Runtime | Python 3.8+ and `wasmtime` | Portable Node (auto-installed) + PowerShell |
+| Oodle decompression | vendored `ooz.wasm` via `wasmtime` | `pathofexile-dat` (`ooz-wasm`) |
+| Entry point | `python update.py` | `powershell -File update.ps1` |
+
+Pick whichever you prefer; they're kept in sync.
+
+### Python (root)
+
+```bash
+python -m pip install -r requirements.txt   # just wasmtime
+python update.py                            # fetch latest schema + rebuild
+# offline rebuild: python build.py
+# lookups:         python query.py Dexterity "Chaos Orb" 闪避 敏捷
+```
+
+### Node.js (`nodejs/`)
+
+```powershell
+cd nodejs
+powershell -File setup.ps1     # one-time: portable Node + pathofexile-dat
+powershell -File update.ps1    # fetch latest schema + rebuild
+```
+
+See [`nodejs/README.md`](nodejs/README.md) for details.
+
+## Requirements
+
+- Both game clients installed. Paths live in [`config.json`](config.json):
+  - `cn`   — the WeGame client (ships the **Simplified Chinese** data).
+  - `intl` — the Steam client (used to **validate** the English side).
+- The WeGame (China) client is Windows-only, so in practice you build on Windows.
+  The Python code itself has no OS-specific dependencies (Oodle runs as
+  WebAssembly); the Node implementation uses PowerShell wrappers.
+
+---
+
+## How it works
+
+PoE2 stores its data in Oodle-compressed **bundles** (`Bundles2/`) indexed by
+`_.index.bin`, containing `.datc64` data tables. Both clients ship an identical
+English **base** at `Data/Balance/`, and each language is an **overlay** folder
+(`Data/Balance/<Language>/`) whose rows are 1:1 row-aligned with that same
+client's base.
+
+- The **CN client** is the only one that ships the `Simplified Chinese` overlay
+  (the international client has Traditional Chinese, not Simplified).
+- Within one client, `base[row]` (English) and `overlay[row]` (translated) are
+  the **same entity**, so pairing them is a guaranteed-correct translation.
+- A cell is a genuine translation iff it **differs** between base and overlay —
+  file paths, ids, and tags are byte-identical and are skipped automatically.
+  Every string column is read (not just schema-flagged `localized` ones), so
+  coverage is not limited by schema annotations.
+
+The two clients can be on **slightly different patches** (different row counts),
+so the English side of every pair comes from the **CN client's own base**,
+keeping it consistent with the CN Chinese. The **international client is used
+only to validate** that this English is genuine global English — currently
+**99.96%** of the dictionary's English terms are found verbatim there.
+
+Oodle decompression uses a build of the open-source `ooz` decompressor (no
+proprietary DLL). Table layouts come from the community
+[`dat-schema`](https://github.com/poe-tool-dev/dat-schema), refreshed on each
+update so new tables/columns are covered automatically.
+
+## Repository layout
+
+```
+poe2-en-cn-dict/
+├─ config.json            # shared: install paths + schema URL
+├─ dictionary/            # ← THE PRODUCT (committed; see dictionary/README.md)
+├─ build.py / update.py / query.py / requirements.txt   # Python entry points
+├─ poe2dict/             # Python package (ooz, bundle, dat, build) + vendored wasm/schema
+└─ nodejs/               # Node.js + PowerShell implementation
+```
+
+## Caveats
+
+- Chinese translations reflect exactly what the **CN client** ships. A few
+  official CN names are non-literal or lag the global wording; the dictionary
+  mirrors the client rather than "correcting" it.
+- Some strings contain game markup/placeholders (`<default>{...}`, `%1$s`,
+  color tags, `\n`). High-fidelity outputs preserve them verbatim; the flat
+  lookups keep them but outer-trim whitespace.
+- A term can have several valid translations (context-dependent). The flat
+  `*_to_*.json` pick the most frequent; `*.multi.json` list every variant with
+  counts; `pairs.ndjson` retains full `{table, column, id}` context.

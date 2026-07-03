@@ -1,0 +1,741 @@
+{
+  "table": "GemTags",
+  "key": "Id",
+  "columns": [
+    "Name"
+  ],
+  "entries": [
+    {
+      "id": "fire",
+      "index": 0,
+      "columns": {
+        "Name": [
+          {
+            "en": "[Fire]",
+            "zh": "[Fire|火焰]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "cold",
+      "index": 1,
+      "columns": {
+        "Name": [
+          {
+            "en": "[Cold]",
+            "zh": "[Cold|冰霜]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "lightning",
+      "index": 2,
+      "columns": {
+        "Name": [
+          {
+            "en": "[Lightning]",
+            "zh": "[Lightning|闪电]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "chaos",
+      "index": 3,
+      "columns": {
+        "Name": [
+          {
+            "en": "[Chaos]",
+            "zh": "[Chaos|混沌]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "spell",
+      "index": 4,
+      "columns": {
+        "Name": [
+          {
+            "en": "[Spell]",
+            "zh": "[Spell|法术]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "projectile",
+      "index": 5,
+      "columns": {
+        "Name": [
+          {
+            "en": "[Projectile]",
+            "zh": "[Projectile|投射物]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bow",
+      "index": 6,
+      "columns": {
+        "Name": [
+          {
+            "en": "[Bow]",
+            "zh": "[Bow|弓类]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "melee",
+      "index": 7,
+      "columns": {
+        "Name": [
+          {
+            "en": "[Melee]",
+            "zh": "[Melee|近战]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "minion",
+      "index": 8,
+      "columns": {
+        "Name": [
+          {
+            "en": "[Minion]",
+            "zh": "[Minion|召唤生物]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aura",
+      "index": 12,
+      "columns": {
+        "Name": [
+          {
+            "en": "[Aura]",
+            "zh": "[Aura|光环]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "attack",
+      "index": 13,
+      "columns": {
+        "Name": [
+          {
+            "en": "[Attack]",
+            "zh": "[Attack|攻击]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "area",
+      "index": 14,
+      "columns": {
+        "Name": [
+          {
+            "en": "[AoESkill|AoE]",
+            "zh": "[AoESkill|效果区域]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "duration",
+      "index": 15,
+      "columns": {
+        "Name": [
+          {
+            "en": "[DurationSkill|Duration]",
+            "zh": "[DurationSkill|持续时间]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "support",
+      "index": 16,
+      "columns": {
+        "Name": [
+          {
+            "en": "[SupportGem|Support]",
+            "zh": "[SupportGem|辅助]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "curse",
+      "index": 17,
+      "columns": {
+        "Name": [
+          {
+            "en": "[Curse]",
+            "zh": "[Curse|诅咒]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "chaining",
+      "index": 18,
+      "columns": {
+        "Name": [
+          {
+            "en": "[Chain|Chaining]",
+            "zh": "[Chain|连锁]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "totem",
+      "index": 19,
+      "columns": {
+        "Name": [
+          {
+            "en": "[Totem]",
+            "zh": "[Totem|图腾]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "trap",
+      "index": 20,
+      "columns": {
+        "Name": [
+          {
+            "en": "Trap",
+            "zh": "陷阱"
+          }
+        ]
+      }
+    },
+    {
+      "id": "mine",
+      "index": 21,
+      "columns": {
+        "Name": [
+          {
+            "en": "Mine",
+            "zh": "地雷"
+          }
+        ]
+      }
+    },
+    {
+      "id": "cast",
+      "index": 22,
+      "columns": {
+        "Name": [
+          {
+            "en": "Cast",
+            "zh": "施放"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vaal",
+      "index": 23,
+      "columns": {
+        "Name": [
+          {
+            "en": "Vaal",
+            "zh": "瓦尔"
+          }
+        ]
+      }
+    },
+    {
+      "id": "trigger",
+      "index": 25,
+      "columns": {
+        "Name": [
+          {
+            "en": "[Trigger]",
+            "zh": "[Trigger|触发]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "warcry",
+      "index": 26,
+      "columns": {
+        "Name": [
+          {
+            "en": "[Warcry]",
+            "zh": "[Warcry|战吼]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "channelling",
+      "index": 28,
+      "columns": {
+        "Name": [
+          {
+            "en": "[Channelling]",
+            "zh": "[Channelling|吟唱]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "herald",
+      "index": 29,
+      "columns": {
+        "Name": [
+          {
+            "en": "[Herald]",
+            "zh": "[Herald|捷]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "physical",
+      "index": 30,
+      "columns": {
+        "Name": [
+          {
+            "en": "[Physical]",
+            "zh": "[Physical|物理]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "travel",
+      "index": 31,
+      "columns": {
+        "Name": [
+          {
+            "en": "[Travel]",
+            "zh": "[Travel|旅行]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "strike",
+      "index": 32,
+      "columns": {
+        "Name": [
+          {
+            "en": "[Strike]",
+            "zh": "[Strike|打击]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nova",
+      "index": 33,
+      "columns": {
+        "Name": [
+          {
+            "en": "[Nova]",
+            "zh": "[Nova|新星]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "banner",
+      "index": 34,
+      "columns": {
+        "Name": [
+          {
+            "en": "[Banner]",
+            "zh": "[Banner|旗帜]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "slam",
+      "index": 35,
+      "columns": {
+        "Name": [
+          {
+            "en": "[Slam]",
+            "zh": "[Slam|猛击]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "mark",
+      "index": 36,
+      "columns": {
+        "Name": [
+          {
+            "en": "[Mark]",
+            "zh": "[Mark|印记]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "orb",
+      "index": 37,
+      "columns": {
+        "Name": [
+          {
+            "en": "[Orb]",
+            "zh": "[Orb|法球]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "exceptional",
+      "index": 38,
+      "columns": {
+        "Name": [
+          {
+            "en": "Exceptional",
+            "zh": "卓越"
+          }
+        ]
+      }
+    },
+    {
+      "id": "link",
+      "index": 39,
+      "columns": {
+        "Name": [
+          {
+            "en": "Link",
+            "zh": "羁绊"
+          }
+        ]
+      }
+    },
+    {
+      "id": "meta",
+      "index": 41,
+      "columns": {
+        "Name": [
+          {
+            "en": "[Meta]",
+            "zh": "[Meta|非凡]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "crossbow",
+      "index": 42,
+      "columns": {
+        "Name": [
+          {
+            "en": "[Crossbow]",
+            "zh": "[Crossbow|战弩]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "shapeshift",
+      "index": 43,
+      "columns": {
+        "Name": [
+          {
+            "en": "[Shapeshift]",
+            "zh": "[Shapeshift|变形]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bear",
+      "index": 44,
+      "columns": {
+        "Name": [
+          {
+            "en": "[Bear]",
+            "zh": "[Bear|巨熊形态]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "wolf",
+      "index": 45,
+      "columns": {
+        "Name": [
+          {
+            "en": "[Werewolf]",
+            "zh": "[Werewolf|狼人形态]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "wyvern",
+      "index": 46,
+      "columns": {
+        "Name": [
+          {
+            "en": "[Wyvern]",
+            "zh": "[Wyvern|双足飞龙形态]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "detonator",
+      "index": 47,
+      "columns": {
+        "Name": [
+          {
+            "en": "[Detonator]",
+            "zh": "[Detonator|引爆]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "buff",
+      "index": 48,
+      "columns": {
+        "Name": [
+          {
+            "en": "[Buff]",
+            "zh": "[Buff|增益]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "persistent",
+      "index": 49,
+      "columns": {
+        "Name": [
+          {
+            "en": "[Persistent]",
+            "zh": "[Persistent|永久性]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ammunition",
+      "index": 50,
+      "columns": {
+        "Name": [
+          {
+            "en": "[Ammunition]",
+            "zh": "[Ammunition|弹药]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "sustained",
+      "index": 51,
+      "columns": {
+        "Name": [
+          {
+            "en": "[Sustained]",
+            "zh": "[Sustained|持续性技能]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "payoff",
+      "index": 52,
+      "columns": {
+        "Name": [
+          {
+            "en": "[Payoff]",
+            "zh": "[Payoff|清算]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "grenade",
+      "index": 53,
+      "columns": {
+        "Name": [
+          {
+            "en": "[Grenade]",
+            "zh": "[Grenade|榴弹]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "command",
+      "index": 54,
+      "columns": {
+        "Name": [
+          {
+            "en": "[Command]",
+            "zh": "[Command|命令]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "remnant",
+      "index": 55,
+      "columns": {
+        "Name": [
+          {
+            "en": "[Remnant]",
+            "zh": "[Remnant|残片]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "stages",
+      "index": 56,
+      "columns": {
+        "Name": [
+          {
+            "en": "[GainsStages|Staged]",
+            "zh": "[GainsStages|层数]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "conditional",
+      "index": 57,
+      "columns": {
+        "Name": [
+          {
+            "en": "[Conditional]",
+            "zh": "[Conditional|条件]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "companion",
+      "index": 58,
+      "columns": {
+        "Name": [
+          {
+            "en": "[Companion]",
+            "zh": "[Companion|伙伴]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "hazard",
+      "index": 59,
+      "columns": {
+        "Name": [
+          {
+            "en": "[Hazard]",
+            "zh": "[Hazard|危害]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "repeatable",
+      "index": 60,
+      "columns": {
+        "Name": [
+          {
+            "en": "[Repeat|Repeatable]",
+            "zh": "[Repeat|可重复]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "lineage",
+      "index": 61,
+      "columns": {
+        "Name": [
+          {
+            "en": "[LineageSupports|Lineage]",
+            "zh": "[LineageSupports|血统]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "merging",
+      "index": 62,
+      "columns": {
+        "Name": [
+          {
+            "en": "[Merging]",
+            "zh": "[Merging|融合]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "invocation",
+      "index": 63,
+      "columns": {
+        "Name": [
+          {
+            "en": "[Invocation]",
+            "zh": "[Invocation|咒祈]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "plant",
+      "index": 64,
+      "columns": {
+        "Name": [
+          {
+            "en": "[Plant]",
+            "zh": "[Plant|植物技能与蔓生]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "wind",
+      "index": 65,
+      "columns": {
+        "Name": [
+          {
+            "en": "[Wind]",
+            "zh": "[Wind|风系]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "storm",
+      "index": 66,
+      "columns": {
+        "Name": [
+          {
+            "en": "[Storm]",
+            "zh": "[Storm|风暴]"
+          }
+        ]
+      }
+    }
+  ]
+}

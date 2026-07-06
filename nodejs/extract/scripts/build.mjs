@@ -28,6 +28,7 @@
 //    lookup/en_to_cn.multi.json    English -> [Chinese variants w/ counts]
 //    pairs.ndjson                  every pair with {table,column,id,en,zh}
 import { loadClient, loadSchema, readTable, ValidFor } from "./datlib.mjs";
+import { buildStatLines } from "./statlines.mjs";
 import * as fs from "fs/promises";
 import * as path from "path";
 
@@ -250,8 +251,14 @@ async function main() {
     );
   } catch { /* template optional */ }
 
-  log("\n==== DONE ====");
+  log("\n==== DONE (translation dictionary) ====");
   log(JSON.stringify(meta.stats, null, 2));
+
+  // Additive: mod-line templates from the stat-description files. Writes only
+  // NEW files under lookup/ and never touches the outputs above.
+  log("\n==== stat-description lines ====");
+  const sl = await buildStatLines(CN, cn, schema, OUT);
+  log(JSON.stringify(sl, null, 2));
 }
 
 main().catch((e) => {

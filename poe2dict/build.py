@@ -18,6 +18,7 @@ import shutil
 from .ooz import Ooz
 from .bundle import FileLoader
 from .dat import read_dat_file, build_headers, read_string_column
+from .statlines import build_stat_lines
 
 EN_PATH = "Data/Balance"
 ZH_PATH = "Data/Balance/Simplified Chinese"
@@ -253,8 +254,14 @@ def build(cn_dir, intl_dir, schema_path, out_dir):
     if os.path.exists(readme_tpl):
         shutil.copyfile(readme_tpl, os.path.join(out_dir, "README.md"))
 
-    print("\n==== DONE ====")
+    print("\n==== DONE (translation dictionary) ====")
     print(json.dumps(meta["stats"], ensure_ascii=False, indent=2))
+
+    # Additive: mod-line templates from the stat-description files. This only
+    # writes NEW files under lookup/ and never touches the outputs above.
+    print("\n==== stat-description lines ====")
+    sl = build_stat_lines(cn, out_dir, schema)
+    print(json.dumps(sl, ensure_ascii=False, indent=2))
     return meta
 
 

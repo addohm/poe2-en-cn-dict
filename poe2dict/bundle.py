@@ -121,12 +121,72 @@ def get_file_info(path: str, bundles_info: bytes, files_info: bytes):
     return (name + ".bundle.bin", offset_in_bundle, file_size)
 
 
+def unpack_paths(data: bytes):
+    off = 0
+    base_mode = False
+    bases = []
+    paths = []
+    n = len(data)
+    while off <= n - 4:
+        idx = _i32(data, off) - 1
+        off += 4
+        if idx == -1:
+            base_mode = not base_mode
+            if base_mode:
+                bases = []
+        else:
+            nul = data.index(0, off)
+            s = data[off:nul].decode("utf-8")
+            off = nul + 1
+            if idx < len(bases):
+                s = bases[idx] + s
+            if base_mode:
+                bases.append(s)
+            else:
+                paths.append(s)
+    return paths
+
+
+def get_dir_content(dir_path: str, path_reps: bytes, dirs_info: bytes):
+    """Return (files, dirs) full-path lists for a directory (case-sensitive key)."""
+    struct = 20  # 8-byte hash + 3x int32
+    h = murmur64a(dir_path)  # NB: directory keys are hashed WITHOUT lowercasing
+    off = dirs_info.find(h)
+    if off == -1:
+        raise KeyError(dir_path)
+    base = _i32(dirs_info, off + 8)
+    size = _i32(dirs_info, off + 12)
+    all_size = _i32(dirs_info, off + 16)
+    files = unpack_paths(path_reps[base : base + size])
+    children_start = base + size
+    children_end = base + all_size
+    dirs = set()
+    for i in range(len(dirs_info) // struct):
+        o = _i32(dirs_info, struct * i + 8)
+        sz = _i32(dirs_info, struct * i + 12)
+        if o < children_start or (o + sz) > children_end:
+            continue
+        o2 = o + 4  # consume BASE_MODE ON marker
+        if _i32(path_reps, o2) == 0:  # BASE_MODE OFF immediately -> no files
+            continue
+        o2 += 4
+        nul = path_reps.index(0, o2)
+        basepath = path_reps[o2:nul].decode("utf-8")
+        if not basepath.startswith(dir_path):
+            continue
+        slash = basepath.find("/", len(dir_path) + 1)
+        if slash != -1:
+            dirs.add(basepath[:slash])
+    return files, sorted(dirs)
+
+
 class FileLoader:
     def __init__(self, game_dir: str, ooz: Ooz):
         self.dir = game_dir
         self.ooz = ooz
         self._raw = {}   # bundle filename -> compressed bytes
         self._dec = {}   # bundle filename -> decompressed bytes
+        self._path_reps_cache = None
         idx_bin = self._fetch("_.index.bin")
         idx = decompress_whole_bundle(ooz, idx_bin)
         self.index = read_index_bundle(idx)
@@ -153,3 +213,24 @@ class FileLoader:
         name, off, size = info
         dec = self._decompressed(name)
         return dec[off : off + size]
+
+    def _path_reps(self) -> bytes:
+        if self._path_reps_cache is None:
+            self._path_reps_cache = decompress_whole_bundle(self.ooz, self.index["path_reps_bundle"])
+        return self._path_reps_cache
+
+    def list_dir(self, dir_path: str):
+        return get_dir_content(dir_path, self._path_reps(), self.index["dirs_info"])
+
+    def iter_files(self, root: str):
+        """Recursively yield every file path (lowercased virtual path) under root."""
+        stack = [root]
+        while stack:
+            d = stack.pop()
+            try:
+                files, dirs = self.list_dir(d)
+            except KeyError:
+                continue
+            for f in files:
+                yield f
+            stack.extend(dirs)

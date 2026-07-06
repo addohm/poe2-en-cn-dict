@@ -11,7 +11,11 @@ dictionary/
 │  ├─ cn_to_en.json             Chinese → English   (best/most-frequent guess)
 │  ├─ en_to_cn.json             English → Chinese   (best/most-frequent guess)
 │  ├─ cn_to_en.multi.json       Chinese → [ {target, count}, ... ]  (ambiguous only)
-│  └─ en_to_cn.multi.json       English → [ {target, count}, ... ]  (ambiguous only)
+│  ├─ en_to_cn.multi.json       English → [ {target, count}, ... ]  (ambiguous only)
+│  ├─ stat_lines.json           mod-line templates (stat_ids, forms, options) ← see below
+│  ├─ trade_id_to_stat.json     GGG trade-stat hash → index into stat_lines.json
+│  ├─ stat_line_by_english.json normalized English mod line → Simplified-Chinese
+│  └─ stat_line_wrappers.json   compound-mod wrappers (rune "Bonded:", radius jewels)
 ├─ pairs.ndjson                 every translated string with full context
 └─ tables/<TableName>.json      per-table 1:1 entries, full fidelity
 ```
@@ -24,6 +28,8 @@ dictionary/
 | All valid translations of an ambiguous term | `lookup/*.multi.json` (fall back to the `best` file if a key is absent there) |
 | Translate *with* context (which table/column/id) | `pairs.ndjson` |
 | Everything about one data table (items, quests, mods…) | `tables/<TableName>.json` |
+| SC for an item **mod line** by GGG trade id | `lookup/trade_id_to_stat.json` → `lookup/stat_lines.json` |
+| SC for an item **mod line** by its English text | `lookup/stat_line_by_english.json` |
 
 ### Flat lookups (`lookup/*.json`)
 
@@ -99,6 +105,75 @@ Run metadata: `generatedAt`, `schemaVersion`, source install paths, language
 folder paths, and `stats` (entry/pair/term counts, ambiguity counts, and
 `enTermsVerifiedPct` — the share of English terms confirmed present verbatim in
 the international client). `perTableEntryCounts` lists entry counts per table.
+
+## Item mod lines (stat descriptions)
+
+`lookup/stat_lines.json` holds the display TEMPLATES for every mod line in the
+game — including non-tradeable ones (map/waystone, monster, socketable,
+mercenary, rune) that no trade API lists. It is parsed from GGG's stat-
+description files, reading the CN client so the Simplified Chinese is exactly
+what WeGame ships (never converted from Traditional Chinese).
+
+Each element is one description block:
+
+```json
+{
+  "stat_ids": ["local_all_attributes_+%_per_rune_or_soul_core"],
+  "stat_hash": "2513318031",
+  "forms": [
+    { "en": "{0}% increased Attributes per Socket filled", "zh": "每个镶嵌的插槽使属性提高 {0}%", "value_range": "1|#" },
+    { "en": "{0}% reduced Attributes per Socket filled",   "zh": "每个镶嵌的插槽使属性降低 {0}%", "value_range": "#|-1" }
+  ],
+  "options": [ { "en": "Small", "zh": "小型" } ]
+}
+```
+
+- **`stat_ids`** — the internal stat key(s) the block covers.
+- **`stat_hash`** — the number in a GGG trade id. `explicit.stat_2513318031`,
+  `implicit.stat_…`, `fractured.stat_…` all share this number; the prefix is
+  mod-context and is **not** part of the hash.
+- **`forms`** — every conditional template, INCLUDING the increased/reduced
+  split (positive `value_range` `1|#` vs negative `#|-1`). Placeholders keep
+  GGG's `{0}` / `{0:+d}` markers (the `:+d` encodes the leading `+`); the `%`
+  and surface form are preserved verbatim. `zh` is `null` if that form is
+  untranslated in the client.
+- **`value_range`** — the raw condition token(s), e.g. `#`, `1|#`, `#|-1`.
+- **`options`** — present only for inline enum stats (a value index → label
+  list, e.g. radius Small/Medium/Large), with each label in both languages.
+
+### Joining by GGG trade id
+
+```python
+import json
+stat_lines = json.load(open("dictionary/lookup/stat_lines.json", encoding="utf-8"))
+xwalk      = json.load(open("dictionary/lookup/trade_id_to_stat.json", encoding="utf-8"))
+
+def stat_for_trade_id(tid):           # tid e.g. "explicit.stat_2513318031"
+    h = tid.split("stat_")[-1]
+    i = xwalk.get(h)
+    return stat_lines[i] if i is not None else None
+```
+
+### Compound mods (rune "Bonded:", radius jewels)
+
+A few trade stats are **assembled by GGG's trade API** and have no id in the
+game files: rune `Bonded: <X>` lines and jewel `… Passive Skills in Radius also
+grant <X>` lines. Their inner stat `<X>` is a normal entry above; the wrapper
+text (with a `{0}` slot for the inner) is in `stat_line_wrappers.json`. For
+convenience these are pre-composed into **`stat_line_by_english.json`**, a flat
+`normalized-English → Simplified-Chinese` map (placeholders shown as trade-style
+`#`) that resolves any mod line — direct or compound — by its English text:
+
+```python
+by_en = json.load(open("dictionary/lookup/stat_line_by_english.json", encoding="utf-8"))
+by_en["Bonded: # to Level of all Lightning Skills"]     # -> "羁绊： 所有闪电技能等级 #"
+by_en["#% increased Magic Pack Size"]                    # -> "魔法怪物群大小提高 #%"
+```
+
+**Name-based mods** — a keystone shown by name ("Dance with Death") or a
+`Grants Skill: …` line resolve through the main name dictionary
+(`tables/PassiveSkills.json`, `tables/ActiveSkills.json`, the flat lookups),
+not through `stat_lines.json`.
 
 ## Notes for consumers
 

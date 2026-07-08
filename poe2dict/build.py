@@ -262,6 +262,12 @@ def build(cn_dir, intl_dir, schema_path, out_dir):
     print("\n==== stat-description lines ====")
     sl = build_stat_lines(cn, out_dir, schema)
     print(json.dumps(sl, ensure_ascii=False, indent=2))
+
+    # Additive: consumer-facing exports (reshape the output just written above).
+    print("\n==== consumer exports ====")
+    from .consumers import build_trade_helper
+    counts = build_trade_helper(out_dir)
+    print(json.dumps({"trade-helper": counts}, ensure_ascii=False, indent=2))
     return meta
 
 

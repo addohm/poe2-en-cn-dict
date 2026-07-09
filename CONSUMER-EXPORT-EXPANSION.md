@@ -40,17 +40,26 @@ Emit these NEW files (same compact-JSON, `{zh: en}` convention as the existing
 2. **`gem_tags.json`** — `tables/GemTags.json` (zh→en). Small.
 
 3. **`ui_terms.json`** — a curated CN→EN map of SHORT UI strings the trade site
-   shows as chrome/labels: buttons, tooltips, property labels, flag words, and
-   stat-filter group headers. Build it from `tables/ClientStrings.json` +
-   `ClientStrings2.json` (and any obviously-UI table), **filtered to short entries**
-   (e.g. ≤ 24 chars, no `\n`, no printf/`{}` placeholders) so it stays small and
-   collision-safe — this is replacing the userscript's hand-maintained CHROME map,
-   not shipping the full 87k-entry `cn_to_en`. Must include at least: `加载更多`,
-   `注销`, `用户协议`, `回到主页`, `使用协议及隐私提醒`, `类型`, `综合`, `外延`,
-   `状态组`, `加权求和`, `熔炉天赋树路径`, and the toolbar tooltips `清理过滤器组`,
-   `默认`, `紧凑`, `双栏紧凑`, `刷新`, `复制物品`, `按物品属性筛选`, `最大品质`.
-   If some of these aren't in ClientStrings, fall back to their `cn_to_en.json`
-   value (most are present there).
+   shows as chrome/labels: buttons, tooltips, **item property labels**, flag words,
+   and stat-filter group headers. Build it from `tables/ClientStrings.json` +
+   `ClientStrings2.json` + `KeywordPopups.json` + `CharacterPanelTabs.json` (and any
+   obviously-UI table), **filtered to short entries** (e.g. ≤ 24 chars, no `\n`, no
+   printf/`{}` placeholders) so it stays small and collision-safe — this is
+   replacing the userscript's hand-maintained CHROME map, not shipping the full
+   87k-entry `cn_to_en`. Must include at least:
+   - chrome/buttons/tooltips: `加载更多`, `注销`, `用户协议`, `回到主页`,
+     `使用协议及隐私提醒`, `账号`, `类型`, `清理过滤器组`, `默认`, `紧凑`,
+     `双栏紧凑`, `刷新`, `复制物品`, `按物品属性筛选`, `最大品质`, `联系方式选项`;
+   - stat-filter group headers: `综合`, `外延`, `状态组`, `加权求和`, `熔炉天赋树路径`;
+   - **item property labels** (rendered in result-card popups + the results footer
+     aggregate — these were the specific bug reports): `结界`→Ward, `符文结界`→Runic
+     Ward, `区域等级`, `试炼数量`, `基础百分比`, plus the standard property labels
+     already in the client (Armour/Energy Shield/Evasion/Ward/Quality/Item Level/…).
+   If some aren't in the UI tables, fall back to their `cn_to_en.json` value — but
+   NOT for ambiguous words (e.g. `恶魔`=Daemon/Demon): prefer the UI-table value, and
+   skip any term whose `cn_to_en.multi.json` shows multiple high-count variants
+   unless the UI table disambiguates it. (Property/label strings are almost always
+   unambiguous, so this mainly guards a few edge cases.)
 
 Update the export's `README.md` + `meta.json` counts, and the module docstring.
 Keep it all additive — do not change `items/uniques/skills/stat_lines/stat_by_hash`.
